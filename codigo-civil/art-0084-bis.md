@@ -1,0 +1,3 @@
+(ADICIONADO, P.O. 6 DE SEPTIEMBRE DE 2000)
+ARTICULO 84 BIS.- BASES DE LA FAMILIA MORELENSE. La familia Morelense es una agrupación natural que tiene su fundamento en una relación natural que tiene su fundamento en una relación, establece (sic) entre hombre y mujer y su plena realización en la filiación libre, consiente (sic), responsable e informada, aceptada y dirigida por la pareja.
+Los integrantes de la familia tienen derecho a que los demás miembros respeten su integridad física y psíquica, con objeto de contribuir a su sano desarrollo para su plena incorporación y participación en el núcleo social. Al efecto, contarán con la asistencia y protección de las instituciones públicas de acuerdo con las leyes.
