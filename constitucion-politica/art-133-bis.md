@@ -1,5 +1,5 @@
 (ADICIONADO, P.O. 1 DE SEPTIEMBRE DE 2000)
-CAPITULO XI.
+CAPITULO XI. (SIC)
 DE LA DECLARACION Y SITUACION PATRIMONIAL DE LOS SERVIDORES PUBLICOS.
 (ADICIONADO, P.O. 1 DE SEPTIEMBRE DE 2000)
 Artículo 133-BIS.- Tienen obligación de presentar declaraciones patrimoniales los integrantes de los Poderes Legislativo, Ejecutivo y Judicial, los miembros de los Ayuntamientos, los integrantes y funcionarios del Instituto Estatal Electoral, en los términos que disponga la ley de la materia.
