@@ -8,3 +8,4 @@ Salón de Sesiones del H. Congreso del Estado, a los quince días del mes de dic
 En cumplimiento de lo dispuesto por la fracción I del artículo 71 de la Constitución Política Local y para su publicación y observancia, promulgo la presente Ley en la residencia del Poder Ejecutivo del Estado, en la Ciudad de Cuernavasa (sic), Capital del Estado de Morelos, a los diecisiete días del mes de diciembre de mil novecientos treinta y dos.
 Sufragio Efectivo No Reelección.
 El Gobernador Const. del Estado, Vicente Estrada Cajigal.- El Secretario Gral. de Gobierno, Dip. Luis G. Campo.
+N. DE. E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.
