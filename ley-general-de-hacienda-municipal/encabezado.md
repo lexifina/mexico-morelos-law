@@ -1,0 +1,7 @@
+LEY GENERAL DE HACIENDA MUNICIPAL DEL ESTADO DE MORELOS 1984
+Ley publicada en la Sección Tercera del Periódico Oficial del Estado de Morelos, el miércoles 4 de enero de 1984.
+Al margen izquierdo un escudo nacional que dice: Estados Unidos Mexicanos.- Gobierno del Estado Libre y Soberano de Morelos.- Poder Ejecutivo.
+LAURO ORTEGA MARTINEZ, GOBERNADOR CONSTITUCIONAL DEL ESTADO LIBRE Y SOBERANO DE MORELOS, A SUS HABITANTES SABED:
+Que el H. Congreso del Estado se ha servido enviarme para su Promulgación lo siguiente:
+LA H. XLII LEGISLATURA CONSTITUCIONAL DEL ESTADO LIBRE Y SOBERANO DE MORELOS, EN USO DE LA FACULTAD QUE EXPRESAMENTE LE CONFIERE LA FRACCION II DEL ARTICULO 40, DE LA CONSTITUCION POLITICA DEL ESTADO, HA TENIDO A BIEN EXPEDIR:
+LEY GENERAL DE HACIENDA MUNICIPAL DEL ESTADO DE MORELOS 1984
