@@ -1,0 +1,17 @@
+LEY DE PREDIOS BALDIOS DEL ESTADO DE MORELOS
+Ley publicada en el Periódico Oficial del Estado de Morelos, el 7 de mayo de 1979.
+Al margen izquierdo un sello con el Escudo Nacional que dice: Gobierno del Estado Libre y Soberano de Morelos.- Estados Unidos Mexicanos.- Poder Ejecutivo.
+ARMANDO LEON BEJARANO VALADEZ, GOBERNADOR CONSTITUCIONAL DEL ESTADO LIBRE Y SOBERANO DE MORELOS A SUS HABITANTES SABED:
+Que el H. Congreso del Estado, se ha servido enviarme para su promulgación lo siguiente:
+LA HONORABLE CUADRAGESIMA LEGISLATURA CONSTITUCIONAL DEL ESTADO LIBRE Y SOBERANO DE MORELOS EN USO DE LA FACULTAD QUE LE CONCEDE LA FRACCION II DEL ARTICULO 40 DE LA CONSTITUCION POLITICA LOCAL, Y,
+C O N S I D E R A N D O :
+Que la fracción VI del Artículo 40 de la Constitución Política del Estado de Morelos prescribe en favor del Congreso del Estado la facultad de legislar sobre todo aquello que la Constitución Federal no encomiende expresamente al Congreso de la Unión.
+Que en las zonas urbanas de las principales ciudades del Estado de Morelos y, fundamentalmente en aquéllas que tienen una alta densidad de población, como lo son Cuernavaca y Cuautla, existe una multitud de terrenos baldíos los que han sido dejados en esas condiciones por la morosidad de sus propietarios y también con el propósito de especular con ellos al beneficiarse con la plusvalía y la propiedad urbana, sin realizar ninguna obra en beneficio de los inmuebles y de la zona urbana en la que están ubicados;
+Que las circunstancias señaladas en el párrafo anterior, producen como consecuencia inmediata y directas además del aspecto antiestético de la ciudad hacinamientos de basura, con el consecuente perjuicio para la salud, al provocar un considerable aumento de contaminación, origen de infecciones;
+Que en virtud de que los Ayuntamientos como órganos responsables del gobierno de los Municipios, tienen a su cargo los servicios públicos en favor de los habitantes y, entre ellos guardan un lugar muy importante, la recolección de la basura y el buen aspecto urbano a través de un sistema adecuado de construcciones y de colocación de bardas en los terrenos no habitados;
+Que, ante la circunstancia real de la existencia de múltiples terrenos baldíos, con las consecuencias expuestas, se hace necesario resolver este problema urbano y para ello, con las facultades de esta Legislatura, se considera prudente proporcionar el instrumento legal a las autoridades competentes en los municipios a fin de que combatan el problema y aporten soluciones en beneficio de los vecinos de las ciudades;
+Que para ello se expide una Ley que contiene una serie de disposiciones generales en las que se establece en primer lugar, una serie de normas generales relativas a los preceptos de la ley; después el señalamiento del concepto de los predios baldíos; seguido a ese aspecto, se determinan las obligaciones de los propietarios; se refieren después las facultades de los ayuntamientos cuando los propietarios no cumplan con sus obligaciones, estableciendo los medios adecuados para que las autoridades municipales resuelvan el problema; seguido este aspecto de las sanciones correspondientes y, finalmente disposiciones complementarias sencillas;
+En tal virtud esta Cuadragésima Legislatura del Estado Libre y Soberano de Morelos, expide la siguiente:
+LEY DE PREDIOS BALDIOS DEL ESTADO DE MORELOS.
+CAPITULO PRIMERO
+Disposiciones Generales.
