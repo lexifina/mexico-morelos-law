@@ -1,1 +1,0 @@
-Artículo Quinto.- El término constitucional de los Magistrados del Tribunal Superior de Justicia y de los Jueces de Primera Instancia designados conforme a los dos artículos anteriores, terminará el diecisiete de mayo de mil novecientos treinta y cuatro.

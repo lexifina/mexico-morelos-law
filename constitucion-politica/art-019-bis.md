@@ -2,7 +2,7 @@
 CAPITULO IV.
 DE LA PARTICIPACION CIUDADANA.
 (ADICIONADO, P.O. 1 DE OCTUBRE DE 1999)
-Artículo 19 bis.- Esta Constitución reconoce como medios de participación ciudadana al Plebiscito, al Referéndum y a la Iniciativa Popular.
+Artículo 19-BIS.- Esta Constitución reconoce como medios de participación ciudadana al Plebiscito, al Referéndum y a la Iniciativa Popular.
 I.- Se entiende por Plebiscito la consulta a los ciudadanos para que expresen su previa aprobación o rechazo a un acto o decisión del Poder Ejecutivo o de los Ayuntamientos, que sean considerados como trascendentes para la vida pública del Estado o de los Municipios.
 a) Podrán someterse a Plebiscito:
 (F. DE E., P. O. 24 DE NOVIEMBRE DE 1999)
@@ -14,10 +14,12 @@ b) No podrán someterse a Plebiscito los actos o decisiones del Ejecutivo del Es
 3.- Las demás que determine la propia Constitución.
 c) Podrán solicitar que se convoque a Plebiscito:
 1.- El titular del Poder Ejecutivo;
-2. El diez por ciento de los ciudadanos inscritos en el padrón electoral;
-(F. DE E., P. O. 24 DE NOVIEMBRE DE 1999)
-3. El Congreso del Estado, a solicitud de las dos terceras partes de sus integrantes; y
-4. Los Ayuntamientos, en el ámbito de su competencia.
+(REFORMADO, P.O. 1 DE SEPTIEMBRE DE 2000)
+2. El cinco por ciento de los ciudadanos inscritos en el padrón electoral;
+(REFORMADO, P.O. 1 DE SEPTIEMBRE DE 2000)
+3. El Congreso del Estado, a solicitud de uno de sus grupos parlamentarios; y
+(REFORMADO, P.O. 1 DE SEPTIEMBRE DE 2000)
+4. Los Ayuntamientos por mayoría simple de sus integrantes, en el ámbito de su competencia.
 II.- Se entiende por Referéndum, el proceso mediante el cual los ciudadanos morelenses, manifiestan su aprobación o rechazo a las reformas, adiciones o derogaciones a la Constitución Política del Estado, a las leyes que expida el Congreso del Estado o a los reglamentos y bandos que emitan los Ayuntamientos.
 a) El Referéndum no procederá cuando se trate de:
 1.- Leyes o disposiciones de carácter tributario o fiscal;
@@ -29,21 +31,28 @@ a) El Referéndum no procederá cuando se trate de:
 7.- Las demás que determine la propia Constitución.
 b) El Referéndum podrá ser promovido por:
 1.- El Titular del Poder Ejecutivo;
-2.- El quince por ciento de los ciudadanos inscritos en el Padrón Electoral, en tratándose de la Constitución Política Estatal; el diez por ciento en tratándose de leyes estatales y reglamentos municipales;
-(F. DE E., P. O. 24 DE NOVIEMBRE DE 1999)
-3.- El Congreso del Estado, a solicitud de las dos terceras partes de sus integrantes;
-4.- Los Ayuntamientos, en el ámbito de su competencia.
-Para que tengan validez los procesos de Plebiscito y Referéndum deberán contar con el voto de cuando menos el treinta por ciento de los ciudadanos inscritos en el Padrón Electoral.
-III.- La Iniciativa Popular es el medio por el cual los ciudadanos del Estado de Morelos podrán presentar al Congreso del Estado o a los Ayuntamientos, proyectos de creación, reforma, adición, derogación o abrogación de leyes o reglamentos respecto de materias de su competencia y que corresponda a éstos expedir.
-La Iniciativa Popular deberá ser promovida por el veinte por ciento de los ciudadanos inscritos en el Padrón Electoral del Estado o del Municipio, según sea el caso.
+(REFORMADO, P.O. 1 DE SEPTIEMBRE DE 2000)
+2.- El diez por ciento de los ciudadanos inscritos en el padrón electoral, tratándose de la Constitución Política del Estado y fuera de los casos previstos en el inciso a) de esta fracción; y el cinco por ciento tratándose de leyes estatales y reglamentos municipales;
+(REFORMADO, P.O. 1 DE SEPTIEMBRE DE 2000)
+3.- El Congreso del Estado, a solicitud de un grupo parlamentario; y
+(REFORMADO, P.O. 1 DE SEPTIEMBRE DE 2000)
+4.- La mayoría de los integrantes del Ayuntamiento, en el ámbito de su competencia.
+(REFORMADO, P.O. 1 DE SEPTIEMBRE DE 2000)
+Para que tengan validez los procesos de Plebiscito y Referéndum deberán contar con el voto de cuando menos el quince por ciento de los ciudadanos inscritos en el Padrón Electoral.
+(REFORMADA, P.O. 1 DE SEPTIEMBRE DE 2000)
+III.- La iniciativa popular es el medio por el cual, los ciudadanos del Estado de Morelos podrán presentar al Congreso del Estado, al titular del Poder Ejecutivo o a los Ayuntamientos; en el primer caso, proyectos de modificación a la Constitución Política del Estado en los casos establecidos en este artículo, así como de leyes o decretos para la creación, reforma, adición, derogación o abrogación de disposiciones normativas en el ámbito estatal; en los dos últimos casos, para la presentación de proyectos que creen, reformen, adicionen, deroguen o abroguen decretos, acuerdos, reglamentos y demás disposiciones gubernativas en las materias de su respectiva competencia. En todos los casos la autoridad ante la que se promueva la iniciativa popular, estará obligada invariablemente a dar respuesta a los solicitantes, en un plazo no mayor de sesenta días hábiles, contados a partir de la recepción de la iniciativa.
+(REFORMADO, P.O. 1 DE SEPTIEMBRE DE 2000)
+La iniciativa popular deberá ser suscrita por al menos el tres por ciento de los ciudadanos inscritos en el padrón electoral del Estado o el diez por ciento del padrón electoral que corresponda al Municipio, según sea el caso.
 No podrán ser objeto de Iniciativa Popular las materias señaladas por esta Constitución para el caso de improcedencia del Referéndum.
 El Instituto Estatal Electoral y el Consejo de Participación Ciudadana serán los organismos encargados de preparar, desarrollar, vigilar y calificar los procesos de Referéndum y Plebiscito que les sean solicitados de conformidad con la presente Constitución y la Ley de la Materia.
 El Consejo es el organismo encargado de calificar la procedencia o improcedencia de las solicitudes de Plebiscito o Referéndum que se presenten. Para llevar a cabo los procesos de Referéndum y Plebiscito, el Consejo de Participación Ciudadana coadyuvará con el Instituto Estatal Electoral.
 Corresponde al Instituto Estatal Electoral hacerse cargo del desarrollo operativo de los procesos de Plebiscito y Referéndum.
 El Consejo Estatal de Participación Ciudadana se instalará expresamente para llevar a cabo los procesos de Plebiscito y Referéndum, estará conformado de la siguiente manera:
-a). El Secretario General de Gobierno;
+(REFORMADO, P.O. 1 DE SEPTIEMBRE DE 2000)
+a). El Secretario de Gobierno;
 b).Un Diputado por Grupo o Fracción Parlamentaria que integren el Congreso del Estado;
-c). Tres ciudadanos de reconocido prestigio y solvencia moral, designados por el Congreso del Estado o la Diputación Permanente, a propuesta del Titular del Poder Ejecutivo, de al menos el triple de éstos, mismos que durarán en su cargo tres años, pudiendo ser reelectos hasta por otro período igual; y
+(REFORMADO, P.O. 1 DE SEPTIEMBRE DE 2000)
+c). Tres ciudadanos de reconocido prestigio y solvencia moral, designados por las dos terceras partes de los integrantes el (sic) Congreso del Estado, a propuesta de la Comisión de Régimen Interno y Concertación Política, mismos que durarán en su cargo tres años, pudiendo ser reelectos hasta por otro periodo igual; y
 d).Un Secretario de actas, propuesto por los miembros del propio Consejo, con voz, pero sin voto.
 Cada uno de los integrantes del Consejo de Participación Ciudadana tendrá un suplente.
 En la sesión de instalación el Consejo de Participación Ciudadana elegirá a su Presidente, por el voto de las dos terceras partes de sus integrantes.
