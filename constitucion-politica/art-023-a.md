@@ -1,0 +1,6 @@
+(ADICIONADO CON EL ARTICULO QUE LO INTEGRA, P.O. 11 DE AGOSTO DE 2003)
+CAPITULO III.
+DE LOS ORGANOS CONSTITUCIONALES AUTONOMOS.
+(ADICIONADO, P.O. 11 DE AGOSTO DE 2003)
+Artículo 23-A.- El Congreso del Estado establecerá un organismo autónomo para tutelar el derecho de acceso a la información pública de todas las personas, proteger los datos personales y realizar estadísticas, sondeos y encuestas imparciales que coadyuven al cumplimiento de las funciones de los poderes públicos y al desarrollo democrático del Estado, denominado Instituto Morelense de Información Pública y Estadísticas. El Instituto será el encargado de aplicar la ley de la materia y sus resoluciones serán acatadas por las entidades y dependencias públicas del Estado, y por toda persona que reciba, maneje, aplique o participe en el ejercicio de recursos públicos o privados, siempre que estos se destinen a actividades relacionadas con la función pública.
+Los ciudadanos que sean designados como integrantes del Instituto a que se refiere el párrafo anterior, deberán reunir los requisitos que señale la ley, pero en todo caso se velará que no tengan compromisos o simpatías por cualquier partido político o vínculos con el gobierno, quedando excluidos de este último requisito el servicio profesional que se preste en cualquier institución educativa o de investigación de cualquier área pública.
