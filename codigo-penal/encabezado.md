@@ -1,5 +1,4 @@
 CODIGO PENAL PARA EL ESTADO DE MORELOS
-[N. DE E. LA FE DE ERRATAS PUBLICADA EN EL P.O. EL 16 DE MAYO DE 2001 NO APLICA AL ARTICULADO DEL DECRETO 1221 PUBLICADO EN EL P.O. DEL 18 DE OCTUBRE DE 2000.]
 Código publicado en la Sección Segunda del Periódico Oficial del Estado de Morelos, el miércoles 9 de octubre de 1996.
 Al margen izquierdo un Escudo Nacional que dice: Estados Unidos Mexicanos.- Gobierno del Estado Libre y Soberano de Morelos.- Poder Ejecutivo.
 JORGE CARRILLO OLEA, GOBERNADOR DEL ESTADO LIBRE Y SOBERANO DE MORELOS, A SU (SIC) HABITANTES SABED.
