@@ -1,0 +1,1 @@
+ARTICULO SEGUNDO.- Se abroga a la Ley que creó el Instituto de Seguridad y Servicios Sociales de los Trabajadores del Estado de Morelos, publicada en el Periódico Oficial del Gobierno del Estado Número 2994, de fecha 31 de diciembre de 1980.

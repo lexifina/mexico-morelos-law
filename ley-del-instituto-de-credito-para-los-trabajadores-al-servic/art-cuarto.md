@@ -1,0 +1,1 @@
+ARTICULO CUARTO.- Todos los muebles e inmuebles propiedad del Instituto de Seguridad, y Servicios Sociales de los Trabajadores del Estado de Morelos, pasarán a formar parte del Patrimonio del Instituto de Crédito para los Trabajadores al Servicio del Gobierno del Estado.
