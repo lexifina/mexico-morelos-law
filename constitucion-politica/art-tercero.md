@@ -1,0 +1,1 @@
+Artículo Tercero.- Dentro de los treinta días siguientes al señalado para que esta Constitución entre en vigor, el Congreso del Estado deberá erigirse en Colegio Electoral, para la elección de Magistrados del Tribunal Superior de Justicia en los términos de los artículos 40, fracción XXXVI, y 70, fracción VI, de esta misma Constitución.

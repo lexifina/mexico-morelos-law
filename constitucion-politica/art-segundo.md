@@ -1,0 +1,1 @@
+Artículo Segundo.- El actual Congreso del Estado, por esta sola vez, comenzará su segundo período de sesiones ordinarias el día de la promulgación de la presente Constitución, y terminará el treinta y uno de diciembre del año actual.

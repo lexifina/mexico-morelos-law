@@ -1,0 +1,4 @@
+(ADICIONADO, P.O. 29 DE DICIEMBRE DE 1983)
+Artículo 85-B.- En el caso de conurbación en la que participe el Estado de Morelos con una o más Entidades Federativas, la Federación, y los Municipios circunvecinos, en el ámbito de sus competencias, planearán y regularán de manera conjunta y coordinada el desarrollo de los centros urbanos, con apego en la Ley Federal de la Materia y en la declaratoria correspondiente, emitida por el Ejecutivo Federal.
+El fenómeno de conurbación interestatal se presenta cuando dos o más centros urbanos situados en territorios municipales de dos o más Entidades Federativas, formen o tiendan a formar una continuidad demográfica.
+El fenómeno de conurbación intermunicipal, se presenta cuando dos o más centros urbanos formen o tiendan a formar una unidad demográfica, económica y social entre dos o más Municipios del Estado.

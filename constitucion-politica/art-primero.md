@@ -1,0 +1,2 @@
+Artículo Primero.- Esta Constitución se publicará por bando solemne en la Capital del Estado y en las Cabeceras de los Municipios, el día veinte del mes de noviembre, y entrará en vigor inmediatamente.
+Todos los empleados y funcionarios públicos otorgarán la protesta respectiva, de acuerdo con las prevenciones y requisitos que establece la presente Constitución, antes del primero de enero de mil novecientos treinta y uno.
