@@ -1,4 +1,0 @@
-P.O. 15 DE NOVIEMBRE DE 1989.
-ARTICULO PRIMERO.- Este decreto iniciará su vigencia a partir del día siguiente de su publicación en el periódico oficial "Tierra y Libertad", órgano del gobierno del Estado.
-ARTICULO SEGUNDO.- Para dar cumplimiento a lo que establece el artículo 147 de la Constitución Política del Estado, remítase el presente decreto, con los debates que hubiere provocado, a los ayuntamientos de nuestra entidad federativa para su discusión.
-ARTICULO TERCERO.- Una vez hecho el cómputo de los votos de los Ayuntamientos y la declaración de haber sido aprobada la adición al artículo 40, de conformidad con lo que señala el artículo 148 de la constitución local, remítase al ejecutivo del Estado el presente decreto, para los efectos a que hace referencia la fracción XVII del artículo 70 de la Constitución Política del Estado.
