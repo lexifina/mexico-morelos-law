@@ -1,0 +1,1 @@
+Artículo Cuarto.- Dentro del término de sesenta días, a partir de la fecha en que quede instalado el Tribunal Superior de Justicia, éste deberá hacer la designación de Jueces de Primera Instancia, conforme a la facultad que le confiere el artículo 99, fracción IX, de esta Constitución.

@@ -20,6 +20,8 @@ c) Podrán solicitar que se convoque a Plebiscito:
 3. El Congreso del Estado, a solicitud de uno de sus grupos parlamentarios; y
 (REFORMADO, P.O. 1 DE SEPTIEMBRE DE 2000)
 4. Los Ayuntamientos por mayoría simple de sus integrantes, en el ámbito de su competencia.
+(ADICIONADO, P.O. 1 DE SEPTIEMBRE DE 2000)
+Realizado que sea el plebiscito establecido en esta Constitución, si este fuere aprobado por la proporción de los ciudadanos establecida, el acto o la decisión del Poder Ejecutivo o de los Ayuntamientos, será valida y en su caso, continuará el procedimiento respectivo para perfeccionarla; de no aprobarse, el acto o decisión deberá interrumpirse, sea para no continuarlo y extinguirlo por el medio legal correspondiente, incluyendo su revocación.
 II.- Se entiende por Referéndum, el proceso mediante el cual los ciudadanos morelenses, manifiestan su aprobación o rechazo a las reformas, adiciones o derogaciones a la Constitución Política del Estado, a las leyes que expida el Congreso del Estado o a los reglamentos y bandos que emitan los Ayuntamientos.
 a) El Referéndum no procederá cuando se trate de:
 1.- Leyes o disposiciones de carácter tributario o fiscal;
@@ -39,6 +41,8 @@ b) El Referéndum podrá ser promovido por:
 4.- La mayoría de los integrantes del Ayuntamiento, en el ámbito de su competencia.
 (REFORMADO, P.O. 1 DE SEPTIEMBRE DE 2000)
 Para que tengan validez los procesos de Plebiscito y Referéndum deberán contar con el voto de cuando menos el quince por ciento de los ciudadanos inscritos en el Padrón Electoral.
+(ADICIONADO, P.O. 1 DE SEPTIEMBRE DE 2000)
+El referéndum deberá realizarse hasta antes de la publicación e inicio de vigencia de cualquier reforma, adición o derogación a la Constitución Política del Estado de Morelos y a las leyes, decretos o acuerdos que expida el Congreso del Estado y a los acuerdos, reglamentos y demás disposiciones gubernativas que expida el Poder Ejecutivo del Estado o los Ayuntamientos, incluyendo los que sean de nueva creación; si la proporción de los ciudadanos requerida en esta Constitución manifiesta su consentimiento, el trámite administrativo o el proceso legislativo continuarán de manera legítima; en el caso de no aprobarse, el trámite administrativo o el proceso legislativo se extinguirá.
 (REFORMADA, P.O. 1 DE SEPTIEMBRE DE 2000)
 III.- La iniciativa popular es el medio por el cual, los ciudadanos del Estado de Morelos podrán presentar al Congreso del Estado, al titular del Poder Ejecutivo o a los Ayuntamientos; en el primer caso, proyectos de modificación a la Constitución Política del Estado en los casos establecidos en este artículo, así como de leyes o decretos para la creación, reforma, adición, derogación o abrogación de disposiciones normativas en el ámbito estatal; en los dos últimos casos, para la presentación de proyectos que creen, reformen, adicionen, deroguen o abroguen decretos, acuerdos, reglamentos y demás disposiciones gubernativas en las materias de su respectiva competencia. En todos los casos la autoridad ante la que se promueva la iniciativa popular, estará obligada invariablemente a dar respuesta a los solicitantes, en un plazo no mayor de sesenta días hábiles, contados a partir de la recepción de la iniciativa.
 (REFORMADO, P.O. 1 DE SEPTIEMBRE DE 2000)
@@ -56,3 +60,5 @@ c). Tres ciudadanos de reconocido prestigio y solvencia moral, designados por la
 d).Un Secretario de actas, propuesto por los miembros del propio Consejo, con voz, pero sin voto.
 Cada uno de los integrantes del Consejo de Participación Ciudadana tendrá un suplente.
 En la sesión de instalación el Consejo de Participación Ciudadana elegirá a su Presidente, por el voto de las dos terceras partes de sus integrantes.
+(ADICIONADO, P.O. 1 DE SEPTIEMBRE DE 2000)
+El Congreso del Estado deberá expedir la Ley que regule el Consejo de Participación Ciudadana y su vinculación con el Instituto Estatal Electoral, determinando el o los procedimientos, los tiempos y la estructura orgánica que se autorice en la instrumentación de las formas de participación ciudadana establecidas en este Artículo. En ningún caso la ausencia de texto normativo impedirá que se ejerzan los derechos de los ciudadanos.

@@ -1,0 +1,9 @@
+P.O. 1 DE SEPTIEMBRE DE 2000.
+DECRETO NUMERO 1235
+PRIMERO.- El presente Decreto de reformas y adiciones a diversas disposiciones de la Constitución Política del Estado Libre y Soberano de Morelos, iniciará su vigencia, previa aprobación del Constituyente Permanente, a partir del día en que el Congreso del Estado haga el cómputo de los Ayuntamientos, siempre que resulte favorable, emitirán también la declaratoria correspondiente, el Decreto será publicado en el Periódico Oficial "Tierra y Libertad" órgano de difusión del Gobierno del Estado de Morelos.
+(F. DE E., 29 DE NOVIEMBRE DE 2000)
+SEGUNDO.- El Congreso del Estado, aprobado que fuere el presente Decreto por el Constituyente Permanente y previa publicación respectiva e inicio de su vigencia, procederá, a la reforma y adecuaciones necesarias a la Ley Estatal de Planeación, a la Ley de Presupuesto, Contabilidad y Gasto Público del Estado de Morelos, Ley de Responsabilidades de los Servidores Públicos del Estado de Morelos, a la Ley Orgánica de la Administración Pública del Estado de Morelos, Ley Orgánica del Poder Judicial, Ley de Justicia Administrativa del Estado de Morelos, Ley Orgánica Municipal del Estado de Morelos, al Código Electoral para el Estado de Morelos, y a los demás ordenamientos que resulten necesarios, así como aquellos de nueva creación en los términos de este Decreto.
+TERCERO.- Se derogan todas las disposiciones jurídicas que se opongan al presente Decreto.
+CUARTO.- El Congreso del Estado deberá expedir la Ley o Decreto de Ley, que regule el funcionamiento del Instituto de Desarrollo y Fortalecimiento Municipal, en un término no mayor de sesenta días, contados a partir de la iniciación de la vigencia del presente Decreto.
+(F. DE E., 29 DE NOVIEMBRE DE 2000)
+QUINTO.- Las disposiciones contenidas en el artículo 19-bis, en su apartado de adición, iniciará su vigencia el día primero de octubre del año dos mil.

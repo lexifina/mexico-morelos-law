@@ -4,8 +4,8 @@ DE LA PROCURADURIA GENERAL DE JUSTICIA.
 (REFORMADO PRIMER PARRAFO, P.O. 28 DE AGOSTO DE 1998)
 Artículo 79-A.- El Ministerio Público tiene las atribuciones fundamentales siguientes:
 I.- Vigilar y procurar el exacto cumplimiento de la Ley y el respeto a las garantías individuales en todos los asuntos en que intervenga, interponiendo los recursos que fueren procedentes con arreglo a la Ley e intervenir en cuanto corresponda para que la administración de justicia sea pronta y expedita.
-(REFORMADA, P.O. 28 DE AGOSTO DE 1998)
-II.- Perseguir ante los Tribunales del orden común los delitos; en consecuencia, a él corresponderá recibir las denuncias, acusaciones o querellas tanto de las autoridades como de los particulares, practicar desde luego, las diligencias de carácter urgente, que no fueren de la exclusiva competencia de las autoridades judiciales, buscar y presentar las pruebas que acrediten los elementos del tipo penal del delito de que se trate, así como las que acrediten la probable responsabilidad de los inculpados.
+(REFORMADA, P.O. 1 DE SEPTIEMBRE DE 2000)
+II.- Perseguir ante los Tribunales del orden común los delitos; en consecuencia, a él corresponderá recibir las denuncias, acusaciones o querellas tanto de las autoridades como de los particulares, practicar desde luego, las diligencias de carácter urgente, que no fueren de la exclusiva competencia de las autoridades judiciales, buscar y presentar las pruebas que acrediten los elementos del cuerpo del delito de que se trate, así como las que acrediten la probable responsabilidad de los inculpados;
 (REFORMADA, P.O. 28 DE AGOSTO DE 1998)
 III.- Ejercitar acción penal en contra de los probables responsables del delito ante los Tribunales competentes, solicitando las órdenes de aprehensión que procedan con arreglo a la ley.
 (REFORMADA, P.O. 28 DE AGOSTO DE 1998)

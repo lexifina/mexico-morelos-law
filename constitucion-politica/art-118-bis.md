@@ -1,2 +1,14 @@
-(ADICIONADO, P.O. 29 DE DICIEMBRE DE 1983)
-Artículo 118-BIS.- Los Ayuntamientos expedirán los reglamentos y disposiciones administrativas necesarios para el buen desarrollo de las funciones que establece la Fracción XI del Artículo 115 de esta Constitución.
+(ADICIONADO CON EL ARTICULO QUE LO INTEGRA, P.O. 1 DE SEPTIEMBRE DE 2000)
+CAPITULO IX.
+DEL INSTITUTO DE DESARROLLO Y FORTALECIMIENTO MUNICIPAL.
+(REFORMADO, P.O. 1 DE SEPTIEMBRE DE 2000)
+Artículo 118-BIS.- Con el fin de brindar asesoría técnica y jurídica en las materias que por mandato constitucional están a cargo de los Ayuntamientos, se crea el Instituto de Desarrollo y Fortalecimiento Municipal, como un organismo público descentralizado, con personalidad jurídica y patrimonio propios.
+Dicho Instituto tendrá, entre otras, las siguientes atribuciones:
+I.- Proporcionar asesoría y asistencia técnica a los Municipios que lo soliciten.
+II.- Brindar capacitación permanente a los miembros de los Ayuntamientos que así lo demanden; con el fin de impulsar el servicio civil en el ámbito municipal.
+III.- Proporcionar asistencia técnica en materias administrativa, de planeación y de hacienda en las áreas en que estas materias sean competencia de los Ayuntamientos.
+IV.- Coadyuvar con los Ayuntamientos en la formulación de proyectos de carácter reglamentario o en manuales administrativos, que busquen la organización óptima de la administración pública municipal; y
+V.- Las demás que acuerde la Junta de Gobierno.
+El Instituto contará con una Junta de Gobierno, la cual estará integrada por los Presidentes Municipales de la entidad o quienes ellos designen.
+El Instituto de Desarrollo y Fortalecimiento Municipal estará a cargo de un Director General, que será designado por la Junta de Gobierno y durará en su cargo tres años, pudiendo ser reelecto para un período más; asimismo, a las reuniones de la Junta de Gobierno asistirá el Director General, quien tendrá voz, pero no voto.
+El Congreso del Estado expedirá la Ley o Decreto de Ley respectiva, en la que se determinarán la estructura orgánica básica del Instituto y sus atribuciones; por ningún motivo el Instituto estará sectorizado o integrado a los Poderes Públicos del Estado.
