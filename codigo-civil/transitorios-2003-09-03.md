@@ -1,4 +1,5 @@
 P.O. 3 DE SEPTIEMBRE DE 2003.
+DECRETO NO. 1044 QUE REFORMA ARTICULO SEGUNDO TRANSITORIO
 ARTÍCULO PRIMERO.- Remítase el presente Decreto al Titular del Poder Ejecutivo del Estado de Morelos para los efectos Constitucionales a que haya lugar.
 ARTÍCULO SEGUNDO.- El presente Decreto iniciará su vigencia al día siguiente de su publicación oficial en el Periódico Oficial "Tierra y Libertad", órgano informativo del Gobierno del Estado de Morelos.
 ARTÍCULO TERCERO.- Se exhorta al Titular del Poder Ejecutivo del Estado de Morelos para implementar las acciones necesarias a efecto de hacer del conocimiento de la sociedad morelense el programa respectivo con el fin de que se cumpla con él.
