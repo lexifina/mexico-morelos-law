@@ -1,0 +1,1 @@
+ARTICULO TERCERO.- La Comisión de Estudio y Dictamen de Antecedentes Revolucionarios, deberá integrarse de conformidad con lo dispuesto en el Artículo 5o. de la presente Ley, en un plazo de diez días a partir de la fecha en que entre en vigor.

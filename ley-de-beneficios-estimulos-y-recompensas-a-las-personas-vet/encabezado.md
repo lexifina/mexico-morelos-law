@@ -1,0 +1,11 @@
+LEY DE BENEFICIOS, ESTIMULOS Y RECOMPENSAS A LOS VETERANOS DE LA REVOLUCION EN EL ESTADO DE MORELOS
+Ley publicada en el Periódico Oficial del Estado de Morelos, el 6 de noviembre de 1974.
+FELIPE RIVERA CRESPO, GOBERNADOR CONSTITUCIONAL DEL ESTADO LIBRE Y SOBERANO DE MORELOS A SUS HABITANTES SABED:
+El H. Congreso del Estado se ha servido enviarme para su promulgación lo siguiente:
+"LA HONORABLE TRIGESIMA NOVENA LEGISLATURA CONSTITUCIONAL DEL ESTADO LIBRE Y SOBERANO DE MORELOS, EN USO DE LA FACULTAD QUE EXPRESAMENTE LE CONFIERE LA FRACCION II, DEL ARTICULO 40 DE LA CONSTITUCION POLITICA LOCAL, Y,
+C O N S I D E R A N D O :
+Que los hombres del Estado de Morelos tuvieron una destacada actuación durante el período violento y trágico de la Revolución Mexicana que comprende de noviembre de 1910 a mayo de 1920, militando en las filas del glorioso Ejército Libertador del Sur, acaudillado por el General Emiliano Zapata Salazar;
+Que no obstante el triunfo de la Revolución Mexicana y el sorprendente desarrollo económico y social del País y del Estado, un grupo numeroso de excombatientes, Veteranos de la Revolución del Sur, que lucharon denodadamente porque la tierra volviera a quienes la trabajan con sus manos, porque el imperio de la libertad y de la justicia se entronizara en la Revolución Mexicana; hoy viven marginados, imposibilitados físicamente para alquilar o vender su fuerza de trabajo, y atraviesan por una situación económica muy precaria;
+Que el Gobierno Revolucionario del Estado de Morelos no puede permanecer indiferente ante la situación crítica en la que están varios Veteranos de la Revolución, sino por el contrario, poner su interés por solucionar, en la medida de sus posibilidades, los problemas que afectan a los combatientes;
+Por ello y considerando que es indispensable actualizar y dar mayor agilidad a la Ley correspondiente hasta hoy vigente, a fin de prestar una ayuda más efectiva a los Veteranos de la Revolución que comprueben su participación en el movimiento armado de México; determinando qué estímulos, beneficios y recompensas habrá de proporcionárseles, este H. Congreso ha tenido a bien expedir la siguiente:
+LEY DE BENEFICIOS, ESTIMULOS Y RECOMPENSAS A LOS VETERANOS DE LA REVOLUCION EN EL ESTADO DE MORELOS.
