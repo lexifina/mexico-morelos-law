@@ -1,0 +1,4 @@
+P.O. 31 DE ENERO DE 1937.
+Primero.- Para integrar el Consejo Municipal respectivo en el nuevo Municipio de Tetela del Volcán, Morelos, quedan nombrados los ciudadanos Faustino Montero, Trinidad Ariza y Emilio Canizal, con el carácter de Regidores Propietarios, y los ciudadanos Gil Aguilar, J. Guadalupe Jiménez y Agustín Pérez, como Regidores Suplentes.
+Segundo.- Los ciudadanos designados como Regidores para integrar el H. Consejo Municipal relativo, tomarán posesión de sus cargos el día siguiente a la fecha de la publicación del presente Decreto en el Periódico Oficial del Estado.
+Tercero.- Se convoca a Elecciones Extraordinarias en el Municipio de Tetela del Volcán, Morelos, las que se sujetarán a los términos y plazos que marca la Ley Electoral Municipal vigente y sus reformas, para las Elecciones Ordinarias, contándose desde la fecha en que empiece a funcionar el H. Concejo Municipal designado.
