@@ -1,0 +1,3 @@
+(ADICIONADO, P.O. 17 DE NOVIEMBRE DE 1999)
+ARTICULO 94 BIS-9.- Cuando la adquisición de bienes inmuebles se produzca por resoluciones de autoridades no ubicadas en el Estado de Morelos, el pago del impuesto se hará dentro de los veinte días hábiles siguientes a la fecha en que se haya formalizado la adquisición ante fedatario.
+Cuando dicha adquisición opere en virtud de actos y contratos celebrados fuera del territorio de la República Mexicana, o bien a través de resoluciones dictadas por autoridades extranjeras, el impuesto deberá ser cubierto dentro del plazo de noventa días hábiles, contados a partir de la fecha en que surtan sus efectos en la República Mexicana.

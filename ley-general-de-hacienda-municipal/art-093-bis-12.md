@@ -1,0 +1,2 @@
+(ADICIONADO, P.O. 17 DE NOVIEMBRE DE 1999) (F. DE E., P.O. 1 DE DICIEMBRE DE 1999)
+ARTICULO 93 BIS-12.- Los jueces, notarios, corredores públicos, las oficinas públicas, las empresas fraccionadoras y los particulares están obligados a proporcionar a la autoridad hacendaria municipal, dentro de un plazo de quince días hábiles, los datos relativos a los cambios que sufra la propiedad o posesión en virtud de los actos o contratos en que hayan intervenido.
