@@ -1,0 +1,9 @@
+(ADICIONADO, P.O. 13 DE SEPTIEMBRE DE 2000)
+ARTICULO 242-Bis.- Son delitos para los efectos de la presente Ley, los siguientes:
+I. Emitir contaminantes peligrosos, incendiar o provocar explosiones que deterioren la atmósfera o que provoquen o puedan provocar daños a la salud pública, la flora, la fauna o los ecosistemas;
+II. Descargar, depositar o infiltrar contaminantes en los suelos o subsuelos, que provoquen o puedan provocar daños graves a la salud pública, la flora, la fauna o los ecosistemas;
+III. Descargar sin previo tratamiento, en los ríos, cuencas, vasos o demás depósitos de agua de jurisdicción local, incluyendo los sistemas de abastecimiento de agua o infiltre, en suelos o subsuelos, aguas residuales, desechos o contaminantes que causen o pueden causar daños graves a la salud pública, la flora, la fauna o a los ecosistemas;
+IV. Generar emisiones de energía térmica, ruido o vibraciones, que ocasionen daños graves a la salud pública, la flora, la fauna o los ecosistemas;
+V. Fabricar, almacenar, comercializar, transportar, importar o disponer sustancias o materiales contaminantes sin la autorización correspondiente que provoquen o puedan provocar daños graves a la salud pública, la flora, la fauna a los ecosistemas; y,
+VI. Realizar cualquier tipo de aprovechamiento de recursos naturales dentro de las áreas naturales protegidas de interés estatal, sin la autorización correspondiente.
+A quien por acción u omisión culposa cometa alguna de las conductas a que se refiere el presente artículo, se le impondrá pena de tres días a tres años de prisión y multa por el equivalente de cincuenta a cinco mil días de salario mínimo general vigente en el Estado de Morelos. Se impondrá pena de tres a ocho años de prisión y multa por el equivalente de quinientos a veinte mil días de salario mínimo general vigente en el Estado de Morelos, al que los cometa en forma dolosa.
