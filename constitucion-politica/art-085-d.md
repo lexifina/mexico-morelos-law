@@ -1,5 +1,5 @@
-(ADICIONADO CON EL ARTICULO QUE LO INTEGRA, P.O. 3 DE JUNIO DE 1992)
+(REFORMADA SU DENOMINACION, P.O. 22 DE MARZO DE 1995)
 CAPITULO VII.
-DE LA PROCURADURIA ECOLOGICA.
-(ADICIONADO, P.O. 3 DE JUNIO DE 1992)
-Artículo 85-D.- La conservación del patrimonio natural de la Entidad, la protección del ambiente y la preservación y restauración del equilibrio ecológico a que tienen derecho los habitantes del Estado, estarán encomendadas a la Procuraduría Ecológica.
+DE LA PROTECCION DEL AMBIENTE Y DEL EQUILIBRIO ECOLOGICO.
+(REFORMADO, P.O. 22 DE MARZO DE 1995)
+Artículo 85-D.- El Ejecutivo garantizará la conservación del patrimonio natural de la Entidad, la protección del ambiente y la preservación y restauración del equilibrio ecológico a que tienen derecho los habitantes del Estado.
