@@ -1,0 +1,6 @@
+P.O. 28 DE AGOSTO DE 1998.
+PRIMERO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "Tierra y Libertad", órgano de difusión oficial del Gobierno del Estado.
+SEGUNDO.- Se derogan todas las disposiciones que se opongan al presente Decreto.
+TERCERO.- Por esta única vez el Gobernador del Estado en un plazo de 10 días hábiles contados a partir de que inicie su vigencia el presente Decreto, presentará al Congreso del Estado una terna de ciudadanos para que éste designe al Procurador General de Justicia.
+CUARTO.- Se concede un plazo máximo de 6 meses al Ejecutivo del Estado para que revise, elabore o proponga al Congreso del Estado, las modificaciones que resulten convenientes a la normatividad Estatal, por las reformas a que se refiere el presente Decreto; en tanto se expidan dichas modificaciones, el Procurador General de Justicia continuará ejerciendo las atribuciones y responsabilidades que la ley le señale como representante del interés del Estado y como consejero jurídico del Poder Ejecutivo.
+QUINTO.- Se autoriza al Ejecutivo del Estado para que realice las transferencias y adecuaciones presupuestales necesarias, así como los relativos a los recursos humanos y materiales convenientes, para el eficaz cumplimiento de las reformas a que se refiere el presente Decreto.
