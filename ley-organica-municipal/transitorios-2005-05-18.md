@@ -1,0 +1,4 @@
+P.O. 18 DE MAYO DE 2005.
+PRIMERO.- Remítase el presente Decreto al Titular del Poder Ejecutivo del Estado, para los efectos de lo dispuesto por los artículos 44 y 70 fracción XVII de la Constitución Política del Estado Libre y Soberano de Morelos.
+SEGUNDO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "Tierra y Libertad", órgano de difusión del Gobierno del Estado de Morelos.
+TERCERO.- A partir del inicio de la vigencia de este decreto, los Ayuntamientos deberán proceder, en un plazo no mayor de noventa días naturales, a realizar las adecuaciones a sus bandos, reglamentos, circulares y disposiciones administrativas de observancia general para el gobierno de sus respectivos Municipios; si es que en ellos no se considera la comisión y unidad administrativa o dependencia que atienda los asuntos migratorios.
