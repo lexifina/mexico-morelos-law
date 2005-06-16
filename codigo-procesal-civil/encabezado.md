@@ -3,7 +3,7 @@ Código publicado en la Sección Tercera del Periódico Oficial del Estado de Mo
 Al margen izquierdo un Escudo Nacional que dice: Estados Unidos Mexicanos. Gobierno del Estado Libre y Soberano de Morelos. Poder Ejecutivo.
 ANTONIO RIVA PALACIO LOPEZ, GOBERNADOR CONSTITUCIONAL DEL ESTADO LIBRE Y SOBERANO DE MORELOS, A SUS HABITANTES SABED:
 Que el H. Congreso del Estado, se ha servido enviarme para su promulgación, lo siguiente:
-LA HONORABLE CUADRAGESIMA QUINTA LEGISLATURA DEL CONGRESO CONSTITUCIONAL DEL ESTADO LIBRE Y SOBERANO DE MORELOS, EN EJERCICIO DE LA FACULTAD QUE AL EFECTO LE CONFIERE LA FRACCION II DEL Artículo 40 DE LA CONSTITUCION POLITICA LOCAL, Y
+LA HONORABLE CUADRAGESIMA QUINTA LEGISLATURA DEL CONGRESO CONSTITUCIONAL DEL ESTADO LIBRE Y SOBERANO DE MORELOS, EN EJERCICIO DE LA FACULTAD QUE AL EFECTO LE CONFIERE LA FRACCION II DEL ARTICULO 40 DE LA CONSTITUCION POLITICA LOCAL, Y
 C O N S I D E R A N D O
 I. Que el Ciudadano Gobernador Constitucional del Estado, en ejercicio de la facultad que le confieren los artículos 42 fracción I y 70 fracción I de la Constitución Política local, presentó ante esta Soberanía la Iniciativa de CODIGO PROCESAL CIVIL PARA EL ESTADO LIBRE Y SOBERANO DE MORELOS.
 II. Como acertadamente lo señala el autor de la iniciativa, el Código de Procedimientos Civiles fue aprobado por el Congreso Estatal en julio de 1954, entrando en vigor en el año de 1956.

@@ -1,0 +1,5 @@
+P.O. 24 DE DICIEMBRE DE 2014.
+Artículo Primero.- El presente decreto entrará en vigor a partir del día siguiente de su publicación en el Periódico Oficial del Estado.
+Artículo Segundo.- El Centro de Investigaciones y Estudios Legislativos para la Igualdad de Género deberá estar funcionando dentro de los 40 días naturales a partir de su publicación en el Periódico Oficial del Estado.
+Artículo Tercero.- La Junta de Coordinación Política, presentará al pleno dentro de los 30 días naturales posteriores a la publicación del decreto a propuesta de la Comisión de Equidad y Género, la estructura orgánica y funcional del Centro de Investigaciones y Estudios Legislativos para la Igualdad de Género y su reglamento, en el que se establecerán las reglas para la vigilancia, operación y funcionamiento del centro.
+Artículo Cuarto.- A efecto de lo anterior el Honorable Congreso del Estado, deberá realizar las previsiones necesarias a través de la Comisión de Hacienda de este Poder Legislativo para la asignación presupuestal respectiva asignada en el Presupuesto de Egresos del Ejercicio Fiscal 2015 para su creación y funcionamiento.
