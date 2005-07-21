@@ -1,0 +1,2 @@
+(ADICIONADO, P.O. 20 DE JULIO DE 2005)
+ARTICULO 195.-Ter.- Las sanciones previstas en las fracciones I a IV del artículo 194 de esta ley prescribirán en seis meses y las demás en un año; los plazos anteriores se contarán a partir de la presentación de la denuncia que corresponda. En ambos casos las actuaciones realizadas por la Visitaduría o por el Consejo de la Judicatura Estatal, encaminadas al esclarecimiento de los hechos denunciados, interrumpirán los plazos de la prescripción.
