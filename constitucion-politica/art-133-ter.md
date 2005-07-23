@@ -1,0 +1,6 @@
+(ADICIONADO CON EL ARTICULO QUE LO INTEGRA, P.O. 20 DE JULIO DE 2005)
+CAPITULO IV.
+DE LA RESPONSABILIDAD PATRIMONIAL DEL ESTADO.
+ADICIONADO, P.O. 20 DE JULIO DE 2005)
+Artículo 133-TER.- La responsabilidad del Estado por los daños que, con motivo de su actividad administrativa irregular, cauce en los bienes o derechos de los particulares, será objetiva y directa. Los particulares tendrán derecho a una indemnización conforma a las bases, límites y procedimientos que establezca la ley de la materia. Para tal efecto, el Estado y los Municipios deberán incluir en sus respectivos presupuestos de egresos una partida para atender esta responsabilidad.
+El pago de la indemnización se efectuará después de seguir los procedimientos que la ley establezca, el cual estará sujeto a la disponibilidad presupuestaria del ejercicio fiscal correspondiente.
