@@ -1,4 +1,4 @@
-LEY DE INNOVACION, CIENCIA Y TECNOLOGIA PARA EL ESTADO DE MORELOS
+LEY DE INNOVACIÓN, CIENCIA Y TECNOLOGÍA PARA EL ESTADO DE MORELOS
 Ley publicada en el Periódico Oficial del Estado de Morelos, el miércoles 3 de agosto de 2005.
 Al margen izquierdo un sello con el Escudo del Estado de Morelos que dice:
 "Tierra y Libertad".- La Tierra Volverá a quienes la trabajan con sus manos:
