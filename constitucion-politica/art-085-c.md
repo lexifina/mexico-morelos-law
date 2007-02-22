@@ -1,5 +1,4 @@
-(ADICIONADO CON EL ARTICULO QUE LO INTEGRA, P.O. 3 DE JUNIO DE 1992)
+(DEROGADO CON EL ARTICULO QUE LO INTEGRA, P.O. 21 DE FEBRERO DE 2007)
 CAPITULO VI.
 DE LA PROTECCION DE LOS DERECHOS HUMANOS.
-(ADICIONADO, P.O. 3 DE JUNIO DE 1992)
-Artículo 85-C.- El Congreso del Estado establecerá un organismo autónomo de protección de los derechos humanos que otorga el orden jurídico mexicano, que conocerá de quejas en contra de actos u omisiones de naturaleza administrativa provenientes de cualquier autoridad o servidor público, con excepción del Poder Judicial del Estado, que violen estos derechos. Formulará recomendaciones públicas autónomas, no vinculatorias así como denuncias y quejas ante las autoridades respectivas. Este organismo no será competente tratándose de asuntos electorales, laborales y jurisdiccionales. En los términos del artículo 102, apartado B., de la Constitución Federal, el organismo que establezca el Congreso de la Unión conocerá de las Inconformidades que se presenten en relación con las recomendaciones, acuerdos u omisiones del organismo estatal.
+Artículo 85-C.- (DEROGADO, P.O. 21 DE FEBRERO DE 2007)
