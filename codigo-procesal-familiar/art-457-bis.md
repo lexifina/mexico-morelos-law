@@ -1,0 +1,2 @@
+(ADICIONADO, P.O. 15 DE AGOSTO DE 2007)
+ARTÍCULO 457 BIS.- TRÁMITE DE LA RECTIFICACIÓN O MODIFICACIÓN POR SENTENCIA JUDICIAL. El juicio sobre rectificación o modificación se tramitará en la vía de controversia familiar en contra del Oficial del Registro Civil ante quien consta el acta de que se trata, excluyendo la audiencia de conciliación, por lo que el juez deberá depurar el procedimiento al momento de fijar la litis, antes de abrir el juicio a prueba. Dará intervención al Ministerio Público.
