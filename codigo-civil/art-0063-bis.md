@@ -1,2 +1,0 @@
-(REFORMADO, P.O. 24 DE DICIEMBRE DE 2000)
-ARTICULO 63 BIS.- No están obligados al pago del impuesto establecido en esta Ley, las adquisiciones de inmuebles que realice la Federación, el Estado y los Municipios, para formar parte del dominio público; y las donaciones por parentesco entre ascendientes y descendientes en línea directa y en primer grado; en este último caso, en el Municipio de Gómez Palacio, si se causará el pago del Impuesto que establece esta ley.

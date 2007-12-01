@@ -1,0 +1,8 @@
+(ADICIONADO, P.O. 28 DE JUNIO DE 2007)
+ARTICULO 1348 TER.- Estarán sujetos a la reparación del daño moral de acuerdo a lo establecido por este ordenamiento y, por lo tanto, las conductas descritas se considerarán como hechos ilícitos:
+I. El que comunique a una o más personas la imputación que se hace a otra persona física o moral, de un hecho cierto o falso, determinado o indeterminado, que pueda causarle deshonra, descrédito, perjuicio, o exponerlo al desprecio de alguien;
+II. El que impute a otro un hecho determinado y calificado como delito por la Ley, si este hecho es falso, o es inocente la persona a quien se imputa;
+III. El que presente denuncias o querellas calumniosas, entendiéndose por tales aquéllas en que su honor imputa un delito a persona determinada sabiendo que ésta es inocente o que aquél no se ha cometido, y
+IV. Al que ofenda el honor, ataque la vida privada o la imagen propia de una persona.
+La reparación del daño moral con relación al párrafo e incisos anteriores deberá contener la obligación de la rectificación o respuesta de la información difundida en el mismo medio donde fue publicada y con el mismo espacio y la misma circulación o audiencia a que fue dirigida la información original, esto sin menoscabo de lo establecido en el párrafo quinto del presente artículo.
+La reproducción fiel de información no da lugar al daño moral, aún en los casos en que la información reproducida no sea correcta y pueda dañar el honor de alguna persona, pues no constituye una responsabilidad para el que difunde dicha información, siempre y cuando se cite la fuente de donde se obtuvo.
