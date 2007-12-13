@@ -1,4 +1,4 @@
-LEY DE TRANSITO Y TRANSPORTE DEL ESTADO DE MORELOS
+LEY DE TRANSITO DEL ESTADO DE MORELOS
 Ley publicada en el Periódico Oficial del Estado de Morelos, el miércoles 8 de febrero de 1989.
 Al margen izquierdo un escudo nacional que dice: Estados Unidos Mexicanos.- Gobierno del Estado Libre y Soberano de Morelos.- Poder Ejecutivo.
 ANTONIO RIVA PALACIO LOPEZ, GOBERNADOR CONSTITUCIONAL DEL ESTADO LIBRE Y SOBERANO DE MORELOS, A SUS HABITANTES SABED:
@@ -14,6 +14,7 @@ Por lo anterior, consideramos conveniente señalar que las Leyes reglamentarias 
 Que por su naturaleza, el servicio público estará siempre sujeto a normas y preceptos de derecho público. Las características de un servicio público, como es el caso del Transporte, es la de que se crea y se organiza por el Estado mediante Leyes que emanan del Poder Legislativo; el servicio público debe ser continuo, uniforme, regular y permanente; supone siempre una obra de interés público y debe de satisfacer el interés general oponiéndose al Particular.
 Y que la finalidad principal es de que en nuestro Estado se organice debida, duradera y eficazmente el tránsito y la prestación de servicio público de transportes.
 En virtud de lo anterior, esta H. Legislatura tiene a bien expedir la siguiente:
-LEY DE TRANSITO Y TRANSPORTE DEL ESTADO DE MORELOS
+(REFORMADA SU DENOMINACION, P.O. 12 DE DICIEMBRE DE 2007)
+LEY DE TRANSITO DEL ESTADO DE MORELOS
 (NOTA: EL 18 DE ENERO DE 2011, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN LOS CONSIDERANDOS SÉPTIMO Y NOVENO, ASÍ COMO EN EL RESOLUTIVO QUINTO, SEGÚN CORRESPONDA, DE LAS SENTENCIAS DICTADAS AL RESOLVER LAS CONTROVERSIAS CONSTITUCIONALES 18/2008, 20/2008 Y 22/2008, DECLARÓ LA INVALIDEZ DE ESTE ARTÍCULO, LA CUAL SURTIÓ EFECTOS EL 4 DE ABRIL DE 2011 Y EL 29 DE MARZO DE 2011, RESPECTIVAMENTE, DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHAS SENTENCIAS PUEDEN SER CONSULTADAS EN LA DIRECCIÓN ELECTRÓNICA http://www2.scjn.gob.mx/expedientes/).
 [En cuanto a los efectos de esta declaración de invalidez ver la tesis de jurisprudencia que lleva por rubro y datos de identificación: "CONTROVERSIA CONSTITUCIONAL. CUANDO ES PROMOVIDA POR UN MUNICIPIO, LA SENTENCIA QUE DECLARA LA INVALIDEZ DE UNA NORMA GENERAL ESTATAL, SOLO TENDRÁ EFECTOS PARA LAS PARTES." (Novena Época, Instancia: Pleno, Fuente: Semanario Judicial de la Federación y su Gaceta, Tomo: IV, Noviembre de 1996, Tesis: P./J. 72/96, Página: 249)]
