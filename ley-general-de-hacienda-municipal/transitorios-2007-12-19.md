@@ -1,0 +1,14 @@
+P.O. 19 DE DICIEMBRE DE 2007.
+PRIMERO.- El presente decreto entrará en vigor a partir del día siguiente de su publicación en el Periódico Oficial Tierra y Libertad.
+SEGUNDO.- Los Municipios cuyas leyes de ingresos para el ejercicio fiscal 2008 no contemplen lo establecido en la presente reforma, deberán realizar el cobro del derecho de los servicios de alumbrado público conforme a lo siguiente:
+Son contribuyentes de este derecho las personas físicas o morales propietarias o poseedoras de predios urbanos ubicados en el área territorial del Municipio, sin importar que el alumbrado público, se encuentre o no ubicado precisamente frente a su predio, ya que el rendimiento de esta cuota será aplicada al mantenimiento del servicio que se presta en todo el Municipio.
+La cuota de derecho por el alumbrado público será igual al 10% sobre el consumo de energía eléctrica en las tarifas 1, 1ª, 2 y 3 y; al 7% sobre el consumo de energía eléctrica en las tarifas 8 y 12.
+a) Son sujetos del pago del derecho que se establece, los consumidores de energía eléctrica en las tarifas 1, 1ª, 2, 3, 8 y 12 aprobadas por la Comisión de Tarifas de Electricidad y Gas dependientes de la Secretaría de Comercio y Fomento Industrial por acuerdo publicado en el Diario Oficial de la Federación el día 15 de noviembre de 1976 y ajustadas por acuerdo publicado el día 30 de julio de 1978; en el mismo Diario Oficial de la Federación.
+b) El derecho para alumbrado público será recaudado a través de las Empresas Suministradoras de Energía Eléctrica mediante el cargo correspondiente que se deberá hacer en las facturaciones que las mismas formulen a sus consumidores sujetos a este derecho.
+c) Las Empresas Suministradoras de Energía Eléctrica deberán aplicar el monto de sus derechos que recauden en la forma siguiente:
+I. Para cubrir el importe de la energía para alumbrado público suministrado a los Municipios, así como los gastos relativos a la ampliación, mantenimiento y reposición de dichos servicios.
+II. Para amortizar, en su caso, los adeudos que los Municipios tengan por el mismo concepto con las citadas Empresas Suministradoras de Energía Eléctrica.
+III. El mantenimiento, ampliación y reposición de unidades mercuriales fluorescentes y vapor de sodio, será única y exclusivamente por cuenta de los Ayuntamientos de los Municipios en donde exista ese sistema.
+IV. Las Empresas Suministradoras de Energía Eléctrica deberán rendir a la Secretaría de Hacienda del Estado, los informes que ésta le solicite sobre la recaudación y aplicación del derecho establecido en este Decreto.
+d) El pago de derechos establecidos en este capítulo se hará conforme a lo dispuesto en el Artículo 140 de esta Ley.
+TERCERO.- El procedimiento anterior deberá aplicarse hasta en tanto se adecuen a la presente reforma, las leyes de ingresos de los municipios establecidos en el artículo anterior.

@@ -1,0 +1,3 @@
+(ADICIONADO, P.O. 19 DE DICIEMBRE DE 2007)
+ARTICULO 146 BIS.- Los derechos consignados en este capítulo serán cubiertos en forma bimestral, dentro de los primeros quince días de cada mes, en los meses de enero, marzo, mayo, julio, septiembre y noviembre, en las oficinas de la Tesorería Municipal o en las Instituciones autorizadas para tal efecto.
+Para el cobro de este derecho los ayuntamientos podrán celebrar convenios con las compañías o empresas suministradoras del servicio de energía eléctrica. En estos casos, se deberá incluir el importe de este derecho, en el documento que para tal efecto expida la compañía o la empresa, debiéndose pagar junto con el consumo de energía eléctrica, en el plazo y en las oficinas autorizadas por esta última.
