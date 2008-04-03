@@ -1,0 +1,5 @@
+P.O. 2 DE ABRIL DE 2008.
+ARTÍCULO PRIMERO.- La Secretaría de la Contraloría, el Consejo de la Judicatura y la Auditoría Superior Gubernamental contarán con un término de noventa días hábiles, contados a partir de la entrada en vigor de este Decreto, para publicar el Reglamento y el catálogo de servidores públicos que deberán cumplir con la obligación de presentar su declaración de situación patrimonial.
+ARTÍCULO SEGUNDO.- La Secretaría de la Contraloría del Gobierno del Estado de Morelos, contará con noventa días, a partir de la publicación en el Periódico Oficial, para modificar en su reglamento interno el catálogo de servidores públicos obligados a rendir su declaración de situación patrimonial conforme a este decreto.
+ARTÍCULO TERCERO.- Se derogan todas las disposiciones legales o reglamentarias que se opongan al presente Decreto.
+ARTÍCULO CUARTO.- El presente Decreto, entrará en vigor al día siguiente de su publicación en el Periódico Oficial "Tierra y Libertad", órgano de difusión del Gobierno del Estado.
