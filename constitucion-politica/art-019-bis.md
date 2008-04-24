@@ -48,17 +48,12 @@ III.- La iniciativa popular es el medio por el cual, los ciudadanos del Estado d
 (REFORMADO, P.O. 1 DE SEPTIEMBRE DE 2000)
 La iniciativa popular deberá ser suscrita por al menos el tres por ciento de los ciudadanos inscritos en el padrón electoral del Estado o el diez por ciento del padrón electoral que corresponda al Municipio, según sea el caso.
 No podrán ser objeto de Iniciativa Popular las materias señaladas por esta Constitución para el caso de improcedencia del Referéndum.
-El Instituto Estatal Electoral y el Consejo de Participación Ciudadana serán los organismos encargados de preparar, desarrollar, vigilar y calificar los procesos de Referéndum y Plebiscito que les sean solicitados de conformidad con la presente Constitución y la Ley de la Materia.
-El Consejo es el organismo encargado de calificar la procedencia o improcedencia de las solicitudes de Plebiscito o Referéndum que se presenten. Para llevar a cabo los procesos de Referéndum y Plebiscito, el Consejo de Participación Ciudadana coadyuvará con el Instituto Estatal Electoral.
-Corresponde al Instituto Estatal Electoral hacerse cargo del desarrollo operativo de los procesos de Plebiscito y Referéndum.
-El Consejo Estatal de Participación Ciudadana se instalará expresamente para llevar a cabo los procesos de Plebiscito y Referéndum, estará conformado de la siguiente manera:
-(REFORMADO, P.O. 1 DE SEPTIEMBRE DE 2000)
-a). El Secretario de Gobierno;
-b).Un Diputado por Grupo o Fracción Parlamentaria que integren el Congreso del Estado;
-(REFORMADO, P.O. 1 DE SEPTIEMBRE DE 2000)
-c). Tres ciudadanos de reconocido prestigio y solvencia moral, designados por las dos terceras partes de los integrantes el (sic) Congreso del Estado, a propuesta de la Comisión de Régimen Interno y Concertación Política, mismos que durarán en su cargo tres años, pudiendo ser reelectos hasta por otro periodo igual; y
-d).Un Secretario de actas, propuesto por los miembros del propio Consejo, con voz, pero sin voto.
-Cada uno de los integrantes del Consejo de Participación Ciudadana tendrá un suplente.
-En la sesión de instalación el Consejo de Participación Ciudadana elegirá a su Presidente, por el voto de las dos terceras partes de sus integrantes.
-(ADICIONADO, P.O. 1 DE SEPTIEMBRE DE 2000)
-El Congreso del Estado deberá expedir la Ley que regule el Consejo de Participación Ciudadana y su vinculación con el Instituto Estatal Electoral, determinando el o los procedimientos, los tiempos y la estructura orgánica que se autorice en la instrumentación de las formas de participación ciudadana establecidas en este Artículo. En ningún caso la ausencia de texto normativo impedirá que se ejerzan los derechos de los ciudadanos.
+(REFORMADO, P.O. 23 DE ABRIL DE 2008)
+El Instituto Estatal Electoral será el organismo encargado de calificar la procedencia o improcedencia de las solicitudes de plebiscito o referéndum que se presenten, así como de preparar, desarrollar y vigilar estos procedimientos de conformidad con la presente Constitución y la Ley de la materia.
+(DEROGADO QUINTO PARRAFO, P.O. 23 DE ABRIL DE 2008)
+(DEROGADO SEXTO PARRAFO, P.O. 23 DE ABRIL DE 2008)
+(DEROGADO SEPTIMO PARRAFO, P.O. 23 DE ABRIL DE 2008)
+(DEROGADO OCTAVO PARRAFO, P.O. 23 DE ABRIL DE 2008)
+(DEROGADO NOVENO PARRAFO, P.O. 23 DE ABRIL DE 2008)
+(REFORMADO, P.O. 23 DE ABRIL DE 2008)
+El Congreso del Estado deberá expedir la Ley que regule estos Mecanismos de Participación Ciudadana, determinando el o los procedimientos, los tiempos y la estructura orgánica que se autorice en la instrumentación de las formas de participación establecidas en este artículo. En ningún caso la ausencia de texto normativo impedirá que se ejerzan los derechos de los ciudadanos.
