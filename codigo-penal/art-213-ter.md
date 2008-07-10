@@ -1,2 +1,1 @@
-(ADICIONADO, P.O. 18 DE OCTUBRE DE 2000)
-ARTICULO 213 Ter.- Cuando la persona cuyo cuerpo sea explotado por medio del comercio sexual, sea menor de edad o no tenga capacidad para comprender el significado del hecho, se aplicará al que lo explote, regentee, induzca, solicite, encubra, concierte, permita, utilice u obtenga algún lucro de dicho comercio, pena de seis a diez años de prisión y multa de mil quinientos a dos mil días-multa.
+ARTICULO 213 Ter.- (DEROGADO, P.O. 9 DE JULIO DE 2008)

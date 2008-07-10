@@ -1,5 +1,5 @@
 (ADICIONADO, P.O. 13 DE SEPTIEMBRE DE 2000)
-ARTICULO 242-Bis.- Son delitos para los efectos de la presente Ley, los siguientes:
+ARTICULO 242 Bis.- Son delitos para los efectos de la presente Ley, los siguientes:
 I. Emitir contaminantes peligrosos, incendiar o provocar explosiones que deterioren la atmósfera o que provoquen o puedan provocar daños a la salud pública, la flora, la fauna o los ecosistemas;
 II. Descargar, depositar o infiltrar contaminantes en los suelos o subsuelos, que provoquen o puedan provocar daños graves a la salud pública, la flora, la fauna o los ecosistemas;
 III. Descargar sin previo tratamiento, en los ríos, cuencas, vasos o demás depósitos de agua de jurisdicción local, incluyendo los sistemas de abastecimiento de agua o infiltre, en suelos o subsuelos, aguas residuales, desechos o contaminantes que causen o pueden causar daños graves a la salud pública, la flora, la fauna o a los ecosistemas;
