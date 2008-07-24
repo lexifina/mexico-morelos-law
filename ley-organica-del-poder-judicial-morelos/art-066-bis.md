@@ -1,0 +1,2 @@
+(ADICIONADO, P.O. 23 DE JULIO DE 2008)
+ARTICULO 66 Bis.- En el proceso penal acusatorio y adversarial, los Jueces y Magistrados podrán actuar sin asistencia de secretarios o testigos de asistencia, y en ese caso ellos tendrán fe pública para certificar el contenido de los actos que realicen y de las resoluciones que dicten, incluso cuando tales actos consten en registros informáticos, de audio, video, o se transcriban por escrito.
