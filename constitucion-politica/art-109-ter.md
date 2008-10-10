@@ -2,7 +2,7 @@
 CAPÍTULO VII.
 DEL TRIBUNAL UNITARIO DE JUSTICIA PARA ADOLESCENTES.
 (ADICIONADO, P.O. 14 DE NOVIEMBRE DE 2007)
-ARTÍCULO 109 TER.- El Tribunal Unitario de Justicia para Adolescentes será el responsable de la administración de justicia para menores a que se refiere el artículo 19, inciso d) párrafo cuarto, de esta Constitución.
+ARTÍCULO 109-TER.- El Tribunal Unitario de Justicia para Adolescentes será el responsable de la administración de justicia para menores a que se refiere el artículo 19, inciso d) párrafo cuarto, de esta Constitución.
 Para ser Magistrado del Tribunal Unitario de Justicia para Adolescentes, se deberá acreditar especialización en la materia y reunir los requisitos que esta Constitución establece para ser magistrado del Tribunal Superior de Justicia; será nombrado por el Congreso del Estado previa convocatoria a examen de oposición que emitirá el órgano de gobierno del Congreso del Estado; durará en su encargo un periodo de seis años consecutivos y podrá ser reelecto únicamente por un periodo más, de conformidad con lo que establezca la ley.
 N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE PARRAFO, VER ARTICULO SEGUNDO TRANSITORIO DEL DECRETO QUE MODIFICA LA CONSTITUCION.
 (REFORMADO, P.O. 16 DE JULIO DE 2008)
