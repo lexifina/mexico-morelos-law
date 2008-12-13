@@ -1,0 +1,6 @@
+P.O. 12 DE DICIEMBRE DE 2008.
+PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "Tierra y Libertad", Órgano del Gobierno del Estado.
+SEGUNDO. Los Directores Generales de los organismos públicos descentralizados a que se refiere el presente Decreto, contarán con un plazo de veinte días siguientes a esta publicación para solicitar la modificación respectiva en el Registro Público de Organismos del Estado de Morelos, de acuerdo con lo dispuesto por el artículo 34 de la Ley de los Organismos Auxiliares de la Administración Pública del Estado de Morelos.
+TERCERO. Los órganos de gobierno de los organismos públicos descentralizados a que se refiere el presente Decreto, contarán con un plazo de treinta días hábiles siguientes a esta publicación para realizar las modificaciones necesarias a sus respectivos estatutos orgánicos, y una vez aprobadas, solicitar la inscripción de las mismas en el Registro Público de Organismos del Estado de Morelos, de conformidad con lo dispuesto por la Ley de los Organismos Auxiliares de la Administración Pública del Estado de Morelos.
+CUARTO. Se derogan todas aquellas disposiciones que contravengan a lo dispuesto al presente Decreto.
+QUINTO. Remítase al Poder Ejecutivo para su correspondiente publicación.
