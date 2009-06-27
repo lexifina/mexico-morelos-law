@@ -1,10 +1,15 @@
-LEY DEL REGISTRO PUBLICO DE LA PROPIEDAD Y DEL COMERCIO DEL ESTADO DE MORELOS
-Ley publicada en el Periódico Oficial del Estado de Morelos, el miércoles 28 de noviembre de 2007.
-Al margen izquierdo un Escudo del Estado de Morelos que dice: "Tierra y Libertad".- La Tierra volverá a quienes la trabajan con sus manos.
-DR. MARCO ANTONIO ADAME CASTILLO, GOBERNADOR CONSTITUCIONAL DEL ESTADO LIBRE Y SOBERANO DE MORELOS A SUS HABITANTES SABED:
-Que el H. Congreso del Estado se ha servido enviarme para su promulgación lo siguiente:
-LA QUINCUAGÉSIMA LEGISLATURA DEL CONGRESO DEL ESTADO LIBRE Y SOBERANO DE MORELOS, EN EJERCICIO DE LAS FACULTADES QUE LE OTORGA EL ARTÍCULO 40, FRACCIÓN II, DE LA CONSTITUCIÓN POLÍTICA LOCAL, Y,
+REGLAMENTO DE LA DIRECCION JURIDICA DEL PODER JUDICIAL DEL ESTADO DE QUERETARO ARTEAGA
+Reglamento publicado en el Periódico Oficial del Estado de Querétaro, el viernes 21 de septiembre de 2007.
+REGLAMENTO DE LA DIRECCIÓN JURÍDICA DEL PODER JUDICIAL DEL ESTADO DE QUERÉTARO ARTEAGA
+CONTENIDO
+CAPÍTULO I. DISPOSICIONES GENERALES
+Artículos 1 - 2
+CAPÍTULO II. INTEGRACIÓN
+Artículos 3 - 4
+CAPÍTULO III. FACULTADES Y OBLIGACIONES
+Artículos 5 - 7
+ARTÍCULOS TRANSITORIOS
+El Consejo de la Judicatura del Poder Judicial del Estado de Querétaro Arteaga, en ejercicio de la facultad que le confiere la fracción XII del artículo 99 de la Ley Orgánica del Poder Judicial del Estado, y
 CONSIDERANDO.
-.
-Por lo anteriormente expuesto, esta Soberanía ha tenido ha (sic) bien expedir la siguiente:
-LEY DEL REGISTRO PÚBLICO DE LA PROPIEDAD Y DEL COMERCIO DEL ESTADO DE MORELOS.
+En consecuencia, expide el siguiente:
+REGLAMENTO DE LA DIRECCIÓN JURÍDICA DEL PODER JUDICIAL DEL ESTADO DE QUERÉTARO ARTEAGA
