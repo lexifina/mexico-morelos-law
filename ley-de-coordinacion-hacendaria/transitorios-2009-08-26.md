@@ -1,0 +1,4 @@
+P.O. 26 DE AGOSTO DE 2009.
+Artículo Primero. El presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial "Tierra y Libertad", órgano de difusión del Gobierno del Estado de Morelos.
+Artículo Segundo. Por única ocasión, a partir de la entrada en vigor de este Decreto y hasta el 31 de diciembre de 2009, los recursos del Fondo instituido en el artículo 15 de la Ley de Coordinación Hacendaria para el Estado de Morelos podrán ser utilizados para el pago de pasivos registrados en la última cuenta pública municipal que se haya presentado al momento de la entrada en vigor de este Decreto, con excepción de los que se refieran al pago de nóminas o su equivalente en el gasto corriente de operación, aguinaldos, pago de bonos especiales o indemnizaciones por término de gestión, salvo que provengan de resolución jurisdiccional.
+Artículo Tercero. Se derogan todas las disposiciones que contravengan lo establecido en el presente Decreto.
