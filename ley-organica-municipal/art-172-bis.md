@@ -1,0 +1,5 @@
+(ADICIONADO, P.O. 9 DE SEPTIEMBRE DE 2009)
+Artículo 172 Bis.- La ausencia del Síndico y de los Regidores no se suplirá necesariamente, cuando la falta no exceda de quince días mientras haya el número suficiente de miembros para constituir el quórum; cuando el número de miembros sea insuficiente para sesionar o la falta sea definitiva se llamará al suplente respectivo y a falta o imposibilidad de éste, el Congreso del Estado designará al sustituto en la forma indicada en el artículo anterior.
+La autorización o en su caso la revocación de las licencias por reintegrarse anticipadamente a su cargo en el Ayuntamiento, deberá acordarse por el Cabildo en un plazo de setenta y dos horas, contados a partir de que recibió la solicitud respectiva.
+Para la autorización de las licencias y su terminación y/o revocación, deberá seguirse el mismo trámite ante el cabildo.
+Las licencias temporales podrán otorgarse con goce de sueldo, si así lo determinan los integrantes del Cabildo, por mayoría calificada y por una sola ocasión.

@@ -1,0 +1,4 @@
+P.O. 9 DE SEPTIEMBRE DE 2009.
+ARTÍCULO PRIMERO. El presente Decreto iniciará su vigencia, al día siguiente de su publicación en el Periódico Oficial "Tierra y Libertad", órgano informativo del Gobierno del Estado de Morelos.
+ARTÍCULO SEGUNDO. Por esta única ocasión, la disposición prevista en el artículo 36 y la fracción XIV del artículo 41 de esta Ley se aplicará a partir del año 2012. Los presidentes municipales que tomen posesión el 1º de noviembre de 2009, presentarán el 31 de octubre de 2010 y 2011, por escrito, el informe a que hacen referencia dichos artículos, mientras que el informe correspondiente a su tercer año de ejercicio, lo deberán presentar por escrito en el mes de diciembre de 2012, conforme a lo previsto en los artículos 36 y 41 fracción XIV de esta Ley.
+ARTÍCULO TERCERO. Se derogan todas aquellas disposiciones jurídicas que se opongan a la presente reforma.
