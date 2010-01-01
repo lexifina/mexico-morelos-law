@@ -1,6 +1,6 @@
 LEY GENERAL DE HACIENDA EL ESTADO DE MORELOS
 Ley publicada en la Segunda Sección del Periódico Oficial del Estado de Morelos, el miércoles 5 de julio de 2006.
-Al margen izquierdo un Sello con el Escudo del Estado de Morelos que dice: "Tierra y Libertad".-.La tierra volverá a quienes la trabajan con sus manos.
+Al margen izquierdo un Sello con el Escudo del Estado de Morelos que dice: "Tierra y Libertad".- La tierra volverá a quienes la trabajan con sus manos.
 SERGIO ALBERTO ESTRADA CAJIGAL RAMÍREZ, GOBERNADOR CONSTITUCIONAL DEL ESTADO LIBRE Y SOBERANO DE MORELOS A SUS HABITANTES SABED:
 Que el H. Congreso del Estado se ha servido enviarme para su promulgación lo siguiente: LA CUADRAGÉSIMA NOVENA LEGISLATURA DEL CONGRESO DEL ESTADO LIBRE Y SOBERANO DE MORELOS, EN EJERCICIO DE LAS FACULTADES QUE LE OTORGA EL ARTÍCULO 40, FRACCIÓN II, DE LA CONSTITUCIÓN POLÍTICA LOCAL, Y, CON LOS SIGUIENTES:
 ANTECEDENTES:
