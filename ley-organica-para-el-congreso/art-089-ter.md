@@ -1,2 +1,2 @@
-(ADICIONADO, P.O. 26 DE AGOSTO DE 2009)
-Artículo 89 TER.- En caso de ausencia temporal o definitiva de los titulares de la Dirección del Instituto de Investigaciones Legislativas y Dirección de Radio y Televisión del Congreso, Coordinación de Comunicación Social, la Junta Política y de Gobierno procederá a designar, mediante acuerdo a un Encargado de Despacho, en tanto se designa en su caso al nuevo titular.
+(REFORMADO, P.O. 12 DE MAYO DE 2010)
+Artículo 89 TER.- En caso de ausencia temporal o definitiva de los titulares de la Dirección del Instituto de Investigaciones Legislativas, del Sistema Morelense de Radio y Televisión y Coordinación de Comunicación Social, la Junta Política y de Gobierno procederá a designar, mediante acuerdo a un Encargado de Despacho, en tanto se designa en su caso al nuevo titular.
