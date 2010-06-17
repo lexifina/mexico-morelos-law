@@ -1,7 +1,8 @@
 TRANSITORIOS
 Artículo Primero.- La presente Ley entrará en vigor a los treinta días naturales siguientes al de su publicación en el Periódico Oficial "Tierra y Libertad", Órgano de difusión oficial del Gobierno del Estado de Morelos.
 Artículo Segundo.- Se derogan todas aquellas disposiciones legales, reglamentarias y administrativas que se opongan o de cualquier forma contravengan lo previsto en la presente Ley.
-Artículo Tercero.- El Ejecutivo del Estado expedirá el Reglamento de esta ley y los lineamientos a que se hace mención en la misma, en un plazo no mayor de noventa días calendario, contado a partir de la iniciación de la vigencia de esta Ley.
+(REFORMADO, P.O. 16 DE JUNIO DE 2010)
+Artículo Tercero.- El Ejecutivo del Estado expedirá el Reglamento de esta ley y los lineamientos a que se hace mención en la misma, en un plazo no mayor de treinta días calendario, contados a partir de la publicación del presente decreto.
 Recinto Legislativo al primer día del mes de julio de dos mil ocho.
 ATENTAMENTE.
 "SUFRAGIO EFECTIVO. NO REELECCIÓN".
