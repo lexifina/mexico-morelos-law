@@ -21,7 +21,7 @@ c) Podrán solicitar que se convoque a Plebiscito:
 (REFORMADO, P.O. 1 DE SEPTIEMBRE DE 2000)
 4. Los Ayuntamientos por mayoría simple de sus integrantes, en el ámbito de su competencia.
 (ADICIONADO, P.O. 1 DE SEPTIEMBRE DE 2000)
-Realizado que sea el plebiscito establecido en esta Constitución, si este fuere aprobado por la proporción de los ciudadanos establecida, el acto o la decisión del Poder Ejecutivo o de los Ayuntamientos, será valida y en su caso, continuará el procedimiento respectivo para perfeccionarla; de no aprobarse, el acto o decisión deberá interrumpirse, sea para no continuarlo y extinguirlo por el medio legal correspondiente, incluyendo su revocación.
+Realizado que sea el plebiscito establecido en esta Constitución, si este fuere aprobado por la proporción de los ciudadanos establecida, el acto o la decisión del Poder Ejecutivo o de los Ayuntamientos, será válida y en su caso, continuará el procedimiento respectivo para perfeccionarla; de no aprobarse, el acto o decisión deberá interrumpirse, sea para no continuarlo y extinguirlo por el medio legal correspondiente, incluyendo su revocación.
 II.- Se entiende por Referéndum, el proceso mediante el cual los ciudadanos morelenses, manifiestan su aprobación o rechazo a las reformas, adiciones o derogaciones a la Constitución Política del Estado, a las leyes que expida el Congreso del Estado o a los reglamentos y bandos que emitan los Ayuntamientos.
 a) El Referéndum no procederá cuando se trate de:
 1.- Leyes o disposiciones de carácter tributario o fiscal;
