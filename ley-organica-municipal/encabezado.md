@@ -1,4 +1,4 @@
-LEY ORGANICA MUNICIPAL DEL ESTADO DE MORELOS
+LEY ORGÁNICA MUNICIPAL DEL ESTADO DE MORELOS
 Ley publicada en el Periódico Oficial del Estado de Morelos, el miércoles 13 de agosto de 2003.
 Al margen izquierdo un Escudo del Estado de Morelos que dice.- "Tierra y Libertad".- La tierra volverá a quienes la trabajan con sus manos.
 SERGIO ALBERTO ESTRADA CAJIGAL RAMÍREZ, GOBERNADOR CONSTITUCIONAL DEL ESTADO LIBRE Y SOBERANO DE MORELOS A SUS HABITANTES SABED:
