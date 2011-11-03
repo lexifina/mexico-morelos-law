@@ -1,0 +1,6 @@
+P.O. 19 DE OCTUBRE DE 2011.
+DECRETO NUMERO 1375 POR EL QUE SE ADICIONA LA FRACCION XVI AL ARTICULO 40 DE LA CONSTITUCION POLITICA DEL ESTADO LIBRE Y SOBERANO DE MORELOS.
+PRIMERO.- Aprobado que sea el presente Decreto en términos de lo dispuesto por la fracción I del artículo 147 de la Constitución Política del Estado Libre y Soberano de Morelos, remítase copia a los Ayuntamientos para que manifiesten su aprobación o desaprobación.
+SEGUNDO.- Una vez aprobado por el Constituyente Permanente, el presente Decreto iniciará su vigencia a partir de la publicación de la declaratoria correspondiente en el Periódico Oficial "Tierra y Libertad", órgano del Gobierno del Estado de Morelos.
+TERCERO.- La revisión y observaciones a que se refiere la fracción XVI del artículo 40, se realizarán a partir del Plan Estatal de Desarrollo que entregue la administración cuyo encargo inicie en el año 2012.
+CUARTO.- El Congreso del Estado de Morelos, en un término de ciento veinte días hábiles, a partir de la publicación de la declaratoria correspondiente, deberá aprobar y publicar la reforma respectiva a la Ley de Planeación Estatal y la Ley Orgánica para el Congreso del Estado de Morelos, con el fin de adecuarla a la presente reforma constitucional.
