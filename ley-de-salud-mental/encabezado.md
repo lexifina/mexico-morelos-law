@@ -1,0 +1,20 @@
+N. DE E. PARA CONSULTAR LA VERSIÓN CORREGIDA DE ESTE ORDENAMIENTO, DE CONFORMIDAD CON LA FE DE ERRATAS PUBLICADA EL 23 DE NOVIEMBRE DE 2011 EN EL P.O., SE RECOMIENDA ACUDIR AL TEXTO QUE SE VISUALIZA DENTRO DE LA CRONOLOGÍA CORRESPONDIENTE A DICHA FECHA, EN EL ÍNDICE RESPECTIVO DE SU HISTORIA LEGISLATIVA.
+LEY DE SALUD MENTAL DEL ESTADO DE MORELOS
+Ley publicada en el Periódico Oficial del Estado de Morelos el miércoles 12 de octubre de 2011.
+Al margen izquierdo un sello con el Escudo del Estado de Morelos que dice: "Tierra y Libertad".- La tierra volverá a quienes la trabajan con sus manos. Poder Legislativo.- LI Legislatura.- 2009-2012.
+MTRO. MARCO ANTONIO ADAME CASTILLO, GOBERNADOR CONSTITUCIONAL DEL ESTADO LIBRE Y SOBERANO DE MORELOS A SUS HABITANTES SABED:
+Que el Congreso del Estado se ha servido enviarme para su promulgación lo siguiente:
+LA QUINCUAGÉSIMA PRIMERA LEGISLATURA DEL CONGRESO DEL ESTADO LIBRE Y SOBERANO DE MORELOS, EN EJERCICIO DE LAS FACULTADES QUE LE OTORGA EL ARTÍCULO 40, FRACCIÓN II, DE LA CONSTITUCIÓN POLÍTICA LOCAL, Y,
+I.- DEL PROCESO LEGISLATIVO
+a) En sesión celebrada el 15 de marzo de 2011, el Diputado Esteban Gaona Jiménez presentó al Pleno del Congreso, la Iniciativa de Ley de Salud Mental del Estado de Morelos.
+b) Con fecha 15 de marzo de 2011, dicha iniciativa fue turnada a las Comisiones Unidas de Salud, Hacienda Presupuesto y Cuenta Pública, Justicia y Derechos Humanos y Atención a Grupos Vulnerables y Personas con Discapacidad, mismas que nos dimos a la tarea de revisar y estudiar la iniciativa en comento con el fin de dictaminarla de acuerdo a las facultades que nos otorga la Ley Orgánica para el Congreso.
+c) En sesión de Comisiones Unidas, existiendo el quórum reglamentario, se aprobó el presente dictamen para ser sometido a la consideración de la Asamblea.
+d) En sesión de fecha 22 de junio de 2011, fue aprobado por el Pleno el dictamen en comento, remitiéndose al Ejecutivo del Estado para su publicación la Ley de Salud Mental.
+e) Con fecha 13 de julio de 2011, el Gobernador del Estado de Morelos, Dr. Marco Adame Castillo, remitió al Congreso las observaciones a la Ley de Salud Mental.
+f) Con fecha 04 de Agosto de 2011, dichas observaciones fueron turnadas a las Comisiones Unidas de Salud, Hacienda, Presupuesto y Cuenta Pública, Justicia y Derechos Humanos y Atención a Grupos Vulnerables y Personas con Discapacidad, mismas que de (sic) dieron a la tarea de revisar y estudiarlas con el fin de dictaminarlas de acuerdo a las facultades que otorga el artículo 151 del Reglamento del Congreso del Estado.
+g) En sesión de Comisiones Unidas existiendo el quórum reglamentario, se aprobó el dictamen para ser sometido a la consideración de la Asamblea, mismo que conforme al artículo 151 del Reglamento para el Congreso del Estado, sólo versa sobre las observaciones formuladas por el Ejecutivo del estado, ya que el dictamen que contiene la Ley de Salud Mental ya fue aprobado por el Pleno en sesión de fecha 22 de junio de 2011; no obstante, por técnica legislativa y a efecto de que el presente dictamen se integre con todo el proceso legislativo que siguió este ordenamiento, se presenta conjuntamente con todas las fases del mismo, precisándose que únicamente fue motivo de estudio y modificación los artículos que fueron observados por el Ejecutivo estatal, mismos que al reformarse modificaron el orden del articulado por lo que fue necesario dar un nuevo orden al texto normativo de la ley.
+II.- MATERIA DE LA INICIATIVA
+En la iniciativa en estudio, el Diputado Esteban Gaona Jiménez, propone regular a través de un nuevo ordenamiento, las bases y modalidades para garantizar el acceso a los servicios de salud mental así como los mecanismos adecuados para la promoción, prevención, evaluación, diagnóstico, tratamiento, rehabilitación y fomento en materia de salud mental en instituciones de salud pública, social y privada del Estado de Morelos.
+III.- CONSIDERANDOS.
+Por lo anteriormente expuesto, esta Soberanía ha tenido a bien expedir la siguiente: .
+LEY DE SALUD MENTAL DEL ESTADO DE MORELOS
