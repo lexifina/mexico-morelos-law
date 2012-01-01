@@ -14,7 +14,8 @@ h) Pagos a trabajadores domésticos; e,
 i) Remuneración al trabajo personal subordinado a favor de empleados mayores de 60 años de edad o personas con capacidades diferentes.
 Para que los conceptos mencionados se exenten deberán estar debidamente comprobados.
 II. Las erogaciones que efectúen:
-a) La Federación, Estado y Municipios, así como sus organismos auxiliares de la administración pública;
+N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE INCISO, VÉASE PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO
+a) (DEROGADO POR ARTÍCULO VIGÉSIMO DE LA LEY DE INGRESOS DEL GOBIERNO DEL ESTADO DE MORELOS, CORRESPONDIENTE AL EJERCICIO FISCAL DEL PRIMERO DE ENERO AL TREINTA Y UNO DE DICIEMBRE DE DOS MIL DOCE, P.O. 21 DE DICIEMBRE DE 2011)
 b) Instituciones sin fines de lucro que realicen o promuevan asistencia social en cualquiera de sus formas y que se encuentren registradas ante las autoridades estatales competentes del ramo;
 c) Asociaciones de trabajadores y colegios de profesionistas; y
 d) Empresas de nueva creación, durante el primer año calendario, contado a partir de que inicien sus operaciones en el Estado de Morelos.

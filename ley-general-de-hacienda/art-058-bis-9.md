@@ -1,2 +1,3 @@
-(ADICIONADO, P.O. 27 DE DICIEMBRE DE 2006)
-Artículo 58 Bis-9.- Los recursos que genere el Impuesto Sobre Nóminas serán destinados para integrar el Fondo de Competitividad y Promoción del Empleo.
+N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO
+(REFORMADO POR ARTÍCULO VIGÉSIMO PRIMERO DE LA LEY DE INGRESOS DEL GOBIERNO DEL ESTADO DE MORELOS, CORRESPONDIENTE AL EJERCICIO FISCAL DEL PRIMERO DE ENERO AL TREINTA Y UNO DE DICIEMBRE DE DOS MIL DOCE, P.O. 21 DE DICIEMBRE DE 2011)
+Artículo 58 BIS-9.- Del total de los recursos que genere el Impuesto sobre Nóminas, se destinará un sesenta por ciento para la integración del Fondo de Competitividad y Promoción del Empleo.
