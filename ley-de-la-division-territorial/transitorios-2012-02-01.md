@@ -1,0 +1,4 @@
+P.O. 1 DE FEBRERO DE 2012.
+Primero.- Aprobado que sea el presente decreto, túrnese al titular del Poder Ejecutivo para su publicación en el Periódico Oficial "Tierra y Libertad", órgano de difusión del Gobierno del Estado de Morelos.
+Segundo.- El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "Tierra y Libertad".
+Tercero.- Una vez que entre en vigor el presente decreto, el Gobierno del Estado de Morelos a través de la Comisión Estatal de Reservas Territoriales deberá informar lo relacionado con los límites de Cuautla y las municipalidades que colindan con ésta, al Instituto Nacional de Estadística y Geografía; al Registro Federal de Electores del Instituto Federal Electoral y en general, a las instancias del gobierno federal, estatal y municipales que por sus atribuciones y facultades requieran de la información para actualizar su base de datos.

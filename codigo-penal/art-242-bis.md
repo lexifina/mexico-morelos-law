@@ -1,4 +1,4 @@
-N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VEASE ARTICULO CUARTO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.
+N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO CUARTO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.
 (REFORMADO, P.O. 19 DE OCTUBRE DE 2011)
 ARTICULO 242 Bis.- Quien o quienes de manera intencional, o sin aplicar las medidas de prevención o seguridad, y en contravención a las disposiciones legales en materia de protección al medio ambiente, o normas ambientales, se ubiquen en alguno o algunos de los siguientes supuestos, su conducta será un delito:
 I. El que derribe o trasplante un árbol en la vía pública sin autorización de autoridad competente o afecte negativamente áreas verdes o jardines públicos.

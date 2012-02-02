@@ -1,4 +1,4 @@
-CODIGO PENAL PARA EL ESTADO DE MORELOS
+CÓDIGO PENAL PARA EL ESTADO DE MORELOS
 Código publicado en la Sección Segunda del Periódico Oficial del Estado de Morelos, el miércoles 9 de octubre de 1996.
 Al margen izquierdo un Escudo Nacional que dice: Estados Unidos Mexicanos.- Gobierno del Estado Libre y Soberano de Morelos.- Poder Ejecutivo.
 JORGE CARRILLO OLEA, GOBERNADOR DEL ESTADO LIBRE Y SOBERANO DE MORELOS, A SU (SIC) HABITANTES SABED.

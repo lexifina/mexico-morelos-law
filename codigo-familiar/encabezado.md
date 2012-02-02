@@ -1,4 +1,4 @@
-CODIGO FAMILIAR PARA EL ESTADO LIBRE Y SOBERANO DE MORELOS
+CÓDIGO FAMILIAR PARA EL ESTADO LIBRE Y SOBERANO DE MORELOS
 Código publicado en la Segunda Sección del Periódico Oficial del Estado de Morelos, el miércoles 6 de septiembre de 2006.
 Artículo
 EXPOSICIÓN DE MOTIVOS

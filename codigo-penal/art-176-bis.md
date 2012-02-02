@@ -1,4 +1,4 @@
-(REFORMADO PRIMER PARRAFO, P.O. 3 DE JUNIO DE 2011)
+(REFORMADO PRIMER PÁRRAFO, P.O. 3 DE JUNIO DE 2011)
 ARTICULO 176 Bis.- Se impondrá de diez a veinte años de prisión y de doscientos hasta mil días multa, a quien se robe un vehículo automotor.
 (ADICIONADO, P.O. 6 DE MARZO DE 2002)
 Asimismo se sancionará con las citadas penalidades, a quien o quienes, sean responsables o no del robo de vehículos automotores, y que realice o realicen cualquiera de las siguientes conductas:
