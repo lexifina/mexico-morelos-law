@@ -1,7 +1,7 @@
-(ADICIONADO CON LOS ARTICULOS QUE LO INTEGRAN, P.O. 7 DE JULIO DE 1988)
+(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 7 DE JULIO DE 1988)
 CAPITULO IV.
 DE LA PROCURADURIA GENERAL DE JUSTICIA.
-(REFORMADO PRIMER PARRAFO, P.O. 28 DE AGOSTO DE 1998)
+(REFORMADO PRIMER PÁRRAFO, P.O. 28 DE AGOSTO DE 1998)
 Artículo 79-A.- El Ministerio Público tiene las atribuciones fundamentales siguientes:
 I.- Vigilar y procurar el exacto cumplimiento de la Ley y el respeto a las garantías individuales en todos los asuntos en que intervenga, interponiendo los recursos que fueren procedentes con arreglo a la Ley e intervenir en cuanto corresponda para que la administración de justicia sea pronta y expedita.
 (REFORMADA, P.O. 1 DE SEPTIEMBRE DE 2000)

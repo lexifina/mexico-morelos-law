@@ -1,4 +1,4 @@
-(REFORMADO PRIMER PARRAFO, P.O. 11 DE AGOSTO DE 2003)
+(REFORMADO PRIMER PÁRRAFO, P.O. 11 DE AGOSTO DE 2003)
 Artículo 79-B.- El personal del Ministerio Público estará integrado por un Procurador General de Justicia, que será el jefe de la institución, y por agentes de su dependencia, a quienes nombrará y removerá libremente; en el aspecto administrativo, la Procuraduría y su Titular dependerán directamente del Ejecutivo del Estado; para la designación del Procurador General de Justicia se observará lo establecido en la fracción LIII, del artículo 40 de esta Constitución.
 (REFORMADO, P.O. 28 DE AGOSTO DE 1998)
 La ley organizará al Ministerio Público y determinará la forma y términos en que deba ejercer sus funciones.

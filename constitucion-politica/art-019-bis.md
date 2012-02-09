@@ -1,4 +1,4 @@
-(ADICIONADO CON EL ARTICULO QUE LO INTEGRA, P.O. 1 DE OCTUBRE DE 1999)
+(ADICIONADO CON EL ARTÍCULO QUE LO INTEGRA, P.O. 1 DE OCTUBRE DE 1999)
 CAPITULO IV.
 DE LA PARTICIPACION CIUDADANA.
 (ADICIONADO, P.O. 1 DE OCTUBRE DE 1999)
@@ -50,10 +50,10 @@ La iniciativa popular deberá ser suscrita por al menos el tres por ciento de lo
 No podrán ser objeto de Iniciativa Popular las materias señaladas por esta Constitución para el caso de improcedencia del Referéndum.
 (REFORMADO, P.O. 23 DE ABRIL DE 2008)
 El Instituto Estatal Electoral será el organismo encargado de calificar la procedencia o improcedencia de las solicitudes de plebiscito o referéndum que se presenten, así como de preparar, desarrollar y vigilar estos procedimientos de conformidad con la presente Constitución y la Ley de la materia.
-(DEROGADO QUINTO PARRAFO, P.O. 23 DE ABRIL DE 2008)
-(DEROGADO SEXTO PARRAFO, P.O. 23 DE ABRIL DE 2008)
-(DEROGADO SEPTIMO PARRAFO, P.O. 23 DE ABRIL DE 2008)
-(DEROGADO OCTAVO PARRAFO, P.O. 23 DE ABRIL DE 2008)
-(DEROGADO NOVENO PARRAFO, P.O. 23 DE ABRIL DE 2008)
+(DEROGADO QUINTO PÁRRAFO, P.O. 23 DE ABRIL DE 2008)
+(DEROGADO SEXTO PÁRRAFO, P.O. 23 DE ABRIL DE 2008)
+(DEROGADO SÉPTIMO PÁRRAFO, P.O. 23 DE ABRIL DE 2008)
+(DEROGADO OCTAVO PÁRRAFO, P.O. 23 DE ABRIL DE 2008)
+(DEROGADO NOVENO PÁRRAFO, P.O. 23 DE ABRIL DE 2008)
 (REFORMADO, P.O. 23 DE ABRIL DE 2008)
 El Congreso del Estado deberá expedir la Ley que regule estos Mecanismos de Participación Ciudadana, determinando el o los procedimientos, los tiempos y la estructura orgánica que se autorice en la instrumentación de las formas de participación establecidas en este artículo. En ningún caso la ausencia de texto normativo impedirá que se ejerzan los derechos de los ciudadanos.
