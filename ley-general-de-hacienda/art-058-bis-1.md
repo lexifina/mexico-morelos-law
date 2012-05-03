@@ -1,7 +1,7 @@
-(ADICIONADO CON LAS SECCIONES Y ARTICULOS QUE LO INTEGRAN, P.O. 27 DE DICIEMBRE DE 2006)
+(ADICIONADO CON LAS SECCIONES Y ARTÍCULOS QUE LO INTEGRAN, P.O. 27 DE DICIEMBRE DE 2006)
 CAPÍTULO SÉPTIMO BIS
 DEL IMPUESTO SOBRE NÓMINAS
-(ADICIONADO CON EL ARTICULO QUE LO INTEGRA, P.O. 27 DE DICIEMBRE DE 2006)
+(ADICIONADO CON EL ARTÍCULO QUE LO INTEGRA, P.O. 27 DE DICIEMBRE DE 2006)
 OBJETO
 (ADICIONADO, P.O. 27 DE DICIEMBRE DE 2006)
 Artículo 58 Bis-1.- Es objeto de este impuesto, el pago que en efectivo o en especie, realicen las personas jurídico-individuales (físicas) y jurídico-colectivas (morales) en el Estado de Morelos, por concepto de remuneraciones al trabajo personal prestado bajo la subordinación de las mismas con carácter de patrón.

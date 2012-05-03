@@ -1,5 +1,5 @@
 P.O. 27 DE DICIEMBRE DE 2006.
-DECRETO NUMERO 137
+DECRETO NÚMERO 137
 (F. DE E., P.O. 14 DE FEBRERO DE 2007)
 PRIMERO.- El presente Decreto entrará en vigor el día 1 de enero del año 2007.
 (F. DE E., P.O. 14 DE FEBRERO DE 2007)
