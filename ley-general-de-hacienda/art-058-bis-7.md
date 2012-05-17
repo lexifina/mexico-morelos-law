@@ -1,4 +1,4 @@
-(ADICIONADO CON EL ARTICULO QUE LO INTEGRA, P.O. 27 DE DICIEMBRE DE 2006)
+(ADICIONADO CON EL ARTÍCULO QUE LO INTEGRA, P.O. 27 DE DICIEMBRE DE 2006)
 OBLIGACIONES
 (ADICIONADO, P.O. 27 DE DICIEMBRE DE 2006)
 Artículo 58 Bis-7.- Son obligaciones de los sujetos de este impuesto, además de las establecidas en la presente Ley o en cualquier otra disposición legal, las siguientes:
