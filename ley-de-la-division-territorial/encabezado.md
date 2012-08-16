@@ -1,5 +1,4 @@
 LEY DE LA DIVISIÓN TERRITORIAL DEL ESTADO DE MORELOS
-N. DE E. CONTIENE LA FE DE ERRATAS PUBLICADA EN EL P.O. DE 14 DE MARZO DE 2012.
 Ley publicada en la Sección Segunda del Periódico Oficial del Estado de Morelos, el domingo 18 de diciembre de 1932.
 Vicente Estrada Cajigal, Gobernador Constitucional del Estado Libre y Soberano de Morelos, a sus habitantes sabed:
 Que el H. Congreso del Estado ha tenido a bien enviarme para su promulgación, la siguiente
