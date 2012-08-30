@@ -1,0 +1,5 @@
+P.O. 29 DE AGOSTO DE 2012.
+PRIMERO.- La presente Ley entrará en vigor a partir del día siguiente de su publicación en el periódico Oficial del Estado. En la misma fecha entrará en vigor la reforma a la Ley de Desarrollo Económico del Estado de Morelos.
+SEGUNDO.- El ejecutivo del Estado, en ejercicio de la facultad contenida en el artículo 9 del Presupuesto de Egresos del Gobierno del Estado de Morelos, para el ejercicio fiscal del año 2012, podrá realizar las transferencias necesarias para el cumplimiento de los objetivos de la presente Ley, en un plazo de 60 días, contados a partir de la entrada en vigor de este ordenamiento.
+TERCERO.- El Ejecutivo del Estado deberá contemplar en el presupuesto correspondiente al ejercicio fiscal 2013, una partida especial para dar cumplimiento a los objetivos de esta Ley.
+CUARTO.- El Ejecutivo del Estado deberá publicar el Reglamento de esta Ley, en el que establezca las directrices para la aplicación del Fondo de Promoción e Impulso al Joven Emprendedor, en 30 días, contados a partir de la publicación de la presente Ley.
