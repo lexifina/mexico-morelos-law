@@ -1,5 +1,5 @@
 (ADICIONADO, P.O. 16 DE SEPTIEMBRE DE 2009)
-Artículo 91 QUARTER.- El Secretario General deberá presentar para su aprobación:
+Artículo 91 Quárter.- El Secretario General deberá presentar para su aprobación:
 I.- A la Comisión Instaladora del Congreso:
 a) Los cursos de inducción de los Diputados electos a la siguiente Legislatura;
 b) La orden del día de la reunión de información anterior a la junta previa y las credenciales y pases de acceso a los Diputados electos al Congreso;
