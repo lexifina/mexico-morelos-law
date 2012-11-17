@@ -1,2 +1,2 @@
-(REFORMADO, P.O. 16 DE SEPTIEMBRE DE 2009)
-Artículo 89 Bis.- En caso de ausencia temporal o definitiva de los titulares de la Secretaría General del Congreso, Secretaría de Servicios Legislativos y Parlamentario y/o de la Secretaría de Administración y Finanzas, el Presidente de la Mesa Directiva procederá a designar a un Encargado de Despacho, en tanto el Pleno del Congreso, a propuesta de la Junta Política y de Gobierno, designa en su caso, al nuevo titular.
+(REFORMADO, P.O. 14 DE NOVIEMBRE DE 2012)
+Artículo 89 Bis.- En caso de ausencia temporal o definitiva de los titulares de la Secretaría de Servicios Legislativos y Parlamentarios y/o de la Secretaría de Administración y Finanzas, el Presidente de la Mesa Directiva procederá a designar a un Encargado de Despacho, en tanto el Pleno del Congreso, a propuesta de la Junta Política y de Gobierno, designa en su caso, al nuevo titular.
