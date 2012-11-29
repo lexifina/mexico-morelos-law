@@ -1,5 +1,5 @@
 P.O. 27 DE DICIEMBRE DE 1995.
-CODIGO FISCAL PARA EL ESTADO DE MORELOS.
+CÓDIGO FISCAL PARA EL ESTADO DE MORELOS.
 PRIMERO.- El presente ordenamiento entrará en vigor al día siguiente de su publicación en el Periódico Oficial "Tierra y Libertad".
 SEGUNDO.- Con las salvedades que se indican en el artículo siguiente, quedan abrogadas las disposiciones contenidas en el libro primero de la Ley General de Hacienda del Estado de Morelos y de la Ley General de Hacienda Municipal de esta Entidad y derogadas las demás leyes y disposiciones en cuanto se opongan al presente Código.
 TERCERO.- Respecto a la tramitación de los recursos administrativos pendientes, se observarán las siguientes prevenciones:
