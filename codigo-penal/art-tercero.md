@@ -1,0 +1,1 @@
+ARTICULO TERCERO.- Los asuntos que conforme al Acuerdo mencionado en el artículo anterior, se encuentren en trámite a la entrada en vigor del presente ordenamiento, serán resueltos conforme a las disposiciones de dicho Acuerdo.

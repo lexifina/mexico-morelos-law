@@ -1,0 +1,1 @@
+ARTICULO CUARTO.- Las licencias expedidas por la Comisión, cuyo término no haya vencido a la entrada en vigor de la presente Ley, seguirán siendo válidas durante los 180 días naturales siguientes a la vigencia de este ordenamiento, y para su revalidación, deberá atenderse a lo dispuesto en el artículo 18 de esta Ley.
