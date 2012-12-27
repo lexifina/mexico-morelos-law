@@ -1,5 +1,5 @@
 P.O. 11 DE ENERO DE 2002.
-DECRETO No. 355, QUE REFORMA EL ARTICULO 60.
+DECRETO NÚMERO 355, QUE REFORMA EL ARTÍCULO 60.
 (F. DE E., P.O. 11 DE ENERO DE 2002)
 PRIMERO.- El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "Tierra y Libertad", órgano oficial del Gobierno del Estado de Morelos.
 SEGUNDO.- Remítase al Titular del Poder Ejecutivo del Estado, para los efectos de lo dispuesto en los artículos 44 y 70 fracción XVII de la Constitución Política del Estado Libre y Soberano de Morelos.
