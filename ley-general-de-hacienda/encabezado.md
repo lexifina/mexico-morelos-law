@@ -1,5 +1,4 @@
 LEY GENERAL DE HACIENDA DEL ESTADO DE MORELOS
-N. DE E. LA FE DE ERRATAS PUBLICADA EN EL P.O. EL 13 DE JUNIO DE 2012 NO APLICA AL ARTICULADO DEL DECRETO 1776 PUBLICADO EN EL P.O. DE 16 DE MAYO DE 2012.
 Ley publicada en la Segunda Sección del Periódico Oficial del Estado de Morelos, el miércoles 5 de julio de 2006.
 Al margen izquierdo un Sello con el Escudo del Estado de Morelos que dice: "Tierra y Libertad".- La tierra volverá a quienes la trabajan con sus manos.
 SERGIO ALBERTO ESTRADA CAJIGAL RAMÍREZ, GOBERNADOR CONSTITUCIONAL DEL ESTADO LIBRE Y SOBERANO DE MORELOS A SUS HABITANTES SABED:
