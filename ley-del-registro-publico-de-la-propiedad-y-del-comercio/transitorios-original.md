@@ -1,11 +1,20 @@
-ARTÍCULOS TRANSITORIOS
-PRIMERO. Publíquese este reglamento en el Periódico Oficial del Gobierno del Estado "La Sombra de Arteaga".
-SEGUNDO. Este reglamento entrará en vigor el día siguiente de su publicación.
-DADO EN LA CIUDAD DE SANTIAGO DE QUERÉTARO, QUERÉTARO ARTEAGA, A LOS 20 DÍAS DEL MES DE JUNIO DE 2007.
-LIC. JESÚS GARDUÑO SALAZAR, Magistrado Presidente del Consejo de la Judicatura, rúbrica; LIC. CELIA MAYA GARCÍA, rúbrica y LIC. JUAN MANUEL ZEPEDA GARRIDO, rúbrica, Magistrados integrantes del Consejo de la Judicatura y la LIC. NOEMÍ PALACIOS CAMACHO, Secretaria del Consejo, Rúbrica.
-EL LIC. CARLOS RAFAEL ESCALANTE MUNGUÍA SECRETARIO AUXILIAR DE ACUERDOS DEL TRIBUNAL SUPERIOR DE JUSTICIA DEL ESTADO.
-C E R T I F I C A
-QUE LAS PRESENTES COPIAS FOTOSTÁTICAS COINCIDEN FIEL Y EXACTAMENTE CON EL DOCUMENTO ORIGINAL QUE DOY FE DE TENER A LA VISTA, Y QUE CONTIENE EL REGLAMENTO DE LA DIRECCIÓN JURÍDICA DEL PODER JUDICIAL DEL ESTADO DE QUERÉTARO ARTEAGA. CERTIFICO EN DOS HOJAS SELLADAS Y COTEJADAS. SANTIAGO DE QUERÉTARO, QRO., A LOS NUEVE DÍAS DEL MES DE AGOSTO DEL AÑO DOS MIL SIETE.- DOY FE.
-LIC. CARLOS RAFAEL ESCALANTE MUNGUÍA
-SECRETARIO AUXILIAR DE ACUERDOS
-Rúbrica
+TRANSITORIOS
+PRIMERO. Publíquese la presente Ley en el Periódico Oficial "Tierra y Libertad", órgano de difusión del Gobierno del Estado. La presente Ley entrará en vigor el día primero de enero del año dos mil ocho.
+SEGUNDO. Se derogan los artículos 2478 al 2554 del Código Civil para el Estado Libre y Soberano de Morelos.
+TERCERO. Durante el segundo semestre del año 2008, el Poder Ejecutivo realizará la transferencia de los recursos humanos, materiales y financieros con los que actualmente opera la Dirección General del Registro Público de la Propiedad y del Comercio de la Secretaría de Gobierno al Organismo, a efecto de (sic) inicie su operación de conformidad con la naturaleza jurídica y funciones establecidas en el Titulo Primero de la presente Ley, durante dicho periodo.
+En tanto el Organismo inicia su operación de acuerdo con lo establecido en el párrafo anterior, la institución del Registro Público de la Propiedad y del Comercio en el Estado de Morelos, seguirá operando a través de la Dirección General del Registro Público de la Propiedad y del Comercio de la Secretaría de Gobierno, con los recursos que ésta le asigne para el Ejercicio Fiscal 2008.
+CUARTO. La Junta de Gobierno deberá quedar instalada en un plazo no mayor a treinta días naturales, contados a partir del inicio de operaciones del Organismo.
+QUINTO. Una vez instalada la Junta de Gobierno deberá expedir su Estatuto Orgánico que determine los requisitos que deban cumplirse para desempeñar los cargos que requieran la organización y funcionamiento del Organismo, en un término no mayor a noventa días naturales, el cual deberá publicarse en el Periódico Oficial del Estado "Tierra y Libertad".
+SEXTO. En un término no mayor a noventa días naturales, deberá expedirse el Reglamento de la presente Ley, el cual deberá publicarse en el Periódico Oficial del Estado "Tierra y Libertad".
+SÉPTIMO. El Director General del Organismo solicitará a la Secretaría de Finanzas y Planeación la inscripción en el Registro Público de Organismos Descentralizados del Estado de Morelos, dentro de los veinte días siguientes al inicio de operaciones del Organismo.
+OCTAVO. Se derogan todas las disposiciones legales y administrativas que se opongan a la presente Ley.
+Recinto Legislativo a los veintidós días del mes de noviembre de dos mil siete.
+ATENTAMENTE.
+"SUFRAGIO EFECTIVO. NO REELECCIÓN". LOS CC. DIPUTADOS INTEGRANTES DE LA MESA DIRECTIVA DEL CONGRESO DEL ESTADO. DIP. MARTHA PATRICIA FRANCO GUTIÉRREZ PRESIDENTA.
+DIP. FRANCISCO ARTURO SANTILLÁN ARREDONDO. SECRETARIO.
+DIP. JESÚS ALBERTO MARTÍNEZ BARRÓN SECRETARIO.
+RÚBRICAS.
+Por tanto mando se imprima, publique circule y se le dé el debido cumplimiento.
+Dado en la Residencia del Poder Ejecutivo en la Ciudad de Cuernavaca, Capital del Estado de Morelos, a los veintiséis días del mes de Noviembre de dos mil siete. "SUFRAGIO EFECTIVO. NO REELECCIÓN". GOBERNADOR CONSTITUCIONAL DEL ESTADO LIBRE Y SOBERANO DE MORELOS DR. MARCO ANTONIO ADAME CASTILLO SECRETARIO DE GOBIERNO LIC. SERGIO ALVAREZ MATA
+RÚBRICAS.
+N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.
