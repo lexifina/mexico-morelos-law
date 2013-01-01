@@ -1,0 +1,5 @@
+(ADICIONADO, P.O. 15 DE AGOSTO DE 2012)
+Artículo 73 Ter.- Los Sistemas Municipales para el Desarrollo Integral de la Familia llevarán en conjunto con los responsables municipales en materia educativa y los Ayudantes municipales, las siguientes acciones:
+I.- Elaborará una base de datos confiable al inicio de cada ciclo escolar en todos los centros de población del municipio a que se refiere el artículo 13 de esta Ley; tanto rurales como urbanas, a efecto de estar en posibilidades de localizar y cuantificar a las niñas y los niños menores de quince años que no estén cursando la educación básica.
+Una vez obtenida dicha base de datos los Ayuntamientos en conjunto con la autoridad educativa estatal, buscarán los mecanismos y acciones, que permitan a esas niñas y niños acceder sin demora a la educación básica.
+II.- Implementarán en conjunto con los registros civiles municipales, acciones y programas para registrar a aquellas niñas y niños que por falta de acta de nacimiento no han podido ingresar a la escuela.
