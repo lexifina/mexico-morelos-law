@@ -1,5 +1,4 @@
 LEY DEL SERVICIO CIVIL DEL ESTADO DE MORELOS
-N. DE E. LA FE DE ERRATAS PUBLICADA EN EL P.O. EL 2 DE ENERO DE 2013 NO APLICA AL ARTICULADO DEL DECRETO 265 PUBLICADO EN EL P.O. DE 26 DE DICIEMBRE DE 2012.
 Ley publicada en el Periódico Oficial del Estado de Morelos, el miércoles 6 de septiembre de 2000.
 Al margen izquierdo un escudo del Estado de Morelos que dice.- "Tierra y Libertad".- La tierra volverá a quienes la trabajan con sus manos.- Poder Ejecutivo del Estado de Morelos.
 JORGE ARTURO GARCÍA RUBÍ, GOBERNADOR CONSTITUCIONAL DEL ESTADO LIBRE Y SOBERANO DE MORELOS A SUS HABITANTES SABED.
