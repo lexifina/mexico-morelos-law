@@ -1,0 +1,5 @@
+P.O. 24 DE ABRIL DE 2013.
+PRIMERO.- Aprobado que sea el presente decreto en términos del artículo 147 de la Constitución Política del Estado Libre y Soberano de Morelos, remítase a los Ayuntamientos de la entidad para su aprobación. Efectuado que sea el recuento de los Ayuntamientos que otorgaron su aprobación, hágase el computo respectivo y remítase al Titular del Poder Ejecutivo para su promulgación y publicación en el Periódico Oficial "Tierra y Libertad", Órgano de Difusión del Gobierno del Estado de Morelos.
+SEGUNDO.- El Congreso del Estado en un plazo máximo de quince días a partir de la publicación de la declaratoria, abrogará la Ley de Participación Ciudadana vigente y emitirá la nueva Ley reglamentaria conforme a la presente reforma constitucional.
+TERCERO.- La selección e integración del Consejo de Participación Ciudadana, quedará regulada en la Ley secundaria respectiva; debiendo quedar conformado en un plazo de sesenta días hábiles a partir de la publicación de la Ley reglamentaria.
+CUARTO.- Este decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "Tierra y Libertad".

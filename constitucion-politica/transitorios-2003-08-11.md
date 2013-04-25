@@ -1,5 +1,5 @@
 P.O. 11 DE AGOSTO DE 2003.
-DECRETO NÚMERO 1067
+DECRETO NÚMERO 1067, POR EL QUE SE REFORMAN LOS ARTÍCULOS 23 EN EL PÁRRAFO TERCERO DE SU FRACCIÓN VI, 32; 33; 40 EN SUS FRACCIONES XXVII, XXVIII, XXXII, XXXIII, XLI, XLVII Y LV EN SU SEGUNDO PÁRRAFO; 70 EN SUS FRACCIONES XVII, XVIII Y XIX; 84; 109-BIS; Y 136, TODOS DE LA CONSTITUCIÓN POLÍTICA DEL ESTADO LIBRE Y SOBERANO DE MORELOS.
 Artículo Primero.- Las reformas contenidas en el presente Decreto forman parte de la Constitución Política del Estado Libre y Soberano de Morelos, en términos de lo dispuesto por la fracción I de su artículo 147.
 Artículo Segundo.- El Congreso del Estado de Morelos deberá expedir la Ley de la Auditoria Superior Gubernamental en la misma Sesión en la que se expide el presente Decreto.
 La Legislatura hará las adecuaciones al marco jurídico, en un plazo de noventa días, a partir de la vigencia del presente Decreto.

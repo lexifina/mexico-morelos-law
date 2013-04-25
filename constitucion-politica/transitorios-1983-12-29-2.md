@@ -1,5 +1,5 @@
 P.O. 29 DE DICIEMBRE DE 1983.
-DECRETO NÚMERO 77
+DECRETO NÚMERO 77, POR EL QUE SE REFORMAN LOS ARTÍCULOS 32, TERCERO Y QUINTO PÁRRAFOS; 40, FRACCIONES XIV, XV Y XXVIII, 41, 56 FRACCIONES V, INCISO D) Y IX, 58 FRACCIÓN III, 70 FRACCIONES IV Y XXVII, 115 FRACCIONES I, SEGUNDO PÁRRAFO III, VI Y X; SE ADICIONAN LOS ARTÍCULOS 40, FRACCIONES XIV, XV, XLVIII, XLIX Y L; 58, FRACCIÓN IV; 70 FRACCIÓN XXIX; 71 SEGUNDO PÁRRAFO: 85-A, 85-B, 112, 115 FRACCIONES I, SEGUNDO PÁRRAFO Y TERCER PÁRRAFO: III, SEGUNDO PÁRRAFO VI SEGUNDO Y TERCER PÁRRAFOS Y XI Y 118 BIS.
 PRIMERO.- El presente Decreto de reformas y adiciones a la Constitución Política del Estado libre y soberano de Morelos deberá cumplir con las formalidades establecidas en los Artículos 147 Fracciones I, II, III y 148 del mismo ordenamiento.
 SEGUNDO.- Se derogan todas las disposiciones legales o reglamentarias que se opongan a este Decreto.
 TERCERO.- Este Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Estado de Morelos.

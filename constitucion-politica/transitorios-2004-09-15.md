@@ -1,5 +1,5 @@
 P.O. 15 DE SEPTIEMBRE DE 2004.
-DECRETO NO. 339
+DECRETO NÚMERO 339, POR EL QUE SE REFORMA EL PÁRRAFO SEGUNDO Y ADICIONA UN PÁRRAFO SEXTO, RECORRIÉNDOSE EN SU ORDEN LOS ACTUALES SEXTO Y SÉPTIMO PARA SER SÉPTIMO Y OCTAVO DEL ARTÍCULO 32 Y SE REFORMA EL INCISO C) DE LA FRACCIÓN XVIII DEL ARTÍCULO 70, DE LA CONSTITUCIÓN POLÍTICA DEL ESTADO LIBRE Y SOBERANO DE MORELOS.
 ARTÍCULO PRIMERO. Aprobado que sea el presente dictamen, remítase junto con las copias de los debates que se hubiesen generado, a los Ayuntamientos del Estado de Morelos, para dar cumplimiento a lo establecido en la fracción I del artículo 147 de la Constitución Política del Estado Libre y Soberano de Morelos.
 ARTÍCULO SEGUNDO. Aprobadas por la mayoría de los Ayuntamientos del Estado de Morelos, las reformas realizadas a la Constitución Política Local, remítase el Decreto correspondiente al Titular del Poder Ejecutivo del Estado de Morelos, para su publicación en el Periódico Oficial "Tierra y Libertad" órgano de difusión del Gobierno del Estado de Morelos.
 ARTÍCULO TERCERO. El presente Decreto iniciará su vigencia, al día siguiente de su publicación en el Periódico Oficial "Tierra y Libertad", órgano informativo del Gobierno del Estado de Morelos.

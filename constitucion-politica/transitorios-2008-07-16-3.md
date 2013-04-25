@@ -1,5 +1,5 @@
 P.O. 16 DE JULIO DE 2008.
-DECRETO No. 824, POR EL QUE SE REFORMAN, ADICIONAN Y DEROGAN DIVERSOS ARTÍCULOS DE LA CONSTITUCIÓN POLÍTICA DEL ESTADO DE MORELOS.
+DECRETO NÚMERO 824, POR EL QUE SE REFORMAN, ADICIONAN Y DEROGAN DIVERSOS ARTÍCULOS DE LA CONSTITUCIÓN POLÍTICA DEL ESTADO DE MORELOS.
 PRIMERO.- Aprobado que sea en términos del artículo 147 de la Constitución del Estado, remítase al titular del Poder Ejecutivo, para los efectos de su promulgación y publicación correspondiente.
 SEGUNDO.- Este decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "Tierra y Libertad".
 TERCERO.- En términos del artículo 42, fracción III de la Constitución Política Local, en un plazo no mayor a los treinta días hábiles, el Tribunal Superior de Justicia, deberá presentar la iniciativa para adecuar la legislación conducente al presente ordenamiento. El Congreso del Estado en un plazo no mayor a los sesenta días hábiles procederá a expedir los ordenamientos correspondientes.

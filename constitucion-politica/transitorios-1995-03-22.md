@@ -1,5 +1,5 @@
 P.O. 22 DE MARZO DE 1995.
-DECRETO NÚMERO 212
+DECRETO NÚMERO 212, POR EL QUE SE REFORMA EL ARTÍCULO 33, REFORMA LA FRACCIÓN XXXVII DEL ARTÍCULO 40, DEROGA LA FRACCIÓN VI DEL ARTÍCULO 70, MODIFICA LA DENOMINACIÓN DEL CAPÍTULO VII, DEL TÍTULO CUARTO, REFORMA EL ARTÍCULO 85-D, REFORMA EL ARTÍCULO 86, REFORMA EL ARTÍCULO 88, REFORMA EL ARTÍCULO 89, REFORMA EL ARTÍCULO 90, REFORMA EL ARTÍCULO 91, REFORMA EL ARTÍCULO 92, CREA EL ARTÍCULO 92-A, REFORMA EL ARTÍCULO 96, REFORMA EL ARTÍCULO 97, REFORMA EL ARTÍCULO 98, DEROGA LAS FRACCIONES IX, XIV Y XV DEL ARTÍCULO 99, REFORMA EL ARTÍCULO 103, REFORMA EL ARTÍCULO 108, REFORMA EL ARTÍCULO 109, REFORMA EL ARTÍCULO 135, REFORMA EL ARTÍCULO 136 Y REFORMA EL ARTÍCULO 137, DE LA CONSTITUCIÓN POLÍTICA DEL ESTADO LIBRE Y SOBERANO DE MORELOS.
 PRIMERO.- Se deroga la Ley Orgánica de la Procuraduría Ecológica, publicada en el Periódico Oficial "Tierra y Libertad" Número 3600, de fecha siete de agosto de mil novecientos noventa y dos.
 SEGUNDO.- Remítase el presente decreto al Titular del Poder Ejecutivo del Estado para los efectos que indican los Artículos 50, 147 y 148 de la Constitución Política del Estado de Morelos.
 TERCERO.- El presente decreto iniciará su vigencia al día siguiente de su publicación en el Periódico Oficial "Tierra y Libertad" órgano del Gobierno del Estado Libre y Soberano de Morelos.

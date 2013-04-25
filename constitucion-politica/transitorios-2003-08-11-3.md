@@ -1,5 +1,5 @@
 P.O. 11 DE AGOSTO DE 2003.
-DECRETO NÚMERO 1069
+DECRETO NÚMERO 1069, POR EL QUE SE ADICIONA UN SEGUNDO PÁRRAFO AL ARTÍCULO 2º, SE ADICIONA AL TÍTULO SEGUNDO, DE LOS PODERES PÚBLICOS, UN CAPÍTULO III, INTITULADO DE LOS ÓRGANOS CONSTITUCIONALES AUTÓNOMOS, CON UN ARTÍCULO 23-A DE LA CONSTITUCIÓN POLÍTICA DEL ESTADO DE MORELOS.
 Artículo Primero.- Las reformas contenidas en el presente Decreto forman parte de la Constitución Política del Estado Libre y Soberano de Morelos, en términos de lo dispuesto por la fracción I de su artículo 147.
 Artículo Segundo.- La Ley que reglamenta el acceso a la información en el estado, deberá expedirse dentro de los 5 días naturales siguientes a la fecha en que entre en vigor el presente decreto.
 Artículo Tercero.- Para la integración inicial del Instituto y por única vez, los comisionados que sean electos por primera ocasión serán elegidos por cuatro, cinco y seis años, respectivamente.

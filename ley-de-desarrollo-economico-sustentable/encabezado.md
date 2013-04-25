@@ -1,4 +1,4 @@
-LEY DE DESARROLLO ECONOMICO SUSTENTABLE DEL ESTADO LIBRE Y SOBERANO DE MORELOS
+LEY DE DESARROLLO ECONÓMICO SUSTENTABLE DEL ESTADO LIBRE Y SOBERANO DE MORELOS
 Ley publicada en el Periódico Oficial del Estado de Morelos, el miércoles 4 de junio de 2008.
 Al margen izquierdo un Escudo del Estado de Morelos que dice: "Tierra y Libertad".- La Tierra volverá a quienes la trabajan con sus manos. Poder Legislativo.-L Legislatura.-2006-2009.
 DR. MARCO ANTONIO ADAME CASTILLO. GOBERNADOR CONSTITUCIONAL DEL ESTADO LIBRE Y SOBERANO DE MORELOS A SUS HABITANTES SABED:

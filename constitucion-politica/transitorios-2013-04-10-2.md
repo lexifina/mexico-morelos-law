@@ -1,5 +1,5 @@
 P.O. 10 DE ABRIL DE 2013.
-DECRETO NÚMERO 429 POR EL QUE SE REFORMA LA FRACCIÓN XXII Y SE LE ADICIONA UN PÁRRAFO A LA MISMA, DEL ARTÍCULO 70 DE LA CONSTITUCIÓN POLÍTICA DEL ESTADO LIBRE Y SOBERANO DE MORELOS.
+DECRETO NÚMERO 429, POR EL QUE SE REFORMA LA FRACCIÓN XXII Y SE LE ADICIONA UN PÁRRAFO A LA MISMA, DEL ARTÍCULO 70 DE LA CONSTITUCIÓN POLÍTICA DEL ESTADO LIBRE Y SOBERANO DE MORELOS.
 Primero.- Una vez aprobado el presente decreto, remítase al Constituyente Permanente para su aprobación.
 Segundo.- Aprobado que sea el presente decreto, remítase al Ejecutivo del Estado para que realice la publicación correspondiente en el Periódico Oficial "Tierra y Libertad".
 Tercero.- El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "Tierra y Libertad", órgano de difusión del Gobierno del Estado.
