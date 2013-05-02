@@ -1,4 +1,4 @@
-LEY ORGANICA DEL INSTITUTO DE DESARROLLO Y FORTALECIMIENTO MUNICIPAL DEL ESTADO DE MORELOS
+LEY ORGÁNICA DEL INSTITUTO DE DESARROLLO Y FORTALECIMIENTO MUNICIPAL DEL ESTADO DE MORELOS
 Ley publicada en el Periódico Oficial del Estado de Morelos, el viernes 20 de julio de 2001.
 Al margen izquierdo un escudo del Estado de Morelos que dice.- "Tierra y Libertad".- La tierra volverá a quienes la trabajen con sus manos.- Poder Ejecutivo del Estado de Morelos.
 SERGIO ALBERTO ESTRADA CAJIGAL RÁMIREZ, GOBERNADOR CONSTITUCIONAL DEL ESTADO LIBRE Y SOBERANO DE MORELOS A SUS HABITANTES SABED.
