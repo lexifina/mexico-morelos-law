@@ -1,0 +1,2 @@
+(ADICIONADO, P.O. 1 DE MAYO DE 2013)
+Artículo 128 Bis.- Cuando el Ayuntamiento en uso de sus facultades realice obra pública por contrato, y éstas por cuanto a su financiamiento se ejecuten con recursos o aportaciones de la federación, se estará sujeto a las disposiciones de la Legislación Federal en la materia, lo que deberá precisarse en las convocatorias, invitaciones, bases y contratos correspondientes.
