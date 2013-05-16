@@ -1,0 +1,2 @@
+(ADICIONADO, P.O. 15 DE MAYO DE 2013)
+Artículo 19 Ter.- El Estado y los Municipios participaran de manera conjunta en la implementación de Políticas Públicas para prevenir, identificar, atender y resolver esta modalidad de violencia, realizando acciones y programas de prevención de la violencia en el noviazgo en adolescentes y jóvenes, a través de mecanismos de información y campañas para erradicar los roles, estereotipos sexistas, las prácticas de resolución violentas de conflictos, la misoginia y la legitimación social al uso de la violencia.
