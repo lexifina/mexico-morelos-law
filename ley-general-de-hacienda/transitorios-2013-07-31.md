@@ -1,0 +1,4 @@
+P.O. 31 DE JULIO DE 2013.
+ARTÍCULO PRIMERO.- Remítase el presente Decreto al Titular del Poder Ejecutivo del Estado, para su promulgación y publicación respectiva de conformidad con los artículos 44 y 70 fracción XVII de la Constitución Política del Estado Libre y Soberano de Morelos.
+ARTÍCULO SEGUNDO.- El presente Decreto, entrará en vigor al día siguiente de su publicación en el Periódico Oficial "Tierra y Libertad', órgano de difusión del Gobierno del Estado de Morelos.
+ARTÍCULO TERCERO.- A partir del primer día del mes siguiente a la fecha de la publicación del presente decreto, deberá realizarse el ajuste a las tarifas establecidas en el artículo 94 de la Ley General de Hacienda del Estado de Morelos, para los servicios de la Policía Industrial Bancaria y Auxiliar, lo cual se verá reflejado en los contratos correspondientes.
