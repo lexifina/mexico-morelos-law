@@ -1,0 +1,2 @@
+(ADICIONADO, P.O. 9 DE OCTUBRE DE 2013)
+Artículo 115 Ter.- Se establece la Comisión Interinstitucional de Prevención contra la Diabetes, que tendrá por objeto coordinar, difundir, orientar y ejecutar acciones para prevenir la diabetes, lo que podrá desarrollarse en coordinación con otras dependencias o entidades de la Administración Pública Estatal o Federal, así como con el sector privado y social.
