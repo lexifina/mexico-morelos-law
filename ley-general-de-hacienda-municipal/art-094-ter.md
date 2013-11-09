@@ -1,0 +1,2 @@
+(ADICIONADO, P.O. 6 DE NOVIEMBRE DE 2013)
+ARTICULO 94 TER.- Son sujetos obligados al pago del Impuesto Sobre Adquisición de Bienes Inmuebles establecido en esta Ley, las personas físicas y morales que adquieran inmuebles que consistan en el suelo, en las Construcciónes en su caso, ubicados en el Municipio, así como los derechos relacionados con los mismos a que esta Ley se refiere. El impuesto se calculará aplicando al valor del inmueble la tasa del dos por ciento.

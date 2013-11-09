@@ -1,0 +1,2 @@
+(ADICIONADO, P.O. 6 DE NOVIEMBRE DE 2013)
+ARTICULO 93 TER.- Están obligados al pago del impuesto predial establecido en este Capítulo las personas físicas y morales que sean propietarias del suelo y Construcciónes adheridas a él, independientemente de los derechos que sobre las Construcciónes tenga un tercero. Los poseedores también están obligados al pago del impuesto predial por los inmuebles que posean, cuando no se conozca propietario o el derecho de propiedad sea controvertible.

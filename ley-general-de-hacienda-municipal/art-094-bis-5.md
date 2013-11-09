@@ -1,3 +1,1 @@
-(ADICIONADO, P.O. 17 DE NOVIEMBRE DE 1999)
-ARTICULO 94 BIS-5.- En las adquisiciones que se hagan constar en escritura pública, los notarios, corredores y demás fedatarios que por disposición legal tengan funciones notariales, calcularán el impuesto bajo su responsabilidad por cada uno de los actos que consignen, lo que harán constar en la escritura y lo enterarán mediante declaración en la Tesorería Municipal que corresponda a la ubicación del inmueble.
-En los demás casos, los contribuyentes pagarán el impuesto mediante declaración ante la Tesorería Municipal que corresponda a la ubicación del inmueble.
+ARTICULO 94 BIS-5.- (DEROGADO, P.O. 6 DE NOVIEMBRE DE 2013)

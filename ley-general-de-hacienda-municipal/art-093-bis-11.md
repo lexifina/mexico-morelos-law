@@ -1,2 +1,1 @@
-(ADICIONADO, P.O. 17 DE NOVIEMBRE DE 1999)
-ARTICULO 93 BIS-11.- Se prohibe a los notarios y corredores públicos autorizar, en forma definitiva, escrituras en que hagan constar los contratos o resoluciones judiciales o administrativas, cuyo objeto sean predios ubicados en el Municipio, mientras no se les sea exhibido certificado de no adeudo del impuesto predial, así como el recibo oficial del pago del impuesto predial al bimestre en que se efectúa la escritura respecto de dichos predios.
+ARTICULO 93 BIS-11.- (DEROGADO, P.O. 6 DE NOVIEMBRE DE 2013)

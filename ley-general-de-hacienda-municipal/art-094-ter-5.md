@@ -1,0 +1,4 @@
+(ADICIONADO, P.O. 6 DE NOVIEMBRE DE 2013)
+ARTICULO 94 TER-5.- En las adjudicaciones que se hagan constar en escritura pública, los notarios y quien por disposición legal tengan funciones notariales, calcularán el impuesto bajo su responsabilidad por cada uno de los actos que consignen, lo que harán constar en la escritura y lo enterarán mediante declaración en la Tesorería Municipal que corresponda a la ubicación del inmueble.
+Los contribuyentes que adquieran un inmueble cuyo valor no exceda al equivalente a 365 días de Salario Mínimo General Vigente en el Estado de Morelos, en el momento de la operación, pagarán el impuesto mediante declaración ante la Tesorería Municipal, acreditando lo establecido en el artículo 1805 del Código Civil para el Estado Libre y Soberano de Morelos vigente.
+En los demás casos, los contribuyentes pagarán el impuesto mediante declaración ante la Tesorería Municipal que corresponda a la ubicación del inmueble.

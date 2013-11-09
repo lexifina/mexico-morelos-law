@@ -1,0 +1,2 @@
+(ADICIONADO, P.O. 6 DE NOVIEMBRE DE 2013)
+ARTICULO 93 TER-11.- Se prohíbe a los notarios autorizar, en forma definitiva, escritura en que hagan constar los contratos o resoluciones judiciales o administrativas, cuyo objeto sean predios ubicados en el Municipio, mientras no les sea exhibido certificado de no adeudo del impuesto predial, así como el recibo oficial de pago del impuesto predial al bimestre en que se efectúa la escritura respecto de dichos predios.
