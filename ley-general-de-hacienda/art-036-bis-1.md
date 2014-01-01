@@ -1,0 +1,11 @@
+(ADICIONADO, P.O. 20 DE DICIEMBRE DE 2013)
+Artículo 36 Bis-1. Los contribuyentes habituales tendrán las siguientes obligaciones:
+I. Registrarse en el Padrón Estatal de Contribuyentes a más tardar quince días antes al que vayan a dar principio las actividades gravadas;
+II. Presentar los avisos de cambio de domicilio o suspensión de actividades, ante la autoridad fiscal, dentro de los tres días siguientes a la fecha en que ocurran tales hechos o circunstancias;
+III. Dar aviso por escrito a la autoridad fiscal de los permisos o autorizaciones que les otorguen las autoridades competentes para la realización de espectáculos o diversiones públicas, a más tardar el día anterior a su realización;
+IV. Amparar la cuota de admisión con boleto. Dicho comprobante debe contener pre impreso como mínimo los siguientes datos: folio, el nombre o denominación social del contribuyente, espectáculo o diversión de que se trate, precio, fecha e indicarse cuando sea boleto de cortesía;
+V. Conservar los talonarios de boletos, en los términos que se establecen en el Código;
+VI. Notificar por escrito a la Autoridad Fiscal de cualquier cambio en los precios fijados para los boletos de entrada o en los programas que correspondan a cada función de la diversión o espectáculo público, a más tardar el mismo día de la celebración de dichos eventos, pero antes de que se lleven a cabo los mismos;
+VII. Permitir en los eventos la presencia de los interventores fiscales que hayan sido designados por la autoridad fiscal, quienes darán cuenta de los ingresos obtenidos por la venta de boletos pudiendo éstos recaudar y expedir el recibo oficial provisional al final del evento, el cual será canjeado por el Comprobante Fiscal Digital correspondiente, dentro de los siguientes tres días hábiles, para ello el contribuyente deberá suscribir la declaración definitiva;
+VIII. Cuando no se presente el interventor fiscal, presentar la declaración correspondiente mediante autodeterminación del impuesto a pagar respecto a cada evento a más tardar el día diecisiete del mes siguiente a la realización del evento, y
+IX. Exhibir ante la Autoridad Fiscal los libros, registros y documentos relacionados con el o los eventos, cuando ésta así se lo requiera, mediante el ejercicio de facultades de comprobación.

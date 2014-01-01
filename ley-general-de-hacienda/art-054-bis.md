@@ -1,0 +1,3 @@
+(ADICIONADO, P.O. 20 DE DICIEMBRE DE 2013)
+Artículo 54 Bis.- La Secretaría podrá designar interventores para determinar, liquidar y retener el monto del impuesto a pagar, el mismo día o en la función que corresponda; para lo cual los organizadores o representantes legales deberán prestar todas las facilidades legales para el cálculo y entero del impuesto.
+Los interventores designados deberán levantar acta circunstanciada del inicio de intervención, desarrollo y cierre, retener el impuesto y entregar a los contribuyentes recibo oficial provisional por la cantidad efectivamente retenida, mismo que deberá canjearse por el comprobante fiscal digital correspondiente en las oficinas de la Secretaría.

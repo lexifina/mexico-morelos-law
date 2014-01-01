@@ -1,0 +1,2 @@
+(ADICIONADO, P.O. 20 DE DICIEMBRE DE 2013)
+Artículo 36 Bis-4. Los funcionarios encargados de dar permiso o licencia para la celebración de cualquier diversión o espectáculo público deberán informar a la autoridad fiscal de las autorizaciones que otorguen a más tardar el día hábil anterior al de la realización de los eventos generadores del impuesto; en los términos de los Convenios de Colaboración que al efecto celebre la Secretaría con los Municipios.

@@ -4,5 +4,7 @@ La tarifa estimada por el reúso de estas aguas residuales tratadas se hará en 
 a) Por cada pipa (6m3) de agua residual tratada con fines de servicio público con contacto directo y con destino de traslado a veinte kilómetros de distancia desde el punto de llenado: 4.5 SMGV.
 b) Por cada pipa (6m3) de agua residual tratada con fines de servicio al público con contacto indirecto u ocasional y con destino de traslado a veinte kilómetros de distancia desde el punto de llenado: 3.5 SMGV.
 c) Por cada cinco kilómetros adicionales de distancia desde el punto de llenado en cualquier de los dos supuestos señalados 0.25 SMGV.
-d) Por cada carga de la pipa con capacidad máxima de 6m3 de agua residual tratada con fines de servicio al público con contacto directo y con destino de traslado a veinte kilómetros de distancia desde el punto de llenado 1.5 SMGV.
-e) Por cada carga de la pipa con capacidad máxima de 6m3 de agua residual tratada con fines de servicio al público con contacto indirecto u ocasional y con destino de traslado a veinte kilómetros de distancia desde el punto de llenado 1 SMGV.
+(REFORMADO, P.O. 20 DE DICIEMBRE DE 2013)
+d) Por cada carga de pipa con capacidad máxima de 6m3 de agua residual tratada con fines de servicio al público con contacto directo:1.50 SMGV.
+(REFORMADO, P.O. 20 DE DICIEMBRE DE 2013)
+e) Por cada carga de pipa con capacidad máxima de 6m3 de agua residual tratada con fines de servicio al público con contacto indirecto u ocasional:1.00 SMGV.
