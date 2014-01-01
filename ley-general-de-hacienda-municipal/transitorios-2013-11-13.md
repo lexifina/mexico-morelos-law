@@ -1,0 +1,6 @@
+P.O. 13 DE NOVIEMBRE DE 2013.
+PRIMERA.- Remítase el presente Decreto al Titular del Poder Ejecutivo del Estado, para su promulgación y publicación respectiva de conformidad con los artículos 44 y 70, fracción XVII, de la Constitución Política del Estado Libre y Soberano de Morelos.
+SEGUNDA.- En virtud de que ya no se causará en favor de los contribuyentes el pago a los Ayuntamientos del Estado de Morelos, por concepto de los derechos mencionados en el presente Decreto, se ordena a los 33 Ayuntamientos, que no sea incluido dicho cobro como un ingreso en sus respectivas Leyes de Ingresos a partir del Ejercicio Fiscal del año de 2014.
+TERCERA.- El presente Decreto entrará en vigor el día 1 de Enero de 2014, previa su publicación en el Periódico Oficial "Tierra y Libertad", Órgano de difusión del Gobierno del Estado de Morelos.
+Difúndase en todo el Estado y que los treinta y tres Ayuntamientos lo den a conocer en todas sus comunidades, colonias, fraccionamientos y rancherías, a efecto de que ningún adulto mayor, se quede sin la pensión por no tener su acta de nacimiento; asimismo, publíquese en el portal de internet del Congreso del Estado.
+CUARTA.- Se derogan todas las disposiciones de igual o menor rango que se opongan al presente decreto.

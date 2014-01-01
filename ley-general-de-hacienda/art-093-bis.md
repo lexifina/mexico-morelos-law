@@ -2,7 +2,7 @@
 CAPÍTULO SÉPTIMO BIS
 DE LOS SERVICIOS EN MATERIA DE AGUA Y SANEAMIENTO
 (ADICIONADO, P.O. 26 DE DICIEMBRE DE 2012)
-Artículo 93 BIS. El pago de derechos por la prestación de servicios que proporciona la Comisión Estatal del Agua, se causarán en la siguiente forma:
+Artículo 93 Bis. El pago de derechos por la prestación de servicios que proporciona la Comisión Estatal del Agua, se causarán en la siguiente forma:
 EN MATERIA DE AGUA Y SANEAMIENTOTarifa en SMGV
 a) Maniobra de extracción de equipo de bombeo de
 pozo profundo con grúa a distancia de 50 Km. De
