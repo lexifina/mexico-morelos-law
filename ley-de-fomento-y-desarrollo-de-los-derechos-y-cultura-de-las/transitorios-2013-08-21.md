@@ -1,0 +1,5 @@
+P.O. 21 DE AGOSTO DE 2013.
+PRIMERO.- Remítase el presente Decreto al Titular del Poder Ejecutivo del Estado, para su promulgación y publicación respectiva de conformidad con los artículos 44 y 70, fracción XVII, de la Constitución Política del Estado Libre y Soberano de Morelos.
+SEGUNDO.- El presente Decreto iniciará su vigencia el día primero de enero del año 2014, para cuyo efecto el titular del Ejecutivo Estatal, previamente emitirá el Decreto de Creación del Instituto Estatal de Lenguas Indígenas, como órgano desconcentrado de la Administración Pública, en términos de lo dispuesto por el artículo 5 de la Ley Orgánica de la Administración Pública del Estado de Morelos.
+TERCERO.- Para el inicio de operaciones del Instituto Estatal de Lenguas Indígenas el Poder Ejecutivo, incluirá las previsiones presupuestales que se requieran en el proyecto de Presupuesto de Egresos del Gobierno del Estado, para el ejercicio del año 2014.
+CUARTO.- Se derogan aquellas disposiciones de igual o menor rango que se opongan al contenido del presente Decreto.
