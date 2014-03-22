@@ -1,18 +1,15 @@
-(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 7 DE JULIO DE 1988)
-CAPITULO IV.
-DE LA PROCURADURIA GENERAL DE JUSTICIA.
-(REFORMADO PRIMER PÁRRAFO, P.O. 28 DE AGOSTO DE 1998)
-Artículo 79-A.- El Ministerio Público tiene las atribuciones fundamentales siguientes:
-I.- Vigilar y procurar el exacto cumplimiento de la Ley y el respeto a las garantías individuales en todos los asuntos en que intervenga, interponiendo los recursos que fueren procedentes con arreglo a la Ley e intervenir en cuanto corresponda para que la administración de justicia sea pronta y expedita.
-(REFORMADA, P.O. 1 DE SEPTIEMBRE DE 2000)
-II.- Perseguir ante los Tribunales del orden común los delitos; en consecuencia, a él corresponderá recibir las denuncias, acusaciones o querellas tanto de las autoridades como de los particulares, practicar desde luego, las diligencias de carácter urgente, que no fueren de la exclusiva competencia de las autoridades judiciales, buscar y presentar las pruebas que acrediten los elementos del cuerpo del delito de que se trate, así como las que acrediten la probable responsabilidad de los inculpados;
-(REFORMADA, P.O. 28 DE AGOSTO DE 1998)
-III.- Ejercitar acción penal en contra de los probables responsables del delito ante los Tribunales competentes, solicitando las órdenes de aprehensión que procedan con arreglo a la ley.
-(REFORMADA, P.O. 28 DE AGOSTO DE 1998)
-IV.- Hacer lo conducente para que los juicios se sigan con toda regularidad, pidiendo la aplicación de las penas que estime procedentes en sus respectivos casos;
-(REFORMADA, P.O. 28 DE AGOSTO DE 1998)
-V.- Intervenir en los asuntos judiciales que interesen a la sociedad y a las personas a quienes la ley conceda especial protección, en la forma y términos que la misma determine;
-(REFORMADA, P.O. 14 DE NOVIEMBRE DE 2007)
-VI.- Bajo pena de responsabilidad, remitir al Juez competente, dentro de los plazos que señale la Ley, a los menores que tengan entre doce años cumplidos y menos de dieciocho años de edad, a quienes se atribuya la realización de una conducta tipificada como delito por las leyes penales, garantizando los derechos fundamentales que reconoce la Constitución de los Estados Unidos Mexicanos y los Tratados Internacionales ratificados por nuestro país para todo individuo, así como aquellos derechos específicos que por su condición de personas en desarrollo les han sido reconocidos. El Ministerio Público especializado en ningún caso podrá detener ni sujetar a investigación a las personas menores de doce años que hayan realizado una conducta prevista como delito en la ley;
-(ADICIONADA, P.O. 14 DE NOVIEMBRE DE 2007)
-VII.- Ejercer las demás atribuciones que le encomienden las leyes.
+(REFORMADA SU DENOMINACIÓN, P.O. 19 DE MARZO DE 2014)
+CAPÍTULO IV.
+DE LA FISCALÍA GENERAL DEL ESTADO DE MORELOS.
+(REFORMADO, P.O. 19 DE MARZO DE 2014)
+Artículo 79-A.- El ejercicio de las funciones del Ministerio Público se realizará por medio de la Fiscalía General del Estado de Morelos, la que estará dotada de autonomía de gestión, técnica y de ejercicio y aplicación del gasto público que le asigne el Congreso del Estado en el presupuesto anual correspondiente. Su Titular será el Fiscal General del Estado.
+En el Decreto del Presupuesto de Egresos del Gobierno del Estado, la asignación de recursos destinados a la Fiscalía General del Estado nunca será menor a la que le haya correspondido en el Ejercicio Fiscal del año anterior.
+El Ministerio Público, además de las atribuciones que la Constitución Política de los Estados Unidos Mexicanos le confiere, tendrá las siguientes:
+I.- Vigilar y procurar el exacto cumplimiento de la Ley y el respeto a los Derechos Humanos en todos los asuntos en que intervenga;
+II.- Interponer los recursos que fueren procedentes con arreglo a la Ley e intervenir en cuanto corresponda para que la administración de justicia sea pronta y expedita;
+III.- Investigar y perseguir ante los tribunales del orden común los delitos, en términos de lo dispuesto por las normas penales, tanto del fuero común como cuando se produzca la competencia concurrente en el ámbito federal;
+IV.- Como participante de los Sistemas De Seguridad Pública, establecer la coordinación necesaria con las Policías Preventivas, Estatales y Municipales, para las acciones de investigación y persecución de los delitos, para una efectiva Seguridad Pública, diseñando y aplicando los protocolos pertinentes;
+V.- Atender, en sus términos, la legislación relativa a la atención de víctimas de delitos y de violaciones de Derechos Humanos, incorporando estrategias, políticas y modelos de profesionalización de los recursos humanos que tenga asignados;
+VI.- Intervenir en los procedimientos judiciales en que tenga competencia, atendiendo las reglas del debido proceso y, en su caso, en los asuntos judiciales que interesen a la sociedad y a las personas a quienes la ley conceda especial protección, en la forma y términos que la misma determine;
+VII.- Bajo pena de responsabilidad, remitir al Juez competente, dentro de los plazos que señale la Ley, a quienes tengan entre doce años cumplidos y menos de dieciocho años de edad y se les atribuya la realización de una conducta tipificada como delito por las leyes penales, garantizando los derechos fundamentales que reconocen la Constitución Política de los Estados Unidos Mexicanos y los Tratados Internacionales ratificados por nuestro país para todo individuo, así como aquellos derechos específicos que por su condición de personas en desarrollo les han sido reconocidos. El Ministerio Público especializado en ningún caso podrá detener ni sujetar a investigación a las personas menores de doce años que hayan realizado una conducta prevista como delito en la ley, y
+VIII.- Ejercer las demás atribuciones que le encomienden las leyes.
