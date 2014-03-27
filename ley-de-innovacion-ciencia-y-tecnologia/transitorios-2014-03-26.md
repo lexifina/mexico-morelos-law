@@ -1,0 +1,6 @@
+P.O. 26 DE MARZO DE 2014.
+PRIMERA. El presente Decreto entrará en vigor a partir del día siguiente de su publicación, en el Periódico Oficial "Tierra y Libertad", Órgano de Difusión del Gobierno del Estado de Morelos.
+SEGUNDA. Remítase el presente Decreto al Gobernador Constitucional del Estado, para los efectos de lo dispuesto por los artículos 44 y 70, fracción XVII, de la Constitución Política del Estado Libre y Soberano de Morelos.
+TERCERA. Se derogan todas las disposiciones de igual o menor rango jerárquico normativo que se opongan al presente Decreto.
+CUARTA. Dentro de un plazo de noventa días hábiles, contados a partir de la entrada en vigor del presente Decreto, el Poder Ejecutivo del Estado, realizará las adecuaciones necesarias al Reglamento de la Ley de Innovación, Ciencia y Tecnología para el Estado de Morelos, incluida la derogación de las disposiciones normativas que correspondan y deban contenerse en el Estatuto Orgánico del Consejo de Ciencia y Tecnología del Estado de Morelos.
+QUINTA. La Junta de Gobierno del Consejo de Ciencia y Tecnología del Estado de Morelos, dentro de un plazo de noventa días hábiles, contados a partir de la vigencia del presente Decreto, deberá aprobar y expedir el Estatuto Orgánico de dicho Organismo Público Descentralizado atendiendo a las disposiciones de este instrumento.

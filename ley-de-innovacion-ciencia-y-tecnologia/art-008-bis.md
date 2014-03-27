@@ -18,5 +18,7 @@ XV. Integrar el padrón de instituciones y organismos de Ciencia y Tecnología d
 XVI. Fomentar la colaboración interinstitucional, la creación de redes científicas y tecnológicas y la articulación de las instituciones del sistema para la ejecución de acciones coordinadas en materia de ciencia y tecnología;
 XVII. Crear, desarrollar, operar y evaluar el Sistema Estatal de Investigadores;
 XVIII. Otorgar estímulos económicos y reconocimiento al mérito estatal de innovación, ciencia y tecnología a las instituciones y miembros de la comunidad científica integrantes del Sistema;
-XIX. Promover la integración del Sistema Estatal de Información y Comunicación de Ciencia y Tecnología, procurando su articulación con el Sistema de Información Científica y Tecnológica del CONACYT y realizar estudios sobre esta materia; y
-XX. Las demás que otras disposiciones jurídicas o administrativas o el Gobernador del Estado le encomiende.
+(ADICIONADA, P.O. 26 DE MARZO DE 2014)
+XIX. Garantizar la inclusión de la perspectiva de género con una visión transversal en la ciencia, la tecnología y la innovación, así como una participación equitativa de mujeres y hombres en todos los ámbitos del Sistema;
+XX. Promover la integración del Sistema Estatal de Información y Comunicación de Ciencia y Tecnología, procurando su articulación con el Sistema de Información Científica y Tecnológica del CONACYT y realizar estudios sobre esta materia; y
+XXI. Las demás que otras disposiciones jurídicas o administrativas o el Gobernador del Estado le encomiende.
