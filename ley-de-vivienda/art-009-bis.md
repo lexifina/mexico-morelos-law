@@ -1,0 +1,3 @@
+(ADICIONADO, P.O. 30 DE ABRIL DE 2014)
+ARTÍCULO 9 BIS.- Los Gobiernos Estatal y Municipales no otorgarán licencias, anuencias, permisos, autorizaciones para la construcción de vivienda de cualquier nivel, hasta en tanto no se emita un dictamen de riesgo por parte del Instituto Estatal de Protección Civil, a través del cual se garantice que el proyecto de construcción se encuentra libre de zonas de riesgo de eventos geológicos o hidrometeorológicos.
+La falta de cumplimiento a la presente disposición, será sancionada en los términos de la Ley Estatal de Responsabilidades de los Servidores Públicos, con independencias de otro tipo de responsabilidades que, en su caso, se generen a raíz de los actos u omisiones de los servidores públicos responsables.
