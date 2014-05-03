@@ -1,0 +1,4 @@
+P.O. 30 DE ABRIL DE 2014.
+DECRETO NÚMERO MIL TRESCIENTOS VEINTICUATRO POR EL QUE SE ADICIONA LA FRACCIÓN VI, AL ARTÍCULO 42 Y SE REFORMA EL ARTICULO 43, DE LA CONSTITUCIÓN POLÍTICA DEL ESTADO LIBRE Y SOBERANO DE MORELOS
+Artículo Primero.- Remítase el presente Decreto al Titular del Poder Ejecutivo del Estado, para su publicación en el Periódico Oficial "Tierra y Libertad", Órgano de difusión del Gobierno del Estado de Morelos, lo anterior, con fundamento en los (sic) dispuesto por los artículos 147 y 148, de la Constitución Política del Estado Libre y Soberano de Morelos.
+Artículo Segundo.- Toda vez que fue aprobado por el Constituyente Permanente, el presente Decreto inicio su vigencia a partir de la Declaratoria emitida por la LII Legislatura del Congreso del Estado, en consecuencia, las reformas y adiciones se tienen como parte de esta Constitución.
