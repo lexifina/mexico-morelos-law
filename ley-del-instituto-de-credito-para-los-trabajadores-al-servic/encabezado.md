@@ -1,4 +1,4 @@
-LEY DEL INSTITUTO DE CREDITO PARA LOS TRABAJADORES AL SERVICIO DEL GOBIERNO DEL ESTADO
+LEY DEL INSTITUTO DE CRÉDITO PARA LOS TRABAJADORES AL SERVICIO DEL GOBIERNO DEL ESTADO DE MORELOS
 Ley publicada en el Periódico Oficial del Estado de Morelos, el miércoles 4 de enero de 1984.
 Al margen izquierdo un escudo nacional que dice: Estados Unidos Mexicanos.- Gobierno del Estado Libre y Soberano de Morelos.- Poder Ejecutivo.
 LAURO ORTEGA MARTINEZ, GOBERNADOR CONSTITUCIONAL DEL ESTADO LIBRE Y SOBERANO DE MORELOS, A SUS HABITANTES SABED:
