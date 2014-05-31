@@ -1,0 +1,5 @@
+P.O. 28 DE MAYO DE 2014.
+DECRETO NÚMERO MIL TRECIENTOS SESENTA Y SEIS, POR EL QUE SE REFORMAN EL INCISO B), DE LA FRACCIÓN II, DEL ARTÍCULO 19; LAS FRACCIONES XX Y XLVIII, DEL ARTÍCULO 40; LAS FRACCIONES XVII, XXII Y XLII, DEL ARTÍCULO 70; Y LOS PÁRRAFOS PRIMERO Y SEGUNDO, DEL ARTÍCULO 121; TODOS DE LA CONSTITUCIÓN POLÍTICA DEL ESTADO LIBRE Y SOBERANO DE MORELOS.
+PRIMERA. Remítase el presente Decreto al Titular del Poder Ejecutivo del Estado, para su publicación en el Periódico Oficial "Tierra y Libertad", Órgano de difusión del Gobierno del Estado de Morelos, lo anterior, con fundamento en el artículo 145 del Reglamento para el Congreso del Estado de Morelos.
+SEGUNDA. Toda vez que fue aprobado por el Constituyente Permanente, el presente Decreto inició su vigencia a partir de la Declaratoria emitida por la LII Legislatura del Congreso del Estado, en consecuencia, las reformas se tienen como parte de esta Constitución.
+TERCERA. Se derogan todas las disposiciones de menor rango jerárquico normativo que contravengan lo dispuesto por el presente Decreto.
