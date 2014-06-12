@@ -1,4 +1,4 @@
-LEY DE COORDINACION PARA EL DESARROLLO METROPOLITANO DEL ESTADO DE MORELOS
+LEY DE COORDINACIÓN PARA EL DESARROLLO METROPOLITANO DEL ESTADO DE MORELOS
 Ley publicada en el Periódico Oficial del Estado de Morelos, el miércoles 19 de enero de 2011.
 Al margen izquierdo un sello con el Escudo del Estado de Morelos que dice: "Tierra y Libertad".- La Tierra volverá a quienes la trabajan con sus manos. Poder Legislativo.-LI LEGISLATURA. 2009-2012.
 MTRO. MARCO ANTONIO ADAME CASTILLO, GOBERNADOR CONSTITUCIONAL DEL ESTADO LIBRE Y SOBERANO DE MORELOS A SUS HABITANTES SABED:

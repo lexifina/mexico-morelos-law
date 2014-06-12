@@ -1,6 +1,6 @@
 (NOTA: EL 7 DE JULIO DE 2015, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN EL CONSIDERANDO SÉPTIMO, ASÍ COMO EN EL RESOLUTIVO SEGUNDO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 12/2014, DECLARÓ LA INVALIDEZ DE ESTE ARTÍCULO EN VÍA DE CONSECUENCIA, LA CUAL SURTIÓ EFECTOS RETROACTIVOS AL 15 DE JUNIO DE 2012 DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www2.scjn.gob.mx/expedientes/).
 (ADICIONADO, P.O. 9 DE JULIO DE 2008)
-ARTICULO 148 Ter.- A quien cometa el delito de trata de personas se le aplicará:
+ARTICULO 148 TER.- A quien cometa el delito de trata de personas se le aplicará:
 I. De ocho a quince años de prisión y de mil a dos mil quinientos días multa;
 II. De nueve a dieciocho años de prisión y de mil quinientos a tres mil días multa si se emplease violencia física o moral.
 III. Las penas que resulten de las fracciones I de este artículo se incrementarán hasta una mitad:

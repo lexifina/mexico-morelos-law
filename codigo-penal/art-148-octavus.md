@@ -1,0 +1,2 @@
+(ADICIONADO, P.O. 11 DE JUNIO DE 2014)
+ARTICULO 148 OCTAVUS.- Se sancionará de tres a seis años de prisión y multa de doscientos a cuatrocientos Salarios Mínimos Vigente en la región, a la autoridad superior jerárquica que orgánica y legalmente tenga el deber jurídico de actuar e impedir la desaparición forzada y que sin embargo no lo hiciere, permitiendo por ausencia en el orden de mando la perpetración del delito.
