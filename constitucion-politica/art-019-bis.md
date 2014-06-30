@@ -6,7 +6,7 @@ Artículo 19-Bis.- Esta Constitución reconoce como medios de participación ciu
 A.- DE LOS MEDIOS DE PARTICIPACIÓN CIUDADANA
 I.- Se entiende por Plebiscito la consulta a los ciudadanos para que expresen su previa aprobación o rechazo a un acto o decisión del Poder Ejecutivo o de los Ayuntamientos, que sean considerados como trascendentes para la vida pública del Estado o de los Municipios.
 a).- Podrán someterse a Plebiscito:
-1.- Los actos o decisiones de carácter general del Ejecutivo del Estado que se consideren como trascendentes en la vida pública de esta Entidad Federativa; y (sic)
+1.- Los actos o decisiones de carácter general del Ejecutivo del Estado que se consideren como trascendentes en la vida pública de esta Entidad Federativa; y
 2.- Los actos o decisiones de gobierno, de las autoridades municipales, siempre que se consideren como trascendentes para la vida pública del municipio.
 3.- Los actos y/o decisiones del Poder Legislativo.
 b).- No podrán someterse a Plebiscito los actos o decisiones del Ejecutivo del Estado o de los Ayuntamientos, relativos a:
@@ -61,6 +61,8 @@ El cargo de Consejero será honorífico. Cada Consejero tendrá un suplente y si
 El Consejo trabajará en forma colegiada y expedirá su Reglamento interno con base en lo establecido en esta Constitución y en la Ley reglamentaria.
 Entre los objetivos del Consejo estará además el promover y desarrollar Planes y programas a largo plazo, que sirvan de base para los Programas Anuales de Desarrollo de los Gobiernos en el Estado.
 2.- El Consejo será el organismo encargado de calificar la procedencia o improcedencia de las solicitudes de Plebiscito, Referéndum, Revocación de Mandato, Iniciativa Popular y Rendición de Cuentas que se presenten.
-El Consejo Estatal de Participación Ciudadana, con el apoyo ejecutivo del Instituto Estatal Electoral se encargará de preparar, desarrollar, vigilar y calificar los procesos de Revocación de Mandato, Rendición de Cuentas, Referéndum y de Plebiscito, que sean promovidos de conformidad con la Constitución Política del Estado y la ley de la materia.
-Corresponde al Instituto Estatal Electoral hacerse cargo del desarrollo operativo de dichos procesos.
+(REFORMADO, P.O. 27 DE JUNIO DE 2014)
+El Consejo Estatal de Participación Ciudadana, con el apoyo ejecutivo del Organismo Público Electoral de Morelos, se encargará de preparar, desarrollar, vigilar y calificar los procesos de Revocación de Mandato, Rendición de Cuentas, Referéndum y de Plebiscito, que sean promovidos de conformidad con la Constitución Política del Estado y la Ley de la materia.
+(REFORMADO, P.O. 27 DE JUNIO DE 2014)
+Corresponde al Organismo Público Electoral de Morelos, la organización, desarrollo, cómputo y declaración de resultados en los mecanismos de participación ciudadana previstos por la Legislación Local.
 En ningún caso la ausencia de texto normativo impedirá que se ejerzan los derechos de los ciudadanos.

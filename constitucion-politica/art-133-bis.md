@@ -1,8 +1,11 @@
 (REFORMADA SU NUMERACIÓN, P.O. 20 DE JULIO DE 2005)
 CAPITULO III.
 DE LA DECLARACION Y SITUACION PATRIMONIAL DE LOS SERVIDORES PUBLICOS.
+(REFORMADO PRIMER PÁRRAFO, P.O. 27 DE JUNIO DE 2014)
+Artículo 133-Bis.- Tienen obligación de presentar declaraciones patrimoniales los integrantes de los Poderes Legislativo, Ejecutivo y Judicial, los miembros de los Ayuntamientos y los integrantes y funcionarios del Organismo Público Electoral de Morelos, así como del Tribunal Electoral del Estado de Morelos, en los términos que disponga la ley de la materia.
 (ADICIONADO, P.O. 1 DE SEPTIEMBRE DE 2000)
-Artículo 133-BIS.- Tienen obligación de presentar declaraciones patrimoniales los integrantes de los Poderes Legislativo, Ejecutivo y Judicial, los miembros de los Ayuntamientos, los integrantes y funcionarios del Instituto Estatal Electoral, en los términos que disponga la ley de la materia.
 Dichas declaraciones serán: de situación patrimonial al inicio de su gestión y se presentarán dentro de los primeros 30 días naturales de haber tomado posesión del cargo, empleo o puesto; de modificación patrimonial, dentro del mes de enero de cada año de su función; y la declaración patrimonial al término del cargo, empleo o puesto, dentro de los treinta días naturales siguientes, de conformidad con la ley reglamentaria.
+(ADICIONADO, P.O. 1 DE SEPTIEMBRE DE 2000)
 Las declaraciones deberán contener los bienes propios, de todo tipo, los de su cónyuge y los de sus ascendientes o descendientes y demás personas que dependan económicamente del servidor público, así como los demás datos e informes que determine la Ley de Responsabilidades de los Servidores Públicos del Estado de Morelos.
+(ADICIONADO, P.O. 1 DE SEPTIEMBRE DE 2000)
 La presentación se hará ante el propio Congreso del Estado.
