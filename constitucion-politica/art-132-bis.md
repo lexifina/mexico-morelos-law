@@ -1,0 +1,3 @@
+(ADICIONADO, P.O. 9 DE JULIO DE 2014)
+Artículo 132 Bis.- El Estado, garantizará el acceso a la inscripción de las propiedades privadas en el Instituto de Servicios Registrales y Catastrales de Morelos, otorgando los medios legales para que los ciudadanos registren su propiedad inmobiliaria.
+La primera inscripción de la propiedad, será gratuita y el registro de los actos traslativos subsecuentes será obligatorio.
