@@ -26,7 +26,7 @@ La distinción entre trabajadores y servidor público quedó en el pasado, por l
 En este orden de ideas, el ordenamiento que se somete a su consideración no busca alcanzar un valor universal, y se limita a responder a los problemas sociales, económicos y de trabajo propios del mismo, en el que se atiende la evolución histórica, los factores reales de poder, el de los servidores públicos y la cultura.
 Con este ánimo, en el Estado de Morelos, perseguimos con la presente tres objetivos: El primero, incorporar en el texto que nos ocupa los principios que rigen el Derecho del Trabajo tratándose de empleados públicos; el segundo, adecuar a las condiciones vigentes la Ley que rige al Estado desde el año de 1950; y tercero, garantizar a los sujetos de la Ley, sus derechos y obligaciones.
 Cabe señalar que en esta Ley se recogieron las propuestas resultantes de la consulta a las organizaciones de trabajadores al servicio del Estado, así como a empleados públicos y profesionales en la materia.
-Por lo anterior, presentamos ante Ustedes la Ley del Servicio Civil compuesta en la siguiente forma:
+Por lo anterior, presentamos ante Ustedes la Ley de Servicio Civil compuesta en la siguiente forma:
 ELEMENTOS DE LA REFORMA
 Se estructura con once Títulos y 124 artículos, a saber:
 En el Título Primero se determinan plenamente los sujetos de la Ley; la clasificación de los trabajadores, destacándose la creación de un tercer grupo de trabajadores, es decir, los eventuales; y las disposiciones generales propias de la Ley que nos ocupa.
