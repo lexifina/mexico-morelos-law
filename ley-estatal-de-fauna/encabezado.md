@@ -1,5 +1,4 @@
-LEY ESTATAL DE FAUNA
-N. DE E. CONTIENE LA FE DE ERRATAS PUBLICADA EN EL PERIÓDICO OFICIAL DEL 19 DE MARZO DE 2014.
+LEY ESTATAL DE FAUNA DEL ESTADO DE MORELOS
 Ley publicada en el Periódico Oficial del Estado de Morelos el 30 de abril de 1997.
 Al margen izquierdo un Escudo Nacional que dice: Estados Unidos Mexicanos.- Gobierno del Estado Libre y Soberano de Morelos.- Poder Ejecutivo.
 JORGE CARRILLO OLEA, GOBERNADOR DEL ESTADO LIBRE Y SOBRENADO DE MORELOS, A SUS HABITANTES SABED:

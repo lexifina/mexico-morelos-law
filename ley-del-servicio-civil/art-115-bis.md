@@ -1,0 +1,2 @@
+(ADICIONADO, P.O. 8 DE OCTUBRE DE 2014)
+Artículo 115 Bis.- Las partes, en su escrito inicial o primera comparecencia, deberán señalar domicilio para oír y recibir notificaciones, dentro del lugar de residencia del Tribunal Estatal de Conciliación y Arbitraje; en caso de no hacerlo, las notificaciones aun las de carácter personal, se harán por boletín o por estrados, en tanto no se señale nuevo domicilio procesal.

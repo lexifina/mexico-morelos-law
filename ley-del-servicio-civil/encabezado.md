@@ -3,7 +3,7 @@ Ley publicada en el Periódico Oficial del Estado de Morelos, el miércoles 6 de
 Al margen izquierdo un escudo del Estado de Morelos que dice.- "Tierra y Libertad".- La tierra volverá a quienes la trabajan con sus manos.- Poder Ejecutivo del Estado de Morelos.
 JORGE ARTURO GARCÍA RUBÍ, GOBERNADOR CONSTITUCIONAL DEL ESTADO LIBRE Y SOBERANO DE MORELOS A SUS HABITANTES SABED.
 Que el H. Congreso del Estado se ha servido enviarme para su promulgación lo siguiente:
-LA HONORABLE CUADRAGÉSIMA SÉPTIMA LEGISLATURA DEL CONGRESO DEL ESTADO LIBRE Y SOBERANO DE MORELOS, CON FUNDAMENTO EN LO DISPUESTO POR EL ARTÍCULO 40 FRACCIÓNES II Y XX DE LA CONSTITUCIÓN POLÍTICA DEL ESTADO DE MORELOS, Y
+LA HONORABLE CUADRAGÉSIMA SÉPTIMA LEGISLATURA DEL CONGRESO DEL ESTADO LIBRE Y SOBERANO DE MORELOS, CON FUNDAMENTO EN LO DISPUESTO POR EL ARTÍCULO 40 FRACCIONES II Y XX DE LA CONSTITUCIÓN POLÍTICA DEL ESTADO DE MORELOS, Y
 C O N S I D E R A N D O.
 El malestar y la inquietud sociales y las causas que llevaron a la revolución y transformación política, social y económica que se inició en el año de 1910, constituyen, sin lugar a dudas, una de las causas del Derecho del Trabajo en el país, circunstancia por la que nos limitaremos a enunciar su evolución en el México Contemporáneo.
 La Asamblea Constituyente de Querétaro de 1917 aprobó se redactara un proyecto de declaración de derechos sociales, en los siguientes términos:
