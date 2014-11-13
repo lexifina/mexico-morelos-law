@@ -7,7 +7,7 @@ ARTÍCULO QUINTO.- En lo que se refiere al artículo 85, fracción II, el Comit�
 ARTÍCULO SEXTO.- El artículo 41 de la presente Ley entrará en vigor una vez aprobada y publicada en el Periódico Oficial "Tierra y Libertad", la reforma a los artículos 40, 53 y 56, y la derogación del diverso 55, de la Constitución Política del Estado Libre y Soberano de Morelos.
 ARTÍCULO SÉPTIMO.- A partir de la publicación de la presente Ley, el Congreso tendrá 30 días naturales para expedir el Reglamento del Congreso del Estado. En tanto no se expida el ordenamiento mencionado, será aplicable en lo que no se oponga a la presente Ley el Reglamento vigente.
 ARTÍCULO OCTAVO.- Remítase la presente Ley al Titular del Poder Ejecutivo del Estado, para su publicación inmediata en el Periódico Oficial "Tierra y Libertad", órgano de difusión del Gobierno del Estado de Morelos, para su divulgación.
-Recinto legislativo a los trece días del mes de abril de dos mil siete.
+Recinto Legislativo a los trece días del mes de abril de dos mil siete.
 ATENTAMENTE.
 "SUFRAGIO EFECTIVO. NO REELECCIÓN".
 LOS CC. DIPUTADOS INTEGRANTES DE LA MESA DIRECTIVA DEL CONGRESO DEL ESTADO.

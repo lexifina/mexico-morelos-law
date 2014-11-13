@@ -4,7 +4,7 @@ Al margen izquierdo un sello con el Escudo del Estado de Morelos que dice-. "Tie
 MTRO. MARCO ANTONIO ADAME CASTILLO, GOBERNADOR CONSTITUCIONAL DEL ESTADO LIBRE Y SOBERANO DE MORELOS A SUS HABITANTES SABED:
 Que el Congreso del Estado se ha servido enviarme para su promulgación lo siguiente:
 LA QUINCUAGÉSIMA PRIMERA LEGISLATURA DEL CONGRESO DEL ESTADO LIBRE Y SOBERANO DE MORELOS, EN EJERCICIO DE LAS FACULTADES QUE LE OTORGA EL ARTÍCULO 40, FRACCIÓN II, DE LA CONSTITUCIÓN POLÍTICA LOCAL, Y
-C O N S I D E R A N D O.
+C O N S I D E R A N D O...
 Por lo anteriormente expuesto, esta Soberanía ha tenido a bien expedir la siguiente:
 LEY DE FOMENTO Y DESARROLLO DE LOS DERECHOS Y CULTURA DE LAS COMUNIDADES Y PUEBLOS INDIGENAS DEL ESTADO DE MORELOS.
 ÚNICO.- Se expide la Ley de Fomento y Desarrollo de los Derechos y Cultura de las Comunidades y Pueblos Indígenas del Estado de Morelos.
