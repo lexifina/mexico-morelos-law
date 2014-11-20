@@ -1,0 +1,5 @@
+P.O. 19 DE NOVIEMBRE DE 2014.
+DECRETO NÚMERO MIL SEISCIENTOS OCHENTA Y CUATRO POR LO QUE SE REFORMA EL ARTÍCULO 7 Y SE ADICIONA, EN EL TÍTULO TERCERO DENOMINADO DE LA ORGANIZACIÓN DEL INSTITUTO, UN CAPÍTULO V QUE SE DENOMINARÁ "DEL CONSEJO CONSULTIVO" CON TRES ARTÍCULOS QUE SERÁN 13 BIS, 13 TER Y 13 QUÁTER, EN LA LEY ORGÁNICA DEL INSTITUTO DE DESARROLLO Y FORTALECIMIENTO MUNICIPAL DEL ESTADO DE MORELOS.
+ARTÍCULO PRIMERO.- Remítase el presente Decreto al Titular del Poder Ejecutivo del Estado, para los efectos de lo dispuesto por los artículos 44 y 70, fracción XVII, inciso a), de la Constitución Política del Estado Libre y Soberano de Morelos.
+ARTÍCULO SEGUNDO.- El presente Decreto, entrará en vigor al día siguiente de su publicación en el Periódico Oficial "Tierra y Libertad", Órgano de difusión del Gobierno del Estado Libre y Soberano de Morelos.
+ARTÍCULO TERCERO.- A partir de la entrada en vigor del presente, se derogan todas y cada una de las disposiciones que contravengan el presente decreto.
