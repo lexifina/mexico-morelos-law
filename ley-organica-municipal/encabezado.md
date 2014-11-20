@@ -3,7 +3,7 @@ Ley publicada en el Periódico Oficial del Estado de Morelos, el miércoles 13 d
 Al margen izquierdo un Escudo del Estado de Morelos que dice.- "Tierra y Libertad".- La tierra volverá a quienes la trabajan con sus manos.
 SERGIO ALBERTO ESTRADA CAJIGAL RAMÍREZ, GOBERNADOR CONSTITUCIONAL DEL ESTADO LIBRE Y SOBERANO DE MORELOS A SUS HABITANTES SABED:
 Que el H. Congreso del Estado se ha servido enviarme para su promulgación lo siguiente:
-LA CUADRAGÉSIMA OCTAVA LEGISLATURA DEL CONGRESO DEL ESTADO DE MORELOS, CON FUNDAMENTO EN LO DISPUESTO POR EL ARTICULO 40 FRACCIÓN II DE LA CONSTITUCION POLITICA DEL ESTADO LIBRE Y SOBERANO DE MORELOS, Y
+LA CUADRAGÉSIMA OCTAVA LEGISLATURA DEL CONGRESO DEL ESTADO DE MORELOS, CON FUNDAMENTO EN LO DISPUESTO POR EL ARTICULO 40 FRACCIÓN II DE LA CONSTITUCIÓN POLÍTICA DEL ESTADO LIBRE Y SOBERANO DE MORELOS, Y
 CONSIDERANDO
 Que al ser reformada la Constitución Política del Estado Libre y Soberano de Morelos, mediante Decretos expedidos por la XLVII Legislatura de este Congreso del Estado, publicados en el Periódico Oficial "Tierra y Libertad" en fecha 1 de Septiembre de 2000, los artículos transitorios imponen a esta Asamblea Legislativa la obligación de adecuar el marco jurídico estatal al nuevo texto constitucional.
 Que la actual Ley Orgánica Municipal del Estado de Morelos debe ser, por ello, reformada; pero es de considerarse que la estructura de dicha ley es inadecuada en su orden, encontrándose algunas disposiciones ya derogadas, en tanto otras fueron adicionadas, produciéndose multiplicidad de artículos con el mismo número, pero identificables mediante la adición alfabética.

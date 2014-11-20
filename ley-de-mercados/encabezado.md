@@ -1,5 +1,5 @@
 LEY DE MERCADOS DEL ESTADO DE MORELOS
-Ley publicada en el Periódico Oficial del Estado de Morelos el día 27 de octubre de 1965.
+Ley publicada en el Periódico Oficial del Estado de Morelos, el miércoles 27 de octubre de 1965.
 Al margen izquierdo un sello con el Escudo Nacional que dice: Estados Unidos Mexicanos.- Gobierno del Estado Libre y Soberano de Morelos.- Poder Ejecutivo.- Año del Generalísimo Don José María Morelos y Pavón.
 EMILIO RIVA PALACIO MORALES, GOBERNADOR CONSTITUCIONAL DEL ESTADO LIBRE Y SOBERANO DE MORELOS, A SUS HABITANTES SABED:
 Que el H. Congreso del Estado se ha servido enviarme para su promulgación lo siguiente:
