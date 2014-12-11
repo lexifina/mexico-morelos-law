@@ -15,5 +15,5 @@ g) En sesión de Comisiones Unidas existiendo el quórum reglamentario, se aprob
 II.- MATERIA DE LA INICIATIVA
 En la iniciativa en estudio, el Diputado Esteban Gaona Jiménez, propone regular a través de un nuevo ordenamiento, las bases y modalidades para garantizar el acceso a los servicios de salud mental así como los mecanismos adecuados para la promoción, prevención, evaluación, diagnóstico, tratamiento, rehabilitación y fomento en materia de salud mental en instituciones de salud pública, social y privada del Estado de Morelos.
 III.- CONSIDERANDOS.
-Por lo anteriormente expuesto, esta Soberanía ha tenido a bien expedir la siguiente: .
+Por lo anteriormente expuesto, esta Soberanía ha tenido a bien expedir la siguiente:
 LEY DE SALUD MENTAL DEL ESTADO DE MORELOS
