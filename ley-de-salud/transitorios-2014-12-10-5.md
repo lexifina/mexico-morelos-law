@@ -1,0 +1,4 @@
+P.O. 10 DE DICIEMBRE DE 2014.
+DECRETO NO. 1824 POR EL QUE SE REFORMAN LA DENOMINACIÓN DEL CAPÍTULO II, DEL TÍTULO OCTAVO, EL ARTÍCULO 127, EN SU PRIMER Y SEGUNDO PÁRRAFO, ASÍ COMO EN SU FRACCIÓN VIII; EL ARTÍCULO 283 EN SU FRACCIÓN VIII; EL ARTÍCULO 291, EN SU FRACCIÓN II E INCISO B); Y LOS ARTÍCULOS 296, 305 Y 307, TODOS DE LA LEY DE SALUD DEL ESTADO DE MORELOS.
+ARTÍCULO PRIMERO.- Remítase el presente Decreto al Titular del Poder Ejecutivo del Estado, para su promulgación y publicación respectiva, de conformidad con los artículos 44 y 70, fracción XVII, inciso a), de la Constitución Política del Estado Libre y Soberano de Morelos.
+ARTÍCULO SEGUNDO.- El presente Decreto, entrará en vigor al día siguiente de su publicación en el Periódico Oficial "Tierra y Libertad", Órgano de difusión del Gobierno del Estado de Morelos.
