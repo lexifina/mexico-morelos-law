@@ -1,0 +1,3 @@
+(ADICIONADO, P.O. 10 DE DICIEMBRE DE 2014)
+Artículo 41 Bis.- Inmovilización de cuentas y demás valores que se encuentren dentro del sistema financiero en cualquiera de las formas previstas en el Código Federal de Procedimientos Civiles.
+Una vez impuesta la presente medida cautelar, en el supuesto que el Juez ordene la inmovilización de cuentas y demás valores, refiera la cuenta e institución bancaria o de valores correspondiente, la unidad competente en medidas cautelares y salidas alternas girará oficio a tal institución, haciendo del conocimiento la orden judicial decretada para que se dé cumplimiento a la misma, debiendo acreditar ante dicha unidad, de manera oficial, que se han realizado los movimientos respectivos de forma inmediata.
