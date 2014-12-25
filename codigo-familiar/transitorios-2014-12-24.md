@@ -1,0 +1,4 @@
+P.O. 24 DE DICIEMBRE DE 2014.
+PRIMERO.- Remítase el presente Decreto al Titular del Poder Ejecutivo, para su promulgación y publicación respectiva, de conformidad con los artículo 44, 47 y 70, fracción XVII, inciso a), de la Constitución Política del Estado Libre y Soberano de Morelos.
+SEGUNDO.- El presente Decreto, entrará en vigor a partir del día siguiente de su publicación en el Periódico Oficial "Tierra y Libertad", Órgano de difusión del Gobierno del Estado de Morelos.
+TERCERO.- Dese cuenta a la Cámara de Diputados, en contestación a los exhortos contenidos en los oficios DGPL-62-II-5-694, CP2R2A.-337.16 y CP2R2A.-1400.16, de fecha veinticuatro de abril de dos mil trece, 21 de mayo de 2014 y 25 de junio de 2014, mediante el cual se exhorta a las Legislaturas de los Estados, para que en el ámbito de sus respectivas competencias, revisen su legislación civil, con el fin de aumentar la edad mínima para que ambos contrayentes puedan celebrar matrimonio.
