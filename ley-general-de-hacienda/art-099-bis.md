@@ -1,3 +1,4 @@
+(Educación continua):$60.00
 (REFORMADO, P.O. 20 DE DICIEMBRE DE 2013)
 Artículo 99 Bis. Los servicios prestados por la Coordinación Estatal del Subsistema de Preparatoria Abierta, se causarán conforme a lo siguiente:
 (REFORMADO PRIMER PÁRRAFO [N. DE E. REPUBLICADO PRIMER PÁRRAFO], P.O. 20 DE DICIEMBRE DE 2013)

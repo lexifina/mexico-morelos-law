@@ -1,3 +1,2 @@
-N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO
-(ADICIONADO POR ARTÍCULO VIGÉSIMO TERCERO DE LA LEY DE INGRESOS DEL GOBIERNO DEL ESTADO DE MORELOS, CORRESPONDIENTE AL EJERCICIO FISCAL DEL PRIMERO DE ENERO AL TREINTA Y UNO DE DICIEMBRE DE DOS MIL DOCE, P.O. 21 DE DICIEMBRE DE 2011)
-Artículo 84 Bis-2.- La falta de presentación de los avisos a que se refiere este Capítulo dará lugar a la imposición de sanciones en términos de lo dispuesto en el artículo 183 del Código Fiscal para el Estado de Morelos.
+(REFORMADO, P.O. 24 DE DICIEMBRE DE 2014)
+Artículo 84 BIS-2.- La falta de presentación de los avisos a que se refiere este Capítulo, dará lugar a la imposición de sanciones en términos de lo dispuesto por el Código Fiscal para el Estado de Morelos.

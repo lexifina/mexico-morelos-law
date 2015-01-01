@@ -1,0 +1,5 @@
+N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.
+(ADICIONADO, P.O. 24 DE DICIEMBRE DE 2014)
+Artículo 20 Bis.- La Reunión Estatal de Funcionarios Hacendarios, se reunirá en sesión ordinaria cuando menos dos veces en cada ejercicio fiscal, previa convocatoria que emita la presidencia de la misma y sesionará de manera extraordinaria a convocatoria de la Comisión Permanente de Funcionarios Hacendarios.
+Para la validez de las sesiones, ordinarias o extraordinarias, se requerirá de la asistencia de cuando menos la mitad más uno de los integrantes de la Reunión, entre los cuales deberán estar quienes la presiden. Las decisiones que se adopten, para ser válidas requerirán de la aceptación mayoritaria de los asistentes a la sesión, con excepción de los supuestos en que esta Ley o su Reglamento dispongan otra cosa.
+En la convocatoria se señalarán el domicilio, fecha y horario en que habrá de llevarse a cabo la reunión y los asuntos que deban tratarse en ella.
