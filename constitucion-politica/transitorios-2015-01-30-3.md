@@ -1,0 +1,4 @@
+P.O. 30 DE ENERO DE 2015.
+DECRETO NO 2064 POR EL QUE SE REFORMA LA FRACCIÓN XVI, DEL ARTÍCULO 70, DE LA CONSTITUCIÓN POLÍTICA DEL ESTADO LIBRE Y SOBERANO DE MORELOS.
+PRIMERO.- Remítase el presente Decreto al Titular del Poder Ejecutivo del Estado, para su publicación en el Periódico Oficial "Tierra y Libertad", Órgano de difusión del Gobierno del Estado de Morelos, lo anterior con fundamento en lo dispuesto por el artículo 70, fracción XVII, inciso a), de la Constitución Política del Estado Libre y Soberano de Morelos y el artículo 145, del Reglamento para el Congreso del Estado de Morelos.
+SEGUNDO.- Toda vez que fue aprobado por el Constituyente Permanente, el presente Decreto inició su vigencia a partir de la Declaratoria emitida por la LII Legislatura del Congreso del Estado, a través de la Diputación Permanente; en consecuencia, la reforma se tiene como parte de esta Constitución.
