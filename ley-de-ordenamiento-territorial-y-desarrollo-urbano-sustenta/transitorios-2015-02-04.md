@@ -1,0 +1,5 @@
+P.O. 4 DE FEBRERO DE 2015.
+ARTÍCULO PRIMERO.- Remítase el presente Decreto al Titular del Poder Ejecutivo del Estado, para su promulgación y publicación respectiva de conformidad con los artículos 44 y 70, fracción XVII, inciso a) de la Constitución Política del Estado Libre y Soberano de Morelos.
+ARTÍCULO SEGUNDO.- El presente decreto entrará en vigor el día siguiente de su publicación en el Periódico Oficial "Tierra y Libertad" Órgano de Difusión del Gobierno del Estado de Morelos.
+ARTÍCULO TERCERO.- Los 33 Ayuntamientos del Estado de Morelos, dispondrán de un plazo de treinta días hábiles a partir de la publicación de este decreto, para reformar su Bando de Policía y Buen Gobierno en términos de lo dispuesto por este decreto.
+Una vez que se publiquen en el periódico oficial Tierra y Libertad las modificaciones a cada uno de los Bandos de Policía y Buen Gobierno de los Municipios, el Congreso procederá en un plazo de 30 días hábiles a modificar las Leyes de ingresos de los 33 Municipios del Estado.
