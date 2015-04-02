@@ -1,4 +1,4 @@
-LEY DE EXPROPIACION POR CAUSAS DE UTILIDAD PUBLICA
+LEY DE EXPROPIACIÓN POR CAUSAS DE UTILIDAD PÚBLICA
 Ley publicada en el Periódico Oficial del Estado de Morelos, el 24 de agosto de 1994.
 Al margen izquierdo un Escudo Nacional que dice: Estados Unidos Mexicanos.- Gobierno del Estado Libre y Soberano de Morelos.- Poder Ejecutivo.
 JORGE CARRILLO OLEA, GOBERNADOR DEL ESTADO LIBRE Y SOBERANO DE MORELOS, A SUS HABITANTES SABED:
