@@ -1,3 +1,5 @@
 (ADICIONADO, P.O. 5 DE MARZO DE 2014)
 Artículo 113 Bis.- Como parte de las acciones que en materia de nutrición desarrollen la Secretaría de Salud del Estado, los Servicios de Salud de Morelos y los Ayuntamientos, en sus respectivos ámbitos de competencia, deberán implementar medidas para que en los establecimientos en los que se vendan alimentos preparados prevalezca la disminución del consumo de sal, y se retiren al efecto los saleros de las mesas, además de que se coloque en lugares visibles información sobre las enfermedades que ocasiona el consumo excesivo de sal.
+(ADICIONADO, P.O. 1 DE ABRIL DE 2015)
+En estos establecimientos también se deberá proporcionar, de manera obligatoria y gratuita, agua potable a los clientes que así lo soliciten.
 Por el cumplimiento a estas disposiciones, la Secretaría de Salud del Estado, podrá otorgar la certificación "Empresa Saludablemente Responsable", por lo que promoverá e incentivará la obtención de dicha certificación entre las empresas dedicadas a la venta de alimentos preparados, además de que habrá de difundir entre la población cuáles empresas han sido certificadas.
