@@ -1,0 +1,2 @@
+(ADICIONADO, P.O. 22 DE ABRIL DE 2015)
+Artículo 51 Bis.- Las instituciones del sector público, social o privado en donde se encuentre internada una persona con enfermedad mental, deberán llevar un registro de las visitas que le hagan los familiares, por lo que en caso de que no reciba visita durante un período máximo de 30 días, la institución deberá dar el aviso correspondiente al Ministerio Público, por la posible configuración del delito de omisión de cuidado.
