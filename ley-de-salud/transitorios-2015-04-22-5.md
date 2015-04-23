@@ -1,0 +1,4 @@
+P.O. 22 DE ABRIL DE 2015.
+DECRETO NÚMERO DOS MIL CIENTO CUARENTA Y SEIS, POR EL QUE SE REFORMAN LA FRACCIÓN X, DEL APARTADO A, DEL ARTÍCULO 3; LA FRACCIÓN X, DEL ARTÍCULO 37; LA FRACCIÓN II, DEL ARTÍCULO 109; LA FRACCIÓN II DEL ARTÍCULO 115; EL ARTÍCULO 115 TER; EL ARTÍCULO 115 QUÁTER; EL PÁRRAFO INICIAL Y LAS FRACCIONES I, III Y IV DEL ARTÍCULO 115 QUINQUIES, ASÍ COMO EL ARTÍCULO 115 SEXIES, TODOS DE LA LEY DE SALUD DEL ESTADO DE MORELOS.
+ARTÍCULO PRIMERO.- Remítase el presente Decreto al Titular del Poder Ejecutivo del Estado, para su promulgación y publicación respectiva, de conformidad con los artículos 44 y 70, fracción XVII, inciso a), de la Constitución Política del Estado Libre y Soberano de Morelos.
+ARTÍCULO SEGUNDO.- El presente Decreto, entrará en vigor al día siguiente de su publicación en el Periódico Oficial "Tierra y Libertad", Órgano de difusión del Gobierno del Estado de Morelos.
