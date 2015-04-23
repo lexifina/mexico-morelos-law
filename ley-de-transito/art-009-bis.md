@@ -1,0 +1,7 @@
+(ADICIONADO, P.O. 22 DE ABRIL DE 2015)
+ARTICULO 9o BIS.- Queda prohibido en el Estado, conducir vehículos por la vía pública, cuando se tenga una cantidad igual o superior a 0.25 miligramos de alcohol por litro de aire espirado, o bajo el influjo de narcóticos.
+Los conductores de vehículos destinados al servicio de transporte público de pasajeros, de carga o de transporte de sustancias tóxicas o peligrosas, no deben presentar ninguna cantidad de alcohol en aire espirado o síntomas simples de aliento alcohólico o de estar bajo los efectos de narcóticos.
+Las instituciones de seguridad pública, estatales o municipales, pueden detener la marcha de un vehículo, cuando implementen programas relacionados con el consumo inmoderado de alcohol y de narcóticos, para prevenir accidentes y delitos, conforme a la normativa aplicable.
+Los arrestos administrativos deberán cumplimentarse en el Municipio donde se realice su infracción. El lugar del arresto deberá ser exclusivo para tales efectos.
+En cualquier caso y en todo el procedimiento, la autoridad deberá mostrar respeto irrestricto a los derechos humanos.
+Las autoridades municipales en el ámbito de sus respectivas jurisdicciones, integrarán una base de datos que contenga el registro de las personas sancionadas conforme al presente artículo, el cual deberán compartir con las autoridades estatales competentes para los efectos legales que correspondan.

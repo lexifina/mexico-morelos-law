@@ -1,0 +1,3 @@
+(ADICIONADO, P.O. 22 DE ABRIL DE 2015)
+ARTICULO 26 QUINQUIES.- El área competente del Tribunal de que se trate procederá a efectuar el cálculo de la prestación que corresponda al Magistrado por concepto de haber por retiro, y una vez determinada esa cuantía del Haber por Retiro se procederá a su liquidación; para lo cual se deberá notificar al interesado el acuerdo en que se determine la cuantía, señalando con precisión los trámites que deban cubrirse para obtener el pago de esta prestación.
+Cuando durante la tramitación del Haber por Retiro falleciere el Magistrado, esta prestación se deberá otorgar a sus beneficiarios.

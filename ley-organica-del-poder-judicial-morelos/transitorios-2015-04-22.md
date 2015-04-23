@@ -1,0 +1,4 @@
+P.O. 22 DE ABRIL DE 2015.
+PRIMERA. Remítase el Decreto al Gobernador Constitucional del Estado, para los efectos señalados en los artículos 44, 47 y 70, fracción XVII, incisos a) y c), de la Constitución Política del Estado Libre y Soberano de Morelos.
+SEGUNDA. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "Tierra y Libertad", Órgano de difusión del Gobierno del Estado de Morelos.
+TERCERA. Una vez que entre en vigor el presente Decreto, el Poder Judicial del Estado de Morelos, presentará su propuesta de asignación de recursos presupuestales para cubrir los Haberes por Retiro, al Titular del Poder Ejecutivo, para que éste presente la Iniciativa de modificación del Decreto por el que se aprobó el Presupuesto de Egresos del Gobierno del Estado de Morelos, respecto de los recursos asignados al Tribunal Superior de Justicia del Estado de Morelos para el Ejercicio del año Fiscal dos mil catorce.
