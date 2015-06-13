@@ -1,0 +1,3 @@
+P.O. 10 DE JUNIO DE 2015.
+PRIMERA. Aprobado el presente Decreto por el Poder Reformador local y hecha la declaratoria correspondiente, se remitirá al titular del Poder Ejecutivo del Estado para que se publique en el Periódico Oficial "Tierra y Libertad", órgano oficial de difusión del Gobierno del estado de Morelos, conforme lo dispuesto por los artículos 44 y 70, fracción XVII inciso a), de la Constitución Política del Estado Libre y Soberano de Morelos.
+SEGUNDA. Las reformas contenidas en el presente Decreto formarán parte de esta Constitución desde el momento mismo en que se realice la declaratoria a que se refiere el artículo 147 de la Constitución Política del Estado Libre y Soberano de Morelos.
