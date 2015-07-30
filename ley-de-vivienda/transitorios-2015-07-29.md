@@ -1,0 +1,4 @@
+P.O. 29 DE JULIO DE 2015.
+DECRETO NÚMERO 2557 POR EL QUE SE ADICIONAN UNA FRACCIÓN XIX, RECORRIÉNDOSE EN SU ORDEN LAS SUBSECUENTES FRACCIONES DEL ARTÍCULO 3; UNA FRACCIÓN V, RECORRIÉNDOSE EN SU ORDEN LAS SUBSECUENTES FRACCIONES AL ARTÍCULO 7; Y UNA FRACCIÓN V, RECORRIÉNDOSE EN SU ORDEN LAS SUBSECUENTES FRACCIONES AL ARTÍCULO 16, TODOS DE LA LEY DE VIVIENDA DEL ESTADO LIBRE Y SOBERANO DE MORELOS.
+Primero.- Remítase el presente Decreto al Titular del Poder Ejecutivo del Estado, para los efectos señalados en los artículos 44, 47 y 70 fracción XVII inciso a) de la Constitución Política del Estado Libre y Soberano de Morelos.
+Segundo.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "Tierra y Libertad", órgano de difusión oficial del Gobierno del Estado de Morelos.
