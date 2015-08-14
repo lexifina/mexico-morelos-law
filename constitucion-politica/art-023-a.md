@@ -1,6 +1,12 @@
-(ADICIONADO CON EL ARTÍCULO QUE LO INTEGRA, P.O. 11 DE AGOSTO DE 2003)
-CAPITULO III.
-DE LOS ORGANOS CONSTITUCIONALES AUTONOMOS.
-(ADICIONADO, P.O. 11 DE AGOSTO DE 2003)
-Artículo 23-A.- El Congreso del Estado establecerá un organismo autónomo para tutelar el derecho de acceso a la información pública de todas las personas, proteger los datos personales y realizar estadísticas, sondeos y encuestas imparciales que coadyuven al cumplimiento de las funciones de los poderes públicos y al desarrollo democrático del Estado, denominado Instituto Morelense de Información Pública y Estadísticas. El Instituto será el encargado de aplicar la ley de la materia y sus resoluciones serán acatadas por las entidades y dependencias públicas del Estado, y por toda persona que reciba, maneje, aplique o participe en el ejercicio de recursos públicos o privados, siempre que estos se destinen a actividades relacionadas con la función pública.
-Los ciudadanos que sean designados como integrantes del Instituto a que se refiere el párrafo anterior, deberán reunir los requisitos que señale la ley, pero en todo caso se velará que no tengan compromisos o simpatías por cualquier partido político o vínculos con el gobierno, quedando excluidos de este último requisito el servicio profesional que se preste en cualquier institución educativa o de investigación de cualquier área pública.
+(REFORMADA SU DENOMINACIÓN, P.O. 11 DE AGOSTO DE 2015)
+CAPÍTULO III.
+DE LOS ORGANISMOS PÚBLICOS AUTÓNOMOS
+(REFORMADO PRIMER PÁRRAFO, P.O. 11 DE AGOSTO DE 2015)
+Artículo 23-A.- El Congreso del Estado establecerá un organismo público autónomo imparcial, colegiado, con personalidad jurídica y patrimonio propio, capacidad para decidir sobre el ejercicio de su presupuesto y determinar su organización interna, responsable de garantizar el cumplimiento del derecho de acceso a la información pública de todas las personas, proteger los datos personales y realizar estadísticas, sondeos y encuestas imparciales que coadyuven al cumplimiento de las funciones de los poderes públicos y al desarrollo democrático del Estado, denominado Instituto Morelense de Información Pública y Estadística; en la conformación de este organismo garante se procurará la equidad de género. El Instituto será el encargado de aplicar las leyes de la materia y sus resoluciones serán acatadas por las entidades y dependencias públicas del Estado y municipios, organismos públicos autónomos, organismos auxiliares de la administración pública, partidos políticos, fondos públicos, personas físicas, morales o sindicatos que reciban y ejerzan recursos públicos o realicen actos de autoridad en el ámbito estatal o municipal, y por toda persona que reciba, maneje, aplique o participe en el ejercicio de recursos públicos o privados, siempre que estos se destinen a actividades relacionadas con la función pública.
+(DEROGADO SEGUNDO PÁRRAFO, P.O. 11 DE AGOSTO DE 2015)
+(ADICIONADO, P.O. 11 DE AGOSTO DE 2015)
+El Instituto Morelense de Información Pública y Estadística se integra por tres comisionados, los cuales serán electos por la mayoría calificada de los integrantes del Congreso, para lo cual se expedirá convocatoria pública para recibir propuestas de la sociedad, observando en todo momento el procedimiento que establezcan las leyes de la materia.
+(ADICIONADO, P.O. 11 DE AGOSTO DE 2015)
+Los comisionados durarán en su cargo siete años, sin posibilidad de otra designación; no podrán tener otro empleo, cargo o comisión, salvo los de docencia y los no remunerados en asociaciones científicas, artísticas o de beneficencia.
+(ADICIONADO, P.O. 11 DE AGOSTO DE 2015)
+En los procedimientos para la selección de los comisionados se deberá garantizar la transparencia, independencia y participación de la sociedad.

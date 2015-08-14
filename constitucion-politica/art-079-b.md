@@ -16,3 +16,9 @@ V.- No haber sido sentenciado a pena privativa de libertad por delito doloso. Em
 VI.- No haber sido inhabilitado para el ejercicio de cargos, empleos o comisiones públicos.
 La residencia no se interrumpirá por el desempeño de un cargo de elección popular al Congreso de la Unión o un empleo, cargo o comisión en la Administración Pública Federal.
 El requisito de residencia a que se refiere la fracción I del presente artículo, podrá ser dispensado en el caso de que quien ocupe el cargo de Fiscal General del Estado acredite fehacientemente el haber servido en alguna institución del Ministerio Público del País, durante al menos los cinco años previos a la designación.
+(ADICIONADO, P.O. 11 DE AGOSTO DE 2015)
+Además de los servidores públicos dependientes del Fiscal General que se señalen en la normativa aplicable, contará con un Fiscal Especializado para la Investigación de Hechos de Corrupción, integrante del Sistema Estatal Anticorrupción, cuyas atribuciones y funciones se establecerán en la respectiva ley.
+(ADICIONADO, P.O. 11 DE AGOSTO DE 2015)
+Dicho Fiscal Especializado deberá cumplir con los mismos requisitos que para ser Fiscal General; será designado por el Congreso del Estado, de entre la terna que le remita el Gobernador Constitucional del Estado, mediante el voto aprobatorio de cuando menos las dos terceras partes de los diputados que lo integran; su permanencia en el cargo estará a lo dispuesto en los párrafos quinto y sexto del presente artículo.
+(ADICIONADO, P.O. 11 DE AGOSTO DE 2015)
+El Fiscal General del Estado de Morelos y el Fiscal Especializado a que se refieren los dos párrafos precedentes, una vez que hayan rendido la protesta del cumplimiento de su respectivo cargo, deberán recibir sus respectivos nombramientos expedidos por el Gobernador Constitucional del Estado.
