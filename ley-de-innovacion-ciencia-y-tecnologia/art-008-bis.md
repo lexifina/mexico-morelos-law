@@ -21,4 +21,5 @@ XVIII. Otorgar estímulos económicos y reconocimiento al mérito estatal de inn
 (ADICIONADA, P.O. 26 DE MARZO DE 2014)
 XIX. Garantizar la inclusión de la perspectiva de género con una visión transversal en la ciencia, la tecnología y la innovación, así como una participación equitativa de mujeres y hombres en todos los ámbitos del Sistema;
 XX. Promover la integración del Sistema Estatal de Información y Comunicación de Ciencia y Tecnología, procurando su articulación con el Sistema de Información Científica y Tecnológica del CONACYT y realizar estudios sobre esta materia; y
-XXI. Las demás que otras disposiciones jurídicas o administrativas o el Gobernador del Estado le encomiende.
+(REFORMADA, P.O. 19 DE AGOSTO DE 2015)
+XXI. Las demás que otras disposiciones jurídicas o administrativas el Titular del Poder Ejecutivo del Estado le encomiende.
