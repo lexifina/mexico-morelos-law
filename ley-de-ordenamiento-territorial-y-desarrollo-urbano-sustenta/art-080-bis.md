@@ -1,0 +1,3 @@
+(ADICIONADO, P.O. 8 DE DICIEMBRE DE 2015)
+Artículo 80 Bis. En concordancia con lo dispuesto por la Ley del Equilibrio Ecológico y la Protección al Ambiente del Estado de Morelos,para (sic) contribuir al logro de los objetivos de la política ambiental en materia de asentamientos humanos, se podrán establecer ecozonas que promuevan el desarrollo urbano sustentable, con una perspectiva ambiental, económica y social.
+Cuando se determine el establecimiento de ecozonas, los Municipios deberán expedir o adecuar sus disposiciones normativas a fin de ejercer sus atribuciones competenciales, conforme los parámetros y lineamientos que establezcan los programas y reglamentos que regulen la ecozona y demás disposiciones jurídicas y administrativas aplicables.
