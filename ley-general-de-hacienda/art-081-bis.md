@@ -1,0 +1,2 @@
+(ADICIONADO, P.O. 8 DE DICIEMBRE DE 2015)
+Artículo 81 Bis. Para los efectos de este Capítulo, las cantidades retenidas por los Fedatarios Públicos respecto de escrituras autorizadas en un ejercicio fiscal determinado, podrán enterarse conforme a los montos vigentes en dicho ejercicio fiscal, siempre y cuando el entero sea realizado a más tardar el 28 de febrero o día hábil siguiente del ejercicio fiscal posterior a aquel en que se realizó la retención.

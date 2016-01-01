@@ -4,5 +4,5 @@ Los derechos que se causen por los servicios de control vehicular por expedició
 Los demás derechos regulados en este Capítulo se pagarán en el momento en que se soliciten.
 (ADICIONADO, P.O. 24 DE DICIEMBRE DE 2014)
 Estarán exentas de los derechos a que se refieren las fracciones I y II, del artículo 84 de la presente Ley, las unidades vehiculares propiedad de los Municipios del Estado de Morelos, destinadas a los servicios que prestan corporaciones policiacas y de vigilancia, de Protección Civil, ambulancias, bomberos y servicios de limpia.
-(ADICIONADO, P.O. 24 DE DICIEMBRE DE 2014)
-Para la reposición o sustitución de placas metálicas de circulación de unidades vehiculares, distintas a las señaladas en el párrafo anterior, se aplicarán las tarifas señaladas en el apartado A, de la fracción I, del artículo 84 de la presente Ley.
+(REFORMADO, P.O. 8 DE DICIEMBRE DE 2015)
+Para la reposición o sustitución de placas metálicas de circulación de unidades vehiculares, distintas a las señaladas en el párrafo anterior, se aplicarán las tarifas señaladas en el inciso a), de la fracción I, del artículo 84 de la presente Ley.

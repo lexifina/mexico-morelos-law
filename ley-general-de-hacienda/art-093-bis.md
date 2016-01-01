@@ -1,23 +1,24 @@
 (ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 26 DE DICIEMBRE DE 2012)
 CAPÍTULO SÉPTIMO BIS
 DE LOS SERVICIOS EN MATERIA DE AGUA Y SANEAMIENTO
-(REFORMADO, P.O. 20 DE DICIEMBRE DE 2013)
-Artículo 93 Bis. El pago de derechos por la prestación de servicios que proporciona la Comisión Estatal del Agua, se causarán en la siguiente forma:
-(REFORMADA, P.O. 24 DE DICIEMBRE DE 2014)
+(REFORMADO, P.O. 8 DE DICIEMBRE DE 2015)
+Artículo 93 Bis. Los servicios que presta la Comisión Estatal del Agua causarán derechos y se pagarán previamente por los interesados conforme a esta Ley, con base en los términos siguientes:
 I. EN MATERIA DE AGUA Y SANEAMIENTO:
-a) Maniobra de extracción de equipo de bombeo de pozo
-profundo con grúa a distancia de 50 Km. de Cuernavaca:$5,739.00
-b) Maniobra de instalación de equipo de bombeo de pozo
-profundo con grúa a distancia de 50 Km de Cuernavaca:$5,739.00
-c) Traslado de maquinaria pesada (grúa) en Km. subsecuente:$96.00
-d) Colocación o desinstalación de dosificador de cloro:$829.00
-e) Aforo con equipo digital;$4.145.00
-f) Detección de fuga de agua con equipo digital en líneas o redes$2,870.00
-g) Revisión electromecánica de sistemas de agua.$4,974.00
-h) Por la recepción de aguas residuales (por metro cúbico)$6.0
-i) Por recepción de focos provenientes de fosas sépticas y
-sanitarios portátiles (por metro cúbico), y$6.00
-j) Por desazolve de fosas sépticas, sanitarios portátiles y drenaje$2.870.00
-(REFORMADA, P.O. 24 DE DICIEMBRE DE 2014)
+A) Maniobra de extracción de equipo de bombeo de pozo
+profundo con grúa a distancia de 50 Km. de Cuernavaca:$7,389.00
+B) Maniobra de instalación de equipo de bombeo de pozo
+profundo con grúa a distancia de 50 Km de Cuernavaca:$7,389.00
+C) Traslado de maquinaria pesada (grúa) por Km subsecuente:$124.00
+D) Colocación o desinstalación de dosificador de cloro:$1,067.00
+E) Aforo con equipo digital;$5.337.00
+F) Detección de fuga de agua con equipo digital
+en líneas o redes$3,695.00
+G) Revisión electromecánica de sistemas de agua.$6,404.00
+H) Por la recepción de aguas residuales (por metro cúbico)$8.00
+I) Por recepción de focos provenientes de fosas sépticas y
+sanitarios portátiles (por metro cúbico), $8.00
+J) Por desazolve de fosas sépticas, sanitarios
+portátiles y drenaje$3.695.00
 II. EN MATERIA DE DIFUSIÓN Y CULTURA DEL AGUA
-Por la venta de material didáctico (ejemplar) y videos (pieza)$64.00
+A) Por la venta de material didáctico (ejemplar) y
+videos (pieza)$82.00
