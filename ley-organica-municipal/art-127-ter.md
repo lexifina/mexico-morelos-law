@@ -1,6 +1,6 @@
 (ADICIONADO, P.O. 1 DE MAYO DE 2013)
 Artículo 127 Ter.- Son facultades y obligaciones del Titular de la Dependencia Municipal que refiere el artículo 127 bis las siguientes:
-l. Cumplir y hacer cumplir las leyes, decretos, reglas de operación, lineamientos, acuerdos, circulares y demás disposiciones jurídicas reglamentarias del ámbito Federal, Estatal y Municipal en materia de obra pública;
+I. Cumplir y hacer cumplir las leyes, decretos, reglas de operación, lineamientos, acuerdos, circulares y demás disposiciones jurídicas reglamentarias del ámbito Federal, Estatal y Municipal en materia de obra pública;
 II. Asesorar al Ayuntamiento en la elaboración de los Planes Municipales de Desarrollo, Planeación Urbana y demás Programas de Desarrollo Sustentable, de conformidad con los criterios de la Ley Estatal de Planeación y demás normatividad aplicable;
 III. Proponer, formular e integrar con la participación del Coplademun, al Cabildo, el Programa Operativo Anual y el Programa Anual de Obras, para su validación y autorización;
 IV. Observar cuando el Ayuntamiento realice obras públicas con recursos federales cualquiera que sea su origen, se cumpla con la normatividad aplicable, el incumplimiento a la misma, será responsabilidad de la autoridad que la autoriza y el Titular de la dependencia en comento que la ejecute;
