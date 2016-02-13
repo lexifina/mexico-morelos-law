@@ -9,7 +9,15 @@ VI.- La dación en pago y la liquidación, reducción de capital, pago en especi
 VII.- Transmitir la nuda propiedad;
 VIII.- La que se derive de toda resolución judicial o administrativa de adjudicación de inmuebles;
 IX.- La cesión de derechos del heredero, legatario o copropietario, así como la renuncia de la herencia o legado efectuada después de la declaratoria de herederos o legatarios;
-X.- Toda afectación en Fideicomiso
+(REFORMADA, P.O. 10 DE FEBRERO DE 2016)
+X.- Las que se realizan a través del Fideicomiso, en los siguientes casos:
+a).- En el acto en el que el fideicomitente designa o se obliga a designar fideicomisario diverso de él y siempre que no tenga derecho a readquirir del fiduciario los bienes.
+b).- En el acto en el que el fideicomitente pierde el derecho a readquirir los bienes del fiduciario, si se hubiera reservado tal derecho.
+Cuando el fideicomitente reciba certificados de participación por los bienes que afecte en fideicomiso, se considerarán enajenados esos bienes al momento en que el fideicomitente reciba los certificados, salvo que se trate de acciones.
+La cesión de los derechos que se tengan sobre los bienes afectos al fideicomiso, en cualquiera de los siguientes momentos:
+a).- En el acto en que el fideicomisario designado ceda sus derechos o dé instrucciones al fiduciario para que transmita la propiedad de los bienes a un tercero. En estos casos se considerará que el fideicomisario adquiere los bienes en el acto de su designación y que los enajena en el momento de ceder sus derechos o de dar dichas instrucciones.
+b).- En el acto en que el fideicomitente ceda sus derechos aún si entre éstos se incluye el de que los bienes se transmitan a su favor.
+Cuando se emitan certificados de participación por los bienes afectos al fideicomiso y se coloquen entre el gran público inversionista, no se considerarán enajenados dichos bienes al enajenarse esos certificados, salvo que estos les den a sus tenedores derechos de aprovechamiento directo de esos bienes, o se trate de acciones. La enajenación de los certificados de participación se considerará como una enajenación de títulos de crédito que no representan la propiedad de bienes y tendrán las consecuencias fiscales que establecen las Leyes fiscales para la enajenación de tales títulos.
 XI.-Toda adquisición por arrendamiento financiero;
 XII.- La extinción de la copropiedad y la disolución de la sociedad conyugal por la parte que se adquiere en demasía del por ciento que le correspondía al copropietario o cónyuge; y
 XIII.- La celebración del contrato de permuta, en cuyo caso se considerará que se efectúan dos Adquisiciónes.
