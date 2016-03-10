@@ -1,0 +1,2 @@
+(ADICIONADO, P.O. 9 DE MARZO DE 2016)
+ARTÍCULO 551 SEXIES.- CONTRA PROPUESTA DEL CONVENIO. En caso de que el cónyuge a quien se le haya notificado la solicitud de divorcio Incausado y la propuesta de convenio, no estuviere de acuerdo con esta última, podrá presentar su contrapropuesta en un plazo de cinco días, y cumplir con los mismos requisitos establecidos por la Legislación Familiar vigente en el Estado.

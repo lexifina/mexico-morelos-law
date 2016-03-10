@@ -1,0 +1,4 @@
+(ADICIONADO, P.O. 9 DE MARZO DE 2016)
+ARTÍCULO 551 QUINQUIES.- SOLICITUD DE DIVORCIO INCAUSADO CUANDO SE IGNORA EL DOMICILIO. En los casos de solicitudes de divorcio incausado, cuando se ignore el domicilio del otro cónyuge, el procedimiento es el siguiente:
+I. Admitida la solicitud se debe notificar por edictos el auto correspondiente, de acuerdo con lo establecido en el artículo 134 fracción VI de este Código, y
+II. Cuando el otro cónyuge notificado en los términos de la fracción anterior comparezca ante el juez, se debe seguir el procedimiento en la forma establecida en este Capítulo, y si no comparece dentro del plazo correspondiente, el juez, luego de analizar la solicitud y la propuesta de convenio, debe dictar la resolución que disuelva el matrimonio y apruebe, con las consideraciones procedentes, el convenio presentado.
