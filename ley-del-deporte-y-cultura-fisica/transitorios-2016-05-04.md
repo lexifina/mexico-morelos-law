@@ -1,0 +1,9 @@
+P.O. 4 DE MAYO DE 2016.
+[N. DE E. TRANSITORIOS DEL "DECRETO NÚMERO TRESCIENTOS VEINTISIETE POR EL QUE SE REFORMAN Y ADICIONAN DIVERSAS DISPOSICIONES DE LA LEY DEL DEPORTE Y CULTURA FÍSICA DEL ESTADO DE MORELOS".]
+PRIMERA.- Remítase el presente Decreto al Titular del Poder Ejecutivo del Estado, para los efectos que indica el artículo 44 y 70, fracción XVII de la Constitución Política del Estado Libre y Soberano de Morelos.
+SEGUNDA.- El presente Decreto entrará en vigor a partir del día siguiente de su publicación en el Periódico Oficial "Tierra y Libertad".
+TERCERA.- El Poder Ejecutivo del Estado contará con un plazo no mayor a 90 días hábiles posteriores a la entrada en vigor de este decreto, para hacer las modificaciones pertinentes al Reglamento de la presente Ley.
+CUARTA.- La Comisión Estatal, a que se refiere el presente decreto, deberá quedar debidamente instalada en un plazo no mayor a 90 días naturales posteriores a la publicación de las reformas al Reglamento de la presente Ley.
+QUINTA.- En un plazo no mayor a 6 meses, los Municipios deberán hacer las adecuaciones necesarias para dar cumplimiento a lo dispuesto por el presente Decreto.
+SEXTA.- Dentro de los 90 días posteriores a la entrada en vigor del presente Decreto, este Poder Legislativo deberá hacer las modificaciones respectivas a la Ley del Sistema de Seguridad Pública del Estado de Morelos, a fin de dar cumplimiento al mismo.
+SÉPTIMA.- Dese cuenta a la Cámara de Senadores, en contestación al acuerdo contenido en el oficio DGPL-1P3A.-6107.16 de fecha 09 de diciembre de 2014, mediante el cual se exhorta a los Congresos de los Estados de la Federación y a la Asamblea Legislativa del Distrito Federal a actualizar los marcos legales correspondientes donde se pueda prevenir, sancionar y eliminar la violencia que se genere en cualquier evento, no sólo futbol, de la que este Congreso ha dado cumplimiento.

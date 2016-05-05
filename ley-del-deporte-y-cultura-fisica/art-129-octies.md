@@ -1,0 +1,2 @@
+(ADICIONADO, P.O. 4 DE MAYO DE 2016)
+ARTÍCULO 129 OCTIES.- Los deportistas, entrenadores, técnicos, directivos y demás personas, en el ámbito de la disciplina deportiva, deberán actuar conforme a las disposiciones y lineamientos que para prevenir y erradicar la violencia en el deporte emita la Comisión Especial Federal, así como los establecidos en las disposiciones reglamentarias y estatutarias emitidas por las Asociaciones Deportivas Estatales respectivas.

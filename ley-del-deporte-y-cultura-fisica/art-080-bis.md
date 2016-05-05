@@ -1,0 +1,3 @@
+(ADICIONADO, P.O. 4 DE MAYO DE 2016)
+ARTÍCULO 80 BIS.- Para la celebración de eventos deportivos masivos o con fines de espectáculo, las instalaciones deportivas en que pretendan realizarse, independientemente del origen de los fondos con que hayan sido construidas, deberán contar con el equipamiento de seguridad y protección civil que establezcan las leyes y demás ordenamientos aplicables.
+Las autoridades municipales, serán competentes para verificar el cumplimiento de la presente disposición.

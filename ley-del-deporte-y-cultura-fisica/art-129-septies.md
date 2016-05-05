@@ -1,0 +1,5 @@
+(ADICIONADO, P.O. 4 DE MAYO DE 2016)
+ARTÍCULO 129 SEPTIES.- Toda persona que asista a la celebración de un evento deportivo, independientemente de la calidad en que lo haga, quedará sujeta a lo siguiente:
+I. Acatar las disposiciones normativas relacionadas con la cultura física y la prevención y erradicación de la violencia en el deporte, así como de las diversas modalidades de los eventos deportivos contenidas en la presente Ley, las que emita la Comisión Especial Federal y las que correspondan en el ámbito municipal en donde se lleven a cabo, y
+II. Cumplir con las indicaciones señaladas por el organizador, mismas que deberán contener las causas por las que se pueda impedir su entrada a las instalaciones donde se llevará a cabo dicho espectáculo.
+Los asistentes o espectadores que cometan actos que generen violencia u otras acciones sancionables al interior o en las inmediaciones de los espacios destinados a la realización de la cultura física, el deporte y en las que se celebren eventos deportivos en cualquiera de sus modalidades, serán sujetos a la aplicación de las sanciones civiles, penales o administrativas que correspondan.
