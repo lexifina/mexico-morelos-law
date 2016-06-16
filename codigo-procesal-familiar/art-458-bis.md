@@ -1,5 +1,5 @@
 (ADICIONADO, P.O. 15 DE AGOSTO DE 2007)
-ARTÍCULO 458 BIS.- PROCEDENCIA DE LA RECTIFICACIÓN O MODIFICACIÓN POR RESOLUCIÓN ADMINISTRATIVA. La rectificación o modificación de las actas del Estado Civil de las personas podrán ser rectificadas o modificadas mediante resolución que dicte la Dirección General del Registro Civil en los siguientes casos:
+ARTÍCULO 458 BIS.- PROCEDENCIA DE LA RECTIFICACIÓN O MODIFICACIÓN POR RESOLUCIÓN ADMINISTRATIVA. La rectificación o modificación de las actas del estado Civil de las personas podrán ser rectificadas o modificadas mediante resolución que dicte la Dirección General del Registro Civil en los siguientes casos:
 (REFORMADO, P.O. 12 DE NOVIEMBRE DE 2014)
 1. Cuando se trate de errores ortográficos, de escritura, mecanográficos o los generados por los medios electrónicos, de cómputo o de sistematización utilizados que no alteren la filiación;
 2. Cuando se trate de complementar los datos de las personas relacionadas con el estado civil de la persona cuya acta se pretenda modificar.
