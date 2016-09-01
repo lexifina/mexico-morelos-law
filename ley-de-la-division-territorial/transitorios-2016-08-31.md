@@ -1,0 +1,6 @@
+P.O. 31 DE AGOSTO DE 2016.
+[N. DE E. TRANSITORIOS DEL "DECRETO NÚMERO OCHOCIENTOS SETENTA Y NUEVE POR EL QUE SE REFORMAN DIVERSAS DISPOSICIONES DE LA LEY ORGÁNICA MUNICIPAL Y DE LA LEY DE DIVISIÓN TERRITORIAL, AMBAS DEL ESTADO DE MORELOS".]
+PRIMERA.- Remítase el presente Decreto al Titular del Poder Ejecutivo del Estado, para los efectos que indica el artículo 44 y 70, fracción XVII de la Constitución Política del Estado Libre y Soberano de Morelos.
+SEGUNDA.- El presente Decreto entrará en vigor a partir del día siguiente de su publicación en el Periódico Oficial "Tierra y Libertad".
+TERCERA.- Las menciones que en otros ordenamientos se hagan del Municipio de Jonacatepec, se entenderán referidas al Municipio de Jonacatepec de Leandro Valle.
+CUARTA.- Las funciones, facultades, derechos y obligaciones establecidos a cargo del Municipio de Jonacatepec en cualquier ordenamiento legal, así como en contratos, convenios o acuerdos celebrados con Secretarías, Dependencias o Entidades de la Administración Pública Estatal, Federal, y de los Municipios, así como con cualquier persona física o moral, se entenderán asumidos por el Municipio de Jonacatepec de Leandro Valle, de acuerdo con la presente reforma.
