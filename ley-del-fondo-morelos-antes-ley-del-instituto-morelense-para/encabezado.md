@@ -1,5 +1,5 @@
 LEY DEL FONDO MORELOS
-[N. DE E. LA FE DE ERRATAS PUBLICADA EN EL P.O. EL 10 DE AGOSTO DE 2016 NO APLICA AL ARTICULADO DEL DECRETO PUBLICADO EN EL P.O. DE 21 DE JULIO DE 2016.]
+[N. DE E. CONTIENE LA FE DE ERRATAS PUBLICADA EN EL PERIÓDICO OFICIAL DEL 14 DE SEPTIEMBRE DE 2016.]
 Ley publicada en el Periódico Oficial del Estado de Morelos, el miércoles 12 de agosto de 2009.
 Al margen izquierdo un sello con el Escudo del Estado de Morelos que dice: "Tierra y Libertad".- La Tierra volverá a quienes la trabajan con sus manos. Poder Legislativo.- L Legislatura.- 2006-2009.
 MTRO. MARCO ANTONIO ADAME CASTILLO, GOBERNADOR CONSTITUCIONAL DEL ESTADO LIBRE Y SOBERANO DE MORELOS A SUS HABITANTES SABED:
