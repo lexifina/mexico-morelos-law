@@ -1,0 +1,5 @@
+P.O. 19 DE OCTUBRE DE 2016.
+[N. DE E. TRANSITORIOS DEL "DECRETO NÚMERO MIL VEINTE POR EL QUE SE REFORMA EL ARTÍCULO 114, DE LA LEY ORGÁNICA DEL PODER JUDICIAL".]
+PRIMERA.- Remítase el presente Decreto al Titular del Poder Ejecutivo del Estado, para los efectos que indica el artículo 44 y 70, fracción XVII, de la Constitución Política del Estado Libre y Soberano de Morelos.
+SEGUNDA.- El presente Decreto entrará en vigor a partir del día siguiente de su publicación en el Periódico Oficial "Tierra y Libertad".
+TERCERA.- Tratándose que la presente reforma, únicamente refiere a la armonización de las disposiciones de la Ley Orgánica del Poder Judicial, con las previstas en la Constitución Política del Estado Libre y Soberano de Morelos, por ende no implica afectación alguna de derechos previamente reconocidos y vigentes, esto en estricto apego a la legalidad y pleno respeto a la autonomía del Poder Judicial, por tal circunstancia se reconoce plenamente la temporalidad de la designación en el cargo del actual Representante del Poder Legislativo, ante el Consejo de la Judicatura.
