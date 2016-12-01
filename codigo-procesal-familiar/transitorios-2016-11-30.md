@@ -1,0 +1,5 @@
+P.O. 30 DE NOVIEMBRE DE 2016.
+[N. DE E. TRANSITORIOS DEL "DECRETO NÚMERO MIL DOSCIENTOS NOVENTA Y SIETE POR EL QUE SE REFORMA EL CUARTO PÁRRAFO, DEL ARTÍCULO 174 DEL CÓDIGO FAMILIAR PARA EL ESTADO LIBRE Y SOBERANO DE MORELOS, SE REFORMA EL ARTÍCULO 503 Y SE ADICIONA UN 503 BIS AL CÓDIGO PROCESAL FAMILIAR PARA EL ESTADO LIBRE Y SOBERANO DE MORELOS, ASÍ COMO SE ADICIONAN LAS FRACCIONES IX Y X AL ARTÍCULO 29 DE LA LEY DEL NOTARIADO DEL ESTADO DE MORELOS".]
+PRIMERA. Remítase el presente Decreto al Gobernador Constitucional del Estado, para los efectos señalados en los artículos 44, 47 y 70, fracción XVII, inciso a), de la Constitución Política del Estado Libre y Soberano de Morelos.
+SEGUNDA. El presente Decreto iniciará su vigencia a partir del día siguiente de su publicación en el Periódico Oficial "Tierra y Libertad", órgano de difusión del Gobierno del estado de Morelos.
+TERCERA. Se derogan todas las disposiciones normativas de igual o menor rango jerárquico que contravengan lo dispuesto en el presente Decreto.

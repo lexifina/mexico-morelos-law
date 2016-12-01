@@ -1,0 +1,15 @@
+(ADICIONADO, P.O. 30 DE NOVIEMBRE DE 2016)
+ARTÍCULO 503 BIS. EL DIVORCIO ADMINISTRATIVO ANTE NOTARIO PÚBLICO. El divorcio administrativo, podrá tramitarse ante Notario Público del estado de Morelos que elijan los interesados y se formalizará mediante escritura pública. La petición de divorcio del matrimonio, será presentada por los cónyuges interesados y contendrá como mínimo lo siguiente:
+I. Los nombres, apellidos, documento de identidad, edad y residencia de los cónyuges;
+II. Que exista mutuo consentimiento de los cónyuges para divorciarse;
+III. Copia certificada del acta de matrimonio con fecha máxima de seis meses de expedición;
+IV. Declaración por escrito, bajo protesta de decir verdad, de no haber procreado hijos antes y durante el matrimonio, o que, teniéndolos, sean mayores de edad y no sean acreedores alimentarios, en este último caso, deberán exhibir actas de nacimiento de los hijos;
+V. Certificado médico en el que se haga constar que la cónyuge no se encuentra embarazada, con fecha de expedición no mayor a 5 días al momento de la solicitud de divorcio, y
+VI. Si el matrimonio se contrajo bajo el régimen de sociedad conyugal y durante el matrimonio se adquirieron bienes, derechos, cargas u obligaciones, se presentará el convenio de liquidación de la sociedad conyugal, el cual deberá ser efectuado en ese mismo acto ante el Notario Público del estado de Morelos, en él se establecerá la disolución de la sociedad conyugal y su correspondiente liquidación, en los términos que por mutuo acuerdo decidan ambos cónyuges.
+En caso de que los cónyuges solicitantes no hayan obtenido bienes, derechos, cargas u obligaciones susceptibles de liquidación, lo manifestarán bajo protesta de decir verdad, con la salvedad de las penas en que incurrieran en falsedad de declaración.
+Se considerará que los interesados han desistido de la solicitud de divorcio ante Notario Público, si transcurre un mes desde la fecha en que el instrumento fue puesto a su disposición, sin que concurran a su otorgamiento.
+En el documento notarial de divorcio administrativo, se protocolizará la solicitud, las copias certificadas de los registros civiles, así como el convenio de liquidación de la sociedad conyugal en su caso. El Notario Público procederá a la liquidación de los bienes.
+Satisfechos los requisitos sustanciales y formales exigidos en la ley, el Notario Público autorizará el instrumento notarial de divorcio administrativo.
+Una vez inscrito el protocolo notarial de divorcio en el Libro de Registro de Gobierno, el Notario Público comunicará dentro de los tres días hábiles siguientes, la inscripción al Oficial del Registro Civil de la Jurisdicción en donde se haya celebrado el matrimonio, quien hará las anotaciones marginales en el Libro de Registro Civil correspondiente, a costa de los interesados.
+El trámite del divorcio causará, por concepto de derechos notariales, la tarifa fijada para los actos sin cuantía, y se liquidará con la presentación completa de la respectiva solicitud.
+El divorcio administrativo ante notario público, producirá los mismos efectos que el efectuado judicialmente.
