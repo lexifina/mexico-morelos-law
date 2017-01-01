@@ -1,3 +1,4 @@
+[N. DE. E. DE CONFORMIDAD CON LA DISPOSICIÓN TRANSITORIA SEGUNDA DEL DECRETO DE REFORMAS PUBLICADO EN EL P.O. DE 22 DE DICIEMBRE DE 2016, LA PRESENTE REFORMA INICIARÁ SU VIGENCIA EL 01 DE ENERO DE 2017.]
 LEY GENERAL DE HACIENDA DEL ESTADO DE MORELOS
 Ley publicada en la Segunda Sección del Periódico Oficial del Estado de Morelos, el miércoles 5 de julio de 2006.
 Al margen izquierdo un Sello con el Escudo del Estado de Morelos que dice: "Tierra y Libertad".- La tierra volverá a quienes la trabajan con sus manos.

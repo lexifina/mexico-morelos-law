@@ -1,3 +1,4 @@
+[N. DE E. VÉASE TABLA EN EL P.O. DE 22 DE DICIEMBRE DE 2016, PÁGINAS DE LA 45 A LA 46.]
 (ADICIONADO, P.O. 26 DE DICIEMBRE DE 2012)
 Artículo 93 Bis-1. Por el estudio, trámite y expedición del dictamen de factibilidad de obra hidráulica, incluyendo su inscripción en el Registro de Obras Hidráulicas a cargo de la Comisión Estatal del Agua, se pagará el derecho conforme a las siguientes cuotas:
 (REFORMADO, P.O. 24 DE DICIEMBRE DE 2014)

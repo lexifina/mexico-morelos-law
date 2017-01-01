@@ -29,14 +29,17 @@ m) La alimentación y habitación, cuando se otorguen con cargo al salario del t
 n) Las prestaciones de uniformes de trabajo o deportivos, festejos de convivios, becas para los trabajadores o sus familias.
 (REFORMADO, P.O. 8 DE DICIEMBRE DE 2015)
 o) Primas de seguros por gastos médicos o de vida, en el porcentaje que sea a cargo del salario del trabajador, y
-(ADICIONADO, P.O. 20 DE DICIEMBRE DE 2013)
-p) Las despensas en dinero o en especie, cuando su monto mensual no rebase el 40% del salario mínimo general vigente en el Estado elevado al mes;
-Para que los conceptos mencionados se exenten deberán estar debidamente comprobados.
+(REFORMADO, P.O. 22 DE DICIEMBRE DE 2016)
+p) Las despensas en dinero o en especie, cuando su monto mensual no rebase el 30% del valor del salario mínimo al mes;
 II. Las erogaciones que efectúen:
 N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE INCISO, VÉASE PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO
 a) (DEROGADO POR ARTÍCULO VIGÉSIMO DE LA LEY DE INGRESOS DEL GOBIERNO DEL ESTADO DE MORELOS, CORRESPONDIENTE AL EJERCICIO FISCAL DEL PRIMERO DE ENERO AL TREINTA Y UNO DE DICIEMBRE DE DOS MIL DOCE, P.O. 21 DE DICIEMBRE DE 2011)
 (REFORMADO, P.O. 8 DE DICIEMBRE DE 2015)
 b) Instituciones sin fines de lucro que realicen o promuevan asistencia social para abatir el rezago en materia alimentaria de salud o de educación básica, que se encuentren registradas ante las autoridades estatales competentes del ramo y que obtengan la autorización por parte de la Secretaría;
 c) Asociaciones de trabajadores y colegios de profesionistas; y
-(REFORMADO, P.O. 20 DE DICIEMBRE DE 2013)
+(REFORMADO, P.O. 22 DE DICIEMBRE DE 2016)
 d) Empresas de nueva creación, durante los doce meses posteriores a la fecha de su creación, contados a partir de que inicien sus operaciones en el Estado de Morelos, acreditando la creación de, cuando menos, cinco empleos permanentes, así como los permisos, autorizaciones o licencias para su funcionamiento, en términos de la presente fracción.
+(ADICIONADO, P.O. 22 DE DICIEMBRE DE 2016)
+Los contribuyentes a que se refiere este inciso deberán presentar solicitud de exención durante el primer mes contado a partir de que inicien sus operaciones en el estado de Morelos.
+(ADICIONADO, P.O. 22 DE DICIEMBRE DE 2016)
+Se aplicará lo dispuesto en el Código Fiscal para determinar los alcances del término empresa a que se refiere este artículo.

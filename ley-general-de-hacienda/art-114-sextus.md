@@ -1,25 +1,25 @@
 (ADICIONADO CON EL ARTÍCULO QUE LO INTEGRA, P.O. 8 DE DICIEMBRE DE 2015)
 CAPITULO VIGÉSIMO TERCERO
 DE LOS SERVICIOS EN MATERIA DE RESERVAS TERRITORIALES
-(ADICIONADO, P.O. 8 DE DICIEMBRE DE 2015)
-Artículo 114 Sextus. Los derechos por los servicios en materia de reservas territoriales, se causarán y se pagarán previamente por los interesados conforme a esta Ley, con base en los términos siguientes:
-TARIFA
-I. Por la medición de superficies en campo:
-A) Perimetral por metro cuadrado$0.50
-B) Curvas de nivel por metro cuadrado$5.00
-C) Barranca por metro lineal$70.00
-D) Lotificaciones por lote$200.00
-E) Replanteo por metro cuadrado$3.00
-II. Verificación de superficie en campo
-por línea de control$5,000.00
-III. Escaneo de planos por línea de
-tamaño 90 x 90 cm. En archivo digital$40.00
-IV. Impresión de imagen a color
-tamaño 90 x 90 cm$150.00
-V. Plano blanco y negro, tamaño 90 x 90 cm$35.00
-VI. Impresión a color líneas, tamaño 90 x 90 cm$40.00
-VII. Escrituración de lotes
-A) de 1 m2 hasta 150 m2 $3,000.00
-B) de 150.01 m2 hasta 300 m2 $5,500.00
-C) de 300.01 m2 en adelante $8,000.00
-VIII. CESIÓN DE DERECHOS$1,500.00
+(REFORMADO, P.O. 22 DE DICIEMBRE DE 2016)
+Artículo 114 Sextus. Los derechos por los servicios en materia de reservas territoriales, se causarán y se pagarán previamente por los interesados conforme a esta ley, con base en los términos siguientes:
+TARIFA EN UMA
+I. POR LA MEDICIÓN DE SUPERFICIES EN CAMPO:
+A) PERIMETRAL POR METRO CUADRADO0.01
+B) CURVAS DE NIVEL POR METRO CUADRADO0.01
+C) BARRANCA POR METRO LINEAL1.00
+D) LOTIFICACIONES POR LOTE3.00
+E) REPLANTEO POR METRO CUADRADO0.05
+II. VERIFICACIÓN DE SUPERFICIE EN CAMPO
+POR LÍNEA DE CONTROL69.00
+III. ESCANEO DE PLANOS POR LÍNEA DE
+TAMAÑO 90 X 90 CM. EN ARCHIVO DIGITAL1.00
+IV. IMPRESIÓN DE IMAGEN A COLOR
+TAMAÑO 90 X 90 CM2.50
+V. PLANO BLANCO Y NEGRO, TAMAÑO 90 X 90 CM0.50
+VI. IMPRESIÓN A COLOR LÍNEAS, TAMAÑO 90 X 90 CM1.00
+VII. ESCRITURACIÓN DE LOTES
+A) DE 1 M2 HASTA 150 M241.50
+B) DE 150.01 M2 HASTA 300 M275.50
+C) DE 300.01 M2 EN ADELANTE110.00
+VIII. CESIÓN DE DERECHOS21.00
