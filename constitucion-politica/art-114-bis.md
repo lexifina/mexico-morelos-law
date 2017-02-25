@@ -10,7 +10,8 @@ IV.- Mercados y centrales de abasto.
 V.- Panteones.
 VI.- Rastro.
 VII.- Calles, parques y jardines y su equipamiento.
-VIII.- Seguridad Pública, en los términos del Artículo 21 de la Constitución Política de los Estados Unidos Mexicanos, de la presente Constitución y de las leyes que de ambas emanen; así como la policía preventiva municipal y de tránsito.
+(REFORMADO PRIMER PÁRRAFO, P.O. 22 DE FEBRERO DE 2017)
+VIII.- Seguridad Pública, en los términos del Artículo 21 de la Constitución Política de los Estados Unidos Mexicanos, de la presente Constitución y de las leyes que de ambas emanen; así como la policía preventiva municipal y de tránsito, y el Cuerpo de Bomberos.
 La policía preventiva municipal estará al mando del Presidente Municipal, en los términos de la normatividad correspondiente. Aquélla acatará las órdenes que el Gobernador le transmita en aquellos casos que éste juzgue como de fuerza mayor o alteración grave del orden público; y
 IX.- Los demás que la ley determine, según las condiciones territoriales y socio-económicas de los municipios, así como su capacidad administrativa y financiera.
 Los Ayuntamientos con sujeción a la normatividad aplicable, podrán coordinarse y asociarse para la más eficaz prestación de los servicios públicos o el mejor ejercicio de las funciones que les correspondan. En este caso y tratándose de la asociación de municipios del Estado y de otro o más Estados, deberán contar con la aprobación de las legislaturas correspondientes. Así mismo cuando a juicio del Ayuntamiento respectivo, sea necesario, podrá celebrar convenios con el Estado para que éste, de manera directa o a través del organismo correspondiente, se haga cargo en forma temporal de algunos de ellos, o bien se presten o ejerzan coordinadamente por el Estado y el propio municipio, sujetándose también a la ley o leyes respectivas.
