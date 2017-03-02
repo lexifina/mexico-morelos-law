@@ -1,5 +1,4 @@
 LEY DE TRANSPARENCIA Y ACCESO A LA INFORMACIÓN PÚBLICA DEL ESTADO DE MORELOS
-[N. DE E. CONTIENE LA FE DE ERRATAS PUBLICADA EN EL PERIÓDICO OFICIAL DEL 25 DE MAYO DE 2016.]
 Ley publicada en el Periódico Oficial del Estado de Morelos, el miércoles 27 de abril de 2016.
 Al margen izquierdo un Escudo del Estado de Morelos que dice: "Tierra y Libertad".- La tierra volverá a quienes la trabajan con sus manos.- Poder Legislativo. LIII. Legislatura. 2015-2018.
 GRACO LUIS RAMÍREZ GARRIDO ABREU, GOBERNADOR CONSTITUCIONAL DEL ESTADO LIBRE Y SOBERANO DE MORELOS A SUS HABITANTES SABED:

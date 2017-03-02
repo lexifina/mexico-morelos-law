@@ -1,6 +1,7 @@
 (ADICIONADO, P.O. 22 DE ABRIL DE 2015)
 ARTICULO 10 BIS.- A las personas que conduzcan automotores bajo el influjo de alcohol o drogas, se les sancionará de la siguiente forma:
-I. Con multa equivalente de ciento cincuenta a doscientos días de salario mínimo, a la persona que conduzca un vehículo automotor y se le detecte una cantidad superior de 0.25 a 0.40 miligramos de alcohol por litro de aire espirado, o bajo el influjo de drogas;
+(REFORMADA, P.O. 1 DE MARZO DE 2017)
+I. Con multa equivalente de ciento cincuenta a doscientas veces el valor diario de la Unidad de Medida y Actualización, a la persona que conduzca un vehículo automotor y se le detecte una cantidad superior de 0.25 a 0.40 miligramos de alcohol por litro de aire espirado, o bajo el influjo de drogas;
 II. Con arresto administrativo de doce a veinticuatro horas a la persona que conduzca un vehículo y se le detecte una cantidad de 0.41 a 0.65 miligramos de alcohol por litro de aire espirado. La calificación de la sanción estará sujeta a las reglas establecidas en la reglamentación correspondiente;
 III. A la persona que conduzca un vehículo y se le detecte una cantidad mayor de 0.65 miligramos de alcohol por litro de aire espirado, se sancionará con arresto administrativo de veinticuatro a treinta y seis horas;
 IV. Se cancelará temporalmente la licencia de conducir de la persona que, habiendo incurrido en una de las conductas sancionadas conforme a las dos fracciones anteriores, incurra nuevamente en una de dichas conductas, dentro de un período de dos años contados a partir de la fecha en que haya incurrido en falta por primera vez.

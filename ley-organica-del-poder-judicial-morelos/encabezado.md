@@ -1,4 +1,4 @@
-LEY ORGÁNICA DEL PODER JUDICIAL
+LEY ORGÁNICA DEL PODER JUDICIAL DEL ESTADO DE MORELOS
 Ley publicada en la Sección Segunda del Periódico Oficial del Estado de Morelos, el miércoles 12 de abril de 1995.
 Al margen izquierdo un Escudo Nacional que dice: Estados Unidos Mexicanos.- Gobierno del Estado Libre y Soberano de Morelos.- Poder Ejecutivo.
 JORGE CARRILLO OLEA, GOBERNADOR DEL ESTADO LIBRE Y SOBERANO DE MORELOS, A SUS HABITANTES, SABED:

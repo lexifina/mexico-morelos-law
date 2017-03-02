@@ -1,4 +1,4 @@
-LEY ESTATAL DE AGUA POTABLE
+LEY ESTATAL DE AGUA POTABLE DEL ESTADO DE MORELOS
 Ley publicada en el Periódico Oficial del Estado de Morelos, el día 26 de julio de 1995.
 Al margen izquierdo un Escudo Nacional que dice: Estados Unidos Mexicanos.- Gobierno del Estado Libre y Soberano de Morelos.- Poder Ejecutivo.
 JORGE CARRILLO OLEA, GOBERNADOR DEL ESTADO LIBRE Y SOBERANO DE MORELOS, A SUS HABITANTES SABED:
