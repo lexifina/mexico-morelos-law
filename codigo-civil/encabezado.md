@@ -1,4 +1,4 @@
-CODIGO CIVIL PARA EL ESTADO LIBRE Y SOBERANO DE MORELOS
+CÓDIGO CIVIL PARA EL ESTADO LIBRE Y SOBERANO DE MORELOS
 Código publicado en la Sección Segunda del Periódico Oficial del Estado de Morelos, el 13 de octubre de 1993.
 Al margen izquierdo un Escudo Nacional que dice: Estados Unidos Mexicanos.- Gobierno del Estado Libre y Soberano de Morelos.- Poder Ejecutivo.
 ANTONIO RIVA PALACIO LOPEZ, GOBERNADOR CONSTITUCIONAL DEL ESTADO LIBRE Y SOBERANO DE MORELOS, A SUS HABITANTES SABED:

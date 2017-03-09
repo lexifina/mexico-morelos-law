@@ -1,0 +1,2 @@
+(ADICIONADO, P.O. 8 DE MARZO DE 2017)
+ARTICULO 147 BIS.- Al que, con la intención de requerir el pago de una deuda, ya sea propia del deudor o de quien funja como referencia o aval, intimide a otro con causarle daño en sus bienes o efectúe en su contra actos de hostigamiento, se le impondrá la misma sanción establecida en el artículo inmediato anterior, además de las sanciones que correspondan, si para tal efecto se emplearon documentación o sellos falsos o se usurparon funciones públicas o de profesión.

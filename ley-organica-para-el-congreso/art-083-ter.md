@@ -1,4 +1,3 @@
-N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.
 (ADICIONADO, P.O. 16 DE ENERO DE 2013)
 Artículo 83 Ter.- A la Comisión especial de Energía, le corresponde conocer y dictaminar, en su caso, los siguientes asuntos:
 a) Que sean turnados por la Mesa Directiva a fin de resolver mediante Leyes, acuerdos o pronunciamientos, la problemática sobre la suficiencia energética para satisfacer las necesidades humanas, comerciales y agrícolas y abastecimiento;
