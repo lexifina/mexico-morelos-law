@@ -1,0 +1,2 @@
+(ADICIONADO, P.O. 8 DE MARZO DE 2017)
+Artículo 1 Bis. Toda persona en el Estado de Morelos, tiene el derecho al acceso suficiente, seguro e higiénico de agua disponible para su uso personal y doméstico, así como al suministro libre de interferencias. Las autoridades garantizaran este derecho, pudiendo las personas presentar denuncias cuando el ejercicio del mismo se limite por actos, hechos u omisiones de alguna autoridad o persona, tomando en cuenta las limitaciones y restricciones que establece la presente Ley.
