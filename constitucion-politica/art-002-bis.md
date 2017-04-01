@@ -13,7 +13,10 @@ VIII.- Se garantizará a los indígenas el efectivo acceso a la justicia, tanto 
 IX.- Los pueblos y comunidades indígenas, aplicarán internamente sus propios sistemas normativos comunitarios, en la regulación y solución de conflictos internos, sujetándose a los principios generales de la Constitución Federal y la del Estado y las leyes que de ellos emanen, respetando los Derechos Humanos, así como la dignidad e integridad de la mujer;
 X. Los pueblos y comunidades indígenas tienen derecho a elegir, en los Municipios con población indígena, representantes a los Ayuntamientos, en los términos que señale la normatividad en la materia.
 Elegir a los representantes de su gobierno interno de conformidad con sus normas, procedimientos y prácticas tradicionales, garantizando la participación de las mujeres en condiciones de paridad frente a los varones, respetando el pacto federal y la soberanía del Estado.
-XI.- La ley reconocerá a los integrantes de los pueblos y comunidades indígenas el derecho a su etnicidad y al etnodesarrollo, residan temporal o permanentemente en el territorio del Estado de Morelos;
+(REFORMADO PRIMER PÁRRAFO, P.O. 29 DE MARZO DE 2017)
+XI.- La ley reconocerá a los integrantes de los pueblos y comunidades indígenas el derecho a su etnicidad y al etnodesarrollo, residan temporal o permanentemente en el territorio del Estado de Morelos.
+(ADICIONADO, P.O. 29 DE MARZO DE 2017)
+Así mismo, la Ley deberá garantizar que cualquier forma del Registro Civil pueda ser redactada y expedida en la lengua indígena del interesado, a petición expresa de éste;
 XII.- De conformidad con el artículo 2 de la Constitución Política de los Estados Unidos Mexicanos, el Estado y los municipios, con la participación de las comunidades, establecerán las instituciones y las políticas para garantizar el desarrollo humano y social de los pueblos y comunidades indígenas. La ley incorporará las bases que la Constitución Federal y la presente Constitución refieren, así como establecerá los mecanismos y procedimientos para el cumplimiento de esta obligación en los siguientes aspectos:
 a) Impulsar al desarrollo regional y local;
 b) Garantizar e incrementar los niveles de escolaridad, favoreciendo la educación bilingüe e intercultural, la alfabetización, la conclusión de la educación básica, la capacitación productiva y la educación media y superior;
