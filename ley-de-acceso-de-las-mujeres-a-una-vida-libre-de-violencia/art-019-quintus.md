@@ -1,0 +1,2 @@
+(ADICIONADO, P.O. 12 DE ABRIL DE 2017)
+Artículo 19 Quintus.- Las autoridades de los distintos órdenes de gobierno, el Instituto Morelense de Procedimientos Electorales y Participación Ciudadana, la Fiscalía General del Estado de Morelos, el Tribunal Electoral del Estado de Morelos y los demás integrantes del Sistema Estatal, coordinarán las acciones e instrumentos interinstitucionales que permitan avanzar en materia de combate de la violencia política contra las mujeres.
