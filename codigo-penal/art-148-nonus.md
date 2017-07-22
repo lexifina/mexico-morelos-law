@@ -1,2 +1,1 @@
-(ADICIONADO, P.O. 11 DE JUNIO DE 2014)
-ARTICULO 148 NONUS.- Se impondrá de tres a cinco años de prisión y multa de doscientos a cuatrocientos Salarios Mínimos Vigentes en la región, a las autoridades o particulares que teniendo a su cargo edificios, locales, recintos o instalaciones de carácter oficial o cualquier otro inmueble de su propiedad permitan por acción u omisión el ocultamiento de la víctima de desaparición forzada en los mismos.
+ARTICULO 148 NONUS.- (DEROGADO, P.O. 19 DE JULIO DE 2017)

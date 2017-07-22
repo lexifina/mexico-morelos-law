@@ -1,2 +1,1 @@
-(ADICIONADO, P.O. 11 DE JUNIO DE 2014)
-ARTICULO 148 UNDECIMUS.- En ningún caso y bajo ninguna circunstancia, serán eximentes ni atenuantes de responsabilidad la obediencia debida por razones de jerarquía, así como las órdenes o instrucciones recibidas por superiores, y no podrán invocarse circunstancias de excepción, tales como el estado o amenaza de guerra, inestabilidad política interna o cualquier otra emergencia, como justificación para cometer el delito de desaparición forzada de personas.
+ARTICULO 148 UNDECIMUS.- (DEROGADO, P.O. 19 DE JULIO DE 2017)

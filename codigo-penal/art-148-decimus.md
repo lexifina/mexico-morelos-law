@@ -1,2 +1,1 @@
-(ADICIONADO, P.O. 11 DE JUNIO DE 2014)
-ARTICULO 148 DECIMUS.- El Ministerio Público y sus auxiliares que teniendo a su cargo la investigación del delito de desaparición forzada, la obstruyan o eviten hacerla de conformidad a lo establecido por la ley aplicable, se le aplicará pena de tres a cinco años de prisión y multa de doscientos a cuatrocientos Salarios Mínimos Vigentes. Además de la inhabilitación definitiva e inconmutable de ejercer la función pública. Las penas a que se refiere el presente artículo, se aplicarán con independencia de las que puedan corresponder, por otros delitos cometidos en la ejecución del mismo.
+ARTICULO 148 DECIMUS.- (DEROGADO, P.O. 19 DE JULIO DE 2017)
