@@ -1,1 +1,0 @@
-Artículo 80. (Sic) El Auditor General podrá adscribir orgánicamente las unidades administrativas establecidas en el Reglamento. Los acuerdos en los cuales se deleguen facultades o se adscriban unidades administrativas se publicarán en el Periódico Oficial.

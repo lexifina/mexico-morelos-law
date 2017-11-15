@@ -1,2 +1,0 @@
-Artículo 57. Los Magistrados y servidores públicos del Tribunal son responsables administrativamente de las faltas en que incurran en el ejercicio de sus cargos, independientemente de los delitos que cometan, quedando sujetos al procedimiento y sanciones que determinen la Constitución y la normativa aplicable.
-Son obligaciones de los servidores públicos del Tribunal salvaguardar la legalidad, honradez, lealtad, imparcialidad y eficiencia en el desempeño del empleo, cargo o comisión.

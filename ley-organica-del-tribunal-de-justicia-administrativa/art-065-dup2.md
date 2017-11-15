@@ -1,1 +1,0 @@
-Artículo 65. En todo lo no previsto por este ordenamiento se aplicarán en lo conducente, las disposiciones que regulen las responsabilidades de los servidores públicos del estado y las relativas al Sistema Estatal Anticorrupción.
