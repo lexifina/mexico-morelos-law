@@ -1,0 +1,6 @@
+P.O. 27 DE DICIEMBRE DE 2017.
+[N. DE E. TRANSITORIOS DEL "DECRETO NÚMERO DOS MIL QUINIENTOS UNO POR EL QUE SE REFORMAN DIVERSOS ARTÍCULOS DE LA LEY ORGÁNICA DEL TRIBUNAL DE JUSTICIA ADMINISTRATIVA DEL ESTADO DE MORELOS, RESPECTO DE LAS ATRIBUCIONES Y TITULARIDAD DEL ÓRGANO INTERNO DE CONTROL DEL TRIBUNAL".]
+PRIMERA. Aprobado el presente decreto, remítase al Titular del Poder Ejecutivo para su promulgación y publicación respectiva, de conformidad con los artículos 44, 47 y 70, fracción XVII, inciso a), de la Constitución Política del Estado Libre y Soberano de Morelos.
+SEGUNDA. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial -Tierra y Libertad-, órgano de difusión del Gobierno del estado de Morelos.
+TERCERA. Se deroga la disposición transitoria Décimo Cuarta del decreto por el que se expide la Ley Orgánica del Tribunal de Justicia Administrativa del Estado de Morelos.
+CUARTA. La Comisión de Hacienda, Presupuesto y Cuenta Pública del Congreso del Estado, deberá a la entrada en vigor del presente decreto, emitir en un plazo no mayor a 30 días naturales, la convocatoria a que hace referencia el artículo 51 de Ley Orgánica del Tribunal de Justicia Administrativa del Estado de Morelos.

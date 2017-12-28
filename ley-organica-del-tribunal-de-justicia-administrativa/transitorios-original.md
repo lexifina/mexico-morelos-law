@@ -12,7 +12,7 @@ DÉCIMA. A partir de que entre en vigor la Ley Orgánica del Tribunal de Justici
 DÉCIMA PRIMERA. Los procedimientos iniciados con anterioridad a la entrada en vigor de la Ley Orgánica del Tribunal de Justicia Administrativa del Estado de Morelos serán concluidos conforme a las disposiciones aplicables vigentes a su inicio.
 DÉCIMA SEGUNDA. El Tribunal de Justicia Administrativa dentro de los noventa días naturales siguientes a la entrada en vigor de la Ley Orgánica del Tribunal de Justicia Administrativa del Estado de Morelos, deberá expedir el Reglamento interior; mientras tanto, continuará rigiendo el reglamento vigente en lo que no se oponga a lo previsto en este ordenamiento.
 DÉCIMA TERCERA. El Tribunal de Justicia Administrativa, dentro de los ciento veinte días naturales siguientes a la entrada en vigor de la Ley Orgánica del Tribunal de Justicia Administrativa del Estado de Morelos, deberá expedir los Manuales de Organización y Procedimientos del Tribunal de Justicia Administrativa.
-DÉCIMA CUARTA. A la entrada en vigor de la Ley Orgánica del Tribunal de Justicia Administrativa del Estado de Morelos, a propuesta que efectúe la Junta Política y de Gobierno, el Congreso nombrará por el voto aprobatorio de las dos terceras partes de sus miembros, al Titular del Órgano Interno de Control del Tribunal de Justicia Administrativa del Estado de Morelos.
+DÉCIMA CUARTA. (DEROGADA, P.O. 27 DE DICIEMBRE DE 2017)
 DÉCIMA QUINTA. Se derogan todas las disposiciones de igual o menor rango que se opongan a la presente Reforma.
 Recinto Legislativo, en Sesión Ordinaria a los trece días del mes de julio del año dos mil diecisiete.
 Atentamente. Los CC. Diputados Integrantes de la Mesa Directiva del Congreso del Estado. Dip. Beatriz Vicera Alatriste. Presidenta. Dip. Silvia Irra Marín. Secretaria. Dip. Edith Beltrán Carrillo. Secretaria. Rúbricas.
@@ -24,3 +24,4 @@ GRACO LUIS RAMÍREZ GARRIDO ABREU
 SECRETARIO DE GOBIERNO
 M.C. MATÍAS QUIROZ MEDINA
 RÚBRICAS.
+[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.]
