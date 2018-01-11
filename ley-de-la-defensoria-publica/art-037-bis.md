@@ -1,0 +1,2 @@
+(ADICIONADO, P.O. 10 DE ENERO DE 2018)
+Artículo 37 Bis. Los Defensores Públicos Especializados, además de las obligaciones, restricciones y atribuciones señaladas para los Defensores Públicos tendrán las indicadas por la Constitución Política de los Estados Unidos Mexicanos, la Constitución Política del Estado Libre y Soberano de Morelos, los Tratados Internacionales de los que el Estado Mexicano sea parte, así como las establecidas por la Ley Nacional del Sistema Integral de Justicia Penal para Adolescentes y demás normativa aplicable.
