@@ -1,0 +1,2 @@
+(ADICIONADO, P.O. 16 DE FEBRERO DE 2018)
+ARTICULO 46 TER.- En la justicia para adolescentes, el Magistrado y los Jueces especializados, tendrán fe pública para certificar el contenido de los actos que realicen y de las resoluciones que dicten, incluso cuando tales actos consten en registros informáticos, de audio, video, o se transcriban por escrito, por lo que actuarán sin asistencia de secretarios o testigos de asistencia.

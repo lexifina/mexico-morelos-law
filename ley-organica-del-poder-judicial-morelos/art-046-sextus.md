@@ -1,0 +1,2 @@
+(ADICIONADO, P.O. 16 DE FEBRERO DE 2018)
+ARTICULO 46 SEXTUS.- Los Jueces de Control especializados en Justicia para Adolescentes, ejercerán las funciones a que se refiere el artículo 16 de la Constitución Política de los Estados Unidos Mexicanos, en la etapa de investigación y etapa intermedia; los jueces de enjuiciamiento especializados, aquellas relativas a la etapa de juicio, conforme lo señala la Ley Nacional del Sistema Integral de Justicia Penal para Adolescentes; y los jueces de ejecución, las relativas a la etapa de ejecución de medidas de sanción.
