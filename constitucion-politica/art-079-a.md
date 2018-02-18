@@ -1,10 +1,8 @@
 (REFORMADA SU DENOMINACIÓN, P.O. 19 DE MARZO DE 2014)
 CAPÍTULO IV.
 DE LA FISCALÍA GENERAL DEL ESTADO DE MORELOS.
-N. DE E. DE LAS REFORMAS APROBADAS POR EL ARTÍCULO ÚNICO DEL DECRETO NÚMERO 1322, PUBLICADO EN EL P.O. 30 DE ABRIL DE 2014, SE MODIFICÓ DE FORMA SUSTANCIAL LA ESTRUCTURA DEL PRESENTE ARTÍCULO.
-N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE ARTÍCULO SEGUNDO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.
-(REFORMADO PRIMER PÁRRAFO, P.O. 30 DE ABRIL DE 2014) (F. DE E., P.O. 28 DE MAYO DE 2014)
-Artículo 79-A.- El ejercicio de las funciones del Ministerio Público se realizará por medio de la Fiscalía General del Estado de Morelos, la que estará dotada de autonomía de gestión, técnica y de ejercicio y aplicación del gasto público que le asigne el Congreso del Estado en el presupuesto anual correspondiente. Su Titular será el Fiscal General del Estado.
+(REFORMADO [N. DE E. ESTE PÁRRAFO], P.O. 15 DE FEBRERO DE 2018)
+Artículo 79-A.- El ejercicio de las funciones del Ministerio Público se realizará por medio de la Fiscalía General del Estado de Morelos, como órgano constitucional autónomo, dotado de personalidad jurídica y de patrimonio propios. Su Titular será el Fiscal General del Estado.
 (F. DE E., P.O. 28 DE MAYO DE 2014)
 En el Decreto del Presupuesto de Egresos del Gobierno del Estado, la asignación de recursos destinados a la Fiscalía General del Estado nunca será menor a la que le haya correspondido en el Ejercicio Fiscal del año anterior.
 (F. DE E., P.O. 28 DE MAYO DE 2014)
