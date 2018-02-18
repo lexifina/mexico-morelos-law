@@ -1,0 +1,5 @@
+P.O. 16 DE FEBRERO DE 2018.
+[N. DE E. TRANSITORIOS DEL "DECRETO NÚMERO DOS MIL QUINIENTOS NOVENTA Y UNO POR EL QUE SE REFORMA Y DEROGA DIVERSAS DISPOSICIONES DE LA LEY ORGÁNICA DEL TRIBUNAL DE JUSTICIA ADMINISTRATIVA DEL ESTADO DE MORELOS".]
+PRIMERA. El presente Decreto entrará en vigor el día de su publicación en el Periódico Oficial "Tierra y Libertad", órgano oficial de difusión del Gobierno del Estado Libre y Soberano de Morelos.
+SEGUNDA. De manera complementaria al régimen transitorio del Decreto Número Dos Mil Quinientos Ochenta y Nueve, publicado en el Periódico Oficial "Tierra y Libertad" en fecha quince de febrero de este mismo año, a fin de garantizar la legalidad de las actuaciones del Tribunal de Justicia Administrativa del Estado de Morelos, hasta en tanto se realicen las nuevas designaciones de los titulares del Pleno del Tribunal, del Pleno Especializado y de las Salas Especializadas, en los términos de la presente Ley, se seguirán desempeñando como sus titulares los Magistrados que se encuentran en funciones en los mismos.
+TERCERA. Se derogan todas las disposiciones de igual o menor rango que se opongan a la presente Reforma.
