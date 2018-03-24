@@ -1,8 +1,6 @@
-N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE CAPÍTULO, VÉASE ARTÍCULO SEGUNDO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.
 (REFORMADA SU DENOMINACIÓN [N. DE E. ADICIONADO CON EL ARTÍCULO QUE LO INTEGRA], P.O. 30 DE ABRIL DE 2014)
 CAPITULO VI
 DE LA PROTECCION DE LOS DERECHOS HUMANOS Y SUS GARANTIAS
-N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO SEGUNDO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.
 (ADICIONADO, P.O. 30 DE ABRIL DE 2014)
 Artículo 85-C.- La protección de los Derechos Humanos y sus garantías, así como la educación, difusión y promoción de una cultura de conocimiento y respeto de los mismos, son políticas prioritarias en el Estado de Morelos. En consecuencia, todas las autoridades y servidores públicos, Estatales o Municipales, particulares y organizaciones de la sociedad civil, en el ámbito de sus respectivas responsabilidades, estarán obligados a promover, respetar, proteger, realizar y reparar los derechos humanos.
 La interpretación de todas las normas que contengan Derechos Humanos y sus garantías, se interpretarán de conformidad con la Constitución Política de los Estados Unidos Mexicanos y con los Tratados Internacionales de la materia, favoreciendo en todo tiempo a las personas la protección más amplia.

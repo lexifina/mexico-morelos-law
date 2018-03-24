@@ -1,11 +1,8 @@
-(REFORMADA SU DENOMINACIÓN, P.O. 11 DE AGOSTO DE 2015)
+(REFORMADA SU DENOMINACIÓN, P.O. 21 DE MARZO DE 2018)
 CAPITULO III.
-DE LA DECLARACIÓN DE INTERESES Y DE SITUACIÓN PATRIMONIAL DE LOS SERVIDORES PUBLICOS.
-(REFORMADO PRIMER PÁRRAFO, P.O. 11 DE AGOSTO DE 2015)
-Artículo 133-Bis.- Tienen obligación de presentar declaraciones de intereses y de situación patrimonial los integrantes de los Poderes Legislativo, Ejecutivo y Judicial, los miembros de los Ayuntamientos y los integrantes y funcionarios de los organismos públicos autónomos creados por esta Constitución, así como del Tribunal Electoral del Estado de Morelos y del Tribunal de Justicia Administrativa, en los términos que disponga la ley de la materia.
-(REFORMADO, P.O. 11 DE AGOSTO DE 2015)
-Dichas declaraciones serán: de intereses y situación patrimonial al inicio de su gestión y se presentarán dentro de los primeros 30 días naturales de haber tomado posesión del cargo, empleo o puesto; de modificación patrimonial y de intereses, dentro del mes de enero de cada año de su función; y la declaración patrimonial al término del cargo, empleo o puesto, dentro de los treinta días naturales siguientes, de conformidad con la ley reglamentaria.
-(REFORMADO, P.O. 27 DE MAYO DE 2015)
-Las declaraciones deberán contener los bienes propios, de todo tipo, los de su cónyuge y los de sus ascendientes o descendientes y demás personas que dependan económicamente del servidor público, así como los demás datos e informes qua determine la Ley Estatal de Responsabilidades de los Servidores Públicos.
-(REFORMADO, P.O. 27 DE MAYO DE 2015)
+DE LA DECLARACIÓN DE INTERESES, DE SITUACIÓN PATRIMONIAL Y FISCAL DE LOS SERVIDORES PÚBLICOS
+(REFORMADO, P.O. 21 DE MARZO DE 2018)
+Artículo 133-Bis.- Tienen obligación de presentar declaraciones de intereses, de situación patrimonial y fiscal, en su caso, los integrantes de los Poderes Legislativo, Ejecutivo y Judicial, los miembros de los Ayuntamientos y los integrantes y funcionarios de los organismos públicos autónomos creados por esta Constitución, así como del Tribunal Electoral del Estado de Morelos y del Tribunal de Justicia Administrativa, en los términos que disponga la Ley General de Responsabilidades Administrativas y demás normativa aplicable.
+Dichas declaraciones deberán ser presentadas en los plazos siguientes: al inicio de su gestión, la declaración inicial de situación patrimonial, dentro de los sesenta días naturales siguientes de haber tomado posesión del cargo, empleo o puesto; las declaraciones de modificación patrimonial, de intereses y la fiscal, en su caso, dentro del mes de mayo de cada año de su función; y la declaración patrimonial de conclusión del cargo, empleo o puesto, dentro de los sesenta días naturales siguientes a que suceda la separación, de conformidad con la Ley General de Responsabilidades Administrativas y demás normativa aplicable.
+Las declaraciones deberán contener los bienes propios, de todo tipo, los de su cónyuge y los de sus ascendientes o descendientes y demás personas que dependan económicamente del servidor público, así como los demás datos e informes que determine la Ley General de Responsabilidades Administrativas y demás normativa aplicable.
 La presentación se hará ante la autoridad que corresponda.
