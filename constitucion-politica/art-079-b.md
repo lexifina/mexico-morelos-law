@@ -17,3 +17,5 @@ V. No haber sido sentenciado a pena privativa de libertad por delito doloso. Emp
 VI. No haber sido inhabilitado para el ejercicio de cargos, empleos o comisiones públicos.
 La residencia no se interrumpirá por el desempeño de un cargo de elección popular al Congreso de la Unión o un empleo, cargo o comisión en la Administración Pública Federal.
 El requisito de residencia a que se refiere la fracción I del presente artículo podrá ser dispensado en el caso de que quien ocupe el cargo de Fiscal General del Estado acredite fehacientemente el haber servido en alguna institución del Ministerio Público del País, durante al menos los cinco años previos a la designación.
+(ADICIONADO, P.O. 4 DE ABRIL DE 2018)
+La Fiscalía General se integrará con la estructura que establezca su Ley Orgánica, y con una Fiscalía Especializada en Combate a la Corrupción, cuyo titular será designado por el Fiscal General. Dicha Fiscalía Especializada será integrante del Sistema Estatal Anticorrupción y sus facultades, autonomía técnica, así como competencias se establecerán en la ley.

@@ -1,11 +1,16 @@
-(REFORMADO, P.O. 15 DE FEBRERO DE 2018)
-Artículo 92-A.- Son facultades del Pleno del Tribunal Superior de Justicia:
-I.- Presentar a consideración del órgano político del Congreso del Estado, los dictámenes técnicos y el expediente de los magistrados que concluyan sus funciones, por lo menos noventa días hábiles antes de que concluyan su encargo;
-II.- Convocar, conforme a las modalidades establecidas por la ley, a concurso de méritos y a examen de oposición, para efecto de designar a los Jueces integrantes del Poder Judicial. Los Jueces de Primera Instancia y los que con cualquier otra denominación se designen, serán adscritos y removidos del cargo por el voto de la mayoría simple del total de sus integrantes;
-III.- Expedir acuerdos generales para el adecuado ejercicio de sus funciones, de conformidad con lo dispuesto en la ley;
-IV.- Tener a su cargo la administración, vigilancia y disciplina del Poder Judicial, de acuerdo con lo que establezca la ley;
-V.- Iniciar investigación sobre la conducta de algún Juez u otro funcionario o empleado del Poder Judicial;
-VI.- Elaborar el presupuesto del Tribunal Superior de Justicia, así como el de los Juzgados, y demás Órganos Judiciales, así como recibir del Tribunal Electoral del Estado de Morelos su propuesta de presupuesto, sujetándose a las bases previstas en el artículo 131 de esta constitución y remitirlos para su inclusión en el proyecto de Presupuesto de Egresos del Estado;
-VII.- Nombrar y remover, de conformidad con lo establecido en la ley, a los funcionarios y empleados del Poder Judicial de acuerdo con lo que la ley establezca;
-VIII.- Crear los juzgados, secretarías de acuerdos y actuarías que requiera la administración de justicia, de acuerdo con un estudio de factibilidad presupuestal, y
-IX.- Las demás que le confiera este mismo ordenamiento u otras leyes.
+(REFORMADO, P.O. 4 DE ABRIL DE 2018)
+Artículo 92-A.- La Junta de Administración, Vigilancia y Disciplina del Poder Judicial es un órgano administrativo que se integrará por el Presidente en funciones del Tribunal Superior de Justicia, quien también lo será de dicha Junta; así como por un Magistrado y un Juez de Primera Instancia, estos últimos designados por el Pleno del Tribunal a propuesta de las respectivas ternas enviadas por el Presidente del mismo.
+Para la elección de los integrantes de la Junta de Administración, Vigilancia y Disciplina deberá considerarse a funcionarios que se hayan distinguido por su capacidad profesional y administrativa, honestidad y honorabilidad en el ejercicio de sus actividades.
+Los integrantes de la Junta de Administración, Vigilancia y Disciplina durarán cuatro años en el cargo, con excepción de su Presidente. Ninguno podrá ser designado para un nuevo periodo. Asimismo, serán sujetos de responsabilidad en términos de la Ley.
+La Junta de Administración, Vigilancia y Disciplina gozará de independencia de gestión y técnica, así como para emitir sus resoluciones, a las cuales deberá dar publicidad y transparencia en los términos de la ley.
+La integración y facultades de la Junta de Administración, Vigilancia y Disciplina se regirán por las disposiciones de la ley orgánica del Poder Judicial, de igual forma lo harán las bases para la formación y actualización de funcionarios, así como para el desarrollo de la carrera judicial, la cual se ajustará a los principios de excelencia, objetividad, imparcialidad, profesionalismo, independencia, transparencia y rendición de cuentas.
+A la Junta de Administración, Vigilancia y Disciplina del Poder Judicial le compete:
+I.- Como obligación, convocar, conforme a las modalidades establecidas por la ley, a concurso de méritos y a examen de oposición, para efecto de designar a los Jueces integrantes del Poder Judicial.
+Los Jueces de Primera Instancia y los que con cualquier otra denominación se designen, serán adscritos y removidos del cargo por el voto de la mayoría de los miembros de la Junta de Administración, Vigilancia y Disciplina, conforme a lo previsto en la ley;
+II.- Expedir acuerdos generales para el adecuado ejercicio de sus funciones, de conformidad con lo dispuesto en la ley;
+III.- Tener a su cargo la administración, vigilancia y disciplina del Poder Judicial, de acuerdo con lo que establezca la ley;
+IV.- Iniciar investigación sobre la conducta de algún otro funcionario o empleado del Poder Judicial en los términos que señale la Ley;
+V.- Elaborar el presupuesto del Poder Judicial sujetándose a las bases previstas en el artículo 131 de esta Constitución y remitirlo para su inclusión en el proyecto de Presupuesto de Egresos del Estado, con aprobación previa del Pleno;
+VI.- Nombrar y remover, de conformidad con lo establecido en la ley, a los funcionarios y empleados de los Tribunales del Poder Judicial, según el caso y de acuerdo con lo que la ley establezca;
+VII.- Determinar la creación de los juzgados, secretarías de acuerdos y actuarías que requiera la administración de justicia, de acuerdo con un estudio de factibilidad presupuestal, y
+VIII.- Las demás que le confieran otras disposiciones jurídicas.

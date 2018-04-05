@@ -1,8 +1,8 @@
 (REFORMADA SU DENOMINACIÓN, P.O. 11 DE AGOSTO DE 2015)
 CAPÍTULO VI.
 DEL TRIBUNAL DE JUSTICIA ADMINISTRATIVA DEL ESTADO DE MORELOS.
-(REFORMADO PRIMER PÁRRAFO, P.O. 15 DE FEBRERO DE 2018)
-Artículo 109 Bis.- La justicia administrativa estatal se deposita en un Tribunal de Justicia Administrativa del Estado de Morelos; será la máxima autoridad jurisdiccional en la materia y órgano especializado del Poder Judicial del Estado, dotado de plena jurisdicción y autonomía para dictar sus fallos.
+(REFORMADO PRIMER PÁRRAFO, P.O. 4 DE ABRIL DE 2018)
+Artículo 109-bis.- La justicia administrativa estatal se deposita en un Tribunal de Justicia Administrativa del Estado de Morelos; será la máxima autoridad en la materia, dotado de plena jurisdicción y autonomía para dictar sus fallos, y no estará adscrito al Poder Judicial.
 (REFORMADO, P.O. 11 DE AGOSTO DE 2015)
 Dicho Tribunal de Justicia Administrativa tendrá a su cargo el conocimiento y resolución de las controversias de carácter administrativo y fiscal, que se susciten entre la administración pública estatal o municipal, sus organismos auxiliares estatales o municipales y los particulares; la determinación de existencia de conflicto de intereses; la emisión de resoluciones sobre la compatibilidad para el desempeño de dos o más empleos o comisiones con cargo a los presupuestos de los Poderes Públicos, los organismos públicos autónomos, los municipios y los organismos auxiliares de la administración pública, estatal o municipal; la imposición en los términos que disponga la Ley, de las sanciones a los servidores públicos por las responsabilidades administrativas que la ley determine como graves y a los particulares que participen en actos vinculados con dichas responsabilidades, así como fincar a los responsables el pago de las indemnizaciones y sanciones pecuniarias que deriven de los daños y perjuicios que afecten a la Hacienda Pública Estatal o Municipal o al patrimonio de los entes públicos estatales, la Universidad Autónoma del Estado de Morelos y los Organismos Públicos Autónomos creados por esta Constitución.
 (REFORMADO, P.O. 11 DE AGOSTO DE 2015)
