@@ -11,6 +11,8 @@ II.- Expedir acuerdos generales para el adecuado ejercicio de sus funciones, de 
 III.- Tener a su cargo la administración, vigilancia y disciplina del Poder Judicial, de acuerdo con lo que establezca la ley;
 IV.- Iniciar investigación sobre la conducta de algún otro funcionario o empleado del Poder Judicial en los términos que señale la Ley;
 V.- Elaborar el presupuesto del Poder Judicial sujetándose a las bases previstas en el artículo 131 de esta Constitución y remitirlo para su inclusión en el proyecto de Presupuesto de Egresos del Estado, con aprobación previa del Pleno;
-VI.- Nombrar y remover, de conformidad con lo establecido en la ley, a los funcionarios y empleados de los Tribunales del Poder Judicial, según el caso y de acuerdo con lo que la ley establezca;
+[N. DE E. SE SUGIERE CONSULTAR LA CRONOLOGÍA DE LA PRESENTE FRACCIÓN]
+(REFORMADA, P.O. 11 DE JULIO DE 2018)
+VI.- Elaborar el presupuesto del Tribunal Superior de Justicia, así como el de los juzgados y demás órganos judiciales e integrar el propuesto por el Tribunal Estatal Electoral, por el Tribunal de lo Contencioso Administrativo y por el Tribunal Unitario de Justicia para Adolescentes y remitir el proyecto global del Presupuesto del Poder Judicial para su inclusión en el proyecto de Presupuesto de Egresos del Estado;
 VII.- Determinar la creación de los juzgados, secretarías de acuerdos y actuarías que requiera la administración de justicia, de acuerdo con un estudio de factibilidad presupuestal, y
 VIII.- Las demás que le confieran otras disposiciones jurídicas.

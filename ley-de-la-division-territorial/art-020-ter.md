@@ -1,3 +1,3 @@
-(ADICIONADO [N. DE E. REFORMADO], P.O. 3 DE SEPTIEMBRE DE 2003)
+(REFORMADO, P.O. 11 DE JULIO DE 2018)
 Art. 20 Ter. Corresponden a la Jurisdicción del Municipio de Tetela del Volcán los siguientes centros de población:
-Hueyapan, TETELA DEL VOLCÁN, Cabecera del Municipio, Xochicalco, y Tlalmimilulpan.
+Xochicalco, Tlalmimilulpan y TETELA DEL VOLCÁN, Cabecera del Municipio.
