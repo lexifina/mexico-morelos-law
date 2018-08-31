@@ -1,0 +1,1 @@
+ARTÍCULO 205 (SIC). El Juez que emita una sentencia que cause ejecutoria por medio de la cual se prive de la libertad a un Notario, lo deberá comunicar de manera inmediata al Secretario para que se proceda conforme a lo dispuesto por la presente Ley.
