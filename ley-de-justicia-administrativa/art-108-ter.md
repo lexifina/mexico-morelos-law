@@ -1,0 +1,2 @@
+(ADICIONADO, P.O. 31 DE AGOSTO DE 2018)
+Artículo 108 Ter. Las partes podrán formular el Recurso de Excitativa de Justicia ante el Magistrado Presidente del Tribunal de Justicia Administrativa, cuando se trate de asuntos que se tramiten ante las Salas de Instrucción, y ante el Magistrado Presidente del Pleno Especializado si el asunto corresponde a las Salas Especializadas, cuando el Magistrado que conoce del juicio no resuelve dentro de los plazos señalados en la presente Ley.
