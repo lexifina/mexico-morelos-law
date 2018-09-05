@@ -1,4 +1,3 @@
-N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.
 (ADICIONADO, P.O. 24 DE DICIEMBRE DE 2014)
 Artículo 26 Bis.- Serán facultades del Instituto de Desarrollo y Fortalecimiento Municipal:
 I. Promover el desarrollo técnico de las haciendas públicas municipales, a través de las autoridades hacendarias respectivas;
