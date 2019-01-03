@@ -1,1 +1,2 @@
-Artículo 58 Bis-10.- (DEROGADO, P.O. 13 DE JULIO DE 2018)
+(ADICIONADO, P.O. 2 DE ENERO DE 2019)
+Artículo 58 BIS-10.- Para la administración de los recursos a que se refiere el artículo anterior, se constituirá un Fideicomiso Ejecutivo. Para la aplicación y destino de los recursos del Fideicomiso, se conformará un Comité Técnico, integrado por un Presidente, que será el Titular del Poder Ejecutivo del Estado, quien tendrá voto de calidad, dos representantes más del Poder Ejecutivo y tres miembros del sector empresarial organizado. La Secretaría enterará mensualmente al Fideicomiso los recursos que le corresponden a más tardar el último día de cada mes, respecto a la recaudación del mes inmediato anterior.
