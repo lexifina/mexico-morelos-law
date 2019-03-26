@@ -1,2 +1,2 @@
-(ADICIONADO, P.O. 31 DE DICIEMBRE DE 2017)
-Artículo 108 Ter.- Por concepto de las diversas constancias que expida el Tribunal de Justicia Administrativa del Estado de Morelos necesarias para la contratación de servidores públicos en los tres Poderes de Gobierno, Ayuntamientos, Organismos Descentralizados y Órganos Constitucionales Autónomos, así como la celebración de contratos con particulares, causarán y pagarán derechos por la cantidad equivalente a 2.50 UMA.
+(REFORMADO [N. DE E. REPUBLICADO], P.O. 25 DE MARZO DE 2019)
+Artículo 108 Ter. Por concepto de las diversas constancias que expida el Tribunal de Justicia Administrativa del Estado de Morelos necesarias para la contratación de servidores públicos en los tres Poderes de Gobierno, Ayuntamientos, Organismos Descentralizados y Órganos Constitucionales Autónomos, así como la celebración de contratos con particulares, causarán y pagarán derechos por la cantidad equivalente a 2.50 UMA.
