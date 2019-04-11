@@ -1,0 +1,2 @@
+(ADICIONADO, P.O. 10 DE ABRIL DE 2019)
+ARTÍCULO 189 BIS.- El Juzgador en todo acuerdo o resolución que dicte deberá considerar el principio de perspectiva de género, el cual implica cuestionar y valorar la discriminación, desigualdad y exclusión de las mujeres, a fin de garantizar el derecho a la igualdad previsto en el artículo 4° Constitucional y demás tratados internacionales del que el Estado mexicano sea parte.
