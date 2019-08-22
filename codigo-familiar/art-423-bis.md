@@ -1,0 +1,2 @@
+(ADICIONADO, P.O. 21 DE AGOSTO DE 2019)
+ARTÍCULO 423 BIS.- Las constancias parciales expedidas por las Oficialías del Registro Civil del Estado de Morelos que contengan extractos de las actas registrales emitidas a partir del año 2003, y que se encuentren en buen estado, sin alteraciones y legibles tendrán vigencia indefinida y validez en todo el territorio Morelense y constituirán prueba plena ante cualquier instancia, salvo las relativas al matrimonio y a las constancias de inexistencia, que tendrán una vigencia no mayor a seis meses.
