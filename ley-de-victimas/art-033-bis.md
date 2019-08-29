@@ -1,3 +1,4 @@
+[N. DE E. ESTE ARTÍCULO FUE MODIFICADO MEDIANTE DECRETO NÚMERO 14 PUBLICADO EN P.O. DE 10 DE ABRIL DE 2019, DICHO DECRETO ES DEROGADO POR ARTÍCULO TERCERO DEL DECRETO 470 PUBLICADO EN P.O. DE 28 DE AGOSTO DE 2019]
 (ADICIONADO, P.O. DE 10 DE ABRIL DE 2019)
 Artículo 33 BIS. La Fiscalía General del Estado de Morelos, en coordinación con la Comisión Ejecutiva Estatal, diseñará el Programa Estatal para Prevenir, Sancionar, Reparar y Erradicar los Delitos en Materia de Trata de Personas y para la Protección y Asistencia a las Víctimas de estos Delitos, en observancia al Programa Nacional de la materia, el cual deberá contemplar, como mínimo, los siguientes rubros:
 I. Diagnóstico de la incidencia, modalidades, causas y consecuencias y su comportamiento delictivo, así como los grupos afectados o en mayor grado de vulnerabilidad;

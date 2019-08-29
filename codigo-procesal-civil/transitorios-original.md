@@ -16,7 +16,7 @@ Dado en el Salón de Sesiones del H. Congreso del Estado Libre y Soberano de Mor
 LA C. DIPUTADA PRESIDENTE DE LA MESA DIRECTIVA DEL H. CONGRESO DEL ESTADO MA. ELENA ESPIN OCAMPO
 DIPUTADO SECRETARIO NEREO BANDERA ZAVALETA
 DIPUTADA SECRETARIA IRMA OLIVAN REBOLLO
-Rúbricas
+R ú b r i c a s
 Por tanto mando se imprima, publique, circule y se le dé el debido cumplimiento.
 Dado en la Residencia del Poder Ejecutivo, en la Ciudad de Cuernavaca, Capital del Estado de Morelos, a los once días del mes de octubre de mil novecientos noventa y tres.
 SUFRAGIO EFECTIVO. NO REELECCION
@@ -24,5 +24,5 @@ EL GOBERNADOR CONSTL. DEL ESTADO
 ANTONIO RIVA PALACIO LOPEZ
 EL SECRETARIO GENERAL DE GOBIERNO
 ALFREDO DE LA TORRE Y MARTINEZ
-Rúbricas
+R ú b r i c a s
 N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE CÓDIGO.
