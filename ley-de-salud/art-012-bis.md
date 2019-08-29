@@ -1,0 +1,5 @@
+(NOTA: EL 7 DE JULIO DE 2022, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN LOS APARTADOS VII Y VIII, ASÍ COMO EN EL RESOLUTIVO SEGUNDO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 107/2019, DECLARÓ LA INVALIDEZ DE ESTE ARTÍCULO, LA CUAL SURTIÓ EFECTOS EL 8 DE JULIO DE 2022 DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA https://www.scjn.gob.mx/).
+(ADICIONADO, P.O. 28 DE AGOSTO DE 2019)
+Artículo 12 Bis.- El Personal médico y de enfermería que forme parte del Sistema Estatal de Salud, podrán ejercer la objeción de conciencia y excusarse de participar en la prestación de servicios que establece esta Ley.
+Cuando se ponga en riesgo la vida del paciente o se trate de una urgencia médica, no podrá invocarse la objeción de conciencia, en caso contrario se incurrirá en la causal de responsabilidad profesional.
+El ejercicio de la objeción de conciencia no derivará en ningún tipo de discriminación laboral.
