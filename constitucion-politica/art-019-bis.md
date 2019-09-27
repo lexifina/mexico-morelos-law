@@ -1,5 +1,26 @@
 (ADICIONADO CON EL ARTÍCULO QUE LO INTEGRA, P.O. 1 DE OCTUBRE DE 1999)
 CAPITULO IV.
 DE LA PARTICIPACION CIUDADANA.
-(REFORMADO, P.O. 27 DE ABRIL DE 2017)
-Artículo 19 bis.- Esta Constitución reconoce como medios de participación ciudadana los contemplados en la ley de la materia. El Instituto Morelense de Procesos Electorales y Participación Ciudadana, calificará su procedencia o improcedencia, y se encargará de su organización, desarrollo, cómputo y declaración de resultados, de conformidad con la normativa aplicable.
+(REFORMADO, P.O. 26 DE SEPTIEMBRE DE 2019)
+Artículo 19 bis.- Esta Constitución reconoce la participación de la sociedad morelense en sus distintas formas de expresión, las cuales deberán llevarse a cabo de forma pacífica y por conducto de los canales y las disposiciones legales que para el efecto se establezcan, y siempre deberán tener como finalidad la consolidación de la democracia participativa para el desarrollo del Estado y de su población, en lo individual y/o colectivo.
+Los Poderes Públicos y todas las autoridades en el ámbito de su competencia, están obligadas a respetar, garantizar y cumplir con los objetivos de los mecanismos de participación ciudadana.
+La participación ciudadana tendrá lugar en la planeación estatal y municipal, en los términos previstos por la Ley. Asimismo, deberán establecer políticas públicas que fortalezcan la cultura participativa.
+Son principios de la participación ciudadana los siguientes: la legalidad, solidaridad, igualdad, equidad, bienestar social, justicia social y soberanía popular.
+Ningún mecanismo de participación ciudadana, tendrá como objetivo atentar o disminuir derechos humanos, las facultades constitucionales de los Poderes del Estado, de los Ayuntamientos o de los Órganos Autónomos.
+Esta Constitución y el Estado, reconocen como mínimo, los siguientes mecanismos de participación ciudadana:
+I. Plebiscito;
+II. Referéndum;
+III. Iniciativa Popular;
+IV. Consulta Ciudadana;
+V. Colaboración Ciudadana;
+VI. Rendición de Cuentas;
+VII. Audiencia Pública;
+VIII. Cabildo Abierto;
+IX. Congreso Abierto;
+X. Asamblea Ciudadana;
+XI. Presupuesto Participativo
+XII. Difusión Pública;
+XIII. Red de Contraloría
+XIV. Gobierno abierto
+El Congreso del Estado, el Instituto Morelense de Procesos Electorales y Participación Ciudadana y el Instituto Morelense de Información Pública y Estadística en el ámbito de su competencia, vigilarán y llevarán a cabo las acciones necesarias para su cumplimiento.
+Los mecanismos de participación ciudadana pueden tener origen popular o provenir de autoridad pública, según sean promovidos o presentados directamente mediante solicitud avalada por firmas ciudadanas o por una autoridad, en los términos de la normativa aplicable.

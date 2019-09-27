@@ -1,0 +1,5 @@
+P.O. 26 DE SEPTIEMBRE DE 2019.
+[N. DE E. TRANSITORIOS DEL "DECRETO NÚMERO CUATROCIENTOS CINCUENTA Y CUATRO POR EL QUE SE REFORMA INTEGRALMENTE EL ARTÍCULO 19 BIS DE LA CONSTITUCIÓN POLÍTICA DEL ESTADO LIBRE Y SOBERANO DE MORELOS".]
+PRIMERA. Remítase el presente Decreto al Titular del Poder Ejecutivo, para su promulgación y publicación respectiva de conformidad con los artículos 44, 47 y 70, fracción XVII, inciso a), todos de la Constitución Política del Estado Libre y Soberano de Morelos.
+SEGUNDA. Hecha la Declaratoria a que se refiere la disposición transitoria anterior, remítase al Titular del Poder Ejecutivo del Estado, para su promulgación y su publicación, de conformidad con los artículos 44 y 70 fracción XIII, inciso a) de la Constitución Política del Estado Libre y Soberano de Morelos, el presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "Tierra y Libertad", Órgano de difusión del Estado de Morelos.
+TERCERA. Se derogan todas las disposiciones jurídicas de igual o menor rango jerárquico normativo que se opongan al presente Decreto.

@@ -1,0 +1,8 @@
+P.O. 26 DE SEPTIEMBRE DE 2019.
+[N. DE E. TRANSITORIOS DEL "DECRETO NÚMERO CUATROCIENTOS CINCUENTA.- POR EL QUE SE EXPIDEN Y REFORMAN DIVERSAS DISPOSICIONES A LA "LEY FONDO MORELOS".]
+PRIMERO. Remítase el presente Decreto al Titular del Poder Ejecutivo Estatal, para los efectos de lo dispuesto por los artículos 44, 47 y 70, fracción XVII, inciso a) de la Constitución Política del Estado Libre y Soberano de Morelos.
+SEGUNDO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "Tierra y Libertad", órgano de difusión del Gobierno del Estado de Morelos.
+TERCERO. Se derogan las disposiciones jurídicas de igual o menor rango jerárquico normativo que se opongan a lo dispuesto en el presente Decreto.
+CUARTO. En un plazo no mayor a 30 días naturales, contados a partir de la entrada en vigor del presente Decreto, deberá instalarse con su nueva integración el Consejo Directivo del Fondo Morelos, conforme a lo dispuesto en el presente Decreto.
+QUINTO. Dentro de un plazo de 20 días hábiles, contados a partir del inicio de la vigencia de este Decreto, la Dirección General del Fondo Morelos deberá solicitar en el Registro Público de los Organismos Descentralizados del Estado de Morelos, a cargo de la Secretaría de Hacienda del Poder Ejecutivo Estatal, la inscripción de este instrumento jurídico, de conformidad con lo dispuesto en el artículo 83 de la Ley Orgánica de la Administración Pública del Estado Libre y Soberano de Morelos.
+SEXTO. En un plazo de 90 días hábiles, contados a partir de la entrada en vigor del presente Decreto, en su caso, deberán realizarse las modificaciones necesarias al Estatuto Orgánico del Fondo Morelos y demás normativa aplicable.
