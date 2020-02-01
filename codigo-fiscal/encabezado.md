@@ -1,5 +1,4 @@
 CÓDIGO FISCAL PARA EL ESTADO DE MORELOS
-[N. DE E. CONTIENE LA FE DE ERRATAS PUBLICADA EN EL PERIÓDICO OFICIAL DEL 27 DE MARZO DE 2019.]
 Código publicado en la Segunda Sección del Periódico Oficial del Estado de Morelos, el miércoles 9 de diciembre de 2015.
 Al margen izquierdo un Escudo del Estado de Morelos que dice: "Tierra y Libertad".- La tierra volverá a quienes la trabajan con sus manos.- Poder Legislativo. LIII. 2015-2018.
 GRACO LUIS RAMÍREZ GARRIDO ABREU, GOBERNADOR CONSTITUCIONAL DEL ESTADO LIBRE Y SOBERANO DE MORELOS A SUS HABITANTES SABED:
