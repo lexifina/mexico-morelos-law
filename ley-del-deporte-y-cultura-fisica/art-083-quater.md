@@ -1,3 +1,2 @@
-N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.
 (ADICIONADO, P.O. 8 DE OCTUBRE DE 2014)
 ARTÍCULO 83 QUATER.- "El Salón de la Fama del Morelense", será un espacio incluido dentro del Museo, con el fin de ser un espacio de reconocimiento permanente al esfuerzo, mérito y trayectoria de aquellos deportistas, jueces, árbitros, entrenadores o instructores morelensesdestacados (sic) en diversas disciplinas y modalidades, así como, a las personas que han fomentado el impulso, desarrollo o crecimiento del deporte y la cultura física en el Estado.

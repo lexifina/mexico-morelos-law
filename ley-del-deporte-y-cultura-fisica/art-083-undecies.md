@@ -1,3 +1,2 @@
-N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.
 (ADICIONADO, P.O. 8 DE OCTUBRE DE 2014)
 ARTICULO 83 UNDECIES.- El Reglamento de esta Ley determinará lo relativo al procedimiento de selección, requisitos para ser aspirante, convocatorias, integración de expedientes y, en general, todo lo referente a la organización y el funcionamiento del Museo del Deporte y Cultura Física del Estado de Morelos, al Salón de la Fama y el Patronato del Museo del Deporte y Cultura Física del Estado de Morelos.

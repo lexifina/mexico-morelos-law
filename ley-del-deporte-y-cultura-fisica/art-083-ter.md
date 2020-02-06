@@ -1,3 +1,2 @@
-N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.
 (ADICIONADO, P.O. 8 DE OCTUBRE DE 2014)
 ARTÍCULO 83 TER.- El Museo del Deporte y Cultura Física del Estado de Morelos, es la Institución que con el propósito de estudio, divulgación, educación y reconocimiento, se encargará de conservar, exponer y exhibir los reconocimientos y triunfos, así como, fotografías, videos, objetos y pertenencias de los deportistas, jueces, árbitros, entrenadores o instructores morelensesdestacados (sic) en diversas disciplinas y modalidades y de las personas que han fomentado el impulso, desarrollo y crecimiento del deporte y la cultura física en el Estado.

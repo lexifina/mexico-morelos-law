@@ -1,4 +1,3 @@
-N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.
 (ADICIONADO, P.O. 8 DE OCTUBRE DE 2014)
 ARTÍCULO 83 DECIES.- El Patronato del Museo del Deporte tendrá las siguientes facultades:
 I. Coadyuvar y organizar planes para la obtención de recursos del Museo que por cualquier concepto pudiera allegarse;
