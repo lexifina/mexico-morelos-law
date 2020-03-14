@@ -1,0 +1,5 @@
+P.O. 11 DE MARZO DE 2020.
+[N. DE E. TRANSITORIOS DEL "DECRETO NÚMERO SEISCIENTOS SETENTA Y CINCO POR EL QUE SE REFORMA LA FRACCIÓN IV DEL ARTÍCULO 50, LA FRACCIÓN III DEL ARTÍCULO 86, LA FRACCIÓN IV DEL ARTÍCULO 89, LOS ARTÍCULOS 99, 100 Y LA DENOMINACIÓN DEL CAPÍTULO IV DEL TÍTULO OCTAVO, TODOS DE LA LEY ORGÁNICA PARA EL CONGRESO DEL ESTADO DE MORELOS".]
+Artículo Primero.- Remítase el presente Decreto al Titular del Poder Ejecutivo del Estado de Morelos para los efectos a que se refiere la fracción XVII, inciso a y c, del artículo 70 de la Constitución Política del Estado Libre y Soberano de Morelos.
+Artículo Segundo.- El presente Decreto entrará en vigor el día de su aprobación por el Pleno del Congreso.
+Artículo Tercero.- Se Instruye a la Coordinación de Archivo Legislativo, exhorte al Ejecutivo a través de la Dirección del Periódico Oficial "Tierra y Libertad", a brindar las facilidades necesarias a fin de remitir en "COPIA CERTIFICADA", los Decretos expedidos por este Poder Legislativo, que sean debidamente requeridos por la autoridad judicial, laboral o administrativa.
