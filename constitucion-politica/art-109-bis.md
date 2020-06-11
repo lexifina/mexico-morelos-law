@@ -9,8 +9,8 @@ Dicho Tribunal de Justicia Administrativa tendrá a su cargo el conocimiento y r
 Para la investigación, substanciación y sanción de las responsabilidades administrativas de los miembros del Poder Judicial del Estado, se observará lo previsto en ésta Constitución, sin perjuicio de las atribuciones de las entidades de fiscalización sobre el manejo, la custodia y aplicación de recursos públicos.
 (REFORMADO, P.O. 15 DE FEBRERO DE 2018)
 El Tribunal de Justicia Administrativa estará integrado por siete magistrados; funcionará en términos de lo dispuesto en las normas aplicables.
-(REFORMADO, P.O. 6 DE SEPTIEMBRE DE 2017)
-Los Magistrados deberán reunir los mismos requisitos que para ser Magistrados del Tribunal Superior de Justicia del Estado, debiendo además contar con experiencia en materia administrativa, fiscal o de responsabilidades plenamente acreditada, procurando alcanzar una efectiva paridad de género en las designaciones. Serán designados por el Pleno del Poder Legislativo a propuesta del órgano político del Congreso, el cual emitirá la convocatoria pública conforme a lo establecido en esta Constitución y la Ley Orgánica para el Congreso del Estado.
+(REFORMADO, P.O. 10 DE JUNIO DE 2020)
+Los Magistrados deberán reunir los mismos requisitos que para ser Magistrados del Tribunal Superior de Justicia del Estado, debiendo además contar con experiencia en materia administrativa, fiscal o de responsabilidades plenamente acreditada, observando el principio de paridad de género en las designaciones. Serán designados por el Pleno del Poder Legislativo a propuesta del Órgano político del Congreso, el cual emitirá la Convocatoria pública conforme a lo establecido en esta Constitución y la Ley Orgánica para el Congreso del Estado.
 (REFORMADO, P.O. 24 DE FEBRERO DE 2017)
 Durarán en su cargo catorce años, contados a partir de la fecha en que rindan la protesta constitucional y sólo podrán ser removidos de sus cargos en los términos que establece esta Constitución y las leyes en materia de responsabilidad de los servidores públicos.
 (REFORMADO, P.O. 24 DE FEBRERO DE 2017)
