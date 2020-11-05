@@ -1,0 +1,2 @@
+(ADICIONADO, P.O. 4 DE NOVIEMBRE DE 2020)
+Artículo 57 Bis.- La Comisión de Trabajo, Previsión y Seguridad Social del Congreso del Estado de Morelos y los Cabildos Municipales, en su caso, al momento de realizar el trámite de otorgamiento de una pensión a los trabajadores al servicio del Estado y de los Municipios de nuestro Estado, tienen la facultad de realizar la investigación correspondiente tendiente a comprobar fehacientemente los datos que acrediten la antigüedad necesaria para el goce de la misma.
