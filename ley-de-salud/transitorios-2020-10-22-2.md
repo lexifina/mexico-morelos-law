@@ -1,0 +1,5 @@
+P.O. 22 DE OCTUBRE DE 2020.
+[N. DE E. TRANSITORIOS DEL "DECRETO NÚMERO SETECIENTOS DIECINUEVE.- POR EL QUE SE REFORMA EL ARTÍCULO 37 DE LA LEY DE SALUD DEL ESTADO DE MORELOS".]
+PRIMERA.- Aprobado que sea el presente decreto, remítase al Titular del Poder Ejecutivo del Estado, para los efectos de lo dispuesto por los artículos 44, 47 y 70, fracción XVII, inciso a), de la Constitución Política del Estado Libre y Soberano de Morelos.
+SEGUNDA.- El presente decreto iniciará su vigencia a partir de los sesenta días naturales siguientes a su publicación en el Periódico Oficial "Tierra y Libertad", órgano de difusión oficial del gobierno del estado de Morelos.
+TERCERA.- Las autoridades sanitarias en el Estado, el Gobernador del Estado, el Secretario de Salud, el Organismo Público Descentralizado denominado "Servicios de Salud de Morelos", los H. Ayuntamientos, en el ámbito de su respectiva competencia, dentro del plazo de vigencia otorgado en el transitorio segundo, deberán actualizar sus disposiciones, lineamientos y/o reglamentos internos necesarios de acuerdo a la reforma aplicada a la Ley de Salud del Estado de Morelos.
