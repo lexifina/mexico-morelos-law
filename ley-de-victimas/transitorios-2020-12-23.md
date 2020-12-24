@@ -1,0 +1,4 @@
+P.O. 23 DE DICIEMBRE DE 2020.
+[N. DE E. TRANSITORIOS DEL "DECRETO NÚMERO SEISCIENTOS SESENTA Y SIETE. POR EL QUE SE REFORMA LA FRACCIÓN XXXIV DEL ARTÍCULO 7 Y SE ADICIONAN LA FRACCIÓN XXXVIII RECORRIÉNDOSE LA ACTUAL DEL ARTÍCULO 7 Y LA FRACCIÓN XXXII RECORRIÉNDOSE LA ACTUAL DEL ARTÍCULO 110, DE LA LEY DE VÍCTIMAS DEL ESTADO DE MORELOS; ASÍ TAMBIÉN SE REFORMAN LA FRACCIÓN X, DEL ARTÍCULO 43 Y LA FRACCIÓN XIV DEL ARTÍCULO 44 AMBOS DE LA LEY DEL SERVICIO CIVIL DEL ESTADO DE MORELOS".]
+PRIMERA. Remítase el presente Decreto al Titular del Poder Ejecutivo del Estado, para los fines que indican los artículos 44, 47 y la fracción XVII, inciso a), del artículo 70, de la Constitución Política del Estado Libre y Soberano de Morelos.
+SEGUNDA. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "Tierra y Libertad", Órgano de difusión Oficial del Gobierno del Estado Libre y Soberano de Morelos.
