@@ -1,0 +1,6 @@
+P.O. 23 DE DICIEMBRE DE 2020.
+[N. DE E. TRANSITORIOS DEL "DECRETO NÚMERO SETECIENTOS VEINTICUATRO.- POR EL QUE SE REFORMA EL NUMERAL 24 PARA CAMBIAR LA DENOMINACIÓN DE LA COMISIÓN DE LA FAMILIA, POR COMISIÓN DE LA FAMILIA Y DERECHOS DE LA NIÑEZ Y SE DEROGA EL NUMERAL 30, AMBOS DEL ARTÍCULO 59, ASIMISMO SE REFORMAN EL PRIMER PÁRRAFO Y LA FRACCIÓN VIII DEL ARTÍCULO 83 QUINTUS, Y SE ADICIONAN A ESTE MISMO ARTÍCULO ATRIBUCIONES EN MATERIA DE ATENCIÓN DE ASUNTOS DE LA NIÑEZ, TODOS DE LA LEY ORGÁNICA PARA EL CONGRESO DEL ESTADO DE MORELOS".]
+PRIMERA. Aprobado el presente Decreto se remitirá al Gobernador Constitucional del Estado para que se publique en el Periódico Oficial "Tierra y Libertad", órgano de difusión del Gobierno del estado de Morelos.
+SEGUNDA. El presente Decreto iniciará su vigencia a partir de la aprobación por el Pleno del Congreso del Estado de Morelos.
+TERCERA. Se derogan todas las disposiciones de igual o menor rango que se opongan a la presente reforma.
+CUARTA. Se instruye a la Coordinación de Archivo Legislativo, exhorte al Ejecutivo a través de la Dirección del Periódico Oficial "Tierra y Libertad", a brindar las facilidades necesarias a fin de remitir en "COPIA CERTIFICADA", los Decretos expedidos por este Poder Legislativo, que sean debidamente requeridos por la autoridad judicial, laboral o administrativa.
