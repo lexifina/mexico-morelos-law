@@ -4,3 +4,5 @@ I. Eliminar los recipientes naturales o artificiales que existan en el interior 
 II. Cubrir los recipientes o contenedores utilizados para almacenar agua para el uso doméstico o de consumo;
 III. Drenar las aguas estancadas en patios, jardines y todo espacio del inmueble, así como limpiar los canales de techo, cunetas y de desagüe, y
 IV. Permitir el ingreso a sus viviendas a los verificadores sanitarios acreditados.
+(ADICIONADA, P.O. 28 DE OCTUBRE DE 2020)
+V. Tirar o eliminar los muebles inservibles, escombro o cascajo, así como evitar almacenar madera o sus derivados, con el fin de evitar el alojamiento de vectores.
