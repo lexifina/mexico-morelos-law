@@ -1,2 +1,2 @@
-(REFORMADO, P.O. 22 DE DICIEMBRE DE 2016)
-Artículo 114 Quater-9. Por la aprobación que se emita al transporte que utilice gas L.P., para carburación derivado del cumplimiento de las medidas de seguridad establecidas en Noma Oficial Mexicana respectiva, se causará y pagará un derecho por la cantidad equivalente a 1.50 UMA, por cada unidad vehicular.
+(REFORMADO, P.O. 31 DE DICIEMBRE DE 2020)
+Artículo 114 Quater-9. Por la visita de inspección y opinión favorable para los permisos regulados por la Ley Federal de Armas de Fuego y Explosivos, a que se refieren los artículos 96 de la Ley Estatal de Protección Civil de Morelos, 67 y 68 del Reglamento de la Ley Estatal de Protección Civil de Morelos, se causará un derecho por la cantidad equivalente a 46.00 UMA.

@@ -1,2 +1,2 @@
-(REFORMADO, P.O. 22 DE DICIEMBRE DE 2016)
-Artículo 114 Quater-12. Por el registro y autorización de los libros bitácora que documenten acciones en materia de protección, se causará y pagará un derecho por la cantidad equivalente a 5.00 UMA por cada libro.
+(REFORMADO, P.O. 31 DE DICIEMBRE DE 2020)
+Artículo 114 Quater-12. Por el registro como consultor, para la elaboración de programa interno y específico en materia de protección civil a que se refieren los artículos 163 de la Ley Estatal de Protección Civil de Morelos y 153 del Reglamento de la Ley Estatal de Protección Civil de Morelos, se causará un derecho por la cantidad equivalente a 69.00 UMA.

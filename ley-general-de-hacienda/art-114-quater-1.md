@@ -1,2 +1,2 @@
-(REFORMADO, P.O. 22 DE DICIEMBRE DE 2016)
-Artículo 114 Quater-1. Por la evaluación de programas de protección civil a que se refiere el artículo 57 de la Ley de Protección Civil para el Estado de Morelos de los espacios e instalaciones previstas en los artículos 132 y 134 del mismo ordenamiento, se pagará un derecho por la cantidad equivalente a 55.00 UMA.
+(REFORMADO, P.O. 31 DE DICIEMBRE DE 2020)
+Artículo 114 Quater-1. Por la evaluación del programa específico de Protección Civil a que se refiere el artículo 135 de la Ley Estatal de Protección Civil de Morelos de los espacios e instalaciones previstas en el artículo 127 del mismo ordenamiento, se pagará un derecho por la cantidad equivalente a 55.00 UMA.

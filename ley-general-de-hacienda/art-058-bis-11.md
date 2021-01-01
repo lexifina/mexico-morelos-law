@@ -1,0 +1,4 @@
+(ADICIONADO, P.O. 31 DE DICIEMBRE DE 2020)
+Artículo 58 Bis-11. Los municipios participarán de los ingresos que se generen por este impuesto, en términos del artículo 58 BIS-1 al 100% de la recaudación que se obtenga y que efectivamente enteren y paguen al Estado, correspondiente al personal que les preste o desempeñe un servicio personal subordinado.
+La Secretaría enterará las cantidades correspondientes a los municipios, dentro de los 10 días del mes siguiente a aquél en que se haya realizado el pago de dicha contribución.
+La participación a la que hace referencia el primer párrafo de este artículo aplicará siempre y cuando se dé cumplimiento a la obligación. Garantizando la obligatoriedad de la Secretaría de Hacienda de regresar la contribución correspondiente en su totalidad a los municipios.

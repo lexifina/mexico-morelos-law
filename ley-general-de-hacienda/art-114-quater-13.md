@@ -1,2 +1,2 @@
-(REFORMADO, P.O. 22 DE DICIEMBRE DE 2016)
-Artículo 114 Quater-13. Por la evaluación de simulacros que realice la Coordinación Estatal de Protección Civil Morelos, se causará y pagará un derecho por la cantidad equivalente a 4.50 UMA
+(REFORMADO, P.O. 31 DE DICIEMBRE DE 2020)
+Artículo 114 Quater-13. Por el registro como consultor, para la elaboración de estudios de vulnerabilidad y riesgos en materia de protección civil a que se refieren los artículos 163 de la Ley Estatal de Protección Civil de Morelos y 153 del Reglamento de la Ley Estatal de Protección Civil de Morelos, se causará un derecho por la cantidad equivalente a 89.00 UMA.

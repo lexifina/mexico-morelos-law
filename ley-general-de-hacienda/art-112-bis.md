@@ -1,2 +1,3 @@
-(ADICIONADO, P.O. 16 DE JULIO DE 2017)
+(REFORMADO, P.O. 31 DE DICIEMBRE DE 2020)
 Artículo 112 Bis. Las copias certificadas que soliciten entre sí las diversas autoridades del Gobierno del Estado, en especial las requeridas por autoridades contencioso-administrativas, jurisdiccionales o de investigación, no causarán derechos, por lo que para su expedición bastará con su solicitud por escrito.
+Así mismo, no se causarán los derechos por los servicios de trámite a que se refiere el artículo 109 de la presente Ley, cuando sean solicitados por el Servicio de Administración Tributaria, órgano desconcentrado de la Secretaría de Hacienda y Crédito Público, para asuntos oficiales de su competencia, siempre y cuando sean solicitados por escrito, mediante el cual justifique y acredite su petición.

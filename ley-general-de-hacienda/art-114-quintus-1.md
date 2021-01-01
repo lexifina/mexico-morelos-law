@@ -39,3 +39,5 @@ DE:A:
 2001400012.00
 4001600014.00
 DE 6001 UNIDADES O PIEZAS EN ADELANTE:16.00
+(ADICIONADO, P.O. 31 DE DICIEMBRE DE 2020)
+Se exenta del pago de estos derechos a las secretarías, dependencias, entidades, unidades y órganos del Estado, que auxilien a la Comisión de Avalúos de Bienes Estatales para el cumplimiento de las funciones que establece el artículo 56 de la Ley General de Bienes del Estado de Morelos, así como aquellas autoridades que soliciten trámites para actualización anual de avalúo de bienes inmuebles.

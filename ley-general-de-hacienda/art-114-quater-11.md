@@ -1,4 +1,2 @@
-(REFORMADO PRIMER PÁRRAFO, P.O. 22 DE DICIEMBRE DE 2016)
-Artículo 114 Quater-11. Por la capacitación en materia de protección civil al sector privado se causará y pagará un derecho por la cantidad equivalente a 4.50 UMA por persona y por curso con duración menor a diez horas.
-(ADICIONADO, P.O. 8 DE DICIEMBRE DE 2015)
-La capacidad mínima y máxima para realizar el curso es de 15 a 50 personas.
+(REFORMADO, P.O. 31 DE DICIEMBRE DE 2020)
+Artículo 114 Quater-11. Por la visita de inspección, y visto bueno para verificar vehículos que transportan gas L.P., gas natural, materiales, sustancias peligrosas o los regulados por la Ley Federal de Armas de Fuego y Explosivos, por cada unidad vehicular, a que se refieren los artículos 91 y 193 de la Ley Estatal de Protección Civil de Morelos, se causará un derecho por la cantidad equivalente a 15.00 UMA.

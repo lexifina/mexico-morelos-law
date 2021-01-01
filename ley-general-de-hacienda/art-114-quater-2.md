@@ -1,4 +1,2 @@
-(REFORMADO PRIMER PÁRRAFO, P.O. 22 DE DICIEMBRE DE 2016)
-Artículo 114 Quater-2. Por la visita de inspección y vigilancia del cumplimiento de normas, leyes y reglamentos en materia de seguridad y protección civil para prevenir y evitar riesgos donde se celebren espectáculos masivos de personas, a que se refieren los artículos 134 y 135 de la Ley de Protección Civil para el Estado de Morelos, se pagará un derecho por la cantidad equivalente a 41.50 UMA.
-(ADICIONADO, P.O. 8 DE DICIEMBRE DE 2015)
-No se causarán los derechos a que se refiere este artículo, por los servicios que se presten a las entidades de la Administración Pública del Estado, con motivo de actividades sin fines de lucro.
+(REFORMADO, P.O. 31 DE DICIEMBRE DE 2020)
+Artículo 114 Quater-2. Por la evaluación del programa específico de Protección Civil a que se refiere el artículo 135 de la Ley Estatal de Protección Civil de Morelos para proyectos e instalaciones existentes o de nueva creación, a que se refiere el artículo 98, de la Ley Estatal de Protección Civil de Morelos se causará un derecho por la cantidad equivalente a 55.00 UMA.

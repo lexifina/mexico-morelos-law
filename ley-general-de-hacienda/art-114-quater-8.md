@@ -1,2 +1,2 @@
-(REFORMADO, P.O. 22 DE DICIEMBRE DE 2016)
-Artículo 114 Quater-8. Por la visita de inspección y vigilancia que se realice para verificar que el transporte que utilice gas L.P. para carburación, cumple con las medidas de seguridad establecidas en la norma oficial mexicana respectiva, se causará un derecho por la cantidad equivalente a 2.50 UMA, por cada unidad vehicular.
+(REFORMADO, P.O. 31 DE DICIEMBRE DE 2020)
+Artículo 114 Quater-8. Por la visita de inspección, y visto bueno a los establecimientos, instalaciones, edificaciones e inmuebles que estén en operación y funcionamiento, a que se refiere los artículos 190, 191 y 192 de la Ley Estatal de Protección Civil de Morelos y 190 y 204 del Reglamento de la Ley Estatal de Protección Civil de Morelos, se causará un derecho por la cantidad equivalente a 46.00 UMA.

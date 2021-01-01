@@ -1,8 +1,2 @@
-(REFORMADO, P.O. 22 DE DICIEMBRE DE 2016)
-Artículo 114 Quater-4. Los derechos por el servicio de apoyo especializado en materia de seguridad y prevención en protección civil, que preste la Coordinación Estatal de Protección Civil Morelos, a solicitud de parte, durante el desarrollo de un evento de concentración masiva con fines de lucro, se causarán y pagarán de acuerdo a lo siguiente:
-TURNOHORARIOTARIFA POR CADA
-ELEMENTO OPERATIVO
-EN UMA
-Matutino-Vespertino08:00 a las 16:00 horas5.50
-Vespertino-Nocturno16:00 a las 24:00 horas7.00
-Nocturno-Matutino24:00 a las 08:00 horas8.50
+(REFORMADO, P.O. 31 DE DICIEMBRE DE 2020)
+Artículo 114 Quater-4. Por la visita de inspección y visto bueno, en cumplimiento de la seguridad para prevenir y evitar riesgos en instalaciones donde exista concentración masiva de personas a que se refiere el artículo 129, de la Ley Estatal de Protección Civil de Morelos, se pagará un derecho por la cantidad equivalente a 60.00 UMA.
