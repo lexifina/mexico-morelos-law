@@ -1,0 +1,2 @@
+(ADICIONADO, P.O. 31 DE MARZO DE 2021)
+ARTÍCULO 374 DECIES. De la Suspensión.- La Procuraduría de Protección de Niñas, Niños, Adolescentes y la Familia, podrá suspender en forma provisional los efectos de la Familia de Acogida, determinando el ingreso de la niña, niño o adolescente a otra Familia de Acogida o a un centro de asistencia social público o privado, atendiendo al interés superior de la niñez, cuando determine que existe causa grave que ponga en peligro los intereses fundamentales de la niña, niño o adolescente, debiendo dar aviso al Ministerio Público.

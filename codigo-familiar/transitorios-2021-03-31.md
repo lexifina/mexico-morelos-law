@@ -1,0 +1,6 @@
+P.O. 31 DE MARZO DE 2021.
+[N. DE E. TRANSITORIOS DEL "DECRETO NÚMERO SEISCIENTOS OCHENTA Y CUATRO POR EL QUE SE ADICIONAN DIVERSAS DISPOSICIONES AL CÓDIGO FAMILIAR PARA EL ESTADO LIBRE Y SOBERANO DE MORELOS, CON EL PROPÓSITO DE ESTABLECER LA FIGURA DE FAMILIA DE ACOGIDA".]
+PRIMERA. Remítase el presente Decreto al titular del Poder Ejecutivo del Estado, para los fines que indican los artículos 44, 47 y la fracción XVII, inciso a), del artículo 70, de la Constitución Política del Estado Libre y Soberano de Morelos.
+SEGUNDA. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "Tierra y Libertad", Órgano de difusión Oficial del Gobierno del Estado Libre y Soberano de Morelos.
+TERCERA. El titular del Poder Ejecutivo del Estado de Morelos, a través de la Procuraduría de Protección de Niñas, Niños, Adolescentes y la Familia, deberá de emitir los Lineamientos, Reglamentos y Manuales necesarios para asegurar la aplicación de la presente reforma en el término de 60 días hábiles contados a partir de la publicación del presente Decreto.
+CUARTA. Se derogan todas las disposiciones jurídicas de igual o menor rango jerárquico normativo que se opongan al presente Decreto.

@@ -1,0 +1,2 @@
+(ADICIONADO, P.O. 31 DE MARZO DE 2021)
+ARTÍCULO 374 OCTIES. RESPONSABILIDAD DE LOS INTEGRANTES DE LA FAMILIA DE ACOGIDA.- Quienes conforman la Familia de Acogida tendrán los deberes de cuidado y asistencia que la legislación familiar determina para aquellos que ostentan la guarda y custodia de una niña, niño o adolescente. Deberán permitir y facilitar las relaciones de niñas, niños o adolescentes con la Familia de Origen, siempre y cuando éstos estén previstos o sean necesarias para salvaguardar el interés superior de la niñez.

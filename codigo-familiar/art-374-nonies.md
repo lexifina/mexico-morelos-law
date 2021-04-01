@@ -1,0 +1,6 @@
+(ADICIONADO, P.O. 31 DE MARZO DE 2021)
+ARTÍCULO 374 NONIES. DE LA ASIGNACIÓN.- La asignación de niñas, niños y adolescentes sólo podrá otorgarse a una Familia de Acogida que cuente con certificado de idoneidad. Para tal efecto, se observará lo siguiente:
+I. Siempre que sea posible de acuerdo con su edad, desarrollo cognoscitivo y grado de madurez, serán escuchados y su opinión será fundamental para la determinación que adopte el Ministerio Público;
+II. Se tomará en cuenta que las condiciones en la Familia de Acogida sean adecuadas para el desarrollo integral de niñas, niños y adolescentes, de conformidad con el principio de interés superior de la niñez;
+III. Se tomará en consideración la relación de afinidad y de afectividad; el origen, la comunidad y las condiciones culturales en que se desarrollen niñas, niños y adolescentes, y
+IV. La Procuraduría de Protección de Niñas, Niños, Adolescentes y la Familia, deberá garantizar que las hermanas y hermanos permanezcan juntos, pero si hubiere necesidad de separarlos, establecerá las medidas necesarias para que mantengan vínculos de convivencia, contacto y comunicación permanente, a menos que exista un riesgo evidente de abuso u otra justificación que responda al interés superior de la niñez.

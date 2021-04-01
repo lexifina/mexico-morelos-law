@@ -1,0 +1,2 @@
+(ADICIONADO, P.O. 31 DE MARZO DE 2021)
+ARTÍCULO 374 TER. DE LOS REQUISITOS DE LA FAMILIA DE ACOGIDA.- La Procuraduría de Protección de Niñas, Niños, Adolescentes y la Familia, realizará las valoraciones psicológicas, socioeconómicas, de trabajo social, y todas aquéllas que sean necesarias para determinar la idoneidad de las personas que deseen asumir la calidad de Familia de Acogida, en términos de lo dispuesto por el presente y demás ordenamientos jurídicos aplicables en la materia.

@@ -1,0 +1,6 @@
+(ADICIONADO, P.O. 31 DE MARZO DE 2021)
+ARTÍCULO 374 QUATER. PROCEDENCIA DE LA FAMILIA DE ACOGIDA.- La Procuraduría de Protección de Niñas, Niños, Adolescentes y la Familia, podrá determinar la idoneidad para la incorporación de una niña, niño o adolescente a una Familia de Acogida, en los casos siguientes:
+I. Cuando, quienes ejerzan la patria potestad, consientan expresamente, mediante acuerdo celebrado ante la Procuraduría de Protección de Niñas, Niños, Adolescentes y la Familia;
+II. En casos urgentes, dando aviso inmediato al Juez competente; o
+III. Cuando conforme al dictamen del Consejo Técnico de Adopciones y Familia de Acogida del Sistema DIF Morelos, la incorporación a una familia de acogida resulta benéfico para la niña, niño o adolescente, atendiendo al interés superior de la niñez y para evitar la institucionalización prolongada, dando aviso inmediato al Juez competente o al Ministerio Público, y
+IV. Cuando el Ministerio Público le canalice a una niña, niño o adolescente para su cuidado y protección. En este caso la Procuraduría de Protección de Niñas, Niños, Adolescentes y la Familia deberá de hacerle de conocimiento al Ministerio Público los datos de la familia de acogida que cuidará de la niña, niño o adolescente.
