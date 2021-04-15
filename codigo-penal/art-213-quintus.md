@@ -1,18 +1,20 @@
 (REFORMADA SU NUMERACIÓN [N. DE E. ANTES CAPÍTULO III DEL TÍTULO DÉCIMO SEGUNDO, P.O. 10 DE ABRIL DE 2019) (REPUBLICADO, P.O. 28 DE AGOSTO DE 2019)
 CAPITULO IV
 FEMINICIDIO
-(ADICIONADO, P.O. 1 DE SEPTIEMBRE DE 2011)
-ARTICULO 213 QUINTUS (SIC).- Comete el delito de feminicidio quien, por razones de género, prive de la vida a una mujer. Existen razones de género cuando se acredite cualquiera de las siguientes hipótesis:
-I. Hay o se haya dado, entre el activo y la víctima una relación de parentesco por consanguinidad o afinidad, de matrimonio, concubinato, noviazgo, cualquier otra relación de hecho;
-II. Hay o se haya dado, entre el activo y la víctima una relación laboral, docente, o cualquier otro que implique confianza, subordinación o superioridad;
-III. La víctima presente signos de violencia sexual de cualquier tipo;
-IV. A la víctima se le hayan infligido lesiones infamantes, degradantes o mutilaciones, previa o posterior a la privación de la vida;
-V. Consten antecedentes de amenazas, acoso o lesiones del sujeto activo en contra de la víctima;
-VI. El cuerpo de la víctima sea expuesto o arrojado en un lugar público; o
-VII. La víctima haya sido incomunicada
-(REFORMADO, P.O. 19 DE NOVIEMBRE DE 2014)
-A quien cometa delito de feminicidio se le impondrá una sanción de 40 a 70 años de prisión.
-En el caso de la fracción I se le impondrá además de la pena, la pérdida de derechos con respecto a la víctima y ofendidos, incluidos los de carácter sucesorio.
+(REFORMADO, P.O. 14 DE ABRIL DE 2021)
+ARTICULO 213 QUINTUS (SIC).- Comete el delito de feminicidio quien prive de la vida a una mujer por razones de género. Se considera que existen razones de género cuando concurra alguna de las siguientes circunstancias:
+I. La víctima presente signos de violencia sexual de cualquier tipo;
+II. A la víctima se haya infligido lesiones infamantes, degradantes o mutilaciones, previa o posterior a la privación de la vida o actos de necrofilia;
+III. Existan antecedentes o datos de cualquier tipo de violencia en el ámbito familiar, laboral o escolar, del sujeto activo en contra de la víctima;
+IV. Haya existido entre el activo y la víctima una relación de parentesco por consanguinidad o afinidad, de matrimonio, concubinato, noviazgo, cualquier otra relación de hecho, sentimental, afectiva o de confianza;
+V. Hay o se haya dado, entre el activo y la víctima una relación laboral, docente, o cualquier otro que implique confianza, subordinación o superioridad;
+VI. Existan datos que establezcan que hubo amenazas relacionadas con el hecho delictuoso, acoso o lesiones del sujeto activo en contra de la víctima;
+VII. La víctima haya sido incomunicada, cualquiera que sea el tiempo previo a la privación de la vida, y
+VIII. El cuerpo de la víctima sea expuesto o arrojado en un lugar público.
+A quien cometa el delito de feminicidio se le impondrán de cuarenta a setenta años de prisión y multa de quinientos a mil veces el valor diario de la Unidad de Medida y Actualización.
+En caso de que no se acredite el feminicidio, se aplicarán las reglas del homicidio.
+Además de las sanciones descritas en el presente artículo, el sujeto activo perderá todos los derechos con relación a la víctima, incluidos los de carácter sucesorio.
+En caso de que un servidor público retarde o entorpezca maliciosamente o por negligencia la procuración o administración de justicia, se estará a lo dispuesto en el Título Vigésimo Primero, denominado Delitos Cometidos Contra la Procuración y Administración de Justicia.
 (ADICIONADO CON EL ARTÍCULO QUE LO INTEGRA, P.O. 22 DE ENERO DE 2020)
 Capítulo V
 Violencia Política por Condición de Género
