@@ -1,0 +1,5 @@
+P.O. 16 DE JUNIO DE 2021.
+[N. DE E. TRANSITORIOS DEL "DECRETO NÚMERO MIL CIENTO CINCUENTA Y DOS POR EL QUE SE REFORMA Y ADICIONA A (SIC) LA LEY DE SALUD DEL ESTADO DE MORELOS, EN MATERIA DE CONSUMO DE TABACO Y SUS DERIVADOS".]
+PRIMERO.- Aprobado que sea el presente Decreto, remítase al titular del Poder Ejecutivo del Estado, para los efectos de lo dispuesto por los artículos 44 y 70, fracción XVII, de la Constitución Política del Estado Libre y Soberano de Morelos.
+SEGUNDO.- El presente Decreto iniciará su vigencia a partir del día siguiente a su publicación en el Periódico Oficial "Tierra y Libertad", órgano de difusión oficial del Gobierno del Estado de Morelos.
+TERCERO.- Las autoridades sanitarias en el Estado, el Gobernador del Estado, el secretario de Salud, el organismo público descentralizado denominado "Servicios de Salud de Morelos", los H. Ayuntamientos, en el ámbito de su respectiva competencia, dentro del plazo de noventa días, deberán actualizar sus disposiciones, lineamientos y/o Reglamentos Internos necesarios de acuerdo a la reforma aplicada a la Ley de Salud del Estado de Morelos.
