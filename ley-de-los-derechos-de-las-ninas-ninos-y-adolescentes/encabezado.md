@@ -1,5 +1,4 @@
 LEY DE LOS DERECHOS DE LAS NIÑAS, NIÑOS Y ADOLESCENTES DEL ESTADO DE MORELOS
-[N. DE E. LA FE DE ERRATAS PUBLICADA EN EL P.O. EL 27 DE NOVIEMBRE DE 2019 NO APLICA AL ARTICULADO DEL DECRETO 242 PUBLICADO EN EL P.O. DE 22 DE MAYO DE 2019.]
 Ley publicada en el Periódico Oficial del Estado de Morelos, el miércoles 14 de octubre de 2015.
 Al margen izquierdo un Escudo de los Estados Unidos Mexicanos que dice: "Tierra y Libertad".- La tierra volverá a quienes la trabajan con sus manos. Poder Legislativo. LII Legislatura. 2012-2015.
 GRACO LUIS RAMÍREZ GARRIDO ABREU, GOBERNADOR CONSTITUCIONAL DEL ESTADO LIBRE Y SOBERANO DE MORELOS A SUS HABITANTES SABED:
