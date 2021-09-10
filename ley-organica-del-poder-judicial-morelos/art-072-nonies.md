@@ -1,0 +1,2 @@
+(ADICIONADO, P.O. 9 DE SEPTIEMBRE DE 2021)
+ARTICULO 72-Nonies.- Los juzgadores laborales y secretarios instructores tendrán la obligación de excusarse inmediatamente que se avoquen al conocimiento de un negocio del que no deben conocer por impedimento, o dentro de las veinticuatro horas siguientes de que ocurra el hecho que lo origine o de que tengan conocimiento de él, expresando concretamente la causa o razón del impedimento.

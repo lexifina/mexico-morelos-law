@@ -1,0 +1,2 @@
+(ADICIONADO, P.O. 9 DE SEPTIEMBRE DE 2021)
+ARTICULO 72-Septies.- Los Tribunales Laborales, en términos de lo dispuesto por la Ley Federal del Trabajo, contarán con los sistemas electrónicos que para tal efecto acuerde la Junta de Administración, Vigilancia y Disciplina del Poder Judicial, para garantizar que los procedimientos a su cargo sean ágiles y efectivos. Asimismo, deberán crear las plataformas electrónicas que albergarán los buzones electrónicos y las aplicaciones digitales necesarias para operar la conectividad por medios electrónicos con las autoridades laborales.
