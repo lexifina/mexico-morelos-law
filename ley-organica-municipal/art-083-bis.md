@@ -1,0 +1,13 @@
+(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 6 DE OCTUBRE DE 2021)
+CAPÍTULO II BIS
+DE LA RESPONSABILIDAD DE LOS ASUNTOS JURÍDICOS
+(ADICIONADO, P.O. 6 DE OCTUBRE DE 2021)
+Artículo 83 Bis.- El municipio contará con una dependencia encargada de los asuntos jurídicos, constituido como órgano jurídico especializado, cuya función es la defensa del ayuntamiento en los procesos jurídicos en los que éste sea parte, llevando a cabo sus actividades en forma programada y con base en los principios de integridad, honestidad, congruencia, eficacia, productividad y pertinencia;
+El titular de dicho órgano dependerá en forma directa de la Presidencia y Sindicatura Municipal. Para ser encargado de la dependencia de asuntos jurídicos se requiere:
+(NOTA: EL 20 DE SEPTIEMBRE DE 2022, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN LOS APARTADOS VI Y VII, ASÍ COMO EN EL RESOLUTIVO SEGUNDO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 165/2021, DECLARÓ LA INVALIDEZ DE LA PORCIÓN NORMATIVA DE LA FRACCIÓN I DEL PÁRRAFO SEGUNDO DE ESTE ARTÍCULO INDICADA CON MAYÚSCULAS, LA CUAL SURTIÓ EFECTOS EL 21 DE SEPTIEMBRE DE 2022 DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA https://www.scjn.gob.mx/).
+I. Tener la ciudadanía mexicana POR NACIMIENTO, en pleno ejercicio de sus derechos políticos y civiles.
+II. Tener cuando menos veinticinco años cumplidos el día de la designación;
+III. Contar con título y cédula profesional que lo acredite como profesionista afín al cargo, y con una experiencia comprobable de dos años dentro de la dependencia de asuntos jurídicos de cualquier ayuntamiento;
+(NOTA: EL 20 DE SEPTIEMBRE DE 2022, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN LOS APARTADOS VI Y VII, ASÍ COMO EN EL RESOLUTIVO SEGUNDO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 165/2021, DECLARÓ LA INVALIDEZ DE LAS PORCIONES NORMATIVAS DE LA FRACCIÓN IV DEL PÁRRAFO SEGUNDO DE ESTE ARTÍCULO INDICADAS CON MAYÚSCULAS, LA CUAL SURTIÓ EFECTOS EL 21 DE SEPTIEMBRE DE 2022 DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA https://www.scjn.gob.mx/).
+IV. Gozar de buena reputación y no haber sido condenado por delito QUE AMERITE PENA CORPORAL DE MÁS DE UN AÑO DE PRISIÓN; PERO SI SE TRATARE de robo, fraude, falsificación, abuso de confianza y OTRO QUE LASTIME SERIAMENTE LA BUENA FAMA EN EL CONCEPTO PÚBLICO, INHABILITARÁ PARA EL CARGO, CUALQUIERA QUE HAYA SIDO LA PENA; y,
+V. Residir en el municipio el día de la designación.
