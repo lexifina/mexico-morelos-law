@@ -1,0 +1,7 @@
+(ADICIONADO CON EL ARTÍCULO QUE LO INTEGRA, P.O. 6 DE OCTUBRE DE 2021)
+CAPITULO DECIMO PRIMERO
+DE LA UNIDAD DE IGUALDAD DE GÉNERO Y DERECHOS HUMANOS
+(ADICIONADO, P.O. 6 DE OCTUBRE DE 2021)
+ARTICULO 158 QUATER.- La Unidad de Igualdad de Género y Derechos Humanos, estará encargada de manera permanente de difundir y realizar las tareas relacionadas con la perspectiva de género y el enfoque de igualdad sustantiva, por lo que, deberá cuidar que dichos temas se incorporen al diseño, programación, presupuestación, ejecución y evaluación para lograr una mayor eficiencia y efectividad de las políticas públicas en el Poder Judicial del Estado, con la finalidad de eliminar toda clase de discriminación, en razón de su sexo o género, tanto en el interior del mismo, como en los procesos y las resoluciones judiciales.
+La Unidad de Igualdad de Género y Derechos Humanos será un ente administrativo dependiente de la Junta de Administración, Vigilancia y Disciplina del Poder Judicial del Estado de Morelos, contará con los recursos humanos, materiales y financieros que resulten necesarios para su óptima operación y se integrará como mínimo de una Dirección, quien será titular de la Unidad, contando con el apoyo administrativo suficiente y eficaz para el cumplimiento de su objetivo.
+La Junta de Administración, Vigilancia y Disciplina del Poder Judicial nombrará al titular de la Dirección así como a los demás funcionarios y empleados de esta dependencia, asimismo, emitirá si (sic) reglamento interior para establecer sus responsabilidades y funciones.

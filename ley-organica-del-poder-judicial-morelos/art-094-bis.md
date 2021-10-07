@@ -8,5 +8,5 @@ V.- Tener bajo su custodia los locales de los juzgados o tribunales de su adscri
 VI.- Custodiar los bienes y valores que se encuentren a disposición del Juzgado o Tribunal con motivo de la tramitación de los asuntos sometidos a su conocimiento;
 VII.- Entregar y recibir bajo riguroso inventario los bienes y valores a que se refieren las dos últimas fracciones;
 VIII.- Distribuir los asuntos entre los jueces por turno riguroso, y;
-(REFORMADA, P.O. 9 DE SEPTIEMBRE DE 2021)
-IX.- Las demás que determine la ley o la Junta de Administración, Vigilancia y Disciplina del Poder Judicial.
+(REFORMADA, P.O. 6 DE OCTUBRE DE 2021)
+IX.- Las demás que determine la ley, la Junta de Administración, Vigilancia y Disciplina o el Pleno del Tribunal Superior de Justicia.

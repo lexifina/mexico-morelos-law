@@ -1,0 +1,2 @@
+(ADICIONADO, P.O. 6 DE OCTUBRE DE 2021)
+Artículo 66 SEPTIES.- La Secretaría de Desarrollo Agropecuario, deberá firmar con asociaciones apícolas o instituciones educativas convenios de colaboración para elaborar un plan de capacitación para las áreas municipales de protección civil y las de ecología y protección al medio ambiente, con la finalidad de instruirlos para el cuidado, preservación y retiro de enjambres de abejas, así como la importancia de salvaguardarlas. Además de realizar campañas de concientización ciudadana acerca del cuidado y preservación de las abejas.
