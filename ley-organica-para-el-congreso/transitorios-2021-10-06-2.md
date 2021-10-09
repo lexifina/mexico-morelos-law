@@ -1,0 +1,6 @@
+P.O. 6 DE OCTUBRE DE 2021.
+[N. DE E. TRANSITORIOS DEL "DECRETO NÚMERO MIL TRESCIENTOS TREINTA Y TRES.- POR EL QUE SE REFORMA EL NUMERAL 20 DEL ARTÍCULO 59, PRIMER PÁRRAFO, Y LAS FRACCIONES I, II, III, V Y VI DEL ARTÍCULO 80; SE ADICIONAN LAS FRACCIONES VII, VIII, IX, X Y XI AL ARTÍCULO 80, RECORRIÉNDOSE EN SU ORDEN ACTUAL LA FRACCIÓN VII PARA PASAR A SER LA FRACCIÓN XI; TODOS DE LA LEY ORGÁNICA PARA EL CONGRESO DEL ESTADO DE MORELOS".]
+PRIMERA. Aprobado el presente decreto se remitirá al Gobernador Constitucional del Estado para que se publique en el Periódico Oficial "Tierra y Libertad", órgano de difusión del Gobierno del Estado de Morelos.
+SEGUNDA. El presente decreto iniciará su vigencia a partir de la aprobación por el pleno del Congreso del Estado de Morelos.
+TERCERA. Se derogan todas las disposiciones de igual o menor rango que se opongan a la presente reforma.
+CUARTA. Se instruye a la Coordinación de Archivo Legislativo, exhorte al Ejecutivo a través de la Dirección del Periódico Oficial "Tierra y Libertad", a brindar las facilidades necesarias a fin de remitir en "copia certificada", los decretos expedidos por este Poder Legislativo, que sean debidamente requeridos por la autoridad judicial, laboral o administrativa.
