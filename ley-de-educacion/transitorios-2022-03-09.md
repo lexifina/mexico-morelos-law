@@ -1,0 +1,5 @@
+P.O. 9 DE MARZO DE 2022.
+[N. DE E. TRANSITORIOS DEL "DECRETO NÚMERO CIENTO CUARENTA Y CUATRO POR EL CUAL SE ADICIONAN LAS FRACCIONES QUINTA Y SEXTA AL ARTÍCULO 13 DE LA LEY DE EDUCACIÓN DEL ESTADO DE MORELOS RECORRIÉNDOSE EN SU ORDEN LAS SUBSECUENTES".]
+PRIMERO.- Remítase el presente al titular del Poder Ejecutivo del Estado, para los efectos que indican los artículos 44 y 70, fracción XVII de la Constitución Política del Estado Libre y Soberano de Morelos.
+SEGUNDA.- Las acciones que deberá realizar la autoridad educativa estatal y los organismos descentralizados adicionadas mediante el presente decreto, estarán supeditadas a la planeación, programación y disponibilidad presupuestal del Poder Ejecutivo, priorizando a pueblos y comunidades indígenas, así como zonas de alta y muy alta marginación, implementándose las mismas de manera gradual en el territorio estatal y debiendo tener cobertura total en los dos años posteriores a la entrada vigor del presente decreto.
+TERCERA.- El presente decreto, entrará en vigor a partir del día siguiente de su publicación en el Periódico Oficial "Tierra y Libertad", órgano de difusión del Gobierno del Estado de Morelos.
