@@ -1,0 +1,2 @@
+(ADICIONADO, P.O. 9 DE MARZO DE 2022)
+Artículo 24 ter.- Los ayuntamientos deberán crear una instancia de atención a las personas con discapacidad, la que tendrá la obligación de implementar las políticas públicas, programas y acciones para este sector social, en cada uno de los municipios, deberán ser encabezadas preferentemente, por personas con alguna condición de discapacidad como una medida de inclusión en los ayuntamientos.
