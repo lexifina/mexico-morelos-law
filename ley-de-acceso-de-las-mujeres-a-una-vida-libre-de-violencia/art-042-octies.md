@@ -1,0 +1,3 @@
+(ADICIONADO, P.O. 27 DE ABRIL DE 2022)
+Artículo 42 Octies.- Las órdenes de protección podrán solicitarse en el estado de Morelos, aun cuando los hechos hayan ocurrido en otra entidad federativa, sin que la competencia en razón del territorio pueda ser usada como excusa para no recibir la solicitud.
+Durante los primeros seis días posteriores a la implementación de las órdenes, la autoridad que la emitió mantendrá contacto directo con la víctima de violencia cada 24 horas. A partir del séptimo día, se establecerá un plan de seguimiento personalizado, de acuerdo a las circunstancias, la valoración del riesgo y el avance en la carpeta de investigación.

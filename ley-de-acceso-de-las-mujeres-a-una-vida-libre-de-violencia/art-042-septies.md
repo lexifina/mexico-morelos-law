@@ -1,0 +1,2 @@
+(ADICIONADO, P.O. 27 DE ABRIL DE 2022)
+Artículo 42 Septies.- Las autoridades administrativas, el ministerio público o el órgano jurisdiccional que emita las órdenes de protección, realizará las gestiones necesarias para garantizar su cumplimiento, monitoreo y ejecución. Para lo anterior se allegará de los recursos materiales y humanos necesarios, conforme a la disponibilidad presupuestal; asimismo, podrá solicitar la colaboración de las demás autoridades competentes.
