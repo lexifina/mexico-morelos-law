@@ -1,0 +1,3 @@
+(ADICIONADO, P.O. 24 DE AGOSTO DE 2022)
+Artículo 228 Bis.- Se prohíbe la compra y venta de carne de animales destinada al consumo humano que no haya sido sacrificada conforme lo establecido en la ley y demás normatividad aplicable; en cuyo caso, se aplicarán las sanciones establecidas en los artículos 382, 385 y 391 de esta ley.
+Los comerciantes y locatarios, cuya actividad esté vinculada con la venta de carne de animales destinada al consumo humano, estarán obligados a verificar y observar que los animales hayan sido sacrificados de conformidad con los requisitos sanitarios establecidos en esta ley y demás normatividad aplicable.
