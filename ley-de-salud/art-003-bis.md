@@ -18,3 +18,5 @@ XV.- Bioética, rama de la ética que aspira a proveer los principios orientador
 XVI.- Dignidad, valor intrínseco y supremo que tiene cada ser humano, por el simple hecho de serlo, con independencia de su condición social o económica, raza, género, religión, étnica;
 XVII.- Genoma Humano, es el número total de cromosomas del cuerpo humano que contiene la información genética de la persona, y
 XVIII.- Consentimiento válidamente informado, es la aprobación que otorga una persona caracterizada por comprender la información dada de manera adecuada, es decir, que se le explicaron los términos médicos con lenguaje coloquial, y que estuvo acompañado de una persona de su confianza, para que con ésta pueda consultar o corroborar la información dada.
+(ADICIONADA, P.O. 31 DE AGOSTO DE 2022)
+XIX.- Acto médico, es toda clase de examen, intervención, tratamiento e investigación de un paciente o razonamiento clínico, con fines de protección a la salud e incluye actos de prevención, diagnóstico, prescripción, recomendación terapéutica, tratamiento y rehabilitación, llevados a cabo por personal de salud o bajo su responsabilidad.
