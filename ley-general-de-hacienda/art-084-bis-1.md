@@ -2,7 +2,10 @@ N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRA
 (ADICIONADO POR ARTÍCULO VIGÉSIMO TERCERO DE LA LEY DE INGRESOS DEL GOBIERNO DEL ESTADO DE MORELOS, CORRESPONDIENTE AL EJERCICIO FISCAL DEL PRIMERO DE ENERO AL TREINTA Y UNO DE DICIEMBRE DE DOS MIL DOCE, P.O. 21 DE DICIEMBRE DE 2011)
 Artículo 84 Bis-1. Las personas físicas o morales, propietarias o poseedoras de vehículos automotores en circulación registrados en el Estado de Morelos, y las solicitantes de los servicios a que se refiere este capítulo tienen las siguientes obligaciones:
 I.- Solicitar la inscripción del vehículo automotor de que se trate en el padrón estatal vehicular, dentro de los treinta días naturales siguientes de su adquisición; en el caso de vehículos recuperados o rehabilitados que se hayan acreditado como robados o siniestrados, los propietarios o poseedores contarán con un plazo de treinta días naturales posteriores a la fecha de recuperación o rehabilitación para solicitar la inscripción al padrón estatal vehicular, previo pago de los derechos por servicios de control vehicular que corresponda.
-II.- Solicitar la baja del padrón estatal vehicular dentro de los quince días naturales siguientes en que se den los supuestos de robo, siniestro, enajenación y/o traslado a otra Entidad Federativa.
+(REFORMADA, P.O. 17 DE NOVIEMBRE DE 2022)
+II.- Solicitar la baja del padrón estatal vehicular:
+a) Previo a los actos de enajenación y/o traslado a otra entidad federativa; y,
+b) Dentro de los quince días naturales siguientes al que se den los supuestos de robo o siniestro.
 (REFORMADA, P.O. 24 DE DICIEMBRE DE 2014)
 III.- En caso de enajenación de vehículos, los nuevos propietarios o poseedores de los mismos, deberán solicitar la alta en el Padrón Estatal Vehicular dentro de los treinta días naturales siguientes a la fecha en que se realizó el trámite de baja del mismo.
 IV.- Son responsables solidarios en los trámites de baja del padrón estatal vehicular, los adquirentes de los vehículos por los que no se haya realizado dicho trámite.
