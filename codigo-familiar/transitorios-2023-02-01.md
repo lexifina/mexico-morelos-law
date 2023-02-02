@@ -1,0 +1,6 @@
+P.O. 1 DE FEBRERO DE 2023.
+[N. DE E. TRANSITORIOS DEL "DECRETO NÚMERO SETECIENTOS DOS POR EL QUE SE ADICIONAN EN EL ARTÍCULO 423 UN PÁRRAFO TERCERO, RECORRIÉNDOSE LOS SUBSECUENTES, Y EN EL ARTÍCULO 428 UN PÁRRAFO TERCERO, RECORRIÉNDOSE LOS SUBSECUENTES, AMBOS DEL CÓDIGO FAMILIAR PARA ESTADO LIBRE Y SOBERANO DE MORELOS".]
+PRIMERO.- Remítase el presente decreto al titular del Poder Ejecutivo, para su promulgación y publicación respectiva de conformidad con los artículos 44, 47 y 70, fracción XVII, incisos a) y c) de la Constitución Política del Estado Libre y Soberano de Morelos.
+SEGUNDA.- El presente decreto, entrará en vigor a partir del día siguiente de su publicación en el Periódico Oficial "Tierra y Libertad", órgano de difusión del Gobierno del Estado de Morelos.
+TERCERA.- En el Poder Ejecutivo Estatal, la Dirección que se encargue del Registro Civil, y en su caso la Secretaría de Gobierno, en términos del artículo 22, fracción XXIII de la Ley Orgánica de la Administración Pública del Estado de Morelos, proveerán la disponibilidad de los traductores y los formatos en las lenguas indígenas de las personas residentes en el estado de Morelos, que soliciten formatos o actas de nacimiento en lengua indígena que ellos hablen.
+CUARTA.- Se derogan todas las disposiciones de igual o menor rango que se opongan a la presente reforma.
