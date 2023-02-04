@@ -1,0 +1,5 @@
+P.O. 1 DE FEBRERO DE 2023.
+[N. DE E. TRANSITORIOS DEL "DECRETO NÚMERO SETECIENTOS CUARENTA Y CINCO.- POR EL QUE SE ADICIONA EL TÍTULO DÉCIMO SEGUNDO DE LA LEY ORGÁNICA PARA EL CONGRESO DEL ESTADO DE MORELOS, EN MATERIA DE REMOCIÓN DEL AUDITOR GENERAL DE LA ENTIDAD SUPERIOR DE AUDITORÍA Y FISCALIZACIÓN DEL CONGRESO DEL ESTADO DE MORELOS".]
+PRIMERA.- Remítase el presente decreto al titular del Poder Ejecutivo del Estado de Morelos, para los fines que indican los artículos 44, 47 y 70, fracción XVII, inciso a) de la Constitución Política del Estado Libre y Soberano de Morelos.
+SEGUNDA.- El presente decreto entrará en vigor en el momento de su aprobación por el pleno del Congreso del Estado de Morelos, de conformidad con lo establecido en el segundo párrafo del artículo 38 de la Constitución Política del Estado Libre y Soberano de Morelos.
+TERCERA.- Se derogan todas las disposiciones jurídicas de igual o menor rango normativo jerárquico que contravengan lo dispuesto por la presente reforma.
