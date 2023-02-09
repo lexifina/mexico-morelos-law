@@ -1,0 +1,2 @@
+(ADICIONADO, P.O. 8 DE FEBRERO DE 2023)
+Artículo 27-Bis.- Las presidentas o presidentes municipales, que hayan sido reelectos en su cargo, al término de su primer periodo de ejercicio, su proceso de entrega recepción consistirá en realizar un informe que contenga de manera general la situación que guarda (sic) los recursos humanos, materiales, financieros, tanto de su despacho, como de la administración, el cual deberá presentarse ante su órgano interno de control.
