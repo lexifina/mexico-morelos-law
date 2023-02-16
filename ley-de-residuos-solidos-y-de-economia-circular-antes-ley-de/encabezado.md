@@ -1,4 +1,4 @@
-LEY DE RESIDUOS SÓLIDOS PARA EL ESTADO DE MORELOS
+LEY DE RESIDUOS SÓLIDOS Y DE ECONOMÍA CIRCULAR PARA EL ESTADO DE MORELOS
 Ley publicada en la Segunda Sección del Periódico Oficial del Estado de Morelos, el miércoles 17 de octubre de 2007.
 Al margen izquierdo un Escudo del Estado de Morelos que dice: "Tierra y Libertad".- La Tierra volverá a quienes la trabajan con sus manos.
 DR. MARCO ANTONIO ADAME CASTILLO, GOBERNADOR CONSTITUCIONAL DEL ESTADO LIBRE Y SOBERANO DE MORELOS A SUS HABITANTES SABED:
@@ -7,4 +7,3 @@ LA QUINCUAGÉSIMA LEGISLATURA DEL CONGRESO DEL ESTADO LIBRE Y SOBERANO DE MORELO
 CONSIDERANDO.
 ...
 Por lo anteriormente expuesto, esta Soberanía ha tenido a bien expedir la siguiente:
-LEY DE RESIDUOS SÓLIDOS PARA EL ESTADO DE MORELOS.
