@@ -1,2 +1,1 @@
-(ADICIONADO, P.O. 6 DE OCTUBRE DE 2021)
-Artículo 66 NONIES.- La Secretaría de Desarrollo Agropecuario en coordinación con las Comisiones Legislativas de Desarrollo Agropecuario y Medio Ambiente, Recursos Naturales y Agua, así como las autoridades municipales, para conmemorar el día mundial de las abejas, que se celebra el 20 de mayo, se implementará en el estado el 20 de mayo de cada año como el "DÍA ESTATAL DE LAS ABEJAS" y para ello se organizara un concurso estatal, así como programas de actividades sociales y culturales, con la amplia participación de la ciudadanía.
+Artículo 66 NONIES.- (DEROGADO POR LA DISPOSICIÓN TRANSITORIA SÉPTIMA DE LA LEY DE FOMENTO APÍCOLA Y PROTECCIÓN DEL PROCESO DE POLINIZACIÓN PARA EL ESTADO DE MORELOS, P.O. 31 DE MAYO DE 2023)
