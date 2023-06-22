@@ -1,0 +1,6 @@
+P.O. 21 DE JUNIO DE 2023.
+[N. DE E. TRANSITORIOS DEL "DECRETO NÚMERO CUATROCIENTOS SETENTA Y DOS POR EL QUE SE ADICIONA UNA NUEVA FRACCIÓN II, RECORRIÉNDOSE EN SU ORDEN LAS SUBSECUENTES, DEL ARTÍCULO 75 DE LA LEY DE SALUD DEL ESTADO DE MORELOS".]
+PRIMERA.- Remítase el presente Decreto al titular del Poder Ejecutivo para su respectiva publicación en el Periódico Oficial "Tierra y Libertad", órgano de difusión del Gobierno del Estado de Morelos.
+SEGUNDA.- El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "Tierra y Libertad", órgano de difusión del Gobierno del Estado de Morelos.
+TERCERA.- Entrado en vigor el presente Decreto, el titular del Poder Ejecutivo estará sujeto la suficiencia presupuestal disponible y las reglas de operación que, para el efecto, se emitan por parte del organismo público descentralizado denominado Servicios de Salud de Morelos.
+CUARTA.- El titular del Poder Ejecutivo incluirá la partida para la adquisición de los productos de salud e higiene menstrual para su distribución y entrega gratuita a la población femenina que lo requiere, en el Presupuesto de Egresos para el Gobierno del Estado de Morelos que corresponda y en los sucesivos presupuestos de egresos del Estado de Morelos.
