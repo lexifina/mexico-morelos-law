@@ -1,5 +1,7 @@
-(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 19 DE AGOSTO DE 2015)
+(ADICIONADO [N. DE E. REFORMADA SU DENOMINACIÓN], P.O. 21 DE JUNIO DE 2023)
 CAPÍTULO XI
-CUIDADOS PALIATIVOS A LOS ENFERMOS EN SITUACIÓN TERMINAL
-(ADICIONADO, P.O. 19 DE AGOSTO DE 2015)
-Artículo 88 Quaterdecies.- El presente Capítulo tiene por objeto proteger y salvaguardar en todo momento la dignidad de los enfermos en fase terminal, garantizándoles una vida de calidad, a través de los cuidados paliativos y la atención médica proporcionada por profesionales de la salud, orientada a reducir los sufrimientos físicos y emocionales que ellos requieran hasta el final de su vida, lo que se realizará de conformidad con lo dispuesto por los artículos 166 Bis a 166 Bis 21 de la Ley General de Salud, el Reglamento de la Ley General de Salud en materia de Prestación de Servicios de Atención Médica y las Normas Oficiales Mexicanas aplicables en la materia.
+ATENCIÓN A LA SALUD DE LA MUJER
+(ADICIONADO [N. DE E. REFORMADO], P.O. 21 DE JUNIO DE 2023)
+Artículo 88 Quaterdecies.- El objeto del presente Capítulo, es la protección y la promoción de la salud de la mujer, las autoridades sanitarias del Estado garantizaran el acceso y ejercicio de las mujeres a este derecho.
+Es prioridad para las autoridades sanitarias la atención a la salud de la mujer, de acuerdo con su anatomía y fisiología, con énfasis a los padecimientos que más frecuentemente las afectan y los de mayor riesgo.
+El Sector Salud asume como prioridad la prevención, diagnóstico, tratamiento, control y vigilancia del cáncer de mama y cervicouterino.

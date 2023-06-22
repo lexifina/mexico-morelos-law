@@ -1,2 +1,2 @@
-(ADICIONADO, P.O. 19 DE AGOSTO DE 2015)
-Artículo 88 Octodecies.- Los cuidados paliativos deberán ser proporcionados por las instituciones de salud, conforme al modelo de atención que en materia de cuidados paliativos corresponda conforme a la Ley General de Salud, la presente Ley y demás disposiciones jurídicas aplicables.
+(REFORMADO, P.O. 21 DE JUNIO DE 2023)
+Artículo 88 Octodecies.- En los lugares donde no existan unidades médicas del sector público o social con capacidad resolutiva, las autoridades de salud estatales realizarán convenios de subrogación con establecimientos del sector privado acreditados o certificados, para que se realice el servicio gratuito de exámenes para la detección de cáncer cervicouterino y cáncer de mama a la población de escasos recursos económicos.

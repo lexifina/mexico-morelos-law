@@ -1,0 +1,5 @@
+P.O. 21 DE JUNIO DE 2023.
+[N. DE E. TRANSITORIOS DEL "DECRETO NÚMERO SEISCIENTOS CINCUENTA Y SEIS POR EL QUE SE REFORMA LA FRACCIÓN III DEL ARTÍCULO 37; SE DEROGAN LA FRACCIÓN I DEL ARTÍCULO 75 Y EL ARTÍCULO 77; SE ADICIONAN UN CAPÍTULO IX PARA LA ATENCIÓN DE LA SALUD DE LA MUJER, ASÍ COMO LOS ARTÍCULOS 88 QUATERDECIES; 88 QUINDECIES; 88 SEXDECIES; 88 SEPTENDECIES, Y 88 OCTODECIES, TODOS DE LA LEY DE SALUD DEL ESTADO DE MORELOS".]
+PRIMERA. Remítase el Decreto al Titular del Poder Ejecutivo del Estado, para los efectos de lo dispuesto por los artículos 44, 47 y 70, fracción XVII inciso a), de la Constitución Política del Estado Libre y Soberano de Morelos.
+SEGUNDA. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "Tierra y Libertad", órgano de difusión del Gobierno del Estado de Morelos.
+TERCERA. Los Poderes Ejecutivo y Legislativo del Gobierno del Estado de Morelos deberán establecer en el Presupuesto de Egresos para el Ejercicio Fiscal 2024, así como en los ejercicios subsecuentes, la suficiencia presupuestal que se estime necesaria para dar inicio al cumplimiento de este Decreto.
