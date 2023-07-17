@@ -1,3 +1,2 @@
-(ADICIONADO, P.O. 22 DE ABRIL DE 2015)
-ARTICULO 26 SEXIES.- Las disposiciones contenidas en los artículos 26 Bis, 26 Ter, 26 Quater y 26 Quinquies de esta Ley, referentes al Haber por Retiro, resultan aplicables para los Magistrados del Tribunal de lo Contencioso Administrativo y del Tribunal Unitario de Justicia para Adolescentes.
-De la misma manera, las disposiciones antes señaladas resultarán aplicables a los Magistrados del Tribunal Electoral de Morelos que hayan fungido antes de la Reforma Constitucional en Materia Político-Electoral y que no hayan sido ratificados por el Senado de la República.
+(REFORMADO, P.O. 14 DE JULIO DE 2023)
+ARTICULO 26 SEXIES.- Cuando la conclusión del plazo para el ejercicio del cargo ocurra por cuestión de edad o por sobrevenir incapacidad física o mental, el Haber por Retiro deberá ser cubierto en forma proporcional al tiempo en que se haya ejercido el cargo.

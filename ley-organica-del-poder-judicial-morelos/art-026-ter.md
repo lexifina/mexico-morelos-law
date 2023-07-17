@@ -1,4 +1,2 @@
-(ADICIONADO, P.O. 22 DE ABRIL DE 2015)
-ARTICULO 26 TER.- El Haber por Retiro consiste en una prestación económica que se cubrirá mediante único pago, en una sola exhibición, el cual se integrará por lo siguiente:
-I. El equivalente a tres meses del salario que el Magistrado perciba en el momento en que corresponda el pago de esta prestación, y
-II. El equivalente a un mes de salario por cada dos años de servicios prestados como Magistrado.
+(REFORMADO, P.O. 14 DE JULIO DE 2023)
+ARTICULO 26 TER.- Al separarse del cargo, los magistrados y magistradas a que se refiere el artículo 26 Bis, tendrán derecho a un Haber de Retiro de carácter periódico y vitalicio, el cual se calculará con base en los términos y condiciones que establezcan los reglamentos que para el efecto expidan los Plenos del Tribunal Superior de Justicia del Estado y del Tribunal de Justicia Administrativa del Estado, prestación que reglamentariamente deberá regularse a partir de las remuneraciones vigentes para los magistrados y magistradas en activo.
