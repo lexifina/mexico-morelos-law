@@ -1,8 +1,11 @@
-(REFORMADA SU NUMERACIÓN [N. DE E. ANTES CAPÍTULO III DEL TÍTULO DÉCIMO SEGUNDO, P.O. 10 DE ABRIL DE 2019) (REPUBLICADO, P.O. 28 DE AGOSTO DE 2019)
-CAPITULO IV
+(ADICIONADO, P.O. 2 DE AGOSTO DE 2023)
+TÍTULO DÉCIMO SEGUNDO BIS
+DELITOS DE VIOLENCIA CONTRA LA MUJER EN RAZÓN DE GÉNERO
+(REFORMADA SU NUMERACIÓN [N. DE E. ANTES CAPÍTULO IV DEL TÍTULO DÉCIMO PRIMERO], P.O. 2 DE AGOSTO DE 2023)
+CAPITULO I
 FEMINICIDIO
 (REFORMADO, P.O. 14 DE ABRIL DE 2021)
-ARTICULO 213 QUINTUS (SIC).- Comete el delito de feminicidio quien prive de la vida a una mujer por razones de género. Se considera que existen razones de género cuando concurra alguna de las siguientes circunstancias:
+ARTICULO 213 QUINTUS.- Comete el delito de feminicidio quien prive de la vida a una mujer por razones de género. Se considera que existen razones de género cuando concurra alguna de las siguientes circunstancias:
 I. La víctima presente signos de violencia sexual de cualquier tipo;
 II. A la víctima se haya infligido lesiones infamantes, degradantes o mutilaciones, previa o posterior a la privación de la vida o actos de necrofilia;
 III. Existan antecedentes o datos de cualquier tipo de violencia en el ámbito familiar, laboral o escolar, del sujeto activo en contra de la víctima;
@@ -15,6 +18,6 @@ A quien cometa el delito de feminicidio se le impondrán de cuarenta a setenta a
 En caso de que no se acredite el feminicidio, se aplicarán las reglas del homicidio.
 Además de las sanciones descritas en el presente artículo, el sujeto activo perderá todos los derechos con relación a la víctima, incluidos los de carácter sucesorio.
 En caso de que un servidor público retarde o entorpezca maliciosamente o por negligencia la procuración o administración de justicia, se estará a lo dispuesto en el Título Vigésimo Primero, denominado Delitos Cometidos Contra la Procuración y Administración de Justicia.
-(ADICIONADO CON EL ARTÍCULO QUE LO INTEGRA, P.O. 22 DE ENERO DE 2020)
-Capítulo V
+(REFORMADA SU NUMERACIÓN [N. DE E. ANTES CAPÍTULO V DEL TÍTULO DÉCIMO PRIMERO], P.O. 2 DE AGOSTO DE 2023)
+Capítulo II
 Violencia Política por Condición de Género

@@ -1,0 +1,2 @@
+(ADICIONADO, P.O. 2 DE AGOSTO DE 2023)
+ARTÍCULO 24 BIS.- Para los efectos de este Código se considera violencia vicaria al acto abusivo contra la mujer que ejerce quien mantenga o haya mantenido una relación de hecho o de pareja con la víctima y que por sí o por interpósita persona, utilice como medio a las hijas e hijos de ésta, para causarle daño; generando una consecuente afectación psicoemocional e incluso física a los menores.

@@ -1,5 +1,5 @@
 (ADICIONADO CON EL ARTÍCULO QUE LO INTEGRA, P.O. 15 DE FEBRERO DE 2023)
-CAPITULO IV (SIC)
+CAPITULO IV
 DIFUSION INDEBIDA DE FOTOGRAFIAS, IMAGENES, VIDEOS O AUDIO GRABACIONES
 (ADICIONADO, P.O. 15 DE FEBRERO DE 2023)
 ARTICULO 212 QUINTUS.- Se le impondrá de un año a tres años de prisión y multa de treinta a trescientas veces el valor diario de la Unidad de Medida y Actualización en el momento de cometerse el delito, a los servidores públicos de Protección Civil, Seguridad Pública, Fiscalía General de Justicia, Tribunal Superior de Justicia, o cualquier otro, que por su trabajo tengan acceso a la información de un hecho delictivo, que indebidamente por si o interpósita persona, difundan, transmitan, publiquen, expongan, remitan, distribuyan, videograben, audiograben, filmen, reproduzcan, comercialicen, oferten, intercambien o compartan imágenes, audios, videos documentos, relacionados con objetos, indicios, evidencias, hallazgos, instrumentos vinculados a un procedimiento penal o una investigación relacionados con un hecho delictivo.

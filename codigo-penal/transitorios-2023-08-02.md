@@ -1,0 +1,5 @@
+P.O. 2 DE AGOSTO DE 2023.
+[N. DE E. TRANSITORIOS DEL "DECRETO NÚMERO MIL DOSCIENTOS CINCUENTA Y TRES.- QUE ADICIONA UN TÍTULO DÉCIMO SEGUNDO BIS, REFORMA Y ADICIONA DOS CAPÍTULOS RESPECTIVAMENTE Y TRES ARTÍCULOS, DEL CÓDIGO PENAL PARA EL ESTADO DE MORELOS; ASÍ COMO, REFORMA UNA FRACCIÓN DEL ARTÍCULO 20, DE LA LEY DE ACCESO DE LAS MUJERES A UNA VIDA LIBRE DE VIOLENCIA PARA EL ESTADO DE MORELOS; Y REFORMA Y ADICIONAN LOS ARTÍCULOS 24 BIS, 24 TER Y 225 DEL CÓDIGO FAMILIAR PARA EL ESTADO LIBRE Y SOBERANO DE MORELOS, EN MATERIA DE VIOLENCIA OBSTÉTRICA Y VIOLENCIA VICARIA".]
+ARTÍCULO PRIMERO.- Remítase el presente Decreto al titular del Poder Ejecutivo del Estado para su publicación de conformidad con lo dispuesto por los artículos 44, 47 y 70, fracción XVII, incisos a) y c), de la Constitución Política del Estado Libre y Soberano de Morelos.
+ARTÍCULO SEGUNDO.- El presente Decreto entrara en vigor al día siguiente de su publicación en el Periódico Oficial "Tierra y Libertad".
+ARTÍCULO TERCERO.- Se derogan todas las disposiciones de igual o menor jerarquía normativa que se opongan al presente Decreto.
