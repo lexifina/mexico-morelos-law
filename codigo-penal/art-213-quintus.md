@@ -17,6 +17,8 @@ VIII. El cuerpo de la víctima sea expuesto o arrojado en un lugar público.
 A quien cometa el delito de feminicidio se le impondrán de cuarenta a setenta años de prisión y multa de quinientos a mil veces el valor diario de la Unidad de Medida y Actualización.
 En caso de que no se acredite el feminicidio, se aplicarán las reglas del homicidio.
 Además de las sanciones descritas en el presente artículo, el sujeto activo perderá todos los derechos con relación a la víctima, incluidos los de carácter sucesorio.
+(ADICIONADO, P.O. 25 DE OCTUBRE DE 2023)
+La pena se agravará hasta en una tercera parte, sin que pueda exceder la máxima establecida en este código, cuando la víctima sea menor de dieciocho años, adulta mayor, se encuentre embarazada, tenga alguna discapacidad, así como cuando el delito se cometa frente a sus hijas o hijos.
 En caso de que un servidor público retarde o entorpezca maliciosamente o por negligencia la procuración o administración de justicia, se estará a lo dispuesto en el Título Vigésimo Primero, denominado Delitos Cometidos Contra la Procuración y Administración de Justicia.
 (REFORMADA SU NUMERACIÓN [N. DE E. ANTES CAPÍTULO V DEL TÍTULO DÉCIMO PRIMERO], P.O. 2 DE AGOSTO DE 2023)
 Capítulo II
