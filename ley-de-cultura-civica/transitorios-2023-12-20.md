@@ -1,0 +1,4 @@
+P.O. 20 DE DICIEMBRE DE 2023.
+[N. DE E. TRANSITORIOS DEL "DECRETO NÚMERO MIL CUATROCIENTOS OCHENTA Y UNO.- POR EL CUAL SE ADICIONAN LAS FRACCIONES V, VI, VII Y VIII Y LOS PÁRRAFOS SEGUNDO Y TERCERO AL ARTÍCULO 16, SE REFORMAN LOS PÁRRAFOS PRIMERO Y SEGUNDO AL ARTÍCULO 17 DE LA LEY DE CULTURA CÍVICA DEL ESTADO DE MORELOS".]
+ARTÍCULO PRIMERO.- Remítase el presente Decreto al titular del Poder Ejecutivo para su promulgación y publicación en el periódico oficial "Tierra y Libertad" órgano oficial de difusión del Gobierno del Estado de Morelos, de conformidad con lo dispuesto por los artículos 44, 47 y 70 fracción XVII inciso a) de la Constitución Política del Estado Libre y Soberano de Morelos.
+ARTÍCULO SEGUNDO.- El presente Decreto entrara en vigor el día siguiente de su publicación en el Periódico Oficial "Tierra y Libertad".
