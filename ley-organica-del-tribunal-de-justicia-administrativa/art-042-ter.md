@@ -1,0 +1,2 @@
+(ADICIONADO, P.O. 20 DE DICIEMBRE DE 2023)
+Artículo 42-Ter. La Unidad será el enlace entre el Tribunal y las instancias involucradas en la Igualdad de Género y Derechos Humanos, auxiliada por el personal administrativo que al efecto se determine y permita el presupuesto. Para el funcionamiento de esta Unidad, el Presidente del Tribunal, podrá efectuar las transferencias o ampliaciones necesarias, siempre sujeto a la disponibilidad presupuestal del Tribunal
