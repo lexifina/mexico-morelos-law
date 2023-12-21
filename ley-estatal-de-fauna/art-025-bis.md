@@ -1,0 +1,2 @@
+(ADICIONADO, P.O. 20 DE DICIEMBRE DE 2023)
+Artículo 25 Bis.- Se reconoce la insignia "Pet Friendly", como distintivo autorizado por los Municipios a aquellos hoteles, restaurantes, bares y cualquier establecimiento mercantil que al brindar sus servicios permita el acceso de animales domésticos y les brinde un trato digno, respetuoso y salubre en sus instalaciones durante la estancia de los clientes o usuarios.

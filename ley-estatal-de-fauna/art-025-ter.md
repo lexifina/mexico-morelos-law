@@ -1,0 +1,4 @@
+(ADICIONADO, P.O. 20 DE DICIEMBRE DE 2023)
+Artículo 25 Ter.- Los municipios establecerán los lineamientos y criterios que deberán observar los establecimientos mercantiles a los que les sea reconocida la insignia "Pet Friendly" como distintivo autorizado.
+Los lineamientos y criterios a los que se hace referencia en el presente artículo se elaborarán y ejecutarán por el Municipio a través de su unidad administrativa encargada de la protección ambiental y desarrollo sustentable, en coordinación con sus áreas de Salud y de Desarrollo Económico.
+La unidad administrativa encargada de la protección ambiental y desarrollo sustentable de cada Municipio elaborará, coordinará, supervisará y administrará el padrón de establecimientos mercantiles a los que se les autorice la Insignia "Pet friendly" y dará difusión de dicho padrón a través de los medios electrónicos con los que cuente.
