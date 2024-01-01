@@ -1,0 +1,5 @@
+P.O. 21 DE JUNIO DE 2023.
+[N. DE E. TRANSITORIOS DEL "DECRETO NÚMERO SEISCIENTOS NOVENTA Y SIETE.- POR EL QUE SE REFORMA EL ARTÍCULO 71 DE LA LEY DE SALUD DEL ESTADO DE MORELOS".]
+PRIMERA.- Remítase el presente decreto, al titular del Poder Ejecutivo para su respectiva publicación en el Periódico Oficial "Tierra y Libertad", órgano de difusión del gobierno del Estado de Morelos.
+SEGUNDA.- Una vez publicado en el Periódico Oficial "Tierra y Libertad", órgano de difusión del gobierno del Estado de Morelos, el presente decreto entrará en vigor a partir del 1 de enero de 2024.
+TERCERA.- Una vez publicado el presente decreto en el Periódico Oficial "Tierra y Libertad", órgano de difusión del gobierno del Estado de Morelos, el titular del Poder Ejecutivo incluirá la partida para la adquisición de los dispositivos e insumos para el control de enfermedades pediátricas crónicas, para el Presupuesto de Egresos del Gobierno del Estado de Morelos del 1 de enero al 31 de diciembre de 2024, así como en los sucesivos presupuestos de egresos del Estado de Morelos.
