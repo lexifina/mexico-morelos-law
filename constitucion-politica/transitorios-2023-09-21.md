@@ -1,0 +1,7 @@
+P.O. 21 DE SEPTIEMBRE DE 2023.
+[N. DE E. TRANSITORIOS DEL "DECRETO NÚMERO MIL DOSCIENTOS OCHENTA Y CUATRO.- POR EL QUE SE REFORMA EL ARTÍCULO 121, EN SU PÁRRAFO QUINTO DE LA CONSTITUCIÓN POLÍTICA DEL ESTADO LIBRE Y SOBERANO DE MORELOS".]
+PRIMERA. Remítase el presente Decreto al Gobernador Constitucional del Estado para su publicación en el Periódico Oficial "Tierra y Libertad", órgano de difusión del Gobierno del estado de Morelos, como se dispone en los artículos 44 y 70, fracción XVII, inciso a), de la Constitución Política del Estado Libre y Soberano de Morelos.
+SEGUNDO (SIC). Las adiciones contenidas en el presente Decreto formarán parte de la Constitución Política del Estado Libre y Soberano de Morelos, en términos de lo dispuesto por el artículo 147, fracción I, de la propia Constitución.
+TERCERO (SIC). El presente decreto iniciará su vigencia a partir del día primero de enero del año 2024, previa publicación en el Periódico Oficial "Tierra y Libertad", Órgano de Difusión Oficial del Estado de Morelos
+CUARTA. Entrado en vigor el presente decreto, el Titular del Poder Ejecutivo del Estado de Morelos, incluirá la partida presupuestal correspondiente para dar cumplimiento en sus términos, dentro del Proyecto de Presupuesto de Egresos del Gobierno del Estado de Morelos, para el ejercicio fiscal del 1 de enero al 31 de diciembre de 2024, así como en los subsecuentes presupuestos.
+QUINTA. Se drogan (sic) todas las disposiciones legales o reglamentarias que se pongan al presente Decreto.
