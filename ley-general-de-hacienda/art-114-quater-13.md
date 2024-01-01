@@ -1,2 +1,2 @@
-(REFORMADO, P.O. 31 DE DICIEMBRE DE 2020)
-Artículo 114 Quater-13. Por el registro como consultor, para la elaboración de estudios de vulnerabilidad y riesgos en materia de protección civil a que se refieren los artículos 163 de la Ley Estatal de Protección Civil de Morelos y 153 del Reglamento de la Ley Estatal de Protección Civil de Morelos, se causará un derecho por la cantidad equivalente a 89.00 UMA.
+(REFORMADO, P.O. 29 DE DICIEMBRE DE 2023)
+Artículo 114 Quater-13. Por el registro como asesor, para la elaboración de estudios de vulnerabilidad y riesgos en materia de protección civil a que se refieren los artículos 163 de la Ley Estatal de Protección Civil de Morelos y 153 del Reglamento de la Ley Estatal de Protección Civil de Morelos, se causará un derecho por la cantidad equivalente a 89.00 UMA.

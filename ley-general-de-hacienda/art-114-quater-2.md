@@ -1,2 +1,2 @@
-(REFORMADO, P.O. 31 DE DICIEMBRE DE 2020)
-Artículo 114 Quater-2. Por la evaluación del programa específico de Protección Civil a que se refiere el artículo 135 de la Ley Estatal de Protección Civil de Morelos para proyectos e instalaciones existentes o de nueva creación, a que se refiere el artículo 98, de la Ley Estatal de Protección Civil de Morelos se causará un derecho por la cantidad equivalente a 55.00 UMA.
+(REFORMADO, P.O. 29 DE DICIEMBRE DE 2023)
+Artículo 114 Quater-2. Por la evaluación del programa específico de Protección Civil, para proyectos de construcción, remodelación, reparación, reconstrucción o demolición de Riesgo Alto, que se refieren los artículos 135 y 143 de la Ley Estatal de Protección Civil de Morelos y 120 del Reglamento de la Ley Estatal de Protección Civil de Morelos, se causará un derecho por la cantidad equivalente a 55.00 UMA.

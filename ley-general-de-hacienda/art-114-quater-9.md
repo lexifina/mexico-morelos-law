@@ -1,2 +1,2 @@
-(REFORMADO, P.O. 31 DE DICIEMBRE DE 2020)
-Artículo 114 Quater-9. Por la visita de inspección y opinión favorable para los permisos regulados por la Ley Federal de Armas de Fuego y Explosivos, a que se refieren los artículos 96 de la Ley Estatal de Protección Civil de Morelos, 67 y 68 del Reglamento de la Ley Estatal de Protección Civil de Morelos, se causará un derecho por la cantidad equivalente a 46.00 UMA.
+(REFORMADO, P.O. 29 DE DICIEMBRE DE 2023)
+Artículo 114 Quater- 9. Por la visita de inspección y opinión en materia de riesgo, para el trámite de la opinión favorable para los permisos regulados por la Ley Federal de Armas de Fuego y Explosivos, a que se refieren los artículos 96 de la Ley Estatal de Protección Civil de Morelos, 67, 68 y 69 del Reglamento de la Ley Estatal de Protección Civil de Morelos, se causará un derecho por la cantidad equivalente a 46.00 UMA.

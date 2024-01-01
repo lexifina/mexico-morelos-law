@@ -1,2 +1,2 @@
-(REFORMADO, P.O. 31 DE DICIEMBRE DE 2020)
-Artículo 114 Quater-6. Por visita de inspección y opinión en materia de riesgo, para proyectos e instalaciones existentes o de nueva creación, a que se refieren el artículo 93 de la Ley Estatal de Protección Civil de Morelos, 61 y 66 de su Reglamento de la Ley Estatal de Protección Civil de Morelos, se causará un derecho por la cantidad equivalente a 46.00 UMA
+(REFORMADO, P.O. 29 DE DICIEMBRE DE 2023)
+Artículo 114 Quater-6. Por visita de inspección y opinión en materia de riesgo, para proyectos e instalaciones existentes o de nueva creación, a que se refieren los artículos 93 y 98 de la Ley Estatal de Protección Civil de Morelos, 61, 66 y 203 del Reglamento de la Ley Estatal de Protección Civil de Morelos, se causará un derecho por la cantidad equivalente a 46.00 UMA.
