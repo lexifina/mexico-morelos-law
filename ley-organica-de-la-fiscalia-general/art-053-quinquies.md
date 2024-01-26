@@ -1,0 +1,3 @@
+(ADICIONADO, P.O. 25 DE ENERO DE 2024)
+Artículo 53 quinquies. La Fiscalía Especializada en la Investigación y Persecución de Delitos de Tortura contará, conforme la suficiencia presupuestal, con los recursos humanos, presupuestales y materiales necesarios para su correcta operación. Los Agentes del Ministerio Público, Agentes de la Policía de Investigación Criminal o Peritos que se le adscriban deberán ser especializados.
+Las atribuciones y funciones de la persona titular, así como del personal y estructura que la integren se establecerán en el Reglamento y los Manuales Administrativos correspondientes.

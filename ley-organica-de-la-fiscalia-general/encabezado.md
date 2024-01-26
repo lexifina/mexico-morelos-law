@@ -1,5 +1,4 @@
 LEY ORGÁNICA DE LA FISCALÍA GENERAL DEL ESTADO DE MORELOS
-[N. DE E. LA FE DE ERRATAS PUBLICADA EN EL P.O. EL 27 DE NOVIEMBRE DE 2019 NO APLICA AL ARTICULADO DEL DECRETO NÚMERO DOSCIENTOS CUARENTA Y DOS PUBLICADO EN EL P.O. DE 22 DE MAYO DE 2019.]
 Ley publicada en el Alcance al Periódico Oficial del Estado de Morelos, el miércoles 11 de julio de 2018.
 Al margen izquierdo un Escudo del estado de Morelos que dice: "Tierra y Libertad".- La tierra volverá a quienes la trabajan con sus manos.- Poder Legislativo. LIII Legislatura. 2015-2018.
 GRACO LUIS RAMÍREZ GARRIDO ABREU, GOBERNADOR CONSTITUCIONAL DEL ESTADO LIBRE Y SOBERANO DE MORELOS A SUS HABITANTES SABED:

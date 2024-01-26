@@ -1,0 +1,2 @@
+(ADICIONADO, P.O. 25 DE ENERO DE 2024)
+Artículo 53 septies. La Fiscalía Especializada en la Investigación y Persecución de Delitos de Tortura, podrá celebrar convenios con la Comisión Ejecutiva de Atención a Víctimas del Estado, para dar cumplimiento a lo previsto en los artículos 40 y 41 de la Ley General para Prevenir, Investigar y Sancionar la Tortura y otros Tratos o Penas Crueles, Inhumanos o Degradantes y demás disposiciones aplicables.
