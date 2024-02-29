@@ -1,0 +1,2 @@
+(ADICIONADO, P.O. 28 DE FEBRERO DE 2024)
+Artículo 91 Bis.- Las ausencias temporales de los Oficiales del Registro Civil serán suplidas por el servidor público que el Ayuntamiento designe como encargado de despacho; mismo que deberá contar con los mismos requisitos establecidos en el artículo anterior, pudiendo desempeñar legalmente las atribuciones que originalmente corresponden al titular. Dicha designación temporal no deberá exceder de los treinta días naturales.

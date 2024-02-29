@@ -1,4 +1,4 @@
-LEY DE IGUALDAD DE DERECHOS Y OPORTUNIDADES ENTRE HOMBRES Y MUJERES EN EL ESTADO DE MORELOS
+LEY DE IGUALDAD DE DERECHOS Y OPORTUNIDADES ENTRE MUJERES Y HOMBRES PARA EL ESTADO DE MORELOS
 Ley publicada en el Periódico Oficial del Estado de Morelos, el miércoles 16 de enero del 2013.
 Al margen izquierdo un Escudo del Estado de Morelos que dice: "Tierra y Libertad".- La tierra volverá a quienes la trabajan con sus manos.- Poder Legislativo.- LII Legislatura. 2012-2015.
 GRACO LUIS RAMÍREZ GARRIDO ABREU, GOBERNADOR CONSTITUCIONAL DEL ESTADO LIBRE Y SOBERANO DE MORELOS A SUS HABITANTES SABED:
@@ -16,4 +16,3 @@ PRIMERO.- Se dictamina y se votó en unanimidad de PROCEDENTES las observaciones
 SEGUNDO.- Se aprueba parcialmente y se modifica en lo particular la observación contenida en el inciso e) de las Observaciones realizadas por el Gobernador Marco Antonio Adame Castillo, en los términos del considerando Quinto del presente dictamen.
 TERCERO.- Túrnese a la Mesa Directiva del Congreso del Estado a fin de que sea considerada para discusión ante la Asamblea General.
 Por lo anteriormente expuesto, esta Legislatura ha tenido a bien expedir la siguiente:
-LEY DE IGUALDAD DE DERECHOS Y OPORTUNIDADES ENTRE HOMBRES Y MUJERES EN EL ESTADO DE MORELOS.

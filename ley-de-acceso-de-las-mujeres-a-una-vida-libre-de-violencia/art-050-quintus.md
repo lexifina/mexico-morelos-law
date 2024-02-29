@@ -1,0 +1,2 @@
+(ADICIONADO, P.O. 28 DE FEBRERO DE 2024)
+Artículo 50 quintus.- El Registro Estatal de Agresores Sexuales será actualizado, por lo menos, de manera mensual, de conformidad con la información entregada por la autoridad jurisdiccional competente, quien tendrá la responsabilidad de notificar las bajas y altas de las personas sentenciadas de acuerdo con los datos que obren en los expedientes correspondientes.
