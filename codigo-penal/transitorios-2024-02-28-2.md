@@ -1,0 +1,6 @@
+P.O. 28 DE FEBRERO DE 2024.
+[N. DE E. TRANSITORIOS DEL "DECRETO NÚMERO MIL DOSCIENTOS TREINTA Y TRES POR EL QUE SE REFORMAN Y ADICIONAN DIVERSAS DISPOSICIONES DEL CÓDIGO PENAL Y DE LA LEY DE ACCESO DE LAS MUJERES A UNA VIDA LIBRE DE VIOLENCIA, AMBOS PARA EL ESTADO MORELOS, POR EL QUE SE CREA EL REGISTRO ESTATAL DE AGRESORES SEXUALES".]
+PRIMERA. Remítase el presente Decreto al Titular del Poder Ejecutivo Estatal para su publicación correspondiente en el Periódico Oficial "Tierra y Libertad", órgano de difusión oficial del estado de Morelos.
+SEGUNDA. El presente Decreto iniciará su vigencia a partir del día siguiente de su publicación en el Periódico Oficial "Tierra y Libertad", órgano de difusión oficial del Gobierno del estado de Morelos.
+TERCERA. Dentro del plazo de 180 días hábiles contados a partir de la vigencia del presente Decreto, se deberán realizar las adecuaciones que resulten necesarias al marco regulatorio interior de la Comisión Estatal de Seguridad Pública, para atender los términos de la presente reforma, respecto a la implementación y funcionamiento del Registro Estatal de Agresores Sexuales.
+CUARTA. Se derogan todas las disposiciones de igual o menor rango jerárquico normativo que se opongan a lo dispuesto en el presente Decreto.
