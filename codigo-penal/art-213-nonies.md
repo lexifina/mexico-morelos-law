@@ -1,0 +1,2 @@
+(ADICIONADO, P.O. 2 DE AGOSTO DE 2023)
+ARTICULO 213 Nonies.- Al servidor público que por su negligencia retarde, entorpezca, maliciosamente la procuración o administración de justicia, cuando se trate de la investigación de un delito de violencia vicaria, sustracción o retención de niñas, niños o adolescentes o de violencia familiar, se lo impondrán de tres a ocho años de prisión y de quinientos a mil quinientos días multa, además será destituido e inhabilitado de seis diez años para desempeñar otra (sic) empleo, cargo o comisión públicos.

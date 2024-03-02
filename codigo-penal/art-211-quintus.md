@@ -1,0 +1,3 @@
+(ADICIONADO, P.O. 22 DE ABRIL DE 2015)
+ARTICULO 211 QUINTUS.- A quien venda bebidas alcohólicas a personas menores de dieciocho años o a personas que no tienen la capacidad para comprender el significado del hecho, se le impondrá una pena de cinco a diez años de prisión y de trescientos a quinientos días multa, así como el decomiso de los productos correspondientes.
+La misma pena será aplicable a quien permita el acceso a personas menores de dieciocho años a lugares o establecimientos donde preponderantemente se expendan bebidas alcohólicas para su consumo inmediato, cantinas, tabernas, bares, centros de vicio o lugares en que por su naturaleza sean nocivos para su desarrollo o para su salud.
