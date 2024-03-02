@@ -1,4 +1,0 @@
-P.O. 14 DE DICIEMBRE DE 2012.
-PRIMERA.- Remítase el presente Decreto al Titular del Poder Ejecutivo del Estado, para los fines que indica el artículo 44 y la fracción XVII del artículo 70 de la Constitución Política del Estado Libre y Soberano de Morelos.
-SEGUNDA.-.Este Decreto iniciará su vigencia el día siguiente de la fecha de su publicación en el Periódico Oficial "Tierra y Libertad", órgano de difusión del Gobierno del Estado.
-TERCERA.- La Procuraduría General de Justicia del Estado, deberá emitir los acuerdos, circulares, instructivos, bases, manuales de organización, procedimientos y/o lineamientos que resulten necesarios para la especialización y funcionamiento de Agencias del Ministerio Público especializados en materia de narcomenudeo que sean competencia del fuero común acorde a lo establecido en el Capítulo VII de la Ley General de Salud, y de conformidad al presupuesto asignado.

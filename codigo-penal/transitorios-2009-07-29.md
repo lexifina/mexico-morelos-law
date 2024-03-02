@@ -1,5 +1,0 @@
-P.O. 29 DE JULIO DE 2009.
-PRIMERO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "Tierra y Libertad", órgano informativo del Gobierno del Estado de Morelos, salvo lo previsto en el artículo transitorio siguiente.
-SEGUNDO.- Las referencias realizadas en el presente decreto al ilícito e imputado, quedarán entendidas a los términos vigentes cuerpo del delito e inculpado, hasta en tanto no se haga la declaratoria a que se refiere el párrafo tercero del artículo Segundo Transitorio, previsto en el Decreto por el que se reforman y adicionan diversas disposiciones de la Constitución Política de los Estados Unidos Mexicanos publicado en el Diario Oficial de la Federación el 18 de junio de 2008.
-TERCERO.- Los procedimientos penales ya iniciados a la entrada en vigor del presente Decreto, seguirán substanciándose conforme las reglas vigentes al momento del hecho investigado.
-CUARTO.- Se derogan todas las disposiciones de igual o menor rango que se opongan al presente Decreto.

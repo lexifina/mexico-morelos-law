@@ -1,2 +1,0 @@
-(ADICIONADO, P.O. 29 DE JUNIO DE 2004)
-ARTICULO 202 TER.- Se equipara al delito de violencia familiar y se le impondrán las mismas sanciones a que se refiere el artículo precedente, a quien realice los actos señalados en el artículo anterior, en contra de una persona que esté bajo su guardia, protección, cuidado o educación o instrucción con motivo del desempeño de su trabajo, siempre y cuando habiten la misma casa.

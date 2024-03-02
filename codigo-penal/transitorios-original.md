@@ -1,16 +1,9 @@
 TRANSITORIOS
-PRIMERO.- Este ordenamiento entrará en vigor el día 7 de noviembre de 1996.
-SEGUNDO.- A partir de la vigencia de este Código quedará derogado el Código Penal promulgado el 1º de octubre de 1945; quedando subsistentes, en cuanto no se opongan al presente Código, los Capítulos Primero, Segundo y Tercero, excepto los artículos 89 y 90 del Título Cuarto y el Capítulo Quinto del Título Quinto del Libro Primero, ambos del Código Penal que se deroga. Igualmente, quedarán derogadas cualesquiera otras disposiciones que se opongan a lo previsto en este Código.
-ATENTAMENTE
-"SUFRAGIO EFECTIVO. NO REELECCIÓN"
-RECINTO LEGISLATIVO A LOS VEINTISIETE DIAS DEL MES DE SEPTIEMBRE DE 1996.
-LOS CC. MIEMBROS DE LA MESA DIRECTIVA EN TURNO PRESIDENTE. DIP. GERMAN GARCIA REYNOSO SECRETARIOS. DIP. MARCOS GARCIA ALVAREZ DIP. PATRICIA ELTON BENHUMEA RUBRICAS.
-Por tanto mando se imprima, publique, circule y se le dé el debido cumplimiento.
-Dado en la Residencia del Poder Ejecutivo en la Ciudad de Cuernavaca, Capital del Estado de Morelos, a los siete días del mes de octubre de mil novecientos noventa y seis.
-SUFRAGIO EFECTIVO. NO REELECCIÓN
-GOBERNADOR DEL ESTADO
-JORGE CARRILLO OLEA
-SECRETARIO GENERAL DE GOBIERNO
-GUILLERMO MALO VELASCO
-RUBRICAS.
-N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.
+Artículo Primero.- El presente reglamento entrará en vigor el día de su suscripción.
+Artículo Segundo.- Se abroga el reglamento publicado en el Periódico Oficial del Estado de Chiapas número 369, de fecha 28 de junio del año 2006, que hasta la entrada en vigor del presente ordenamiento, regulaba la Caja de Ahorro y Préstamos de los Trabajadores de Base, de Confianza con Nombramiento Ilimitado adscrito a las (sic) Subsecretaría de Educación Federalizada de la Secretaría de Educación.
+Artículo Tercero.- El logotipo y leyenda autorizada para todos los actos que realice el Comité de Caja de Ahorro y Préstamos, será el que a continuación se inserta:
+CAJA DE AHORRO Y PRÉSTAMOS DE LOS TRABAJADORES DE BASE Y DE CONFIANZA CON NOMBRAMIENTO ILIMITADO DE LA SECRETARIA DE EDUCACIÓN FEDERALIZADA DE LA SECRETARIA DE EDUCACIÓN.
+Artículo Cuarto.- Para su conocimiento y debida difusión, publíquese en el Periódico Oficial del Estado, Reglamento de Caja de Ahorro y Préstamos de los trabajadores de Base, de Confianza con Nombramiento Ilimitado Adscrito a la Subsecretaría de Educación Federalizada de la Secretaría de Educación, Jubilados, Pensionados y Becarios, suscrito el día veintisiete de noviembre de 2010.
+Dado en la oficina que ocupa la Subsecretaría de Educación Federalizada de la Secretaría de Educación, en la ciudad de Tuxtla Gutiérrez, Chiapas; a los dieciséis días del mes de marzo del 2011.
+Comité de Administración: Julio César Lugo Martínez, Presidente.- José Manuel Nájera López, Tesorero Víctor Manuel de Jesús González García, Primer Comisario.- David del Carmen Villatoro Velázquez, Segundo Comisario.- Juan Manuel Jovel Osorio, Tercer Comisario.- Jorge Luis Hernández Alabat, Subsecretario de Educación Federalizada.- Rúbricas
+[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.]

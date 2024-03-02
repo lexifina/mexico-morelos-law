@@ -1,5 +1,0 @@
-(ADICIONADO, P.O. 9 DE JULIO DE 2008)
-ARTICULO 211 QUATER.- Comete el delito de relaciones sexuales remuneradas con personas menores de edad, quien pague u ofrezca dinero o cualquier otro tipo de beneficio, a persona menor de dieciocho años, para obtener para sí o para otro cópula, o realizar actos eróticos o sexuales con ella, independientemente de que la cópula o los actos eróticos o sexuales, se consumen.
-Este delito se actualizará incluso, cuando el dinero o beneficio, se pague u ofrezca a una tercera persona.
-A quien cometa el delito de relaciones sexuales remuneradas con personas menores de edad, se le impondrá una pena de tres a seis años de prisión y de mil, a mil quinientos días multa, sin perjuicio de las penas que correspondan por la comisión de otros delitos.
-A la persona que sin ánimo de lucro facilite o encubra cualquiera de las conductas tipificadas como delitos que se incluyen en el presente capítulo, se le aplicará prisión de uno a cuatro años, y de quinientos a mil días multa.
