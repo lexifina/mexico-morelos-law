@@ -1,0 +1,6 @@
+P.O. 6 DE MARZO DE 2024.
+[N. DE E. TRANSITORIOS DEL "DECRETO NÚMERO MIL SETECIENTOS VEINTICUATRO.- POR EL QUE SE ADICIONA EL ARTÍCULO 154 BIS A LA LEY DE FOMENTO Y PROTECCIÓN PECUARIA DEL ESTADO DE MORELOS, EN MATERIA DE PROFESIONALIZACIÓN DE LA PERSONA TITULAR DE LA DIRECCIÓN GENERAL DE GANADERÍA Y ACUACULTURA DE LA SECRETARÍA DE DESARROLLO AGROPECUARIO DEL PODER EJECUTIVO ESTATAL".]
+PRIMERA. Remítase el presente decreto al titular del Poder Ejecutivo Estatal para su publicación correspondiente en el Periódico Oficial "Tierra y Libertad", órgano de difusión oficial del Estado de Morelos.
+SEGUNDA. El presente decreto iniciará su vigencia al día siguiente de su publicación en el Periódico Oficial "Tierra y Libertad", órgano de difusión oficial del Gobierno del Estado de Morelos.
+TERCERA. El requisito contenido en el artículo que se adiciona a través del presente Decreto, deberá de exigirse a partir de la siguiente designación de la persona titular de la Dirección General de Ganadería y Acuacultura de la Secretaría de Desarrollo Agropecuario del Poder Ejecutivo Estatal.
+CUARTA. Se derogan todas las disposiciones jurídicas de igual o menor rango jerárquico normativo que se opongan al contenido del presente decreto.
