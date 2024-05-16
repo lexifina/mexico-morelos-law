@@ -1,0 +1,4 @@
+P.O. 15 DE MAYO DE 2024.
+[N. DE E. TRANSITORIOS DEL "DECRETO NÚMERO MIL OCHOCIENTOS SESENTA Y NUEVE POR EL QUE SE REFORMA (SIC) Y ADICIONA (SIC) DIVERSAS DISPOSICIONES DE LA LEY DE EDUCACIÓN DEL ESTADO DE MORELOS, CON EL PROPÓSITO DE ESTABLECER EL CONCEPTO DE ACOSO O BULLYING ESCOLAR, ASÍ COMO OBLIGAR A LAS AUTORIDADES EDUCATIVAS Y PADRES DE FAMILIA A PREVENIR Y COMBATIR SU COMISIÓN EN PLANTELES EDUCATIVOS PÚBLICOS Y PRIVADOS".]
+PRIMERO. - R0emítase (sic) el presente Decreto al Titular del Poder Ejecutivo del Estado, para su publicación en el Periódico Oficial "Tierra y Libertad", órgano de difusión del Gobierno del Estado de Morelos.
+SEGUNDO. - El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "Tierra y Libertad", Órgano de Difusión del Gobierno del Estado de Morelos.

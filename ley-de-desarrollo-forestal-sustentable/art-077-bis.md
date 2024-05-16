@@ -1,0 +1,2 @@
+(ADICIONADO, P.O. 15 DE MAYO DE 2024)
+ARTÍCULO 77 BIS. En los terrenos agropecuarios, los gobiernos municipales en conjunto con las autoridades comunitarias y las autoridades estatales, en coordinación con SADER, CONAFOR y CONANP, determinarán la época en que el uso del fuego deba restringirse temporalmente, de acuerdo con el riesgo y la problemática de incendios forestales prevaleciente, a fin de reducir situaciones de emergencia por incendios.
