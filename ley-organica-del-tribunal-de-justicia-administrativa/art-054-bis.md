@@ -1,0 +1,5 @@
+(ADICIONADO, P.O. 14 DE JUNIO DE 2024)
+Artículo 54 Bis. La Visitaduría es un órgano auxiliar del Pleno del Tribunal, responsable de inspeccionar el funcionamiento jurisdiccional de las Salas y el desempeño de sus servidores públicos, así como de sustanciar los procedimientos de responsabilidad administrativa en el ámbito de su competencia.
+El titular de la Visitaduría será designado por el Pleno del Tribunal; durará seis años en el cargo y solo podrá ser designado para un periodo más. Durante el ejercicio de su cargo no podrá formar parte de ningún partido político, ni desempeñar otro empleo, cargo o comisión, salvo los de docencia y los no remunerados en asociaciones científicas, artísticas o de beneficencia.
+Contará con la estructura necesaria para el desempeño de sus funciones, en términos de las disposiciones reglamentarias y el presupuesto respectivo.
+Para ser titular de la visitaduría, deberán reunirse los requisitos establecidos en el artículo 52 del presente ordenamiento. La persona titular de la Visitaduría tendrá el mismo nivel de Secretario General de Acuerdos.
