@@ -6,7 +6,11 @@ Las penas y sanciones previstas en el primer párrafo de este artículo, se aume
 I. Exista o haya existido entre el activo y la víctima una relación de matrimonio, concubinato, noviazgo o cualquier otra relación sentimental o de hecho, aun sin convivencia, o de confianza, de amistad, afectiva o de vecindad con la víctima o comparta el uso de espacios, educativos o laborales, culturales, deportivos o sociales comunes con ella, o haya relación de subordinación o superioridad y con conocimiento de dichas circunstancias;
 II. Cometa la conducta punible o haya cometido la conducta con fines lucrativos;
 III. Se cometa en contra de personas adultas mayores o personas que no tienen capacidad para comprender el significado del hecho o no se puedan resistir a éste;
-IV. Se cometa en contra de una persona en situación de vulnerabilidad social, por su condición cultural, étnica o su pertenencia a algún pueblo originario, y
-V. Haya mediado violencia en la comisión de este delito.
+(REFORMADA, P.O. 4 DE SEPTIEMBRE DE 2024)
+IV. Se cometa en contra de una persona en situación de vulnerabilidad social, por su condición cultural, étnica o su pertenencia a algún pueblo originario;
+(REFORMADA, P.O. 4 DE SEPTIEMBRE DE 2024)
+V. Haya mediado violencia en la comisión de este delito; y
+(ADICIONADA, P.O. 4 DE SEPTIEMBRE DE 2024)
+VI. Sea cometido por alguna persona servidora pública en ejercicio de sus funciones.
 Cuando el delito previsto en este artículo sea cometido contra una persona menor de dieciocho años, se estará a lo establecido en los artículos 211 ter, 212 y demás relativos y aplicables de este Código y las leyes especiales o de la materia.
 Para los efectos de las disposiciones previstas en el presente artículo, la autoridad competente ordenará el retiro inmediato de la publicación a la empresa de prestación de servicios digitales o informáticos, servidor de internet, red social, administrador o titular de la plataforma digital, medio de comunicación o cualquier otro donde sea publicado o compilado el contenido intimo no autorizado.
