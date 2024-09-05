@@ -1,2 +1,3 @@
-(ADICIONADO, P.O. 14 DE AGOSTO DE 2013)
-Artículo 111 Bis.- Las autoridades de salud del Estado, en sus respectivos ámbitos de competencia, vigilarán el cumplimiento de las normas oficiales mexicanas tendientes a la protección de la salud, en materia de prevención, tratamiento y control de la diabetes mellitus.
+(REFORMADO, P.O. 4 DE SEPTIEMBRE DE 2024)
+Artículo 111 Bis.- Las autoridades de salud del Estado, en sus respectivos ámbitos de competencia, vigilarán el cumplimiento de las normas oficiales mexicanas tendientes a la protección de la salud, en materia de prevención, diagnóstico, tratamiento y control diferenciado de la diabetes mellitus en todos sus tipos y subtipos, de conformidad con las respectivas guías de práctica clínica vigentes.
+Las autoridades de salud del Estado, en garantía del derecho a la protección de la salud, promoverán la adopción de lo establecido por este artículo, especialmente mediante campañas de educación y de atención integral a la salud.
