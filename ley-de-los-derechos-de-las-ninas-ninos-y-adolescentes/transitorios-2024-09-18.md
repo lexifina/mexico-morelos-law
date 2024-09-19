@@ -1,0 +1,5 @@
+P.O. 18 DE SEPTIEMBRE DE 2024.
+[N. DE E. TRANSITORIOS DEL "DECRETO NÚMERO MIL SETECIENTOS VEINTICINCO POR EL QUE SE ADICIONAN LAS FRACCIONES XXX Y XXXI AL ARTÍCULO 4; SE ADICIONAN LOS ARTÍCULOS 9 BIS, 9 TER Y 9 QUATER; Y SE REFORMA LA FRACCIÓN III DEL ARTÍCULO 43, TODOS DE LA LEY DE LOS DERECHOS DE LAS NIÑAS, NIÑOS Y ADOLESCENTES DEL ESTADO DE MORELOS".]
+PRIMERA. Remítase el presente decreto al titular del Poder Ejecutivo del Estado, para los fines que indica el artículo 44, 47 y la fracción XVII, inciso a) del artículo 70 de la Constitución Política del Estado Libre y Soberano de Morelos.
+SEGUNDA. El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "Tierra y Libertad", Órgano de difusión Oficial del Gobierno del Estado Libre y Soberano de Morelos.
+TERCERO (SIC). El Poder Ejecutivo de Morelos y los Municipales deberán presupuestar las necesidades de la (sic) implementar las acciones que se derivan del presente dictamen en el ejercicio fiscal 2025.
