@@ -7,7 +7,8 @@ QUINTA. En un plazo que no exceda de noventa días hábiles, contados a partir d
 SEXTA. En un plazo que no exceda de noventa días hábiles, contados a partir de la entrada en vigor de la presente Ley, el Poder Ejecutivo Estatal y los Municipales deberán realizar las adecuaciones jurídicas necesarias respecto a la integración y funcionamiento del Comité de Planeación para el Desarrollo del Estado de Morelos y los Comités de Planeación para el Desarrollo Municipal, respectivamente.
 SÉPTIMA. El Sistema Estatal de Planeación Democrática para el Desarrollo Sostenible deberá quedar integrado dentro de los noventa días hábiles, contados a partir de la entrada en vigor de la presente Ley.
 OCTAVA. Una vez integrado el Sistema Estatal de Planeación Democrática para el Desarrollo Sostenible, contará con treinta días hábiles para integrar el Subsistema Estatal de Evaluación.
-NOVENA. El Plan Rector deberá ser elaborado en un plazo que no exceda los seis meses, contados a partir de la integración del Sistema Estatal de Planeación Democrática para el Desarrollo Sostenible en los términos dispuestos por esta Ley.
+(REFORMADO, P.O. 30 DE SEPTIEMBRE DE 2024)
+NOVENA. Por única ocasión, exceptuando el plazo previsto en el artículo 5 de la presente Ley, el Plan Rector deberá ser elaborado y remitido, a través de la persona Titular del Poder Ejecutivo Estatal, al Congreso del Estado para su examen y opinión, en un plazo que no exceda los nueve meses, contados a partir de la integración del Sistema Estatal de Planeación Democrática para el Desarrollo Sostenible en los términos dispuestos por esta Ley.
 DÉCIMA. El Sistema Estatal de Planeación Democrática para el Desarrollo Sostenible deberá establecer su Plataforma de información, dentro de los tres primeros meses, contados a partir de la creación del Subsistema de Evaluación.
 DÉCIMA PRIMERA. El Gobierno Estatal deberá realizar las previsiones necesarias, conforme a la suficiencia presupuestal disponible, para dotar de recursos humanos y materiales para la operación del Sistema Estatal de Planeación Democrática para el Desarrollo Sostenible, del Subsistema Estatal de Evaluación y del Instituto Morelense de Planeación, a través de una reingeniería operativa de las áreas encargadas de ejecutar actividades relacionadas con la planeación.
 Poder Legislativo del Estado de Morelos, Sesión Ordinaria de Pleno del cuatro de julio de dos mil veinticuatro.
@@ -19,3 +20,4 @@ CUAUHTÉMOC BLANCO BRAVO
 SECRETARIO DE GOBIERNO
 SAMUEL SOTELO SALGADO
 RÚBRICAS.
+[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.]
