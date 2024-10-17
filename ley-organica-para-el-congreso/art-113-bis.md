@@ -1,2 +1,1 @@
-(ADICIONADO, P.O. 21 DE JUNIO DE 2023)
-Artículo 113 Bis.- Serán conducidos los trabajos del Órgano Político Calificador por el Presidente designado.
+Artículo 113 Bis.- (DEROGADO, P.O. 4 DE SEPTIEMBRE DE 2024)

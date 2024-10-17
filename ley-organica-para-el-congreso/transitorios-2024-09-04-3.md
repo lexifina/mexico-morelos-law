@@ -1,0 +1,7 @@
+P.O. 4 DE SEPTIEMBRE DE 2024.
+[N. DE E. TRANSITORIOS DEL "DECRETO NÚMERO DOS MIL TRESCIENTOS SESENTA Y SIETE POR EL QUE SE DEROGAN Y REFORMAN DIVERSAS DISPOSICIONES DE LA LEY ORGÁNICA PARA EL CONGRESO DEL ESTADO DE MORELOS".]
+PRIMERA. Remítase el presente Decreto al titular del Poder Ejecutivo del Estado de Morelos, para los fines que indican los artículos 44, 47 y 70, fracción XVII, inciso a), del artículo 70 de la Constitución Política del Estado Libre y Soberano de Morelos.
+SEGUNDA. El presente Decreto entrará en vigor en el momento de su aprobación por el Pleno del Congreso del Estado de Morelos, de conformidad con lo establecido en el segundo párrafo del artículo 38 de la Constitución Política del Estado Libre y Soberano de Morelos.
+TERCERA. Se derogan todas las disposiciones jurídicas de igual o menor rango normativo jerárquico que contravengan lo dispuesto por el presente Decreto.
+CUARTA. Todas las referencias al Órgano Político Calificador en esta ley o dentro de otros ordenamientos, en adelante se entenderán hechas a la Junta Política y de Gobierno del Congreso del Estado de Morelos.
+QUINTA. Toda la documentación y archivos que obren en poder del Órgano Político Calificador con motivo del procedimiento hecho para la designación de Magistraturas que integran el Poder Judicial del Estado, deberá ser remitida a la Junta Política y de Gobierno del Congreso del Estado, cumpliendo con el acto de entrega recepción.
