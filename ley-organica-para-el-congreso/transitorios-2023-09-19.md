@@ -1,0 +1,7 @@
+P.O. 19 DE SEPTIEMBRE DE 2023.
+[N. DE E. TRANSITORIOS DEL "DECRETO NÚMERO MIL TRESCIENTOS VEINTICUATRO POR EL QUE SE ADICIONAN DIVERSAS DISPOSICIONES DE LA LEY ORGÁNICA PARA EL CONGRESO DEL ESTADO DE MORELOS, REGLAMENTARIA DE LAS AUSENCIAS DE LAS PERSONAS TITULARES DE LOS ÓRGANOS CONSTITUCIONALES AUTÓNOMOS".]
+PRIMERA. Publíquese el presente Decreto en la Gaceta Legislativa del Congreso del Estado de Morelos para efectos de su difusión.
+SEGUNDA. El presente Decreto entrará en vigor en el momento de su aprobación por el Pleno del Congreso del Estado de Morelos, de conformidad con lo establecido en el segundo párrafo del artículo 38 de la Constitución Política del Estado Libre y Soberano de Morelos.
+TERCERA. Remítase al titular del Poder Ejecutivo del Estado para su publicación en el Periódico Oficial "Tierra y Libertad", órgano de difusión del Gobierno del Estado de Morelos de conformidad con el artículo 145 del Reglamento para el Congreso del Estado de Morelos.
+CUARTA. Dentro de un plazo no mayor a treinta días hábiles contado a partir del inicio de su vigencia, el Congreso del Estado de Morelos así como los órganos constitucionales autónomos que correspondan, deberán efectuar las modificaciones o emisiones reglamentarias que estime necesarias para atender las disposiciones previstas por el presente Decreto.
+QUINTA. Se derogan todas las disposiciones de igual o menor rango jerárquico que se opongan al presente Decreto.
