@@ -1,0 +1,6 @@
+(ADICIONADO, P.O. 31 DE DICIEMBRE DE 2024)
+Artículo 7 BIS-11. Tratándose de automóviles de servicio particular que pasen a ser de servicio de transporte mercantil de personas en su modalidad de alquiler o taxi, de uno a quince años modelo de antigüedad, el impuesto a que se refiere este Capítulo, se calculará para el ejercicio fiscal siguiente a aquél en el que se dé este supuesto, conforme al siguiente procedimiento:
+I. El valor total del automóvil se multiplicará por el factor de depreciación, de acuerdo con el año modelo del vehículo, de conformidad con la tabla establecida en el artículo 7 BIS-12 de este capítulo, y
+II. La cantidad obtenida conforme a la fracción anterior se actualizará de conformidad con lo dispuesto en el artículo 7 BIS-6 de este Capítulo, el resultado obtenido se multiplicará por 0.245%.
+Para los efectos de este artículo, los años de antigüedad se calcularán con base en el número de años transcurridos a partir del año modelo al que corresponda el vehículo.
+Tratándose de automóviles eléctricos a que se refiere este artículo, así como aquellos eléctricos que además cuenten con motor de combustión interna o con motor accionado por hidrógeno, el impuesto se pagará a la tasa de 0%.

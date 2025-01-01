@@ -1,0 +1,8 @@
+(ADICIONADO, P.O. 31 DE DICIEMBRE DE 2024)
+OBLIGACIONES
+(ADICIONADO, P.O. 31 DE DICIEMBRE DE 2024)
+Artículo 58 QUATER-6. Los retenedores serán responsables solidarios de este impuesto, quienes además de cumplir con las obligaciones señaladas en el Código Fiscal para el Estado de Morelos y en las demás disposiciones fiscales, deberán cumplir las siguientes:
+I. Registrarse en el Padrón Estatal de Contribuyentes ante la Secretaría o en las oficinas que para ello autorice, dentro de los veinte días siguientes a la fecha de iniciación de actividades, haciendo uso de las formas oficialmente aprobadas, con los datos que en ellas se exijan y señalando domicilio en el Estado;
+II. Presentar los avisos y cumplir con las obligaciones que se señalan en el Código, en los casos de cambio de nombre, denominación o razón social, clausura, fusión, escisión, liquidación o transformación de personas morales, suspensión o reanudación de actividades u obligaciones, o cualquier otra circunstancia que modifique los datos aportados por el contribuyente contenidos en los formatos oficiales de Registro al Padrón Estatal de Contribuyentes, dentro de los diez días siguientes a la fecha en que se realice dicho cambio;
+III. Llevar un registro pormenorizado de las ventas a que se refiere el Artículo QUATER-1 de este capítulo, por cada establecimiento, local, agencia o sucursal en que se efectúen, identificando los montos de cada una de dichas operaciones y las cantidades que integran la base del impuesto, y
+IV. Expedir comprobantes que reúnan los requisitos fiscales, sin que el impuesto establecido en este Capítulo se traslade en forma expresa y por separado.

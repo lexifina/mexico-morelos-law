@@ -1,0 +1,8 @@
+P.O. 31 DE DICIEMBRE DE 2024.
+[N. DE E. TRANSITORIOS DEL "DECRETO NÚMERO VEINTICUATRO POR EL QUE SE REFORMAN, ADICIONAN Y DEROGAN DIVERSAS DISPOSICIONES DE LA LEY GENERAL DE HACIENDA DEL ESTADO DE MORELOS, DE LA LEY DE COORDINACIÓN HACENDARIA DEL ESTADO DE MORELOS, Y DE LA LEY DEL SERVICIO CIVIL DEL ESTADO DE MORELOS".]
+PRIMERA. Remítase el presente Decreto a la Persona Titular del Poder Ejecutivo Estatal, para los efectos de lo dispuesto por los artículos 44, 47 y 70, fracción XVII, inciso a), de la Constitución Política del Estado Libre y Soberano de Morelos.
+SEGUNDA. El presente Decreto entrará en vigor a partir del 1 de enero de 2025, previa publicación en el Periódico Oficial "Tierra y Libertad", órgano de difusión oficial del Gobierno del Estado de Morelos.
+TERCERA. Una vez que entre en vigor la Fase Operativa del Sistema de Comercio de Emisiones, las empresas referidas en el segundo párrafo del artículo 58 Quinquies-4 de la presente Ley y sin mayor formalidad, quedarán excluidas del pago del impuesto.
+CUARTA. La Secretaría de Hacienda expedirá a más tardar el día 30 de enero de 2025, los Lineamientos, en que se establezcan las condiciones y requisitos que deberán observar los municipios en el ejercicio de los recursos el Fondo de Aportaciones Estatales para el Fomento de los Municipios.
+Los municipios deberán informar a la Secretaría de Hacienda del Poder Ejecutivo a más tardar el 15 de enero de 2025, los datos de la Cuenta Bancaria Productiva Específica a que se refiere el artículo 15 que por virtud de este Decreto se reforma en la Ley de Coordinación Hacendaria del Estado de Morelos.
+QUINTA. Se derogan todas las disposiciones legales y normativas que contravengan lo señalado en el presente Decreto.

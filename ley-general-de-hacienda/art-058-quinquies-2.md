@@ -1,0 +1,5 @@
+(ADICIONADO, P.O. 31 DE DICIEMBRE DE 2024)
+SUJETO
+(ADICIONADO, P.O. 31 DE DICIEMBRE DE 2024)
+ARTÍCULO 58 QUINQUIES-2. Son sujetos y están obligados al pago de este impuesto, las personas físicas, las personas morales y las unidades económicas residentes en el Estado o los residentes fuera del Estado, que tengan instalaciones o fuentes fijas en las que se desarrollen las actividades que determinan las emisiones a la atmósfera gravadas por este impuesto en el territorio del Estado.
+También quedan comprendidos como sujetos de este impuesto, la Federación, el Estado y los Municipios, los organismos descentralizados federales, estatales y municipales, las empresas de participación estatal mayoritaria de carácter federal y estatal, las empresas de participación municipal mayoritaria, los fideicomisos constituidos por dependencias y entidades de la Administración Pública Federal, por el Estado y por los municipios, así como las personas de derecho público con autonomía derivada de la Constitución Federal o del Estado.
