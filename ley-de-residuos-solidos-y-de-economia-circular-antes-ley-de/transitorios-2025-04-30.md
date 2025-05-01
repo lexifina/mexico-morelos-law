@@ -1,0 +1,4 @@
+P.O. 30 DE ABRIL DE 2025.
+[N. DE E. TRANSITORIOS DEL "DECRETO NÚMERO CIENTO SESENTA Y DOS POR EL QUE SE ADICIONA LA FRACCIÓN XII AL ARTÍCULO 2, LA FRACCIÓN VI AL ARTÍCULO 4, LA FRACCIÓN XLVIII AL ARTÍCULO 7, LA FRACCIÓN IV AL ARTÍCULO 11, UN SEGUNDO PÁRRAFO AL ARTÍCULO 92, LA FRACCIÓN IV AL ARTÍCULO 98, UN TERCER PÁRRAFO AL ARTÍCULO 101, UNA FRACCIÓN VI AL ARTÍCULO 112, Y SE REFORMA LA FRACCIÓN I AL ARTÍCULO 39, TODOS DE LA LEY DE RESIDUOS SÓLIDOS Y DE ECONOMÍA CIRCULAR PARA EL ESTADO DE MORELOS".]
+PRIMERA. Se remite el presente Decreto al Ejecutivo del Estado para que realice la publicación correspondiente en el Periódico Oficial "Tierra y Libertad", órgano de difusión oficial del Gobierno del Estado de Morelos.
+SEGUNDA. El presente decreto entrará en vigor al día siguiente de su publicación.
