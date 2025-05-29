@@ -1,0 +1,2 @@
+(ADICIONADO, P.O. 28 DE MAYO DE 2025)
+Artículo 41 Quáter.- Las dependencias y entidades del sector salud públicas o privadas en el Estado promoverán y apoyarán la formación de grupos, asociaciones y demás instituciones que tengan por objeto participar organizadamente en los programas de mejoramiento de la salud individual y colectiva, así como en los de prevención de enfermedades, accidentes, rehabilitación y cuidados paliativos.
