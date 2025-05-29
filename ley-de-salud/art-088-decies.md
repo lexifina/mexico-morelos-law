@@ -1,7 +1,7 @@
 (ADICIONADO, P.O. 5 DE MARZO DE 2014)
 Artículo 88 Decies.- La atención materno-infantil, tiene carácter prioritario y comprende, entre otras, las siguientes acciones:
-(REFORMADA, P.O. 4 DE SEPTIEMBRE DE 2024)
-I. La atención integral y libre de violencia obstétrica, de la mujer durante el embarazo, el parto y el puerperio, incluyendo la atención psicológica que requiera;
+(REFORMADA, P.O. 28 DE MAYO DE 2025)
+I. La atención integral y libre de violencia obstétrica, de la mujer durante el embarazo, el parto y el puerperio, y en los casos en los que haya muerte fetal o perinatal, se deberá incluir la atención psicológica que requiera;
 II. La atención del menor y la vigilancia de su crecimiento y desarrollo integral, incluyendo la promoción de la vacunación oportuna, atención prenatal, así como la prevención y detección de las condiciones y enfermedades hereditarias y congénitas, y, en su caso, atención, que incluya la aplicación de la prueba del tamiz ampliado, y su salud visual;
 III. La promoción de la integración y bienestar familiar;
 IV. La detección temprana de la sordera y su tratamiento, en todos sus grados, desde los primeros días del nacimiento, así como la revisión al prematuro de retina y tamiz auditivo;
