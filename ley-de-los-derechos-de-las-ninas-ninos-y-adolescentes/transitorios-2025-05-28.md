@@ -1,0 +1,6 @@
+P.O. 28 DE MAYO DE 2025.
+[N. DE E. TRANSITORIOS DEL "DECRETO NÚMERO DOSCIENTOS VEINTICUATRO.- POR EL QUE SE ADICIONA LA FRACCIÓN XXX Y RECORRE LAS SUBSECUENTES EN SU ORDEN NATURAL DEL ARTÍCULO 4, REFORMA A LA FRACCIÓN XVI DEL ARTÍCULO 46, ADICIONA LA FRACCIÓN XXIV DEL ARTÍCULO 53, Y ADICIONA LA FRACCIÓN XXIV Y RECORRE LAS SUBSECUENTES EN SU ORDEN DEL ARTÍCULO 93 TODOS DE LA LEY DE LOS DERECHOS DE LAS NIÑAS, NIÑOS Y ADOLESCENTES DEL ESTADO DE MORELOS".]
+Primero.- El Presente decreto iniciará su vigencia a partir de su aprobación en el pleno del Congreso del Estado de Morelos.
+Segundo.- Remítase a la Titular del Poder Ejecutivo del Estado, para su promulgación y publicación, de conformidad con lo dispuesto por los artículos 44, 47 y 70, fracción XVII, incisos a) y c), de la Constitución Política del Estado Libre y Soberano de Morelos.
+Tercero.- Los centros educativos deberán canalizar los casos de salud mental detectados cuando así se requiera, a las instituciones especializadas en esta materia para atención.
+Cuarto.– A partir de la vigencia del presente decreto la Secretaría de Educación Pública del Estado de Morelos deberá de realizar dentro de un plazo de 90 días las adecuaciones necesarias a sus reglamentos para incluir la educación emocional en el sistema Educativo Estatal.
