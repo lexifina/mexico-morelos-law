@@ -1,3 +1,4 @@
+[N. DE E. EL PRESENTE DECRETO NÚMERO 1967 PUBLICADO EN EL P.O. DE 28 DE MAYO DE 2025, ES LA CONFIRMACIÓN CON LA ADECUACIÓN A LA VIGENCIA DE LA DISPOSICIÓN TERCERA TRANSITORIA DEL ANTERIOR DECRETO NÚMERO 1967 PUBLICADO EL 24 DE JULIO DE 2024.]
 LEY DE SALUD MENTAL DEL ESTADO DE MORELOS
 Ley publicada en el Periódico Oficial del Estado de Morelos el miércoles 12 de octubre de 2011.
 Al margen izquierdo un sello con el Escudo del Estado de Morelos que dice: "Tierra y Libertad".- La tierra volverá a quienes la trabajan con sus manos. Poder Legislativo.- LI Legislatura.- 2009-2012.
