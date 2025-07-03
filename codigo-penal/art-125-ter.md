@@ -1,0 +1,3 @@
+(ADICIONADO, P.O. 2 DE JULIO DE 2025)
+ARTÍCULO 125 Ter.- Se aumentará hasta la mitad la pena cuando la conducta delictiva cause daño o deformidad en el rostro y provoquen resección parcial o total en las mamas, alteración en el aparato genital, en las funciones de reproducción sexual o atente contra el ejercicio de la autonomía sexual, cause alguna deformidad o daño físico permanente en algún órgano interno, externo o ambos, provoque daños en extremidades, entorpezca, debilite u ocasione la pérdida parcial o total del oído, vista, habla o incapacidad permanente para trabajar.
+Si el agresor actuó con la intención de causar la muerte, el acto de (sic) tipifica como tentativa de feminicidio.
