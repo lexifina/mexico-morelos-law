@@ -1,0 +1,5 @@
+P.O. 24 DE SEPTIEMBRE DE 2025.
+[N. DE E. TRANSITORIOS DEL "DECRETO NÚMERO QUINIENTOS CUARENTA Y NUEVE.- POR EL QUE SE REFORMA, EL SEGUNDO PÁRRAFO DEL ARTÍCULO 32, Y SE DEROGAN LOS PÁRRAFOS TERCERO Y CUARTO DEL ARTÍCULO 32 DE LA CONSTITUCIÓN POLÍTICA DEL ESTADO LIBRE Y SOBERANO DE MORELOS".]
+PRIMERA. Aprobado que fue por el Constituyente Permanente Local y hecha la Declaratoria emitida por la Quincuagésima Sexta Legislatura del Congreso del Estado; con fecha cuatro de septiembre de dos mil veinticinco, remítase el presente Decreto a la Gobernadora Constitucional del Estado, para que se publique en el Periódico Oficial "Tierra y Libertad", órgano de difusión del Gobierno del estado de Morelos, de conformidad con los artículos 44 y 70, fracción XVII, inciso a) de la Constitución Política del Estado Libre y Soberano de Morelos.
+SEGUNDA.- El presente Decreto iniciará su vigencia al día siguiente de su publicación en el Periódico Oficial "Tierra y Libertad", órgano de difusión de Gobierno del Estado.
+TERCERA.- El presente Decreto deroga todas las disposiciones legales de igual o menor rango, que se opongan o contradigan a este.

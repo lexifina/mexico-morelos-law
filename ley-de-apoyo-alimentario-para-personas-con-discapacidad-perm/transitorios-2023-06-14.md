@@ -1,4 +1,0 @@
-P.O. 14 DE JUNIO DE 2023.
-[N. DE E. TRANSITORIOS DEL "DECRETO NÚMERO NOVECIENTOS CINCUENTA Y NUEVE POR EL QUE SE REFORMAN LOS ARTÍCULOS 6, 7, 8, 9, 10 y 15 DE LA LEY DE APOYO ALIMENTARIO PARA PERSONAS CON DISCAPACIDAD PERMANENTE TOTAL Y EN POBREZA EXTREMA, EN MATERIA DE LENGUAJE INCLUYENTE, PARA QUE ESTA LEGISLATURA CONTRIBUYA A LA ELIMINACIÓN DE CUALQUIER CLASE DE VIOLENCIA Y DISCRIMINACIÓN EN CONTRA DE LAS MUJERES DE MORELOS, COMO LA QUE PRODUCE LA CULTURA PATRIARCAL EN EL USO DEL IDIOMA".]
-PRIMERA. Remítase el presente Decreto al titular del Poder Ejecutivo del Estado, para los fines que indica el artículo 44, 47 y la fracción XVII, inciso a) del artículo 70 de la Constitución Política del Estado Libre y Soberano de Morelos.
-SEGUNDA. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "Tierra y Libertad", Órgano de difusión Oficial del Gobierno del Estado Libre y Soberano de Morelos.
