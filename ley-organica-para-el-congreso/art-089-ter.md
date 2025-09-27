@@ -1,2 +1,2 @@
-(REFORMADO, P.O. 24 DE OCTUBRE DE 2012)
-Artículo 89 Ter.- En caso de ausencia temporal o definitiva de los titulares de la Dirección del Instituto de Investigaciones Legislativas y Coordinación de Comunicación Social, la Junta Política y de Gobierno procederá a designar, mediante acuerdo a un Encargado de Despacho, en tanto se designa en su caso al nuevo titular.
+(REFORMADO, P.O. 24 DE SEPTIEMBRE DE 2025)
+Artículo 89 Ter.- En caso de ausencia temporal o definitiva de las personas titulares de la Coordinación General del Instituto de Investigaciones Legislativas, Coordinación de Comunicación Social y la Unidad Técnica de Igualdad de Género, la Junta Política y de Gobierno procederá a designar, mediante acuerdo, a un Encargado de Despacho, en tanto se designa, en su caso, a la nueva persona titular; quienes tendrán las mismas facultades y responsabilidades que la persona titular.
