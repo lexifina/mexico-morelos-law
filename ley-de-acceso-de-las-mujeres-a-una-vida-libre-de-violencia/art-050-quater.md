@@ -1,5 +1,5 @@
-(REFORMADO PRIMER PÁRRAFO, P.O. 30 DE SEPTIEMBRE DE 2024)
-Artículo 50 quater.- La Secretaría de Seguridad y Protección Ciudadana integrará una ficha del agresor sentenciado que deberá contener, cuando menos, lo siguiente:
+(REFORMADO PRIMER PÁRRAFO, P.O. 1 DE OCTUBRE DE 2025)
+Artículo 50 quater.- La Secretaría de Seguridad y Protección Ciudadana integrará una ficha de la persona agresora sentenciada que deberá contener, cuando menos, lo siguiente:
 (ADICIONADA, P.O. 28 DE FEBRERO DE 2024)
 I. Nombre completo;
 (ADICIONADA, P.O. 28 DE FEBRERO DE 2024)
