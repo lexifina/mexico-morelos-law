@@ -1,0 +1,5 @@
+P.O. 1 DE OCTUBRE DE 2025.
+[N. DE E. TRANSITORIOS DEL "DECRETO NÚMERO CUATROCIENTOS NOVENTA Y UNO.- POR EL QUE REFORMAN DIVERSOS ARTÍCULOS DE LA LEY ORGÁNICA PARA EL CONGRESO DEL ESTADO DE MORELOS, Y SE ADICIONAN DOS ARTÍCULOS AL REGLAMENTO PARA EL CONGRESO DEL ESTADO DE MORELOS, EN MATERIA DEL DERECHO A LA CONSULTA DE LAS PERSONAS CON DISCAPACIDAD CONFORME AL ARTÍCULO 4.3. DE LA CONVENCIÓN SOBRE LOS DERECHOS DE LAS PERSONAS CON DISCAPACIDAD".]
+PRIMERA. Remítase el presente Decreto a la titular del Poder Ejecutivo del Estado de Morelos, para los fines que indican los artículos 44 y 70 fracción XVII, inciso a) de la Constitución Política del Estado Libre y Soberano de Morelos.
+SEGUNDA. El presente Decreto entrará en vigor en el momento de su aprobación por el Pleno del Congreso del Estado de Morelos, de conformidad con lo establecido en el segundo párrafo del artículo 38 de la Constitución Política del Estado Libre y Soberano de Morelos.
+TERCERA. Se derogan todas las disposiciones jurídicas de igual o menor rango normativo jerárquico que contravengan lo dispuesto por el presente Decreto.
