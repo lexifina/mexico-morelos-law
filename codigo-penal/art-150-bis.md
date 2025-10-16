@@ -13,4 +13,8 @@ V. Haya mediado violencia en la comisión de este delito; y
 (ADICIONADA, P.O. 4 DE SEPTIEMBRE DE 2024)
 VI. Sea cometido por alguna persona servidora pública en ejercicio de sus funciones.
 Cuando el delito previsto en este artículo sea cometido contra una persona menor de dieciocho años, se estará a lo establecido en los artículos 211 ter, 212 y demás relativos y aplicables de este Código y las leyes especiales o de la materia.
+(ADICIONADO, P.O. 15 DE OCTUBRE DE 2025)
+Se impondrán las mismas penas previstas en el párrafo primero de este artículo a quien, haciendo uso de la Inteligencia Artificial, manipule imágenes, audios o videos, de contenido íntimo sexual de una persona, para crear hechos falsos con apariencia real, con el propósito de exponer, distribuir, difundir, exhibir, reproducir, transmitir, comercializar, ofertar, intercambiar y/o compartir a través de materiales impresos, correo electrónico, mensajes telefónicos, redes sociales o cualquier otro medio tecnológico, sin su consentimiento expreso, voluntario, genuino y deseado.
+(ADICIONADO, P.O. 15 DE OCTUBRE DE 2025)
+Para efectos del párrafo anterior, se entenderá por Inteligencia Artificial las aplicaciones, programas o tecnología que analice fotografías, audios o videos y ofrece ajustes automáticos para hacerles alteraciones o modificaciones.
 Para los efectos de las disposiciones previstas en el presente artículo, la autoridad competente ordenará el retiro inmediato de la publicación a la empresa de prestación de servicios digitales o informáticos, servidor de internet, red social, administrador o titular de la plataforma digital, medio de comunicación o cualquier otro donde sea publicado o compilado el contenido intimo no autorizado.
