@@ -1,3 +1,4 @@
+[N. DE E. PARA CONSULTAR LA VERSIÓN CORREGIDA DE ESTE ORDENAMIENTO DE CONFORMIDAD CON LA FE DE ERRATAS PUBLICADA EL 29 DE OCTUBRE DE 2025 EN EL P.O. DEL ESTADO DE MORELOS, SE RECOMIENDA ACUDIR AL TEXTO QUE SE VISUALIZA DENTRO DE LA CRONOLOGÍA CORRESPONDIENTE A DICHA FECHA, EN EL ÍNDICE RESPECTIVO DE SU HISTORIA LEGISLATIVA.]
 LEY DEL SERVICIO CIVIL DEL ESTADO DE MORELOS
 Ley publicada en el Periódico Oficial del Estado de Morelos, el miércoles 6 de septiembre de 2000.
 Al margen izquierdo un escudo del Estado de Morelos que dice.- "Tierra y Libertad".- La tierra volverá a quienes la trabajan con sus manos.- Poder Ejecutivo del Estado de Morelos.

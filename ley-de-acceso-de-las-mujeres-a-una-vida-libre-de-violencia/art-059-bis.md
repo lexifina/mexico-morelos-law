@@ -5,8 +5,8 @@ DE LA SECRETARÍA DE DESARROLLO ECONÓMICO Y DEL TRABAJO
 Artículo 59 Bis.- Corresponde a la Secretaría de Desarrollo Económico y del Trabajo:
 (ADICIONADA, P.O. 10 DE ABRIL DE 2019)
 I.- Impulsar acciones que propicien la igualdad de oportunidades y la no discriminación de mujeres y de hombres en materia de trabajo y previsión social;
-(ADICIONADA, P.O. 10 DE ABRIL DE 2019)
-II.- Diseñar, con una visión transversal, la política integral con perspectiva de género orientada a la prevención, atención, sanción y erradicación de la violencia laboral contra las mujeres;
+(REFORMADA, P.O. 15 DE OCTUBRE DE 2025)
+II.- Diseñar, con una visión transversal, la política integral con perspectiva de género orientada a la prevención, atención, sanción y erradicación de la violencia laboral contra las mujeres; así como para reducir y erradicar la brecha salarial de género de acuerdo con la política nacional y conforme el ámbito de su competencia;
 (ADICIONADA, P.O. 10 DE ABRIL DE 2019)
 III.- Promover la cultura de respeto a los derechos humanos de las mujeres en el ámbito laboral;
 (ADICIONADA, P.O. 10 DE ABRIL DE 2019)

@@ -1,0 +1,6 @@
+P.O. 15 DE OCTUBRE DE 2025.
+[N. DE E. DISPOSICIONES TRANSITORIAS DEL "DECRETO NÚMERO QUINIENTOS CUARENTA Y SIETE.- POR EL QUE SE REFORMAN DIVERSAS DISPOSICIONES A LA LEY DE LOS DERECHOS DE LAS NIÑAS, NIÑOS Y ADOLESCENTES DEL ESTADO DE MORELOS Y DE LA LEY PARA LA INCLUSIÓN AL DESARROLLO DE LAS PERSONAS CON DISCAPACIDAD DEL ESTADO DE MORELOS".]
+PRIMERA. Remítase el presente Decreto a la Titular del Poder Ejecutivo, para su sanción, promulgación y publicación respectiva de conformidad con los artículos 44, 47 y 70 fracción XVII, inciso a) de la Constitución Política del Estado Libre y Soberano de Morelos.
+SEGUNDA. El presente Decreto, entrará en vigor a partir del día siguiente de su publicación en el Periódico Oficial "Tierra y Libertad", órgano de difusión oficial del Gobierno del Estado de Morelos.
+TERCERA. Queda a cargo del Tribunal Superior de Justicia del Estado de Morelos realizar las tareas relacionadas al diseño, programación, presupuestación y capacitación de su personal para dar cumplimiento del presente decreto y garantizar el acceso a la justicia de niñas, niños, adolescentes y personas con discapacidad sensorial, intelectual y mental en las resoluciones judiciales que pongan fin al procedimiento y que así lo requieran.
+CUARTA. Se derogan todas las disposiciones de igual o menor rango jerárquico que se oponga a la presente reforma.
