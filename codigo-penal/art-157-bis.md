@@ -1,0 +1,2 @@
+(ADICIONADO, P.O. 15 DE OCTUBRE DE 2025)
+ARTICULO 157 Bis.- A quien disponga de óvulos o esperma para fines distintos a los autorizados por sus donantes sin su consentimiento, obtenido en términos de los que dispone el artículo 51 Bis 2 de la Ley General de Salud, se le impondrán de cinco a diez años de prisión y multa de doscientos a mil veces el monto diario de la Unidad de Medida y Actualización.

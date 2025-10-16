@@ -1,0 +1,2 @@
+(ADICIONADO, P.O. 15 DE OCTUBRE DE 2025)
+ARTICULO 157 Ter.- A quien sin consentimiento de persona mayor de dieciocho años, obtenido en términos de los que dispone el artículo 51 Bis 2 de la Ley General de Salud, realice en alguna persona un procedimiento de esterilización, se le impondrán de quince a veinte años de prisión y multa de mil a cuatro mil veces el monto diario de la Unidad de Medida y Actualización.
