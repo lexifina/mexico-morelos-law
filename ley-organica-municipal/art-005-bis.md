@@ -5,3 +5,5 @@ II.- Comisiones del Ayuntamiento: los grupos de regidores integrados por área d
 III.- Cabildo.- Es la sesión en la cual se reúne el Ayuntamiento para deliberar y aprobar los asuntos de su competencia;
 IV.- Cabildo Abierto.- Es la sesión en la cual se reúne el Ayuntamiento en sede oficial o fuera de ella, exclusivamente para informar, escuchar y atender la problemática ciudadana que será expuesta de viva voz a los miembros del Ayuntamiento;
 V.- CONOCER.- Al Consejo Nacional de Normalización y Certificación de Competencias Laborales.
+(ADICIONADA, P.O. 29 DE OCTUBRE DE 2025)
+VI.- Persona con discapacidad.- Toda persona que tenga deficiencias físicas, mentales, intelectuales o sensoriales a largo plazo, que, al interactuar con diversas barreras, puedan impedir su participación plena y efectiva en la sociedad, en igualdad de condiciones con las demás personas.
