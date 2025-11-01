@@ -1,0 +1,4 @@
+P.O. 29 DE OCTUBRE DE 2025.
+[N. DE E. TRANSITORIOS DEL "DECRETO NÚMERO SEISCIENTOS QUINCE POR EL QUE SE REFORMA LA FRACCIÓN III AL ARTÍCULO 137 DE LA LEY DE EDUCACIÓN DEL ESTADO DE MORELOS".]
+PRIMERA. Remítase el presente decreto a la Titular del Poder Ejecutivo Estatal para su publicación en el Periódico Oficial "Tierra y Libertad", órgano de difusión oficial del Gobierno del Estado de Morelos; lo anterior, conforme a lo dispuesto por los artículos 44, 47 y 70, fracción XVII, inciso a), b) y c), de la Constitución Política del Estado Libre y Soberano de Morelos, y el artículo 145 del Reglamento para el Congreso del Estado de Morelos.
+SEGUNDA. El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "Tierra y Libertad", órgano de difusión del Gobierno del Estado de Morelos.
