@@ -1,2 +1,2 @@
-(REFORMADO, P.O. 8 DE OCTUBRE DE 2014)
-Artículo 15 Ter.- Los servidores públicos que presten sus servicios para los Municipios, deberán abstenerse de cualquier práctica discriminatoria en el ejercicio de su cargo o comisión pudiendo incurrir en alguno de los supuestos que señala la Ley Estatal de Responsabilidades de los Servidores Públicos, independientemente de los procedimientos que se les pudiera instaurar con motivo de dicha discriminación, por la autoridad competente.
+(REFORMADO, P.O. 12 DE NOVIEMBRE DE 2025)
+Artículo 15 Ter.- Las personas servidoras públicas que presten sus servicios para los Municipios, deberán abstenerse de cualquier práctica discriminatoria en el ejercicio de su cargo o comisión pudiendo incurrir en alguno de los supuestos que señala la Ley de Responsabilidades Administrativas para el Estado de Morelos, independientemente de los procedimientos que se les pudiera instaurar con motivo de dicha discriminación, por la autoridad competente.
