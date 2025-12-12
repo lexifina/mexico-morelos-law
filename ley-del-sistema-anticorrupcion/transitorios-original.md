@@ -16,6 +16,12 @@ SÉPTIMA. El Gobernador Constitucional del Estado deberá realizar las transfere
 OCTAVA. Una vez constituido el organismo descentralizado denominado Secretaría Ejecutiva del Sistema Estatal Anticorrupción y designado su Secretario Técnico, se deberá proceder a su inscripción en el Registro Público de los Organismos Descentralizados, en los términos de lo dispuesto en el Capítulo Cuarto del Título Cuarto de la Ley Orgánica de la Administración Pública del Estado de Morelos.
 NOVENA. Una vez constituido el organismo descentralizado denominado Secretaría Ejecutiva del Sistema Estatal Anticorrupción, a propuesta que efectué la Comisión de Hacienda, Presupuesto y Cuenta Pública, el Congreso nombrará por el voto aprobatorio de las dos terceras partes de sus miembros al Titular del Órgano de control interno.
 DÉCIMA. Se derogan todas las disposiciones de igual o menor rango que se opongan a la presente Reforma.
+(ADICIONADA, P.O. 11 DE DICIEMBRE DE 2025)
+DÉCIMO PRIMERA. Dentro de los diez días hábiles posteriores a la entrada en vigor de la presente disposición transitoria, el Congreso del Estado deberá dar inicio al procedimiento establecido en el artículo 18 de la presente ley, priorizando dar continuidad hasta concluir con la designación de la comisión de selección.
+Una vez integrada, la Comisión de Selección designará a los integrantes del Comité de Participación Ciudadana en los términos siguientes:
+a. Tres integrantes que durarán en su encargo cinco años, y
+b. Dos integrantes que durarán en su encargo cuatro años.
+Los integrantes del Comité de Participación Ciudadana a que se refieren los incisos anteriores se rotarán la representación ante el Comité Coordinador por estricto orden alfabético, iniciando por los integrantes que durarán en su cargo tres años.
 Recinto Legislativo, en Sesión Ordinaria a los diecisiete días del mes de abril del año dos mil diecisiete.
 Atentamente. Los CC. Diputados Integrantes de la Mesa Directiva del Congreso del Estado. Dip. Hortencia Figueroa Peralta. Vicepresidenta en funciones de Presidenta. Dip. Silvia Irra Marín. Secretaria. Dip. Edith Beltrán Carrillo. Secretaria. Rúbricas.
 Por tanto, mando se imprima, publique, circule y se le dé el debido cumplimiento.
@@ -26,3 +32,4 @@ GRACO LUIS RAMÍREZ GARRIDO ABREU
 SECRETARIO DE GOBIERNO
 M.C. MATÍAS QUIROZ MEDINA
 RÚBRICAS.
+[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.]
