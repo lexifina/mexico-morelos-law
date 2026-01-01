@@ -1,0 +1,3 @@
+(ADICIONADO, P.O. 1 DE OCTUBRE DE 2025)
+ARTÍCULO 222 BIS.- REQUISITOS PARA EL CAMBIO DE GUARDA Y CUSTODIA. Para el caso de haberse determinado la guarda y custodia definitiva o de manera provisional, deberá de informarse al Registro de Personas a cargo de la guarda y custodia de niñas, niños y adolescentes.
+En caso de que un órgano jurisdiccional del estado de Morelos o de otra entidad federativa pretenda otorgar la guarda y custodia de una niña, niño o adolescente con domicilio en el estado de Morelos, deberá de solicitar al Registro de Personas a cargo de la guarda y custodia de niñas, niños y adolescentes un certificado sobre la situación de estos y verificar si es procedente el cambio en su caso.
