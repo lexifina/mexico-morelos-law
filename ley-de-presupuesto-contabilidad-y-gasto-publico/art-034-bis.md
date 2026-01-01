@@ -1,0 +1,2 @@
+(ADICIONADO, P.O. 22 DE DICIEMBRE DE 2025)
+Artículo 34 BIS. El gasto programable se integra por los capítulos de gasto: servicios personales; materiales y suministros; servicios generales; transferencias, asignaciones, subsidios y otras ayudas; bienes muebles, inmuebles e intangibles; inversión pública, inversiones financieras y otras provisiones, sin considerar las erogaciones en dichos capítulos con destino específico de gasto como parte de la descentralización de las funciones de la Federación de acuerdo a la Ley de Coordinación Fiscal.

@@ -1,0 +1,5 @@
+(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN , P.O. 22 DE DICIEMBRE DE 2025)
+TASA Y PAGO
+(ADICIONADO, P.O. 22 DE DICIEMBRE DE 2025)
+Artículo 58 SEXIES-13.- Los contribuyentes que obtengan ingresos por la enajenación de bienes inmuebles efectuarán el pago del impuesto por cada una de las operaciones que realicen, aplicando la tasa del 3% sobre la base gravable determinada de conformidad con lo dispuesto en el artículo que antecede y se enterará mediante declaración que se presentará dentro de los 15 días hábiles siguientes a la fecha de enajenación.
+En el caso de operaciones consignadas en escritura pública, los fedatarios, bajo su responsabilidad calcularán y retendrán el impuesto a que se refiere este (sic) Sección y lo enterarán dentro de los 15 días hábiles siguientes a la fecha en que se autorice definitivamente la escritura. Quedan relevados de la obligación de efectuar el cálculo y entero del impuesto, cuando la enajenación de inmuebles se realice por personas físicas dedicadas a actividades empresariales, debiendo observarse al efecto lo dispuesto por la Ley del Impuesto Sobre la Renta y sus disposiciones reglamentarias.

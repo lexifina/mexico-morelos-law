@@ -1,0 +1,3 @@
+(ADICIONADO, P.O. 22 DE DICIEMBRE DE 2025)
+Artículo 58 SEXIES-2.- Los contribuyentes sujetos de los impuestos cedulares previstos en esta Ley, deberán inscribirse o actualizar sus obligaciones fiscales ante el Padrón Estatal de Contribuyentes de conformidad con su régimen de tributación ante el Registro Federal de Contribuyentes.
+Para efectos del párrafo anterior, la Secretaría podrá inscribir a los contribuyentes o actualizar sus obligaciones ante el Padrón Estatal de Contribuyentes, cuando por cualquier medio o información a la que tenga acceso advierta que no han presentado el aviso respectivo ante el Padrón Estatal de Contribuyentes.

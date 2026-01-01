@@ -1,0 +1,3 @@
+(ADICIONADO, P.O. 22 DE DICIEMBRE DE 2025)
+Artículo 154 DECIES. Para garantizar el interés fiscal sobre un mismo crédito fiscal podrán combinarse las diferentes formas que al efecto establece el artículo 148 de este Código, así como sustituirse entre sí, en cuyo caso antes de cancelarse la garantía original deberá constituirse la garantía sustituta, siempre y cuando la garantía que se pretende sustituir no sea exigible.
+La garantía constituida podrá garantizar uno o varios créditos fiscales siempre que la misma comprenda los conceptos previstos en el segundo párrafo del artículo 148 de este Código.

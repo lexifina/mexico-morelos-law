@@ -1,0 +1,3 @@
+(ADICIONADO, P.O. 22 DE DICIEMBRE DE 2025)
+Artículo 58 SEXIES-3.- Para los efectos del presente Capítulo, a falta de disposición expresa se aplicará supletoriamente, adicionalmente a la legislación fiscal del Estado, la Ley del Impuesto Sobre la Renta, siempre y cuando la disposición de dicho ordenamiento de carácter federal no contravenga esta Ley.
+Los contribuyentes que corresponden a una persona moral considerada como Coordinado, en términos de lo dispuesto en el Titulo II, Capítulo VII de la Ley del Impuesto Sobre la Renta, podrán, a través de este, calcular y enterar el Impuesto Cedular, así como cumplir con las obligaciones fiscales por cada uno de sus integrantes de acuerdo a lo dispuesto en el presente Capítulo.
