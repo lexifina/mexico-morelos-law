@@ -1,0 +1,5 @@
+P.O. 27 DE ENERO DE 2026.
+[N. DE E. DISPOSICIONES TRANSITORIAS DEL "DECRETO MIL CIENTO SEIS POR EL QUE SE REFORMA EL ARTÍCULO 2 TER DE LA CONSTITUCIÓN POLÍTICA DEL ESTADO LIBRE Y SOBERANO DE MORELOS, EN MATERIA DE PROTECCIÓN DEL MAÍZ CRIOLLO EN SU ESTADO GENÉTICO, BASE DE NUESTRA IDENTIDAD Y ALIMENTO BÁSICO DE NUESTRO PUEBLO".]
+PRIMERA. Aprobado que fue por el Constituyente Permanente Local, para los efectos que disponen los artículos 56, fracción X; 147 y 148 de la Constitución Política del Estado Libre y Soberano de Morelos, se realizó la declaratoria correspondiente en Sesión de la Diputación Permanente del Primer Receso del Segundo Año de Ejercicio Constitucional.
+SEGUNDA. Remítase el presente Decreto a la Titular del Poder Ejecutivo del Estado, para los fines que indica el artículo 44, 47 y la fracción XVII, inciso a) del artículo 70 de la Constitución Política del Estado Libre y Soberano de Morelos.
+TERCERA. Se derogan todas las disposiciones de menor rango normativo jerárquico que contravengan lo dispuesto por la presente reforma constitucional local.
