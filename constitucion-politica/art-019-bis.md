@@ -22,5 +22,6 @@ XI. Presupuesto Participativo
 XII. Difusión Pública;
 XIII. Red de Contraloría
 XIV. Gobierno abierto
-El Congreso del Estado, el Instituto Morelense de Procesos Electorales y Participación Ciudadana y el Instituto Morelense de Información Pública y Estadística en el ámbito de su competencia, vigilarán y llevarán a cabo las acciones necesarias para su cumplimiento.
+(REFORMADO, P.O. 27 DE ENERO DE 2026)
+El Congreso del Estado, el Instituto Morelense de Procesos Electorales y Participación Ciudadana y la Secretaría de Despacho del Poder Ejecutivo Estatal responsable del control interno y de transparencia, acceso a la información pública y protección de datos personales en el ámbito de su competencia, vigilarán y llevarán a cabo las acciones necesarias para su cumplimiento.
 Los mecanismos de participación ciudadana pueden tener origen popular o provenir de autoridad pública, según sean promovidos o presentados directamente mediante solicitud avalada por firmas ciudadanas o por una autoridad, en los términos de la normativa aplicable.
