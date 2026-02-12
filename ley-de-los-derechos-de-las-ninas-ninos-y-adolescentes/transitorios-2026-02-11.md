@@ -1,0 +1,4 @@
+P.O. 11 DE FEBRERO DE 2026.
+[N. DE E. TRANSITORIOS DEL "DECRETO NÚMERO SEISCIENTOS VEINTISÉIS.- POR EL QUE SE REFORMA EL PRIMER PÁRRAFO DEL ARTÍCULO 46 DE LA LEY DE LOS DERECHOS DE LAS NIÑAS, NIÑOS Y ADOLESCENTES DEL ESTADO DE MORELOS".]
+PRIMERA.- Remítase el presente decreto a la Titular del Poder Ejecutivo Estatal para su publicación en el Periódico Oficial "Tierra y Libertad", órgano de difusión oficial del Gobierno del Estado de Morelos; lo anterior, conforme a lo dispuesto por los artículos 44, 47 y 70, fracción XVII, inciso a), b) y c), de la Constitución Política del Estado Libre y Soberano de Morelos, y el artículo 145 del Reglamento para el Congreso del Estado de Morelos.
+SEGUNDA.- El presente Decreto iniciará su vigencia al día siguiente de su publicación en el Periódico Oficial "Tierra y Libertad", órgano de difusión de Gobierno del Estado.
