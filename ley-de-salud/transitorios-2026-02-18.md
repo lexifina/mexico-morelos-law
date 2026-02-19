@@ -1,0 +1,5 @@
+P.O. 18 DE FEBRERO DE 2026.
+[N. DE E. TRANSITORIOS DEL "DECRETO NÚMERO MIL CIENTO UNO.- POR EL QUE SE REFORMAN Y ADICIONAN DIVERSAS DISPOSICIONES DE LA LEY DE SALUD DEL ESTADO DE MORELOS, EN MATERIA DE ACCESO DE LOS ADOLESCENTES DE NUESTRO ESTADO A INFORMACIÓN SEXUAL Y MÉTODOS ANTICONCEPTIVOS".]
+PRIMERA. Remítase el presente decreto a la Gobernadora Constitucional del Estado Libre y Soberano de Morelos, para que realice la publicación correspondiente en el Periódico Oficial "Tierra y Libertad", en términos de lo establecido en el artículo 70 de la Constitución Política del Estado Libre y Soberano de Morelos.
+SEGUNDA. El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "Tierra y Libertad", Órgano de Difusión del Gobierno del Estado.
+TERCERA. En un plazo no mayor a 90 días naturales contados a partir de la vigencia del presente decreto, la Secretaría de Salud, deberá de actualizar sus reglamentos, manuales de organización, operación y funcionamiento, para la debida implementación del presente decreto.
