@@ -9,5 +9,8 @@ VI. Promover programas educativos sobre la igualdad y la equidad entre los géne
 VII. Apoyar la creación de refugios seguros para las víctimas;
 VIII. Participar y coadyuvar en la prevención, atención y erradicación de la violencia contra las mujeres;
 IX. Llevar a cabo, de acuerdo con el Sistema Nacional de Prevención, Atención, Sanción y Erradicación de la Violencia contra las Mujeres, programas de información a la población respecto de la violencia contra las mujeres;
-X. Celebrar convenios de cooperación, coordinación y concertación en la materia; y
-XI. La atención de los demás asuntos que en materia de violencia contra las mujeres que les conceda esta ley u otros ordenamientos legales.
+(REFORMADA, P.O. 9 DE MARZO DE 2026)
+X. Celebrar convenios de cooperación, coordinación y concertación en la materia;
+(ADICIONADA, P.O. 9 DE MARZO DE 2026)
+XI. En coordinación con las Secretarías de Seguridad y Protección Ciudadana y de las Mujeres, ambas del Poder Ejecutivo Estatal, se deberán implementar programas de capacitación en materia de defensa personal para las mujeres, y
+XII. La atención de los demás asuntos que en materia de violencia contra las mujeres que les conceda esta ley u otros ordenamientos legales.
