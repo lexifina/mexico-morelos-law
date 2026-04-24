@@ -6,7 +6,8 @@ CUARTA. La Persona Titular del Poder Ejecutivo Estatal deberá expedir el Reglam
 QUINTA. El Sistema Estatal y el Consejo Estatal de Movilidad, Transporte y Seguridad Vial, así como el Observatorio Ciudadano Estatal, deberán quedar formalmente instalados en un plazo no mayor a ciento veinte días naturales, contados a partir de la entrada en vigor de la presente Ley.
 SEXTA. Los Ayuntamientos del estado de Morelos deberán crear, adecuar o modificar sus respectivos Reglamentos de Movilidad, Transporte y Seguridad Vial a las disposiciones de la presente Ley, en un plazo no mayor a ciento ochenta días naturales, contados a partir de la entrada en vigor de la presente Ley.
 SÉPTIMA. La Coordinación General de Movilidad y Transporte, deberá expedir y mantener actualizado el Manual de Diseño de Calles para el Estado de Morelos, en un plazo no mayor a ciento ochenta días naturales, contados a partir de la entrada en vigor de la presente Ley.
-OCTAVA. Las concesiones, permisos y autorizaciones otorgados con anterioridad a la entrada en vigor de la presente Ley continuarán vigentes en los términos en que fueron expedidos, acreditando estar debidamente regularizados en sus trámites, pero sus titulares deberán ajustarse a las obligaciones de transición, operación, seguridad y equipamiento que establece el nuevo ordenamiento en los plazos que fije el Reglamento.
+(REFORMADA, P.O. 23 DE ABRIL DE 2026)
+OCTAVA. Las concesiones, permisos y autorizaciones otorgados con anterioridad a la entrada en vigor de la presente Ley continuarán vigentes en los términos en que fueron expedidos, acreditando estar debidamente regularizados en sus trámites, pero sus titulares que así lo deseen, podrán ajustarse a las obligaciones de transición, operación, seguridad y equipamiento que establece el nuevo ordenamiento en los plazos que fije el Reglamento.
 NOVENA. Los procedimientos y recursos administrativos iniciados con anterioridad a la entrada en vigor de esta Ley se seguirán tramitando y se resolverán conforme a las disposiciones vigentes al momento de su inicio.
 DÉCIMA. Las disposiciones contenidas en la presente Ley que para su implementación requieran la erogación de recursos financieros, se realizarán conforme a la suficiencia presupuestal con que cuente la Coordinación General.
 DÉCIMA PRIMERA. Respecto a la atribución conferida a la Coordinación General en el artículo 15, fracción VI, de esta Ley, que faculta el establecimiento y operación de centros de evaluación y certificación para la obtención de licencias, la Coordinación General, en coordinación con la Secretaría de Administración y Finanzas del Poder Ejecutivo Estatal y demás autoridades competentes, deberá:
@@ -26,3 +27,4 @@ MARGARITA GONZÁLEZ SARAVIA CALDERÓN
 SECRETARIO DE GOBIERNO
 EDGAR ANTONIO MALDONADO CEBALLOS
 RÚBRICAS.
+[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.]
