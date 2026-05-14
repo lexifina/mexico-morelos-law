@@ -1,2 +1,5 @@
-(ADICIONADO, P.O. 2 DE AGOSTO DE 2023)
+(REFORMADO, P.O. 13 DE MAYO DE 2026)
 ARTÍCULO 24 TER.- Quien tenga o haya tenido un vínculo por matrimonio, concubinato o relación de hecho o los integrantes de la familia que incurran en violencia familiar y/o violencia vicaria, deben reparar los daños y perjuicios que se ocasione con dicha conducta, con autonomía de otro tipo de sanciones que éste y otros ordenamientos legales establezcan.
+La obligación de reparar los daños y perjuicios no prescribe en contra de niñas, niños y personas adolescentes que no han adquirido la mayoría de edad respecto de aquellas acciones u omisiones cometidas en su agravio que configuren un hecho ilícito y produzcan un daño moral.
+La reparación del daño incluirá, además, medidas de restitución, indemnización, rehabilitación, satisfacción y garantías de no repetición, conforme a los principios de dignidad humana, interés superior de la niñez y perspectiva de derechos humanos.
+Lo anterior sin perjuicio de cualquier otra acción que por los hechos se derive.
