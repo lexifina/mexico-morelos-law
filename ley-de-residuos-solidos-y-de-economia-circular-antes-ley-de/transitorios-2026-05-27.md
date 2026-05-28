@@ -1,0 +1,6 @@
+P.O. 27 DE MAYO DE 2026.
+[N. DE E. TRANSITORIOS DEL "DECRETO NÚMERO MIL OCHENTA Y SIETE.- POR EL QUE SE REFORMA LA LEY DE RESIDUOS SÓLIDOS Y ECONOMÍA CIRCULAR PARA EL ESTADO DE MORELOS".]
+PRIMERA. Remítase el presente Decreto a la titular del Poder Ejecutivo para su correspondiente publicación en el Periódico Oficial "Tierra y Libertad", órgano de difusión del Gobierno del Estado de Morelos, en términos de lo dispuesto por los artículos 44; 47, y 70, fracciones XVI y XVII inciso a) de la Constitución Política del Estado Libre y Soberano de Morelos.
+SEGUNDA. El presente Decreto entrará en vigor el día siguiente de su publicación en el Periódico Oficial "Tierra y Libertad", órgano de difusión del Gobierno del Estado de Morelos y la aplicación de las sanciones previstas será a partir del primero de enero del año dos mil veintiséis.
+TERCERA. Las autoridades estatales y municipales, deberán considerar lo dispuesto en el presente decreto dentro de sus respectivas leyes de ingresos de los ejercicios fiscales subsecuentes, para su efectiva aplicación.
+CUARTA. Las autoridades del orden estatal y municipal deberán informar a la población las sanciones aplicables, con anticipación a su aplicación, para fomentar una cultura de responsabilidad en el manejo de residuos sólidos.
