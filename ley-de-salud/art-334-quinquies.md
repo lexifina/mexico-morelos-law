@@ -1,0 +1,2 @@
+(ADICIONADO, P.O. 1 DE JULIO DE 2026)
+Artículo 334 Quinquies.- Los Gimnasios y los centros deportivos con la finalidad de prevenir riesgos a la salud deberán de solicitar al momento de su inscripción y anualmente a la persona usuaria un certificado médico, emitida por una institución de Salud o médico con cédula profesional que acredite su aptitud física para realizar actividad física. La información se sujetará a la normatividad vigente en materia de protección de datos personales.
