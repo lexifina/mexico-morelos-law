@@ -1,0 +1,6 @@
+(ADICIONADO, P.O. 2 DE SEPTIEMBRE DE 2026)
+Artículo 124 Ter.- Los Ayuntamientos deberán implementar un mecanismo permanente para la recepción, registro y atención de reportes ciudadanos sobre daños en la infraestructura vial, tales como baches, hundimientos o socavones que representen riesgo para la integridad de las personas y sus bienes.
+Dicho mecanismo deberá ser de fácil acceso para la ciudadanía, preferentemente por medios digitales o telefónicos, y permitir el seguimiento de los reportes presentados hasta su atención definitiva.
+La autoridad municipal competente deberá programar y ejecutar la reparación de las vialidades afectadas de acuerdo con sus condiciones técnicas, materiales y presupuestales, considerando la gravedad del daño, el nivel de riesgo para la población y la disponibilidad operativa del Ayuntamiento.
+En casos de contingencias derivadas de fenómenos naturales, la programación y ejecución de las reparaciones se realizará conforme a las circunstancias particulares de urgencia que prevalezcan y las medidas de seguridad necesarias.
+Los Ayuntamientos deberán publicar de manera periódica la información relativa a los reportes recibidos, el avance de las reparaciones y los plazos estimados de atención, mediante los medios oficiales que determinen, a fin de garantizar transparencia y rendición de cuentas.
