@@ -1,0 +1,2 @@
+(ADICIONADO, P.O. 16 DE SEPTIEMBRE DE 2026)
+Artículo 73 Ter.- Quedan exceptuadas de la prohibición prevista en el artículo anterior las cirugías reconstructivas a niñas, niños y adolescentes, que tengan como finalidad el restaurar funciones y corregir malformaciones o discapacidad congénita o adquiridas, traumas o enfermedades que comprometan funciones orgánicas, desarrollo psicosocial o salud mental, en los términos previstos en la Ley General de Salud y la Normatividad vigente.

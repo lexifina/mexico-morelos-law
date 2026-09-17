@@ -1,0 +1,3 @@
+(ADICIONADO, P.O. 16 DE SEPTIEMBRE DE 2026)
+ARTICULO 132 TER.- A quien, teniendo la patria potestad, tutela o guarda y custodia de una niña, niño o adolescente, autorice, permita o consienta su sometimiento a cirugía estética electiva o de modificación corporal, se le impondrá de dos a seis años de prisión y de cien a quinientos días multa.
+Con excepción de cirugías reconstructivas a niñas, niños y adolescentes que tengan como finalidad el restaurar funciones y corregir malformaciones congénitas, traumas o enfermedades que comprometan funciones orgánicas, desarrollo psicosocial o salud mental, en los términos previstos en la Ley General de Salud y la Normatividad vigente
