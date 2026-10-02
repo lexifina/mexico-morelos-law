@@ -1,0 +1,4 @@
+P.O. 30 DE SEPTIEMBRE DE 2026.
+[N. DE E. DISPOSICIONES TRANSITORIAS DEL "DECRETO MIL CIENTO CINCUENTA Y CINCO POR EL QUE SE REFORMA LA FRACCIÓN I DEL ARTÍCULO 12, DE LA LEY DE PROTECCIÓN, APOYO Y PROMOCIÓN DE LA LACTANCIA MATERNA PARA EL ESTADO DE MORELOS".]
+PRIMERA. Remítase el presente Decreto a la Gobernadora Constitucional del Estado Libre y Soberano de Morelos, para que en uso de sus atribuciones y facultades conforme a lo dispuesto (sic) artículos 44, 47, y 70 fracciones XVI y XVII inciso a) de la Constitución Política del Estado Libre y Soberano de Morelos, se realice la publicación correspondiente en el Periódico Oficial "Tierra y Libertad", órgano de difusión del Gobierno del Estado de Morelos.
+SEGUNDA. El presente decreto entrará en vigor al siguiente día de su publicación en el Periódico Oficial "Tierra y Libertad", órgano de difusión del Gobierno del Estado de Morelos.
