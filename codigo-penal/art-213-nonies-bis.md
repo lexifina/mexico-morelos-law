@@ -1,0 +1,8 @@
+(ADICIONADO, P.O. 7 DE OCTUBRE DE 2026)
+ARTICULO 213 Nonies Bis DE LOS TIPOS DE VIOLENCIA.- Para efectos del presente artículo se entiende por:
+I.- Violencia psicológica: Cualquier acción de negligencia, abandono, intimidación, coacción, devaluación, marginación, anulación, conducta celotípica, prohibiciones, coacciones, condicionamientos, restricción a la autodeterminación y amenazas, que provocan en quien las recibe deterioro, disminución o afectación en las diferentes áreas de la personalidad
+II.- Violencia física: Cualquier acto intencional que ocasione daño, ya sea haciendo uso de la fuerza física o de algún objeto, arma o sustancia que pueda causar lesiones externas, internas o ambas.
+III.- Violencia Patrimonial: Cualquier acción u omisión de sustracción, destrucción, retención u ocultamiento, de objetos, valores, documentos personales, bienes, derechos patrimoniales o recursos económicos;
+IV.- Violencia sexual.- Es cualquier acto que degrada o daña el cuerpo y/o la sexualidad de la víctima y que por tanto atenta contra su libertad, dignidad e integridad física.
+V.- Violencia Económica: Toda acción u omisión que afecta la economía de la víctima y se manifiesta a través de limitaciones encaminadas a controlar sus ingresos económicos o en la restricción o condicionamiento de los recursos económicos.
+La persona generadora de cualquiera de los tipos de violencia señalados en el presente será aquella con quien la mujer mantenga o haya mantenido una relación de hecho, matrimonio, concubinato, o de parentesco por consanguinidad o afinidad, con o sin convivencia y las sanciones aplicables serán de conformidad con lo establecido por el artículo 202 BIS del Código Penal para el Estado de Morelos.

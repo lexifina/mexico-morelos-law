@@ -1,0 +1,2 @@
+(ADICIONADO, P.O. 7 DE OCTUBRE DE 2026)
+Artículo 64 Bis. Las niñas, niños y adolescentes gozan del derecho de acceso universal a las Tecnologías de la Información y Comunicación, así como a los servicios de radiodifusión y telecomunicaciones, incluido el de banda ancha e Internet en los términos dispuestos por los artículos 101 Bis, 101 Bis 1, 101 Bis 2 y 101 Bis 3, de la Ley General de los Derechos de Niñas, Niños y Adolescentes.

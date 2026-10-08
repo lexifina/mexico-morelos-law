@@ -1,0 +1,6 @@
+P.O. 7 DE OCTUBRE DE 2026.
+[N. DE E. TRANSITORIOS DEL "DECRETO MIL CIENTO SESENTA Y TRES.- POR EL CUAL SE REFORMA EL ÚLTIMO PÁRRAFO DEL ARTÍCULO 30 DE LA LEY ORGÁNICA MUNICIPAL DEL ESTADO DE MORELOS".]
+PRIMERA. Remítase el presente decreto a la Titular del Poder Ejecutivo del Estado, para su promulgación y publicación respectiva de conformidad con los artículos 44, 47 y 70 fracción XVII, incisos a) y c) de la Constitución Política del Estado Libre y Soberano de Morelos.
+SEGUNDA. El presente decreto iniciará su vigencia al día siguiente de su publicación en el Periódico Oficial "Tierra y Libertad", órgano de difusión del Gobierno del Estado de Morelos.
+TERCERA. El Sistema Estatal para el Desarrollo Integral de la Familia (DIF Morelos), en un plazo no mayor a 120 días naturales a partir de la publicación del presente decreto, deberá actualizar su protocolo de actuación para identificar y validar las redes de apoyo de las niñas, niños y adolescentes en procesos de guarda, custodia y convivencia, garantizando que dichos vínculos sean siempre en beneficio del interés superior de la niñez
+CUARTA. El presente Decreto deroga todas las disposiciones legales de igual o menor rango, que se opongan o contradigan a este.
