@@ -1,0 +1,2 @@
+(ADICIONADO, P.O. 7 DE OCTUBRE DE 2026)
+Artículo 109 Quáter. El Sistema DIF Morelos será la autoridad coordinadora de las acciones para la atención integral a la orfandad, en colaboración con la Secretaría de Gobierno, la Secretaría de Salud, la Secretaría de Educación, Secretaría de Bienestar, la Fiscalía General del Estado, los Sistemas Municipales DIF y la Comisión Ejecutiva de Atención y Reparación a Víctimas del Estado de Morelos.

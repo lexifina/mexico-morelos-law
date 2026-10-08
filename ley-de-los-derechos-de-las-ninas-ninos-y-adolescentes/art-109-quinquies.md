@@ -1,0 +1,2 @@
+(ADICIONADO, P.O. 7 DE OCTUBRE DE 2026)
+Artículo 109 Quinquies. El Sistema para el Desarrollo Integral de la Familia a través de la Procuraduría de Protección de Niñas, Niños, Adolescentes y la Familia, creará el Registro Estatal de Niñas, Niños y Adolescentes en Situación de Orfandad, como instrumento estadístico y administrativo destinado a identificar, dar seguimiento y evaluar las condiciones de vida de las niñas, niños y adolescentes.
