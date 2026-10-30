@@ -1,0 +1,11 @@
+{
+  "path": "mx-mor",
+  "code": "MX-MOR",
+  "name": "Morelos",
+  "level": "state",
+  "parent": "mx",
+  "repo": "https://github.com/lexifina/mexico-morelos-law",
+  "build": "built: constitution, codes and laws (123 ordenamientos, 1580 versions) from SCJN Legislación",
+  "language": "es",
+  "sources": 1
+}

@@ -1,0 +1,999 @@
+day,kind,law,acts,files,branch
+1930-11-19,start,constitucion-1930-11-16-alcance-al-no-377,constitucion-politica,159,main
+1932-10-19,law,decreto-1932-10-16-477-seccion-segunda,constitucion-politica,16,main
+1932-12-19,start,ley-1932-12-18-486-seccion-segunda,ley-de-la-division-territorial,33,main
+1933-11-15,law,decreto-1933-11-12-533-seccion-segunda,constitucion-politica,6,main
+1934-08-26,law,decreto-1934-08-26-574-seccion-primera,ley-de-la-division-territorial,4,main
+1936-02-02,law,decreto-1936-02-02-649-seccion-primera,ley-de-la-division-territorial,2,main
+1936-05-31,law,decreto-1936-05-31-666-seccion-primera,ley-de-la-division-territorial,2,main
+1936-12-16,law,decreto-1936-12-13-694-seccion-primera,constitucion-politica,5,main
+1937-02-03,law,decreto-1937-01-31-701-seccion-primera,ley-de-la-division-territorial,3,main
+1938-07-27,law,decreto-1938-07-24-773-seccion-primera,ley-de-la-division-territorial,2,main
+1938-12-28,law,decreto-1938-12-25-800-seccion-primera,ley-de-la-division-territorial,3,main
+1939-07-19,law,decreto-1939-07-16-829-seccion-primera,ley-de-la-division-territorial,2,main
+1939-08-23,law,decreto-1939-08-20-834-seccion-primera,ley-de-la-division-territorial,2,main
+1946-01-09,law,decreto-1946-01-06-1168-segunda-seccion,ley-de-la-division-territorial,2,main
+1946-04-28,law,reforma-1946-04-28-1184,constitucion-politica,3,main
+1950-06-14,law,decreto-1950-06-14-1400,ley-de-la-division-territorial,2,main
+1950-06-17,law,decreto-1950-06-14-1400,constitucion-politica,2,main
+1950-07-29,law,decreto-1950-07-26-1406,constitucion-politica,4,main
+1952-12-31,law,decreto-1952-12-31-1533,ley-de-la-division-territorial,2,main
+1953-10-28,law,decreto-1953-10-28-1576,constitucion-politica,3,main
+1953-10-28,law,decreto-1953-10-28-1576-2,constitucion-politica,3,main
+1953-12-12,law,decreto-1953-12-09-1582,ley-de-la-division-territorial,2,main
+1953-12-12,law,decreto-1953-12-09-1582-2,ley-de-la-division-territorial,4,main
+1954-02-27,law,decreto-1954-02-24-1593,constitucion-politica,3,main
+1956-07-11,law,decreto-1956-07-11-1717,ley-de-la-division-territorial,2,main
+1956-08-08,law,decreto-1956-08-08-1721,ley-de-la-division-territorial,3,main
+1957-01-05,law,decreto-1957-01-02-1742,constitucion-politica,2,main
+1965-08-05,law,decreto-1965-08-04-2190,constitucion-politica,47,main
+1965-10-28,start,ley-1965-10-27-2202,ley-de-mercados,63,main
+1967-11-30,law,decreto-1967-11-29-2311,constitucion-politica,11,main
+1970-03-12,law,decreto-1970-03-11-2430,constitucion-politica,3,main
+1970-05-28,law,decreto-1970-05-27-2441,constitucion-politica,8,main
+1974-11-06,start,ley-1974-11-06-2673,ley-de-beneficios-estimulos-y-recompensas-a-las-personas-vet,18,main
+1974-11-14,law,decreto-1974-11-13-2674,constitucion-politica,7,main
+1975-06-26,law,decreto-1975-06-25-2706,ley-de-mercados,3,main
+1976-04-28,law,decreto-1976-04-28-alcance-al-numero-2750,constitucion-politica,4,main
+1976-12-15,law,decreto-1976-12-15-2783,constitucion-politica,2,main
+1977-03-17,law,decreto-1977-03-17-2796-alcance,ley-de-la-division-territorial,3,main
+1977-04-13,law,decreto-1977-04-13-2800,constitucion-politica,4,main
+1977-09-08,law,decreto-1977-09-07-2821,constitucion-politica,16,main
+1978-11-09,law,decreto-1978-11-08-2882,ley-de-mercados,2,main
+1979-01-03,law,decreto-1979-01-02-alcance-al-numero-2889,constitucion-politica,14,main
+1979-05-03,law,decreto-1979-05-02-2907,ley-de-la-division-territorial,2,main
+1979-05-08,start,ley-1979-05-07-alcance-al-no-2907,ley-de-predios-baldios,16,main
+1980-06-26,law,decreto-1980-06-25-2967,constitucion-politica,3,main
+1980-11-29,law,decreto-1980-11-26-2989,constitucion-politica,33,main
+1983-05-07,law,decreto-1983-05-04-3116,constitucion-politica,5,main
+1983-07-20,law,decreto-1983-07-20-3127,constitucion-politica,6,main
+1983-07-23,law,decreto-1983-07-22-3127,constitucion-politica,19,main
+1983-12-30,law,decreto-1983-12-29-alcance-no-3150,constitucion-politica,7,main
+1983-12-30,law,decreto-1983-12-29-alcance-al-no-3150,constitucion-politica,14,main
+1984-01-05,start,ley-1984-01-04-3151,ley-del-instituto-de-credito-para-los-trabajadores-al-servic,54,main
+1984-01-05,start,ley-1984-01-04-3151-seccion-tercera,ley-general-de-hacienda-municipal,220,main
+1984-01-05,law,decreto-1984-01-05-alcance-al-no-3151,constitucion-politica,5,main
+1984-09-06,law,decreto-1984-09-05-3186,constitucion-politica,5,main
+1986-07-31,law,decreto-1986-07-30-alcance-al-no-3285,constitucion-politica,5,main
+1986-08-28,law,decreto-1986-08-27-alcance-al-no-3289,ley-general-de-hacienda-municipal,6,main
+1988-01-06,law,decreto-1988-01-06-3360,constitucion-politica,6,main
+1988-06-16,law,decreto-1988-06-15-3383,constitucion-politica,7,main
+1988-07-08,law,decreto-1988-07-07-3386,constitucion-politica,6,main
+1988-07-08,law,decreto-1988-07-07-3386-2,constitucion-politica,4,main
+1988-07-21,law,decreto-1988-07-20-3388,constitucion-politica,5,main
+1989-01-28,law,decreto-1989-01-25-3415,ley-general-de-hacienda-municipal,51,main
+1989-02-02,law,decreto-1989-02-01-3416,constitucion-politica,5,main
+1989-02-09,start,ley-1989-02-08-3417,ley-de-transito,17,main
+1989-04-20,law,decreto-1989-04-19-3427,constitucion-politica,4,main
+1989-06-22,law,decreto-1989-06-21-3436,constitucion-politica,9,main
+1989-07-06,start,ley-1989-07-05-3438-seccion-segunda,ley-general-de-bienes,99,main
+1989-11-03,law,decreto-1989-11-02-3455,constitucion-politica,3,main
+1989-11-16,law,decreto-1989-11-15-3457,constitucion-politica,2,main
+1990-08-09,law,decreto-1990-08-08-3495,constitucion-politica,6,main
+1991-12-27,law,decreto-1991-12-26-3567,constitucion-politica,9,main
+1992-06-04,law,decreto-1992-06-03-3590,constitucion-politica,3,main
+1992-06-04,law,decreto-1992-06-03-3590-2,constitucion-politica,3,main
+1992-06-04,law,decreto-1992-06-03-3590-3,constitucion-politica,210,main
+1992-07-09,start,ley-1992-07-08-3595,ley-del-instituto-de-capacitacion-para-el-trabajo,34,main
+1993-10-14,law,decreto-1993-10-13-3661,constitucion-politica,212,main
+1993-10-16,start,codigo-1993-10-13-3661-seccion-segunda,codigo-civil,2555,main
+1993-10-16,start,codigo-1993-10-13-3661-seccion-tercera,codigo-procesal-civil,1055,main
+1994-08-25,start,ley-1994-08-24-3706,ley-de-expropiacion-por-causas-de-utilidad-publica,17,main
+1995-02-02,law,decreto-1995-02-01-3729,ley-general-de-bienes,4,main
+1995-02-09,start,ley-1995-02-08-3730,ley-de-presupuesto-contabilidad-y-gasto-publico,55,main
+1995-03-23,law,decreto-1995-03-22-3736,constitucion-politica,26,main
+1995-03-23,law,decreto-1995-03-22-3736-2,constitucion-politica,12,main
+1995-04-13,start,ley-1995-04-12-3739-segunda-seccion,ley-organica-del-poder-judicial-morelos,199,main
+1995-07-27,start,ley-1995-07-26-3754,ley-estatal-de-agua-potable-morelos,132,main
+1995-12-28,law,codigo-1995-12-27-3776-seccion-segunda,ley-general-de-hacienda-municipal,93,main
+1995-12-30,law,ley-1995-12-27-3776,ley-general-de-hacienda-municipal,13,main
+1996-04-18,law,decreto-1996-04-17-3792,constitucion-politica,6,main
+1996-10-31,law,decreto-1996-10-30-3824,constitucion-politica,28,main
+1996-11-07,start,codigo-1996-10-09-3820-seccion-segunda,codigo-penal,324,main
+1996-12-27,law,decreto-1996-12-26-3836,constitucion-politica,6,main
+1997-02-20,law,decreto-1997-02-19-3846,codigo-penal,17,main
+1997-05-03,start,ley-1997-04-30-3857,ley-estatal-de-fauna,81,main
+1997-09-18,law,decreto-1997-09-17-3878,codigo-civil,6,main
+1998-08-29,law,decreto-1998-08-28-3935,constitucion-politica,11,main
+1998-11-12,law,decreto-1998-11-11-3949,ley-de-presupuesto-contabilidad-y-gasto-publico,8,main
+1999-02-01,law,decreto-1999-01-20-3961,ley-estatal-de-agua-potable-morelos,6,main
+1999-02-04,law,decreto-1999-02-03-3964,codigo-civil,3,main
+1999-05-13,law,decreto-1999-05-12-3980,codigo-penal,10,main
+1999-07-15,law,decreto-1999-07-14-3989,codigo-penal,8,main
+1999-10-01,law,decreto-1999-10-01-4004,constitucion-politica,17,main
+1999-11-18,law,decreto-1999-11-17-4014,ley-general-de-hacienda-municipal,55,main
+1999-12-30,law,decreto-1999-12-29-4023,ley-estatal-de-agua-potable-morelos,13,main
+2000-06-15,law,decreto-2000-06-14-4059,constitucion-politica,2,main
+2000-08-24,law,decreto-2000-08-23-4071,ley-del-instituto-de-credito-para-los-trabajadores-al-servic,12,main
+2000-09-02,law,decreto-2000-09-01-4073,constitucion-politica,45,main
+2000-09-04,law,decreto-2000-09-01-4073-2,constitucion-politica,50,main
+2000-09-07,start,ley-2000-09-06-4074-seccion-segunda,ley-del-servicio-civil,126,main
+2000-09-07,law,decreto-2000-09-06-4074,codigo-penal,3,main
+2000-09-09,start,ley-2000-09-06-4074-seccion-segunda,ley-de-procedimiento-administrativo,122,main
+2000-09-14,law,decreto-2000-09-13-4075,codigo-penal,3,main
+2000-10-06,law,decreto-2000-09-06-4074,codigo-civil codigo-procesal-civil,17,main
+2000-10-19,law,decreto-2000-10-18-4083,codigo-penal,49,main
+2000-12-28,start,ley-2000-12-27-4095,ley-de-obra-publica-y-servicios-relacionados-con-la-misma,86,main
+2001-02-15,law,decreto-2001-02-14-4103,ley-de-presupuesto-contabilidad-y-gasto-publico,2,main
+2001-05-16,law,fe-de-erratas-2001-05-16-4117,codigo-penal,2,main
+2001-05-24,law,decreto-2001-05-23-4118,ley-estatal-de-agua-potable-morelos ley-estatal-de-fauna ley-organica-del-poder-judicial-morelos,80,main
+2001-07-21,start,ley-2001-07-20-4129,ley-organica-del-instituto-de-desarrollo-y-fortalecimiento-m,22,main
+2002-01-12,law,decreto-2002-01-11-4163,ley-del-servicio-civil,4,main
+2002-01-12,law,decreto-2002-01-11-4163-2,ley-del-servicio-civil,4,main
+2002-01-31,law,decreto-2002-01-30-4166,ley-general-de-hacienda-municipal,5,main
+2002-03-07,law,decreto-2002-03-06-4173,codigo-penal,4,main
+2002-07-11,law,decreto-2002-07-10-4195,codigo-civil,2,main
+2002-08-15,law,decreto-2002-08-14-4203,codigo-civil,7,main
+2002-08-24,law,decreto-2002-08-21-4205,constitucion-politica,7,main
+2002-08-24,law,decreto-2002-08-21-4205-2,constitucion-politica,6,main
+2002-08-24,law,decreto-2002-08-21-4205-3,constitucion-politica,8,main
+2002-08-24,law,decreto-2002-08-21-4205-4,constitucion-politica,5,main
+2002-12-26,law,decreto-2002-12-25-4230,ley-de-presupuesto-contabilidad-y-gasto-publico,5,main
+2003-01-02,law,decreto-2003-01-01-4232,ley-general-de-bienes,27,main
+2003-06-26,law,decreto-2003-06-25-4261,ley-de-presupuesto-contabilidad-y-gasto-publico,3,main
+2003-07-31,start,ley-2003-07-30-4268,ley-de-catastro-municipal,136,main
+2003-08-14,start,ley-2003-08-13-4272,ley-organica-municipal,194,main
+2003-08-14,law,decreto-2003-08-11-4271,constitucion-politica,11,main
+2003-08-14,law,decreto-2003-08-13-4272,codigo-civil codigo-penal,9,main
+2003-08-14,law,decreto-2003-08-11-4271-2,constitucion-politica,15,main
+2003-08-14,law,decreto-2003-08-11-4271-3,constitucion-politica,15,main
+2003-09-04,law,decreto-2003-09-03-4276-seccion-tercera,codigo-civil codigo-penal codigo-procesal-civil ley-de-la-division-territorial ley-de-obra-publica-y-servicios-relacionados-con-la-misma,35,main
+2003-09-04,law,decreto-2003-09-03-4276-seccion-tercera-2,codigo-civil codigo-procesal-civil,11,main
+2003-09-04,law,decreto-2003-09-03-4276-seccion-tercera-3,codigo-civil,3,main
+2004-04-08,start,ley-2004-04-07-4321,ley-de-coordinacion-hacendaria,32,main
+2004-06-30,law,decreto-2004-06-29-4335,codigo-penal,23,main
+2004-09-16,law,decreto-2004-09-15-4349,constitucion-politica,8,main
+2004-09-18,law,decreto-2004-09-15-4349-2,constitucion-politica,9,main
+2005-03-03,law,decreto-2005-03-02-4381,ley-de-coordinacion-hacendaria,3,main
+2005-04-09,law,decreto-2005-04-06-4386,ley-del-servicio-civil,2,main
+2005-05-19,law,decreto-2005-05-18-4392,ley-organica-municipal,14,main
+2005-06-16,law,decreto-2005-06-15-4397,codigo-civil codigo-procesal-civil,2606,main
+2005-06-30,start,ley-2005-06-29-4400-seccion-segunda,ley-de-salud,412,main
+2005-07-21,start,ley-2005-07-20-4403,ley-estatal-contra-la-delincuencia-organizada,37,main
+2005-07-21,law,decreto-2005-07-20-4403,ley-organica-del-poder-judicial-morelos,12,main
+2005-07-23,law,decreto-2005-07-20-4403,constitucion-politica,8,main
+2005-07-23,law,decreto-2005-07-20-4403-2,constitucion-politica,7,main
+2005-07-23,law,decreto-2005-07-20-4403-3,constitucion-politica,8,main
+2005-07-23,law,decreto-2005-07-20-4403-4,constitucion-politica,9,main
+2005-07-28,law,decreto-2005-07-27-4404,ley-de-presupuesto-contabilidad-y-gasto-publico,7,main
+2005-08-04,start,ley-2005-08-03-4405,ley-de-innovacion-ciencia-y-tecnologia,65,main
+2005-08-04,law,decreto-2005-08-03-4405,ley-organica-municipal,3,main
+2005-12-22,law,decreto-2005-12-21-4431,codigo-procesal-civil ley-organica-municipal,16,main
+2006-01-12,law,decreto-2006-01-11-4434,codigo-civil,2598,main
+2006-07-06,start,ley-2006-07-05-4472-segunda-seccion,ley-general-de-hacienda,131,main
+2006-07-06,law,ley-2006-07-05-4472-segunda-seccion,ley-general-de-hacienda-municipal,14,main
+2006-08-03,law,decreto-2006-08-02-4476,ley-organica-municipal,13,main
+2006-09-09,start,codigo-2006-09-06-4481-segunda-seccion,codigo-familiar,896,main
+2006-09-09,start,codigo-2006-09-06-4481-tercera-seccion,codigo-procesal-familiar,765,main
+2006-09-09,law,codigo-2006-09-06-4481-segunda-seccion,codigo-civil,886,main
+2006-09-09,law,codigo-2006-09-06-4481-tercera-seccion,codigo-procesal-civil,251,main
+2006-12-07,law,decreto-2006-12-06-4497,codigo-civil,17,main
+2006-12-21,law,decreto-2006-12-20-4500,ley-de-innovacion-ciencia-y-tecnologia,12,main
+2006-12-28,law,decreto-2006-12-27-4501,ley-de-coordinacion-hacendaria ley-general-de-hacienda,9,main
+2006-12-28,law,decreto-2006-12-27-4501-2,ley-general-de-hacienda,6,main
+2007-01-01,law,decreto-2006-12-27-4501-3,ley-general-de-hacienda,11,main
+2007-02-22,law,decreto-2007-02-21-4513,constitucion-politica,4,main
+2007-03-22,law,decreto-2007-03-21-4519,constitucion-politica ley-general-de-hacienda,8,main
+2007-05-12,start,ley-2007-05-09-4529,ley-organica-para-el-congreso,111,main
+2007-06-07,law,decreto-2007-06-06-4536,constitucion-politica,8,main
+2007-06-09,start,ley-2007-06-06-4536,ley-de-la-comision-de-derechos-humanos,64,main
+2007-06-21,law,decreto-2007-06-20-4539,ley-de-coordinacion-hacendaria,2,main
+2007-06-29,law,decreto-2007-06-28-4542,codigo-civil codigo-penal,2619,main
+2007-06-29,law,decreto-2007-06-28-4542-2,codigo-penal,2,main
+2007-07-05,start,ley-2007-07-04-4543,ley-del-deporte-y-cultura-fisica,143,main
+2007-08-16,law,decreto-2007-08-15-4549,codigo-familiar codigo-procesal-familiar ley-general-de-hacienda,64,main
+2007-10-18,start,ley-2007-10-17-4561-segunda-seccion,ley-de-residuos-solidos-y-de-economia-circular-antes-ley-de,125,main
+2007-10-25,start,ley-2007-10-24-4562,ley-estatal-de-responsabilidades-de-los-servidores-publicos,84,main
+2007-11-15,law,decreto-2007-11-14-4568,constitucion-politica,7,main
+2007-11-22,start,ley-2007-11-21-4569,ley-de-asistencia-social-y-corresponsabilidad-ciudadana,67,main
+2007-12-01,start,ley-2007-11-28-4572,ley-del-registro-publico-de-la-propiedad-y-del-comercio,115,main
+2007-12-01,law,ley-2007-11-28-4572,codigo-civil,2619,main
+2007-12-06,start,ley-2007-12-05-4573,ley-de-acceso-de-las-mujeres-a-una-vida-libre-de-violencia,63,main
+2007-12-06,start,ley-2007-12-05-4573,ley-de-desarrollo-forestal-sustentable,152,main
+2007-12-06,law,decreto-2007-12-05-4573,constitucion-politica,12,main
+2007-12-13,start,ley-2007-12-12-4576,ley-de-fomento-a-las-actividades-de-las-organizaciones-de-la,29,main
+2007-12-13,law,ley-2007-12-12-4576,ley-de-transito,8,main
+2007-12-20,law,decreto-2007-12-19-4577,ley-general-de-hacienda-municipal,5,main
+2008-03-06,law,decreto-2008-03-05-4598,codigo-procesal-civil,9,main
+2008-03-20,law,decreto-2008-03-19-4600,ley-de-catastro-municipal,3,main
+2008-04-03,law,decreto-2008-04-02-4604,ley-estatal-de-responsabilidades-de-los-servidores-publicos,7,main
+2008-04-05,law,decreto-2008-04-04-4605,ley-general-de-hacienda-municipal,2,main
+2008-04-10,law,decreto-2008-04-09-4606,ley-de-la-comision-de-derechos-humanos,3,main
+2008-04-24,law,decreto-2008-04-23-4608,constitucion-politica,4,main
+2008-05-15,law,decreto-2008-05-14-4612,codigo-familiar codigo-penal,8,main
+2008-05-21,start,ley-2008-05-21-4613,ley-organica-de-la-universidad-autonoma,39,main
+2008-06-05,start,ley-2008-06-04-4617,ley-de-desarrollo-economico-sustentable,42,main
+2008-06-10,law,decreto-2008-06-09-4618,constitucion-politica,5,main
+2008-06-19,law,decreto-2008-06-18-4620,ley-del-servicio-civil,9,main
+2008-06-21,law,decreto-2008-06-20-4621,constitucion-politica,2,main
+2008-07-10,law,decreto-2008-07-09-4625,codigo-penal,19,main
+2008-07-24,law,decreto-2008-07-23-4629,ley-de-asistencia-social-y-corresponsabilidad-ciudadana ley-organica-del-poder-judicial-morelos,56,main
+2008-08-15,start,ley-2008-07-16-4627,ley-de-contratos-de-colaboracion-publico-privada,119,main
+2008-08-15,law,decreto-2008-07-16-4627,ley-de-coordinacion-hacendaria ley-de-obra-publica-y-servicios-relacionados-con-la-misma ley-de-presupuesto-contabilidad-y-gasto-publico ley-general-de-bienes ley-general-de-hacienda-municipal ley-organica-municipal ley-organica-para-el-congreso,42,main
+2008-08-15,law,decreto-2008-07-23-4629,ley-organica-para-el-congreso,3,main
+2008-08-21,start,ley-2008-08-18-4636,ley-de-justicia-alternativa-en-materia-penal,49,main
+2008-09-25,law,decreto-2008-09-24-4644,codigo-civil ley-del-servicio-civil,11,main
+2008-10-10,law,decreto-2008-07-16-4627,constitucion-politica,9,main
+2008-10-10,law,decreto-2008-07-16-4627-2,constitucion-politica,6,main
+2008-10-10,law,decreto-2008-07-16-4627-3,constitucion-politica,21,main
+2008-10-10,law,decreto-2008-09-18-4643,constitucion-politica,6,main
+2008-10-30,law,decreto-2008-10-29-4653,codigo-penal,2,main
+2008-11-06,law,decreto-2008-11-05-4654,ley-de-contratos-de-colaboracion-publico-privada ley-de-la-comision-de-derechos-humanos ley-de-presupuesto-contabilidad-y-gasto-publico ley-de-salud ley-estatal-de-responsabilidades-de-los-servidores-publicos ley-organica-municipal ley-organica-para-el-congreso,28,main
+2008-11-13,law,decreto-2008-11-12-4655,codigo-penal codigo-procesal-familiar,4,main
+2008-11-22,law,decreto-2008-11-19-4656,ley-organica-para-el-congreso,3,main
+2008-12-12,law,decreto-2008-12-11-4665,constitucion-politica codigo-civil codigo-familiar codigo-penal ley-de-salud,71,main
+2008-12-13,law,decreto-2008-12-12-4666,codigo-penal ley-de-asistencia-social-y-corresponsabilidad-ciudadana ley-de-justicia-alternativa-en-materia-penal ley-del-deporte-y-cultura-fisica ley-organica-municipal,35,main
+2009-01-01,law,ley-2008-12-29-4670-cuarta-seccion,ley-general-de-hacienda-municipal,5,main
+2009-02-14,law,decreto-2009-02-11-4681,ley-organica-para-el-congreso,7,main
+2009-02-28,law,decreto-2009-02-25-4684,ley-organica-para-el-congreso,3,main
+2009-03-05,start,ley-2009-03-04-4685,ley-de-desarrollo-rural-sustentable,133,main
+2009-03-26,law,decreto-2009-03-25-4688,constitucion-politica codigo-penal,8,main
+2009-04-30,law,decreto-2009-04-29-4702,constitucion-politica,2,main
+2009-04-30,law,decreto-2009-04-29-4702-2,constitucion-politica,3,main
+2009-05-23,law,decreto-2009-05-20-4709,ley-de-la-comision-de-derechos-humanos,17,main
+2009-06-18,law,decreto-2009-06-17-4717,ley-de-asistencia-social-y-corresponsabilidad-ciudadana ley-de-salud,6,main
+2009-06-27,law,decreto-2009-06-26-4720,ley-del-registro-publico-de-la-propiedad-y-del-comercio,115,main
+2009-07-02,law,decreto-2009-07-01-4721,constitucion-politica,4,main
+2009-07-14,law,decreto-2009-07-11-4726,ley-organica-para-el-congreso,26,main
+2009-07-30,law,decreto-2009-07-29-4730-segunda-seccion,codigo-penal,53,main
+2009-08-13,start,ley-2009-08-12-4732,ley-del-fondo-morelos-antes-ley-del-instituto-morelense-para,20,main
+2009-08-25,start,ley-2009-08-24-4735,ley-de-reinsercion-social-y-seguimiento-de-medidas-cautelare,202,main
+2009-08-27,start,ley-2009-08-26-4736,ley-de-ordenamiento-territorial-y-desarrollo-urbano-sustenta,221,main
+2009-08-27,law,decreto-2009-08-26-4736,ley-de-coordinacion-hacendaria,2,main
+2009-08-29,law,decreto-2009-08-26-4736,ley-organica-para-el-congreso,7,main
+2009-09-10,law,decreto-2009-09-09-4741,ley-organica-municipal,33,main
+2009-09-17,start,ley-2009-09-16-4743,ley-estatal-de-documentacion-y-archivos-de-morelos,84,main
+2009-09-19,law,decreto-2009-09-16-4743,ley-organica-para-el-congreso,16,main
+2010-01-01,law,ley-2009-12-23-4762,ley-general-de-hacienda,3,main
+2010-02-25,law,decreto-2010-02-24-4783,constitucion-politica,5,main
+2010-03-11,law,decreto-2010-03-10-4788,codigo-penal ley-de-presupuesto-contabilidad-y-gasto-publico ley-estatal-de-responsabilidades-de-los-servidores-publicos ley-organica-municipal,25,main
+2010-04-22,law,decreto-2010-04-21-4798,codigo-familiar codigo-procesal-familiar,19,main
+2010-05-15,law,decreto-2010-05-12-4804,ley-organica-para-el-congreso,8,main
+2010-06-10,law,decreto-2010-06-09-4808,ley-de-salud,2,main
+2010-06-17,law,decreto-2010-06-16-4809,codigo-procesal-familiar ley-de-contratos-de-colaboracion-publico-privada ley-general-de-hacienda,6,main
+2010-06-24,law,decreto-2010-06-23-4811,ley-del-instituto-de-capacitacion-para-el-trabajo,22,main
+2010-07-01,law,decreto-2010-06-30-4814,ley-de-coordinacion-hacendaria,2,main
+2010-08-08,start,ley-2010-06-09-4808,ley-de-desarrollo-proteccion-e-integracion-de-las-personas-a,63,main
+2010-08-21,law,decreto-2010-08-18-4828,constitucion-politica,14,main
+2010-09-18,law,decreto-2010-09-15-4836,ley-organica-para-el-congreso,3,main
+2010-10-07,law,decreto-2010-10-06-4840,codigo-penal,2,main
+2010-10-14,law,decreto-2010-10-13-4842,ley-organica-municipal,3,main
+2010-10-21,law,decreto-2010-10-20-4844,codigo-penal ley-general-de-hacienda,11,main
+2010-11-20,start,codigo-2010-11-17-4850-segunda-seccion,codigo-etico-para-el-instituto-de-capacitacion-para-el-traba,1,main
+2010-12-08,law,decreto-2010-12-08-4856,constitucion-politica ley-de-la-division-territorial ley-organica-municipal,6,main
+2010-12-31,law,ley-2009-12-29-4763-tercera-seccion-4,ley-general-de-hacienda-municipal,8,main
+2010-12-31,law,decreto-2010-06-16-4809,ley-general-de-hacienda-municipal,2,main
+2011-01-01,law,ley-2010-12-31-4861-sexta-seccion,ley-organica-del-poder-judicial-morelos,7,main
+2011-01-18,law,decreto-2010-12-29-4860,codigo-penal,8,main
+2011-01-20,start,ley-2011-01-19-4865,ley-de-coordinacion-para-el-desarrollo-metropolitano,30,main
+2011-02-17,law,decreto-2011-02-16-4872,constitucion-politica,3,main
+2011-02-23,law,fe-de-erratas-2011-02-23-4873,constitucion-politica,2,main
+2011-03-31,start,ley-2011-03-30-4883-segunda-seccion,ley-de-cultura-civica,87,main
+2011-04-09,law,decreto-2011-04-06-4884-tercera-seccion,ley-de-residuos-solidos-y-de-economia-circular-antes-ley-de,7,main
+2011-04-21,law,decreto-2011-04-20-4886,codigo-penal,4,main
+2011-05-12,law,decreto-2011-05-11-4889,ley-organica-municipal,3,main
+2011-05-26,law,decreto-2011-05-25-4891,constitucion-politica ley-organica-municipal,28,main
+2011-06-04,law,decreto-2011-06-03-4894,codigo-penal,3,main
+2011-06-30,law,decreto-2011-06-29-4900,constitucion-politica,3,main
+2011-09-02,start,ley-2011-09-01-4916,ley-de-bioaditivo-y-fomento-para-el-reciclaje-de-aceites-veg,10,main
+2011-09-02,law,decreto-2011-09-01-4916,codigo-penal ley-de-acceso-de-las-mujeres-a-una-vida-libre-de-violencia ley-de-desarrollo-rural-sustentable,16,main
+2011-09-02,law,decreto-2011-09-01-4916-2,codigo-penal,2,main
+2011-09-02,law,decreto-2011-09-01-4916-3,codigo-penal,4,main
+2011-09-02,law,decreto-2011-09-01-4916-4,codigo-penal,2,main
+2011-09-13,law,decreto-2011-09-12-4918,codigo-penal,2,main
+2011-10-01,law,decreto-2011-09-01-4916,ley-general-de-hacienda ley-general-de-hacienda-municipal,6,main
+2011-10-22,law,decreto-2011-10-19-4926,constitucion-politica,6,main
+2011-11-03,law,decreto-2011-10-19-4926,codigo-penal,2,main
+2011-11-03,law,decreto-2011-10-19-4926-2,constitucion-politica,5,main
+2011-11-03,law,decreto-2011-10-19-4926-3,constitucion-politica,3,main
+2011-11-03,law,decreto-2011-10-26-4927,codigo-penal,3,main
+2011-11-03,law,decreto-2011-10-19-4926-4,constitucion-politica,4,main
+2011-11-03,law,decreto-2011-10-19-4926-5,constitucion-politica,3,main
+2011-12-15,law,decreto-2011-12-14-4939,ley-de-beneficios-estimulos-y-recompensas-a-las-personas-vet,6,main
+2011-12-17,start,ley-2011-12-14-4939,ley-de-entrega-recepcion-de-la-administracion-publica,42,main
+2011-12-22,start,ley-2011-12-21-4940,ley-de-vivienda,55,main
+2012-01-01,start,ley-2011-12-14-4939,ley-de-responsabilidad-patrimonial,51,main
+2012-01-01,start,ley-2011-10-12-4925,ley-de-salud-mental,72,main
+2012-01-01,law,decreto-2011-10-12-4925,ley-general-de-hacienda,9,main
+2012-01-01,law,fe-de-erratas-2011-11-23-4933,ley-de-salud-mental,2,main
+2012-01-01,law,ley-2011-12-21-4940,ley-general-de-hacienda,9,main
+2012-01-19,law,decreto-2012-01-18-4947,codigo-procesal-familiar,4,main
+2012-01-19,law,decreto-2012-01-18-4947-2,codigo-procesal-familiar,2,main
+2012-02-02,law,decreto-2012-02-01-4950,codigo-familiar codigo-penal ley-de-la-division-territorial ley-estatal-de-documentacion-y-archivos-de-morelos,73,main
+2012-02-02,law,decreto-2012-02-01-4950-2,codigo-familiar,2,main
+2012-02-09,law,decreto-2012-02-08-4951,constitucion-politica,75,main
+2012-02-25,law,decreto-2012-02-22-4955,constitucion-politica,2,main
+2012-02-29,law,fe-de-erratas-2012-02-29-4956,codigo-procesal-familiar,13,main
+2012-03-08,law,decreto-2012-02-22-4955-2,constitucion-politica,2,main
+2012-03-14,law,fe-de-erratas-2012-03-14-4959,ley-de-la-division-territorial,2,main
+2012-03-18,start,ley-2012-01-18-4947,ley-de-fomento-y-desarrollo-de-los-derechos-y-cultura-de-las,139,main
+2012-03-18,law,fe-de-erratas-2012-02-29-4956,ley-de-fomento-y-desarrollo-de-los-derechos-y-cultura-de-las,3,main
+2012-04-05,law,decreto-2012-04-04-4963,ley-estatal-de-responsabilidades-de-los-servidores-publicos ley-general-de-bienes,27,main
+2012-04-19,law,decreto-2012-04-18-4968,ley-de-obra-publica-y-servicios-relacionados-con-la-misma,6,main
+2012-05-03,law,decreto-2012-05-02-4973,ley-general-de-hacienda,25,main
+2012-05-17,law,decreto-2012-05-16-4978,ley-de-obra-publica-y-servicios-relacionados-con-la-misma ley-estatal-de-responsabilidades-de-los-servidores-publicos ley-general-de-hacienda,18,main
+2012-05-26,law,decreto-2012-05-23-4980,ley-organica-para-el-congreso,22,main
+2012-05-31,law,decreto-2012-05-30-4981,constitucion-politica,10,main
+2012-06-11,law,ley-2011-12-14-4939,ley-de-salud,9,main
+2012-06-13,law,fe-de-erratas-2012-06-13-4984,ley-de-obra-publica-y-servicios-relacionados-con-la-misma ley-general-de-hacienda,8,main
+2012-08-16,start,ley-2012-08-15-5012,ley-de-fomento-y-proteccion-pecuaria,211,main
+2012-08-16,law,decreto-2012-08-15-5012,constitucion-politica ley-de-la-division-territorial,8,main
+2012-08-16,law,decreto-2012-08-15-5012-2,ley-de-la-division-territorial,2,main
+2012-08-18,start,ley-2012-08-15-5012,ley-de-nomenclatura-de-los-bienes,22,main
+2012-08-23,start,ley-2012-08-22-5015,ley-de-fomento-de-la-cultura-del-cuidado-del-agua-en-el-esta,21,main
+2012-08-30,start,ley-2012-08-29-5019,ley-estatal-para-la-asuncion-del-gobierno-de-la-funcion-de-s,20,main
+2012-08-30,law,reforma-2012-08-29-5019,ley-de-desarrollo-economico-sustentable,4,main
+2012-09-29,law,decreto-2012-09-26-5028,ley-organica-para-el-congreso,19,main
+2012-09-30,start,ley-2012-09-29-5019,ley-de-jovenes-emprendedores,13,main
+2012-10-25,law,decreto-2012-10-24-5037,ley-de-innovacion-ciencia-y-tecnologia,11,main
+2012-10-27,law,decreto-2012-10-24-5037,ley-organica-para-el-congreso,10,main
+2012-11-17,law,decreto-2012-11-14-5043,ley-organica-para-el-congreso,16,main
+2012-11-17,law,decreto-2012-11-14-5043-2,ley-organica-para-el-congreso,2,main
+2012-11-29,law,decreto-2012-11-28-5046,ley-general-de-hacienda-municipal,153,main
+2012-12-15,law,decreto-2012-12-14-5050,codigo-penal,392,main
+2012-12-17,law,decreto-2012-12-14-5050,ley-organica-para-el-congreso,3,main
+2012-12-20,law,decreto-2012-12-19-5052,codigo-penal,395,main
+2012-12-27,law,decreto-2012-12-26-5053,ley-del-servicio-civil,17,main
+2012-12-29,law,decreto-2012-12-26-5053,ley-de-coordinacion-hacendaria ley-general-de-hacienda,31,main
+2013-01-01,law,decreto-2012-05-16-4978,ley-organica-municipal,3,main
+2013-01-01,law,decreto-2012-09-10-5023,constitucion-politica,2,main
+2013-01-01,law,decreto-2012-10-24-5037,ley-de-catastro-municipal ley-del-registro-publico-de-la-propiedad-y-del-comercio,124,main
+2013-01-01,law,decreto-2012-11-14-5043,ley-de-obra-publica-y-servicios-relacionados-con-la-misma,6,main
+2013-01-01,law,decreto-2012-08-15-5012,ley-organica-municipal,3,main
+2013-01-01,law,decreto-2012-10-24-5037,constitucion-politica,3,main
+2013-01-01,law,fe-de-erratas-2012-11-21-5044,ley-de-obra-publica-y-servicios-relacionados-con-la-misma,2,main
+2013-01-01,law,fe-de-erratas-2012-12-19-5052,ley-del-registro-publico-de-la-propiedad-y-del-comercio,2,main
+2013-01-01,law,decreto-2012-08-15-5012-2,ley-organica-municipal,5,main
+2013-01-01,law,decreto-2012-08-15-5012-3,ley-organica-municipal,5,main
+2013-01-01,law,decreto-2012-08-15-5012-4,ley-organica-municipal,4,main
+2013-01-01,law,decreto-2012-12-14-5050,ley-organica-municipal,6,main
+2013-01-01,law,decreto-2012-12-26-5053,ley-organica-municipal,5,main
+2013-01-02,law,fe-de-erratas-2013-01-02-5054,ley-del-servicio-civil,2,main
+2013-01-17,start,ley-2013-01-16-5058,ley-de-igualdad-de-derechos-y-oportunidades-entre-mujeres-y,52,main
+2013-01-17,law,decreto-2013-01-16-5058,ley-organica-municipal,3,main
+2013-01-17,law,decreto-2013-01-16-5058-alcance,ley-del-servicio-civil,10,main
+2013-01-19,law,decreto-2013-01-16-5058,ley-organica-para-el-congreso,3,main
+2013-01-19,law,decreto-2013-01-16-5058-2,ley-organica-para-el-congreso,3,main
+2013-01-24,start,ley-2013-01-23-5061,ley-estatal-de-apoyo-a-jefas-de-familia,28,main
+2013-01-24,law,decreto-2013-01-23-5061,ley-de-presupuesto-contabilidad-y-gasto-publico ley-de-salud ley-organica-municipal,13,main
+2013-01-26,law,decreto-2013-01-23-5061,constitucion-politica,6,main
+2013-01-26,law,decreto-2013-01-23-5061-2,constitucion-politica,3,main
+2013-03-05,law,decreto-2013-03-04-5073,ley-estatal-de-responsabilidades-de-los-servidores-publicos,3,main
+2013-03-07,law,decreto-2013-03-06-5074,ley-del-deporte-y-cultura-fisica,4,main
+2013-03-16,law,decreto-2013-03-13-5075,constitucion-politica,2,main
+2013-03-21,law,decreto-2013-03-20-5076,ley-de-presupuesto-contabilidad-y-gasto-publico,2,main
+2013-04-04,start,ley-2013-04-03-5081,ley-de-la-defensoria-publica,67,main
+2013-04-11,law,decreto-2013-04-10-5083,ley-de-salud,6,main
+2013-04-13,law,decreto-2013-04-10-5083,constitucion-politica,2,main
+2013-04-13,law,decreto-2013-04-10-5083-2,constitucion-politica,2,main
+2013-04-25,law,decreto-2013-04-24-5085,constitucion-politica ley-de-desarrollo-economico-sustentable ley-de-reinsercion-social-y-seguimiento-de-medidas-cautelare,126,main
+2013-05-02,law,decreto-2013-05-01-5086,ley-organica-del-instituto-de-desarrollo-y-fortalecimiento-m ley-organica-municipal,7,main
+2013-05-02,law,decreto-2013-05-01-5086-2,ley-organica-municipal,3,main
+2013-05-16,law,decreto-2013-05-15-5089,ley-de-acceso-de-las-mujeres-a-una-vida-libre-de-violencia,6,main
+2013-05-16,law,decreto-2013-05-15-5089-2,ley-de-acceso-de-las-mujeres-a-una-vida-libre-de-violencia,5,main
+2013-05-30,law,decreto-2013-05-29-5092,constitucion-politica,2,main
+2013-06-27,law,decreto-2013-06-26-5099,codigo-familiar ley-de-procedimiento-administrativo,13,main
+2013-06-29,law,decreto-2013-06-26-5099,ley-organica-para-el-congreso,3,main
+2013-06-29,law,decreto-2013-06-26-5099-2,ley-organica-para-el-congreso,2,main
+2013-07-18,start,ley-2013-07-17-5105-alcance,ley-de-victimas,154,main
+2013-07-18,law,decreto-2013-07-17-5105,ley-del-servicio-civil,6,main
+2013-08-01,law,decreto-2013-07-31-5108,constitucion-politica ley-general-de-hacienda,4,main
+2013-08-03,law,decreto-2013-07-31-5108,ley-del-servicio-civil,3,main
+2013-08-15,law,decreto-2013-08-14-5110,ley-de-desarrollo-rural-sustentable ley-de-fomento-de-la-cultura-del-cuidado-del-agua-en-el-esta ley-de-salud ley-de-salud-mental,20,main
+2013-08-15,law,decreto-2013-08-14-5110-2,ley-de-salud,7,main
+2013-08-15,law,decreto-2013-08-14-5110-3,ley-de-salud,2,main
+2013-08-22,law,decreto-2013-08-21-5112,ley-de-obra-publica-y-servicios-relacionados-con-la-misma,3,main
+2013-09-12,law,decreto-2013-09-11-5116,ley-de-bioaditivo-y-fomento-para-el-reciclaje-de-aceites-veg,3,main
+2013-09-26,law,decreto-2013-09-25-5118,ley-de-vivienda ley-del-deporte-y-cultura-fisica ley-organica-municipal,27,main
+2013-09-26,law,decreto-2013-09-25-5118-2,ley-del-deporte-y-cultura-fisica ley-organica-municipal,12,main
+2013-10-03,law,decreto-2013-10-02-5121,ley-de-salud,4,main
+2013-10-10,law,decreto-2013-10-09-5124,ley-de-justicia-alternativa-en-materia-penal ley-de-salud,16,main
+2013-10-10,law,decreto-2013-10-09-5124-2,ley-de-salud,3,main
+2013-10-10,law,decreto-2013-10-09-5124-3,ley-de-salud,2,main
+2013-10-17,law,decreto-2013-10-16-5128,ley-del-fondo-morelos-antes-ley-del-instituto-morelense-para ley-organica-municipal,10,main
+2013-10-31,law,decreto-2013-10-30-5136,constitucion-politica ley-de-ordenamiento-territorial-y-desarrollo-urbano-sustenta,23,main
+2013-11-07,start,ley-2013-11-06-5139,ley-de-desarrollo-social,88,main
+2013-11-09,law,decreto-2013-11-06-5139,ley-general-de-hacienda-municipal,53,main
+2013-11-14,law,decreto-2013-11-13-5141,ley-organica-municipal,3,main
+2013-11-21,law,decreto-2013-11-20-5142,codigo-penal ley-de-desarrollo-economico-sustentable ley-de-mercados ley-del-deporte-y-cultura-fisica ley-estatal-de-responsabilidades-de-los-servidores-publicos ley-general-de-bienes,42,main
+2013-12-19,law,decreto-2013-12-18-5149,ley-de-desarrollo-rural-sustentable,3,main
+2014-01-01,law,decreto-2013-08-21-5112,ley-de-fomento-y-desarrollo-de-los-derechos-y-cultura-de-las,4,main
+2014-01-01,law,decreto-2013-11-13-5141,ley-general-de-hacienda ley-general-de-hacienda-municipal,16,main
+2014-01-01,law,decreto-2013-12-20-5150,ley-general-de-hacienda,96,main
+2014-01-23,start,ley-2014-01-22-5158,ley-de-prestaciones-de-seguridad-social-de-las-instituciones,38,main
+2014-01-23,law,decreto-2014-01-22-5158,ley-de-fomento-a-las-actividades-de-las-organizaciones-de-la ley-organica-municipal,11,main
+2014-01-23,law,decreto-2014-01-22-5158-2,ley-de-fomento-a-las-actividades-de-las-organizaciones-de-la,3,main
+2014-02-27,law,decreto-2014-02-26-5166,ley-del-deporte-y-cultura-fisica,4,main
+2014-03-06,law,decreto-2014-03-05-5167,ley-de-bioaditivo-y-fomento-para-el-reciclaje-de-aceites-veg ley-de-fomento-y-proteccion-pecuaria ley-de-salud ley-estatal-de-fauna,27,main
+2014-03-06,law,decreto-2014-03-05-5167-2,ley-de-salud,11,main
+2014-03-19,law,fe-de-erratas-2014-03-19-5169,ley-estatal-de-fauna,2,main
+2014-03-22,law,decreto-2014-03-19-5169,constitucion-politica,15,main
+2014-03-27,law,decreto-2014-03-26-5172,ley-de-acceso-de-las-mujeres-a-una-vida-libre-de-violencia ley-de-coordinacion-hacendaria ley-de-cultura-civica ley-de-desarrollo-economico-sustentable ley-de-desarrollo-forestal-sustentable ley-de-innovacion-ciencia-y-tecnologia ley-de-reinsercion-social-y-seguimiento-de-medidas-cautelare ley-de-salud-mental ley-de-victimas ley-del-deporte-y-cultura-fisica ley-estatal-para-la-asuncion-del-gobierno-de-la-funcion-de-s ley-organica-para-el-congreso,111,main
+2014-04-03,law,decreto-2014-04-02-5175,ley-de-victimas,3,main
+2014-04-09,law,fe-de-erratas-2014-04-09-5176,ley-de-victimas,2,main
+2014-04-10,law,decreto-2014-04-09-5176,ley-del-deporte-y-cultura-fisica ley-estatal-de-documentacion-y-archivos-de-morelos ley-organica-municipal,6,main
+2014-04-10,law,decreto-2014-04-09-5176-2,ley-organica-municipal,2,main
+2014-04-17,law,decreto-2014-04-16-5178,ley-organica-municipal,2,main
+2014-05-01,law,decreto-2014-04-30-5181,ley-de-vivienda,4,main
+2014-05-01,law,decreto-2014-04-30-5181-2,ley-de-vivienda,2,main
+2014-05-03,law,decreto-2014-04-30-5181,constitucion-politica,9,main
+2014-05-03,law,decreto-2014-04-30-5181-2,constitucion-politica,5,main
+2014-05-03,law,decreto-2014-04-30-5181-3,constitucion-politica,3,main
+2014-05-22,law,decreto-2014-05-21-5187,ley-organica-del-poder-judicial-morelos ley-organica-para-el-congreso,12,main
+2014-05-29,law,decreto-2014-05-28-5188,codigo-familiar ley-de-fomento-a-las-actividades-de-las-organizaciones-de-la ley-de-salud ley-del-instituto-de-credito-para-los-trabajadores-al-servic ley-general-de-hacienda,36,main
+2014-05-29,law,decreto-2014-05-28-5188-2,ley-de-fomento-a-las-actividades-de-las-organizaciones-de-la,2,main
+2014-05-31,law,decreto-2014-05-28-5188,constitucion-politica,3,main
+2014-05-31,law,decreto-2014-05-28-5188-2,constitucion-politica,2,main
+2014-05-31,law,decreto-2014-05-28-5188-3,constitucion-politica,5,main
+2014-05-31,law,fe-de-erratas-2014-05-28-5188,constitucion-politica,3,main
+2014-06-05,law,decreto-2014-06-04-5190,ley-de-salud,4,main
+2014-06-07,law,decreto-2014-06-04-5190,constitucion-politica,3,main
+2014-06-12,law,decreto-2014-06-11-5194,codigo-familiar codigo-penal codigo-procesal-familiar ley-de-coordinacion-para-el-desarrollo-metropolitano ley-de-obra-publica-y-servicios-relacionados-con-la-misma ley-de-residuos-solidos-y-de-economia-circular-antes-ley-de ley-estatal-de-responsabilidades-de-los-servidores-publicos,36,main
+2014-06-12,law,decreto-2014-06-11-5194-2,codigo-familiar codigo-penal ley-estatal-de-responsabilidades-de-los-servidores-publicos,10,main
+2014-06-12,law,decreto-2014-06-11-5194-3,codigo-familiar,2,main
+2014-06-26,start,ley-2014-06-25-5199,ley-de-proteccion-y-conservacion-del-maiz-criollo-en-su-esta,41,main
+2014-06-26,law,decreto-2014-06-25-5199,ley-de-residuos-solidos-y-de-economia-circular-antes-ley-de,25,main
+2014-06-30,start,codigo-2014-06-30-5201,codigo-de-instituciones-y-procedimientos-electorales,405,main
+2014-06-30,law,decreto-2014-06-27-5200,constitucion-politica,30,main
+2014-07-12,law,decreto-2014-07-09-5204,constitucion-politica,2,main
+2014-07-24,start,ley-2014-07-23-5207,ley-estatal-para-la-convivencia-y-seguridad-de-la-comunidad,52,main
+2014-07-24,law,decreto-2014-07-23-5207,codigo-penal ley-de-coordinacion-para-el-desarrollo-metropolitano ley-de-desarrollo-proteccion-e-integracion-de-las-personas-a ley-de-la-comision-de-derechos-humanos ley-de-ordenamiento-territorial-y-desarrollo-urbano-sustenta ley-de-salud ley-del-servicio-civil,30,main
+2014-07-24,law,decreto-2014-07-23-5207-2,ley-de-ordenamiento-territorial-y-desarrollo-urbano-sustenta ley-de-salud,16,main
+2014-10-09,start,ley-2014-10-08-5224,ley-para-el-impulso-de-la-cultura-de-la-legalidad,18,main
+2014-10-09,law,decreto-2014-10-08-5224,codigo-familiar codigo-penal ley-de-acceso-de-las-mujeres-a-una-vida-libre-de-violencia ley-de-contratos-de-colaboracion-publico-privada ley-de-desarrollo-rural-sustentable ley-de-desarrollo-proteccion-e-integracion-de-las-personas-a ley-de-mercados ley-de-procedimiento-administrativo ley-del-servicio-civil ley-estatal-de-fauna ley-organica-municipal,62,main
+2014-10-09,law,decreto-2014-10-08-5224-2,ley-del-servicio-civil ley-organica-municipal,18,main
+2014-10-09,law,decreto-2014-10-08-5224-3,ley-del-servicio-civil,5,main
+2014-10-09,law,decreto-2014-10-08-5224-4,ley-del-servicio-civil,7,main
+2014-10-09,law,decreto-2014-10-08-5224-5,ley-del-servicio-civil,4,main
+2014-11-05,law,fe-de-erratas-2014-11-05-5233,ley-de-salud,1,main
+2014-11-13,law,decreto-2014-11-12-5236,codigo-familiar codigo-penal codigo-procesal-familiar ley-de-fomento-y-desarrollo-de-los-derechos-y-cultura-de-las ley-de-la-defensoria-publica ley-estatal-contra-la-delincuencia-organizada ley-estatal-de-responsabilidades-de-los-servidores-publicos ley-organica-para-el-congreso,68,main
+2014-11-20,law,decreto-2014-11-19-5237,codigo-penal codigo-procesal-civil ley-de-acceso-de-las-mujeres-a-una-vida-libre-de-violencia ley-de-coordinacion-para-el-desarrollo-metropolitano ley-de-desarrollo-forestal-sustentable ley-de-mercados ley-de-obra-publica-y-servicios-relacionados-con-la-misma ley-estatal-de-fauna ley-organica-del-instituto-de-desarrollo-y-fortalecimiento-m ley-organica-municipal,106,main
+2014-11-20,law,decreto-2014-11-19-5237-2,ley-de-obra-publica-y-servicios-relacionados-con-la-misma ley-organica-del-instituto-de-desarrollo-y-fortalecimiento-m ley-organica-municipal,10,main
+2014-11-20,law,decreto-2014-11-19-5237-3,ley-de-obra-publica-y-servicios-relacionados-con-la-misma ley-organica-municipal,13,main
+2014-11-20,law,decreto-2014-11-19-5237-4,ley-organica-municipal,4,main
+2014-11-20,law,decreto-2014-11-19-5237-5,ley-organica-municipal,4,main
+2014-12-11,start,ley-2014-12-10-5243-alcance,ley-para-la-administracion-de-bienes-asegurados-de-la-fiscal,32,main
+2014-12-11,law,decreto-2014-12-10-5243,codigo-penal codigo-procesal-familiar ley-de-desarrollo-rural-sustentable ley-de-fomento-y-proteccion-pecuaria ley-de-justicia-alternativa-en-materia-penal ley-de-nomenclatura-de-los-bienes ley-de-salud ley-de-salud-mental,39,main
+2014-12-11,law,decreto-2014-12-10-5243-2,ley-de-fomento-y-proteccion-pecuaria ley-de-salud,9,main
+2014-12-11,law,decreto-2014-12-10-5243-3,ley-de-salud,3,main
+2014-12-11,law,decreto-2014-12-10-5243-4,ley-de-salud,11,main
+2014-12-11,law,decreto-2014-12-10-5243-5,ley-de-salud,7,main
+2014-12-11,law,decreto-2014-12-10-5243-6,ley-de-salud,2,main
+2014-12-13,start,ley-2014-12-10-5243-alcance,ley-de-sujetos-protegidos,43,main
+2014-12-13,law,decreto-2014-12-10-5243-alcance,codigo-penal ley-de-la-defensoria-publica ley-de-reinsercion-social-y-seguimiento-de-medidas-cautelare ley-de-victimas ley-organica-del-poder-judicial-morelos,67,main
+2014-12-25,law,decreto-2014-12-24-5246,codigo-familiar ley-de-salud,9,main
+2014-12-27,law,decreto-2014-12-24-5246,constitucion-politica,4,main
+2015-01-01,law,decreto-2014-10-08-5224,ley-del-deporte-y-cultura-fisica,14,main
+2015-01-01,law,decreto-2014-12-24-5246,ley-de-coordinacion-hacendaria ley-general-de-hacienda,52,main
+2015-01-01,law,decreto-2014-12-31-5247,ley-de-fomento-a-las-actividades-de-las-organizaciones-de-la ley-organica-municipal,8,main
+2015-02-02,law,decreto-2015-01-30-5259,constitucion-politica,6,main
+2015-02-02,law,decreto-2015-01-30-5259-2,constitucion-politica,5,main
+2015-02-02,law,decreto-2015-01-30-5259-3,constitucion-politica,2,main
+2015-02-05,law,decreto-2015-02-04-5260,ley-de-ordenamiento-territorial-y-desarrollo-urbano-sustenta,3,main
+2015-02-19,law,decreto-2015-02-18-5264,codigo-penal,3,main
+2015-02-21,law,decreto-2015-02-18-5264,constitucion-politica ley-organica-municipal,5,main
+2015-02-21,law,decreto-2015-02-18-5264-2,constitucion-politica ley-organica-municipal,8,main
+2015-02-21,law,decreto-2015-02-18-5264-3,constitucion-politica,2,main
+2015-03-05,law,decreto-2015-03-04-5268,ley-de-prestaciones-de-seguridad-social-de-las-instituciones,3,main
+2015-03-19,law,decreto-2015-03-18-5272,ley-del-registro-publico-de-la-propiedad-y-del-comercio,3,main
+2015-04-02,law,decreto-2015-04-01-5277,codigo-familiar codigo-penal codigo-procesal-familiar ley-de-entrega-recepcion-de-la-administracion-publica ley-de-expropiacion-por-causas-de-utilidad-publica ley-de-responsabilidad-patrimonial ley-de-salud ley-del-instituto-de-capacitacion-para-el-trabajo,33,main
+2015-04-02,law,decreto-2015-04-01-5277-2,codigo-familiar ley-de-entrega-recepcion-de-la-administracion-publica ley-de-salud,13,main
+2015-04-02,law,decreto-2015-04-01-5277-3,codigo-familiar,2,main
+2015-04-02,law,decreto-2015-04-01-5277-4,codigo-familiar,2,main
+2015-04-04,start,ley-2015-04-01-5277,ley-de-las-personas-adolescentes-y-jovenes-en-el-estado-de-m,93,main
+2015-04-04,law,decreto-2015-04-01-5277,ley-organica-para-el-congreso,3,main
+2015-04-23,law,decreto-2015-04-22-5281,codigo-penal ley-de-cultura-civica ley-de-salud ley-de-salud-mental ley-de-transito ley-organica-del-poder-judicial-morelos ley-organica-municipal,45,main
+2015-04-23,law,decreto-2015-04-22-5281-2,ley-de-salud ley-de-salud-mental,4,main
+2015-04-23,law,decreto-2015-04-22-5281-3,ley-de-salud ley-de-salud-mental,8,main
+2015-04-23,law,decreto-2015-04-22-5281-4,ley-de-salud ley-de-salud-mental,8,main
+2015-04-23,law,decreto-2015-04-22-5281-5,ley-de-salud,18,main
+2015-04-23,law,decreto-2015-04-22-5281-6,ley-de-salud,4,main
+2015-04-23,law,decreto-2015-04-22-5281-7,ley-de-salud,6,main
+2015-04-23,law,decreto-2015-04-22-5281-8,ley-de-salud,4,main
+2015-04-30,law,decreto-2015-04-29-5282,codigo-familiar codigo-penal codigo-procesal-familiar ley-de-obra-publica-y-servicios-relacionados-con-la-misma ley-de-salud,13,main
+2015-04-30,law,decreto-2015-04-29-5282-2,codigo-penal codigo-procesal-familiar,4,main
+2015-04-30,law,decreto-2015-04-29-5282-3,codigo-procesal-familiar,2,main
+2015-05-28,law,decreto-2015-05-27-5289,codigo-familiar ley-de-entrega-recepcion-de-la-administracion-publica ley-de-fomento-y-proteccion-pecuaria,17,main
+2015-05-30,law,decreto-2015-05-27-5289,constitucion-politica,4,main
+2015-05-30,law,decreto-2015-05-27-5289-2,constitucion-politica,2,main
+2015-05-30,law,decreto-2015-05-27-5289-3,constitucion-politica,2,main
+2015-06-04,law,decreto-2015-06-03-5292,ley-de-desarrollo-proteccion-e-integracion-de-las-personas-a ley-de-salud,24,main
+2015-06-11,law,decreto-2015-06-10-5295,codigo-familiar,2,main
+2015-06-13,law,decreto-2015-06-10-5295,constitucion-politica,2,main
+2015-06-17,law,decreto-2015-06-17-5298,ley-de-asistencia-social-y-corresponsabilidad-ciudadana,16,main
+2015-06-25,law,decreto-2015-06-24-5300,codigo-familiar,2,main
+2015-07-02,law,decreto-2015-07-01-5301,ley-de-jovenes-emprendedores,7,main
+2015-07-25,law,decreto-2015-07-22-5308,constitucion-politica,2,main
+2015-07-25,law,decreto-2015-07-22-5308-2,constitucion-politica,2,main
+2015-07-25,law,decreto-2015-07-22-5308-3,constitucion-politica,2,main
+2015-07-30,law,decreto-2015-07-29-5312,ley-de-coordinacion-para-el-desarrollo-metropolitano ley-de-obra-publica-y-servicios-relacionados-con-la-misma ley-de-presupuesto-contabilidad-y-gasto-publico ley-de-proteccion-y-conservacion-del-maiz-criollo-en-su-esta ley-de-salud-mental ley-de-vivienda ley-organica-del-poder-judicial-morelos,33,main
+2015-07-30,law,decreto-2015-07-29-5312-2,ley-de-coordinacion-para-el-desarrollo-metropolitano ley-de-vivienda,8,main
+2015-08-14,law,decreto-2015-08-11-5315,constitucion-politica,25,main
+2015-08-20,law,decreto-2015-08-19-5319,ley-de-acceso-de-las-mujeres-a-una-vida-libre-de-violencia ley-de-innovacion-ciencia-y-tecnologia ley-de-salud,19,main
+2015-08-20,law,decreto-2015-08-19-5319-2,ley-de-acceso-de-las-mujeres-a-una-vida-libre-de-violencia ley-de-salud,9,main
+2015-08-20,law,decreto-2015-08-19-5319-3,ley-de-acceso-de-las-mujeres-a-una-vida-libre-de-violencia,2,main
+2015-08-27,start,ley-2015-08-26-5323-alcance,ley-organica-de-el-colegio-de-morelos,71,main
+2015-10-14,start,ley-2015-10-14-5335,ley-de-los-derechos-de-las-ninas-ninos-y-adolescentes,117,main
+2015-10-17,law,decreto-2015-10-14-5335,ley-organica-para-el-congreso,2,main
+2015-11-26,law,decreto-2015-11-25-5346-alcance,ley-de-coordinacion-hacendaria,6,main
+2015-12-09,law,decreto-2015-12-08-5350,ley-de-ordenamiento-territorial-y-desarrollo-urbano-sustenta ley-de-transito,8,main
+2015-12-10,law,decreto-2015-12-09-5351,codigo-familiar codigo-procesal-familiar,4,main
+2015-12-12,start,codigo-2015-12-09-5351-segunda-seccion,codigo-fiscal,269,main
+2015-12-12,law,decreto-2015-12-09-5351,ley-organica-para-el-congreso,4,main
+2016-01-01,law,decreto-2015-04-29-5282,ley-organica-municipal,2,main
+2016-01-01,law,decreto-2015-12-08-5350,ley-general-de-hacienda,98,main
+2016-01-01,law,decreto-2015-04-29-5282-2,ley-organica-municipal,5,main
+2016-01-01,law,decreto-2015-04-29-5282-3,ley-organica-municipal,6,main
+2016-01-01,law,decreto-2015-04-29-5282-4,ley-organica-municipal,2,main
+2016-01-01,law,decreto-2015-04-29-5282-5,ley-organica-municipal,2,main
+2016-01-01,law,decreto-2015-04-29-5282-6,ley-organica-municipal,3,main
+2016-01-01,law,decreto-2015-06-03-5292,ley-organica-municipal,4,main
+2016-01-01,law,decreto-2015-08-19-5319,ley-organica-municipal,3,main
+2016-02-06,law,decreto-2016-02-03-5366,ley-general-de-hacienda-municipal,3,main
+2016-02-09,law,decreto-2016-02-08-5367,ley-organica-municipal,12,main
+2016-02-13,law,decreto-2016-02-10-5368,ley-general-de-hacienda-municipal,4,main
+2016-02-17,law,fe-de-erratas-2016-02-17-5371,ley-general-de-hacienda,2,main
+2016-02-20,law,decreto-2016-02-17-5371,constitucion-politica,4,main
+2016-02-24,law,fe-de-erratas-2016-02-24-5374,ley-general-de-hacienda-municipal,2,main
+2016-03-10,start,ley-2016-03-09-5378,ley-de-apoyo-alimentario-para-personas-con-discapacidad-perm,29,main
+2016-03-10,law,decreto-2016-03-09-5378,codigo-familiar codigo-penal codigo-procesal-familiar ley-de-cultura-civica ley-organica-municipal,43,main
+2016-03-10,law,decreto-2016-03-09-5378-2,codigo-familiar,10,main
+2016-03-10,law,decreto-2016-03-09-5378-3,codigo-familiar,3,main
+2016-03-17,law,decreto-2016-03-16-5380,codigo-penal ley-de-cultura-civica ley-organica-del-instituto-de-desarrollo-y-fortalecimiento-m,21,main
+2016-03-30,law,fe-de-erratas-2016-03-30-5385,codigo-familiar codigo-procesal-familiar,4,main
+2016-04-06,law,fe-de-erratas-2016-04-06-5387,codigo-penal ley-de-cultura-civica,3,main
+2016-04-07,law,decreto-2016-04-06-5387,ley-organica-municipal,3,main
+2016-04-28,start,ley-2016-04-27-5392,ley-de-transparencia-y-acceso-a-la-informacion-publica,176,main
+2016-05-05,law,decreto-2016-05-04-5394,codigo-penal ley-del-deporte-y-cultura-fisica,29,main
+2016-05-25,law,fe-de-erratas-2016-05-25-5399,ley-de-transparencia-y-acceso-a-la-informacion-publica,3,main
+2016-05-28,law,decreto-2016-05-25-5399,constitucion-politica,9,main
+2016-06-02,law,decreto-2016-06-01-5401,codigo-penal ley-organica-municipal,9,main
+2016-06-02,law,decreto-2016-06-01-5401-2,codigo-penal ley-organica-municipal,9,main
+2016-06-04,law,decreto-2016-06-01-5401,ley-de-reinsercion-social-y-seguimiento-de-medidas-cautelare,4,main
+2016-06-11,law,decreto-2016-06-08-5403,ley-organica-para-el-congreso,3,main
+2016-06-15,law,fe-de-erratas-2016-06-15-5404-segunda-seccion,codigo-penal,1,main
+2016-06-16,law,decreto-2016-06-15-5404,codigo-familiar codigo-procesal-familiar ley-de-entrega-recepcion-de-la-administracion-publica,13,main
+2016-06-16,law,decreto-2016-06-15-5404-2,codigo-procesal-familiar,80,main
+2016-07-05,law,decreto-2016-07-04-5408,codigo-familiar codigo-procesal-familiar,18,main
+2016-07-07,law,decreto-2016-07-04-5408,constitucion-politica,2,main
+2016-07-07,law,decreto-2016-07-06-5409,codigo-familiar codigo-penal codigo-procesal-familiar ley-de-desarrollo-rural-sustentable ley-de-salud,17,main
+2016-07-07,law,decreto-2016-07-06-5409-2,codigo-familiar codigo-penal,4,main
+2016-07-09,law,decreto-2016-07-06-5409,constitucion-politica ley-organica-para-el-congreso,25,main
+2016-07-09,law,decreto-2016-07-06-5409-2,constitucion-politica,2,main
+2016-07-21,law,decreto-2016-07-20-5414,codigo-penal,5,main
+2016-07-22,law,decreto-2016-07-21-5415,ley-del-fondo-morelos-antes-ley-del-instituto-morelense-para ley-del-instituto-de-credito-para-los-trabajadores-al-servic ley-general-de-hacienda,93,main
+2016-07-23,law,decreto-2016-07-20-5414,constitucion-politica,4,main
+2016-07-23,law,decreto-2016-07-22-5416,ley-de-ordenamiento-territorial-y-desarrollo-urbano-sustenta,7,main
+2016-07-23,law,decreto-2016-07-20-5414-2,constitucion-politica,2,main
+2016-07-26,law,decreto-2016-07-25-5417,ley-estatal-de-responsabilidades-de-los-servidores-publicos,10,main
+2016-08-10,law,fe-de-erratas-2016-08-10-5421,ley-del-fondo-morelos-antes-ley-del-instituto-morelense-para ley-del-instituto-de-credito-para-los-trabajadores-al-servic ley-general-de-hacienda,3,main
+2016-08-18,law,decreto-2016-08-17-5426-segunda-seccion,codigo-familiar codigo-penal codigo-procesal-familiar ley-de-desarrollo-economico-sustentable ley-organica-para-el-congreso,44,main
+2016-08-18,law,decreto-2016-08-17-5426-segunda-seccion-2,codigo-familiar codigo-penal,7,main
+2016-08-20,law,decreto-2016-08-17-5426-segunda-seccion-2,ley-organica-para-el-congreso,2,main
+2016-08-25,law,decreto-2016-08-22-5428,constitucion-politica,2,main
+2016-09-01,law,decreto-2016-08-31-5430,ley-de-la-division-territorial ley-organica-municipal,11,main
+2016-09-03,law,decreto-2016-08-31-5430,constitucion-politica,2,main
+2016-09-14,law,fe-de-erratas-2016-09-14-5435-segunda-seccion,ley-del-fondo-morelos-antes-ley-del-instituto-morelense-para,3,main
+2016-09-15,law,decreto-2016-09-14-5435,codigo-penal,4,main
+2016-09-28,law,fe-de-erratas-2016-09-28-5437,ley-organica-para-el-congreso,2,main
+2016-10-20,law,decreto-2016-10-19-5440,codigo-familiar codigo-penal ley-de-catastro-municipal ley-organica-del-poder-judicial-morelos,20,main
+2016-10-27,law,decreto-2016-10-26-5442,ley-organica-para-el-congreso,3,main
+2016-11-03,law,decreto-2016-11-02-5444,ley-de-salud,2,main
+2016-12-01,law,decreto-2016-11-30-5450,codigo-familiar codigo-procesal-familiar,6,main
+2016-12-03,law,decreto-2016-11-30-5450,constitucion-politica,2,main
+2016-12-08,law,decreto-2016-12-07-5452,codigo-familiar codigo-penal codigo-procesal-familiar,11,main
+2016-12-10,law,decreto-2016-12-09-5453,ley-general-de-hacienda,4,main
+2016-12-23,start,ley-2016-12-22-5458,ley-de-deuda-publica,91,main
+2016-12-23,law,decreto-2016-12-22-5458,ley-de-presupuesto-contabilidad-y-gasto-publico,60,main
+2017-01-01,law,decreto-2016-12-22-5458,codigo-fiscal ley-de-beneficios-estimulos-y-recompensas-a-las-personas-vet ley-de-coordinacion-hacendaria ley-de-salud-mental ley-general-de-hacienda,133,main
+2017-01-19,law,decreto-2017-01-18-5466,ley-organica-municipal,3,main
+2017-02-25,law,decreto-2017-02-22-5476,constitucion-politica ley-general-de-hacienda-municipal ley-organica-municipal,14,main
+2017-02-27,law,decreto-2017-02-24-5477,constitucion-politica,5,main
+2017-03-02,law,decreto-2017-03-01-5478,ley-de-catastro-municipal ley-de-contratos-de-colaboracion-publico-privada ley-de-cultura-civica ley-de-desarrollo-forestal-sustentable ley-de-desarrollo-proteccion-e-integracion-de-las-personas-a ley-de-fomento-a-las-actividades-de-las-organizaciones-de-la ley-de-fomento-y-proteccion-pecuaria ley-de-los-derechos-de-las-ninas-ninos-y-adolescentes ley-de-mercados ley-de-obra-publica-y-servicios-relacionados-con-la-misma ley-de-ordenamiento-territorial-y-desarrollo-urbano-sustenta ley-de-procedimiento-administrativo ley-de-residuos-solidos-y-de-economia-circular-antes-ley-de ley-de-responsabilidad-patrimonial ley-de-salud ley-de-transito ley-de-transparencia-y-acceso-a-la-informacion-publica ley-de-victimas ley-estatal-contra-la-delincuencia-organizada ley-estatal-de-agua-potable-morelos ley-estatal-de-documentacion-y-archivos-de-morelos ley-estatal-de-fauna ley-estatal-de-responsabilidades-de-los-servidores-publicos ley-general-de-bienes ley-general-de-hacienda-municipal ley-organica-del-poder-judicial-morelos,156,main
+2017-03-09,law,decreto-2017-03-08-5479-segunda-seccion,codigo-civil codigo-penal ley-del-servicio-civil ley-estatal-de-agua-potable-morelos ley-organica-para-el-congreso,21,main
+2017-03-09,law,decreto-2017-03-08-5479-segunda-seccion-2,ley-estatal-de-agua-potable-morelos,21,main
+2017-03-17,law,decreto-2017-03-16-5482,ley-de-obra-publica-y-servicios-relacionados-con-la-misma ley-de-ordenamiento-territorial-y-desarrollo-urbano-sustenta ley-organica-municipal,8,main
+2017-03-23,law,decreto-2017-03-22-5483,ley-del-instituto-de-credito-para-los-trabajadores-al-servic,9,main
+2017-04-01,law,decreto-2017-03-29-5484,constitucion-politica,3,main
+2017-04-10,law,decreto-2017-04-07-5487,constitucion-politica,17,main
+2017-04-13,law,decreto-2017-04-12-5488,codigo-de-instituciones-y-procedimientos-electorales codigo-penal ley-de-acceso-de-las-mujeres-a-una-vida-libre-de-violencia ley-estatal-de-responsabilidades-de-los-servidores-publicos,14,main
+2017-04-20,start,ley-2017-04-19-5490,ley-de-uniformes-gratuitos-para-los-estudiantes-de-educacion,30,main
+2017-04-20,start,ley-2017-04-19-5490-alcance,ley-del-sistema-anticorrupcion,62,main
+2017-04-20,law,decreto-2017-04-19-5490,codigo-penal codigo-procesal-familiar ley-de-transparencia-y-acceso-a-la-informacion-publica ley-estatal-de-agua-potable-morelos ley-organica-para-el-congreso,26,main
+2017-04-27,law,decreto-2017-04-26-5491,ley-de-acceso-de-las-mujeres-a-una-vida-libre-de-violencia ley-organica-municipal ley-organica-para-el-congreso,8,main
+2017-04-27,law,decreto-2017-04-26-5491-2,ley-organica-para-el-congreso,3,main
+2017-04-30,law,decreto-2017-04-27-5492,constitucion-politica,11,main
+2017-05-04,law,decreto-2017-05-03-5494-segunda-seccion,ley-organica-municipal,24,main
+2017-05-25,law,decreto-2017-05-24-5497,ley-organica-para-el-congreso,12,main
+2017-05-27,law,decreto-2017-05-26-5498,codigo-de-instituciones-y-procedimientos-electorales ley-organica-municipal,134,main
+2017-05-31,law,fe-de-erratas-2017-05-31-5500,codigo-de-instituciones-y-procedimientos-electorales ley-organica-municipal,6,main
+2017-06-15,law,decreto-2017-06-14-5503,ley-de-salud,8,main
+2017-06-15,law,decreto-2017-06-14-5503-2,ley-de-salud,2,main
+2017-07-17,law,decreto-2017-07-16-5513,ley-general-de-hacienda,9,main
+2017-07-17,law,decreto-2017-07-16-5513-segunda-seccion,ley-de-uniformes-gratuitos-para-los-estudiantes-de-educacion,14,main
+2017-07-22,start,ley-2017-07-19-5514,ley-de-fiscalizacion-y-rendicion-de-cuentas,115,main
+2017-07-22,start,ley-2017-07-19-5514,ley-de-justicia-administrativa,137,main
+2017-07-22,start,ley-2017-07-19-5514,ley-de-responsabilidades-administrativas,90,main
+2017-07-22,start,ley-2017-07-19-5514,ley-organica-del-tribunal-de-justicia-administrativa,83,main
+2017-07-22,law,decreto-2017-07-19-5514,codigo-penal ley-organica-municipal,39,main
+2017-07-22,law,ley-2017-07-19-5514,ley-estatal-de-responsabilidades-de-los-servidores-publicos,59,main
+2017-07-27,start,ley-2017-07-26-5516,ley-de-proteccion-de-datos-personales-en-posesion-de-sujetos,171,main
+2017-07-27,law,ley-2017-07-26-5516,ley-de-transparencia-y-acceso-a-la-informacion-publica,15,main
+2017-08-31,law,decreto-2017-08-28-5529,ley-organica-para-el-congreso,3,main
+2017-09-09,law,decreto-2017-09-06-5532-alcance,constitucion-politica,3,main
+2017-09-21,law,decreto-2017-09-18-5534,codigo-familiar,2,main
+2017-11-01,law,decreto-2017-10-31-5545,ley-de-victimas,192,main
+2017-11-02,law,decreto-2017-11-01-5546,codigo-familiar codigo-penal codigo-procesal-familiar,19,main
+2017-11-02,law,decreto-2017-11-01-5546-2,codigo-familiar,2,main
+2017-11-15,law,fe-de-erratas-2017-11-15-5549,codigo-penal ley-de-fiscalizacion-y-rendicion-de-cuentas ley-de-justicia-administrativa ley-de-responsabilidades-administrativas ley-estatal-de-responsabilidades-de-los-servidores-publicos ley-organica-del-tribunal-de-justicia-administrativa ley-organica-municipal,154,main
+2017-11-15,law,fe-de-erratas-2017-11-15-5549-2,ley-de-justicia-administrativa,2,main
+2017-11-23,law,decreto-2017-11-22-5551,ley-de-salud,3,main
+2017-11-30,law,decreto-2017-11-29-5553,codigo-familiar codigo-penal ley-del-instituto-de-credito-para-los-trabajadores-al-servic,22,main
+2017-11-30,law,decreto-2017-11-29-5553-2,codigo-familiar codigo-penal,6,main
+2017-12-07,law,decreto-2017-12-06-5555,codigo-de-instituciones-y-procedimientos-electorales,10,main
+2017-12-16,law,decreto-2017-12-13-5558,constitucion-politica,3,main
+2017-12-28,law,decreto-2017-12-27-5564,ley-organica-del-tribunal-de-justicia-administrativa,7,main
+2017-12-30,law,decreto-2017-12-27-5564,ley-organica-para-el-congreso,3,main
+2018-01-01,law,decreto-2017-12-31-5565,ley-general-de-hacienda,18,main
+2018-01-11,law,decreto-2018-01-10-5568,ley-de-la-defensoria-publica ley-de-salud ley-organica-municipal,11,main
+2018-01-13,law,decreto-2018-01-10-5568,constitucion-politica,3,main
+2018-01-17,start,ley-2018-01-16-5569,ley-estatal-de-proteccion-civil-de-morelos,218,main
+2018-02-16,law,decreto-2018-02-16-5579,ley-organica-del-poder-judicial-morelos,14,main
+2018-02-18,law,decreto-2018-02-15-5578,constitucion-politica ley-de-fiscalizacion-y-rendicion-de-cuentas ley-organica-del-tribunal-de-justicia-administrativa,151,main
+2018-02-18,law,decreto-2018-02-16-5579,ley-organica-del-tribunal-de-justicia-administrativa,6,main
+2018-02-22,law,decreto-2018-02-21-5580,ley-organica-de-el-colegio-de-morelos,4,main
+2018-03-08,law,decreto-2018-03-07-5585,codigo-familiar,3,main
+2018-03-22,law,decreto-2018-03-21-5589,codigo-familiar codigo-penal,5,main
+2018-03-22,law,decreto-2018-03-21-5589-2,codigo-familiar,3,main
+2018-03-24,law,decreto-2018-03-21-5589,constitucion-politica ley-de-proteccion-de-datos-personales-en-posesion-de-sujetos ley-general-de-hacienda-municipal,21,main
+2018-04-05,law,decreto-2018-04-04-5591-alcance,constitucion-politica ley-de-fiscalizacion-y-rendicion-de-cuentas ley-organica-del-tribunal-de-justicia-administrativa,22,main
+2018-04-26,law,decreto-2018-04-25-5594,ley-de-salud,8,main
+2018-06-07,law,decreto-2018-06-06-5603,ley-de-acceso-de-las-mujeres-a-una-vida-libre-de-violencia,2,main
+2018-07-12,start,ley-2018-07-11-5611-alcance,ley-organica-de-la-fiscalia-general,154,main
+2018-07-12,law,decreto-2018-07-11-5611-alcance,constitucion-politica codigo-familiar ley-de-acceso-de-las-mujeres-a-una-vida-libre-de-violencia ley-de-asistencia-social-y-corresponsabilidad-ciudadana ley-de-cultura-civica ley-de-desarrollo-proteccion-e-integracion-de-las-personas-a ley-de-la-division-territorial ley-de-los-derechos-de-las-ninas-ninos-y-adolescentes ley-de-victimas ley-estatal-para-la-convivencia-y-seguridad-de-la-comunidad ley-organica-municipal,54,main
+2018-07-14,law,decreto-2018-07-13-5612,ley-de-coordinacion-hacendaria ley-de-desarrollo-economico-sustentable ley-general-de-hacienda,15,main
+2018-08-14,law,decreto-2018-08-13-5621,constitucion-politica,2,main
+2018-08-14,law,decreto-2018-08-13-5621-2,constitucion-politica,2,main
+2018-08-19,law,decreto-2018-08-16-5623,constitucion-politica,3,main
+2018-08-19,law,decreto-2018-08-16-5623-2,constitucion-politica,3,main
+2018-08-20,law,fe-de-erratas-2018-08-20-5624,constitucion-politica,2,main
+2018-08-21,start,ley-2018-08-20-5624,ley-de-proteccion-a-periodistas-y-defensores-de-derechos-hum,56,main
+2018-08-31,start,decreto-2018-08-30-5628,ley-del-notariado,226,main
+2018-08-31,law,decreto-2018-08-30-5628,codigo-familiar ley-de-asistencia-social-y-corresponsabilidad-ciudadana ley-de-cultura-civica ley-de-desarrollo-proteccion-e-integracion-de-las-personas-a ley-de-los-derechos-de-las-ninas-ninos-y-adolescentes ley-estatal-para-la-convivencia-y-seguridad-de-la-comunidad ley-organica-de-la-fiscalia-general,51,main
+2018-09-01,law,decreto-2018-08-31-5629,ley-de-justicia-administrativa ley-de-la-division-territorial ley-organica-del-tribunal-de-justicia-administrativa,53,main
+2018-09-05,law,fe-de-erratas-2018-09-05-5630-segunda-seccion,ley-de-coordinacion-hacendaria ley-de-desarrollo-economico-sustentable ley-general-de-hacienda,25,main
+2018-09-17,law,decreto-2018-09-14-5632,ley-organica-para-el-congreso,19,main
+2018-09-27,law,decreto-2018-09-26-5637,ley-de-desarrollo-economico-sustentable ley-de-salud ley-de-salud-mental ley-estatal-de-agua-potable-morelos ley-organica-del-tribunal-de-justicia-administrativa,69,main
+2019-01-03,law,decreto-2019-01-02-5663,ley-de-desarrollo-economico-sustentable ley-general-de-hacienda,8,main
+2019-02-18,law,decreto-2019-02-18-5677,ley-de-coordinacion-hacendaria,13,main
+2019-03-26,law,decreto-2019-03-25-5689,codigo-fiscal ley-general-de-hacienda,15,main
+2019-03-27,law,fe-de-erratas-2019-03-27-5691,codigo-fiscal ley-general-de-hacienda,5,main
+2019-04-11,law,decreto-2019-04-10-5695-alcance,codigo-penal codigo-procesal-civil codigo-procesal-familiar ley-de-acceso-de-las-mujeres-a-una-vida-libre-de-violencia ley-de-asistencia-social-y-corresponsabilidad-ciudadana ley-de-desarrollo-economico-sustentable ley-de-desarrollo-social ley-de-desarrollo-proteccion-e-integracion-de-las-personas-a ley-de-igualdad-de-derechos-y-oportunidades-entre-mujeres-y ley-de-presupuesto-contabilidad-y-gasto-publico ley-de-victimas ley-estatal-de-apoyo-a-jefas-de-familia ley-estatal-de-responsabilidades-de-los-servidores-publicos,84,main
+2019-05-23,law,decreto-2019-05-22-5707,codigo-familiar ley-de-acceso-de-las-mujeres-a-una-vida-libre-de-violencia ley-de-asistencia-social-y-corresponsabilidad-ciudadana ley-de-cultura-civica ley-de-desarrollo-proteccion-e-integracion-de-las-personas-a ley-de-los-derechos-de-las-ninas-ninos-y-adolescentes ley-de-victimas ley-estatal-para-la-convivencia-y-seguridad-de-la-comunidad ley-organica-de-la-fiscalia-general,49,main
+2019-05-23,law,decreto-2019-05-22-5707-alcance,codigo-penal ley-de-salud,5,main
+2019-05-25,law,decreto-2019-05-22-5707-alcance,ley-organica-para-el-congreso,7,main
+2019-07-11,law,decreto-2019-07-10-5722-segunda-seccion,codigo-penal ley-de-desarrollo-rural-sustentable ley-de-salud,26,main
+2019-07-18,law,decreto-2019-07-17-5726-alcance,ley-de-ordenamiento-territorial-y-desarrollo-urbano-sustenta,8,main
+2019-08-13,law,decreto-2019-08-12-5734,ley-de-desarrollo-rural-sustentable,2,main
+2019-08-22,law,decreto-2019-08-21-5736-alcance,codigo-familiar,68,main
+2019-08-29,law,decreto-2019-08-28-5738-alcance,codigo-penal codigo-procesal-civil codigo-procesal-familiar ley-de-acceso-de-las-mujeres-a-una-vida-libre-de-violencia ley-de-asistencia-social-y-corresponsabilidad-ciudadana ley-de-los-derechos-de-las-ninas-ninos-y-adolescentes ley-de-presupuesto-contabilidad-y-gasto-publico ley-de-salud ley-de-victimas ley-estatal-de-responsabilidades-de-los-servidores-publicos,60,main
+2019-08-29,law,decreto-2019-08-28-5738-alcance-2,codigo-penal ley-de-salud,6,main
+2019-09-05,law,decreto-2019-09-04-5740,ley-de-los-derechos-de-las-ninas-ninos-y-adolescentes,4,main
+2019-09-06,law,fe-de-erratas-2019-09-06-5742,ley-de-los-derechos-de-las-ninas-ninos-y-adolescentes,3,main
+2019-09-12,law,decreto-2019-09-11-5744,ley-de-los-derechos-de-las-ninas-ninos-y-adolescentes,4,main
+2019-09-27,law,decreto-2019-09-26-5747,constitucion-politica ley-del-fondo-morelos-antes-ley-del-instituto-morelense-para,9,main
+2019-09-29,law,decreto-2019-09-26-5747,ley-organica-para-el-congreso,2,main
+2019-11-27,law,fe-de-erratas-2019-11-27-5761,codigo-familiar ley-de-acceso-de-las-mujeres-a-una-vida-libre-de-violencia ley-de-asistencia-social-y-corresponsabilidad-ciudadana ley-de-cultura-civica ley-de-desarrollo-proteccion-e-integracion-de-las-personas-a ley-de-los-derechos-de-las-ninas-ninos-y-adolescentes ley-de-victimas ley-estatal-para-la-convivencia-y-seguridad-de-la-comunidad ley-organica-de-la-fiscalia-general,11,main
+2019-12-25,law,decreto-2019-12-25-5768,ley-organica-municipal,3,main
+2019-12-26,law,decreto-2019-12-25-5768,codigo-de-instituciones-y-procedimientos-electorales ley-de-desarrollo-rural-sustentable,5,main
+2020-01-18,law,decreto-2020-01-17-5773,ley-de-residuos-solidos-y-de-economia-circular-antes-ley-de,14,main
+2020-01-23,law,decreto-2020-01-22-5774,codigo-penal ley-de-acceso-de-las-mujeres-a-una-vida-libre-de-violencia,6,main
+2020-01-23,law,decreto-2020-01-22-5774-2,codigo-penal,6,main
+2020-01-23,law,decreto-2020-01-22-5774-3,codigo-penal,4,main
+2020-01-30,law,decreto-2020-01-29-5777,ley-general-de-hacienda-municipal,8,main
+2020-02-01,law,decreto-2020-01-29-5777,codigo-fiscal ley-de-coordinacion-hacendaria ley-general-de-hacienda,21,main
+2020-02-06,law,decreto-2020-02-05-5780,ley-del-deporte-y-cultura-fisica,15,main
+2020-02-13,law,decreto-2020-02-12-5783,ley-de-desarrollo-social,2,main
+2020-02-15,law,decreto-2020-02-12-5783,ley-organica-para-el-congreso,2,main
+2020-02-29,start,ley-2020-02-26-5786,ley-de-presupuesto-participativo,30,main
+2020-03-11,start,ley-2020-03-11-5793,ley-de-seguridad-privada,73,main
+2020-03-12,law,decreto-2020-03-11-5793,codigo-familiar codigo-penal ley-de-las-personas-adolescentes-y-jovenes-en-el-estado-de-m ley-de-ordenamiento-territorial-y-desarrollo-urbano-sustenta,19,main
+2020-03-12,law,decreto-2020-03-11-5793-2,codigo-penal,3,main
+2020-03-12,law,decreto-2020-03-11-5793-3,codigo-penal,3,main
+2020-03-12,law,decreto-2020-03-11-5793-4,codigo-penal,2,main
+2020-03-14,law,decreto-2020-03-11-5793,ley-organica-para-el-congreso,6,main
+2020-04-25,law,decreto-2020-04-24-5814,codigo-familiar codigo-penal ley-estatal-de-proteccion-civil-de-morelos,10,main
+2020-06-06,law,decreto-2020-06-05-5831,codigo-penal,3,main
+2020-06-11,law,decreto-2020-06-08-5832,codigo-de-instituciones-y-procedimientos-electorales ley-de-acceso-de-las-mujeres-a-una-vida-libre-de-violencia,210,main
+2020-06-11,law,decreto-2020-06-10-5833,constitucion-politica,21,main
+2020-08-08,law,decreto-2020-08-07-5851,codigo-penal ley-de-acceso-de-las-mujeres-a-una-vida-libre-de-violencia,6,main
+2020-08-12,law,decreto-2020-08-12-5853,codigo-penal ley-de-ordenamiento-territorial-y-desarrollo-urbano-sustenta,14,main
+2020-09-12,law,decreto-2020-09-11-5862,ley-de-acceso-de-las-mujeres-a-una-vida-libre-de-violencia ley-de-igualdad-de-derechos-y-oportunidades-entre-mujeres-y ley-organica-municipal,7,main
+2020-09-12,law,decreto-2020-09-11-5862-2,ley-de-acceso-de-las-mujeres-a-una-vida-libre-de-violencia ley-organica-municipal,5,main
+2020-09-12,law,decreto-2020-09-11-5862-3,ley-organica-municipal,4,main
+2020-09-12,law,decreto-2020-09-11-5862-4,ley-organica-municipal,5,main
+2020-09-12,law,decreto-2020-09-11-5862-5,ley-organica-municipal,4,main
+2020-10-25,law,decreto-2020-10-22-5870,ley-organica-para-el-congreso,2,main
+2020-10-25,law,decreto-2020-10-22-5870-2,ley-organica-para-el-congreso,2,main
+2020-11-05,law,decreto-2020-11-04-5875,ley-del-servicio-civil,2,main
+2020-11-19,law,decreto-2020-11-18-5880,codigo-familiar,3,main
+2020-11-26,law,decreto-2020-11-25-5882,codigo-familiar,2,main
+2020-12-17,law,decreto-2020-12-16-5894-segunda-seccion,ley-de-desarrollo-proteccion-e-integracion-de-las-personas-a,3,main
+2020-12-21,law,decreto-2020-10-22-5870,ley-de-salud,2,main
+2020-12-21,law,decreto-2020-10-22-5870-2,ley-de-salud,2,main
+2020-12-21,law,decreto-2020-10-22-5870-3,ley-de-salud,8,main
+2020-12-24,law,decreto-2020-12-23-5896,ley-de-victimas ley-del-servicio-civil,7,main
+2020-12-26,law,decreto-2020-12-23-5896,ley-organica-para-el-congreso,3,main
+2020-12-27,law,decreto-2020-10-28-5871,ley-de-salud,3,main
+2021-01-01,law,decreto-2020-12-31-5899,ley-de-coordinacion-hacendaria ley-general-de-hacienda,39,main
+2021-01-28,law,decreto-2021-01-27-5907,ley-de-la-comision-de-derechos-humanos,50,main
+2021-02-11,law,decreto-2021-02-10-5914,codigo-familiar,3,main
+2021-03-10,start,ley-2021-03-10-5925,ley-de-asociaciones-publico-privadas-para,128,main
+2021-03-18,start,ley-2021-03-17-5926,ley-de-educacion,224,main
+2021-04-01,law,decreto-2021-03-31-5929,codigo-familiar,13,main
+2021-04-15,law,decreto-2021-04-14-5932,codigo-penal,4,main
+2021-04-15,law,decreto-2021-04-14-5932-2,codigo-penal,2,main
+2021-04-15,law,decreto-2021-04-14-5932-3,codigo-penal,2,main
+2021-04-15,law,decreto-2021-04-14-5932-4,codigo-penal,2,main
+2021-04-22,start,ley-2021-04-21-5935,ley-organica-del-tribunal-unitario-de-justicia-penal-para-ad,31,main
+2021-04-22,law,decreto-2021-04-21-5935,codigo-familiar codigo-penal,17,main
+2021-05-27,law,decreto-2021-05-26-5945,ley-de-salud-mental,2,main
+2021-06-03,law,constitucion-2021-06-02-5948,constitucion-politica,7,main
+2021-06-17,law,decreto-2021-06-16-5954,ley-de-salud ley-de-salud-mental,9,main
+2021-06-17,law,decreto-2021-06-16-5954-segunda-seccion,ley-de-las-personas-adolescentes-y-jovenes-en-el-estado-de-m,2,main
+2021-06-17,law,ley-2021-06-16-5954,ley-de-fomento-de-la-cultura-del-cuidado-del-agua-en-el-esta ley-de-innovacion-ciencia-y-tecnologia ley-de-los-derechos-de-las-ninas-ninos-y-adolescentes,28,main
+2021-07-29,law,decreto-2021-07-28-5968,codigo-penal ley-estatal-de-fauna,6,main
+2021-09-10,law,decreto-2021-09-09-5984,ley-organica-del-poder-judicial-morelos,26,main
+2021-09-15,law,decreto-2021-09-14-5986,codigo-familiar,4,main
+2021-10-01,start,ley-2021-09-09-5984,ley-organica-del-centro-de-conciliacion-laboral,25,main
+2021-10-07,law,decreto-2021-10-06-5994,ley-de-desarrollo-forestal-sustentable ley-de-desarrollo-rural-sustentable ley-de-salud ley-organica-del-poder-judicial-morelos ley-organica-municipal,115,main
+2021-10-07,law,decreto-2021-10-06-5994-2,ley-organica-municipal,4,main
+2021-10-09,law,decreto-2021-10-06-5994-3,ley-organica-municipal,7,main
+2021-10-09,law,decreto-2021-10-06-5994,ley-de-los-derechos-de-las-ninas-ninos-y-adolescentes ley-organica-para-el-congreso,5,main
+2021-10-09,law,decreto-2021-10-06-5994-2,ley-organica-para-el-congreso,3,main
+2021-10-21,law,decreto-2021-10-20-5999,ley-de-apoyo-alimentario-para-personas-con-discapacidad-perm,8,main
+2021-12-23,law,decreto-2021-12-22-6025,ley-de-transparencia-y-acceso-a-la-informacion-publica,10,main
+2022-03-10,law,decreto-2022-03-09-6051,codigo-familiar ley-de-educacion,22,main
+2022-03-12,law,decreto-2022-03-09-6051,ley-organica-municipal,5,main
+2022-04-28,law,decreto-2022-04-27-6066,ley-de-acceso-de-las-mujeres-a-una-vida-libre-de-violencia,3,main
+2022-04-28,law,decreto-2022-04-27-6066-2,ley-de-acceso-de-las-mujeres-a-una-vida-libre-de-violencia,2,main
+2022-04-28,law,decreto-2022-04-27-6066-3,ley-de-acceso-de-las-mujeres-a-una-vida-libre-de-violencia,22,main
+2022-06-16,law,decreto-2022-06-15-6083,ley-de-coordinacion-hacendaria,2,main
+2022-07-07,start,ley-2022-07-06-6090,ley-para-la-declaracion-especial-de-ausencia-de-personas-des,37,main
+2022-07-07,law,decreto-2022-07-06-6090,codigo-familiar ley-del-instituto-de-credito-para-los-trabajadores-al-servic ley-del-servicio-civil ley-general-de-hacienda ley-organica-del-poder-judicial-morelos,38,main
+2022-08-25,law,decreto-2022-08-24-6106,ley-de-desarrollo-social ley-de-ordenamiento-territorial-y-desarrollo-urbano-sustenta ley-de-salud ley-del-deporte-y-cultura-fisica,11,main
+2022-08-25,law,decreto-2022-08-24-6106-2,ley-de-salud,5,main
+2022-09-01,law,decreto-2022-08-31-6109,ley-de-residuos-solidos-y-de-economia-circular-antes-ley-de ley-de-salud,9,main
+2022-09-02,start,ley-2022-09-01-6110-extraordinaria,ley-del-equilibrio-ecologico-y-la-proteccion-al-ambiente,245,main
+2022-09-02,law,decreto-2022-09-01-6110-extraordinaria,ley-de-desarrollo-rural-sustentable,5,main
+2022-10-23,law,decreto-2022-10-20-6130-extraordinaria,ley-organica-para-el-congreso,2,main
+2022-12-08,law,decreto-2022-12-07-6147-alcance,ley-organica-municipal,2,main
+2022-12-08,law,decreto-2022-12-07-6147-alcance-2,ley-organica-municipal,4,main
+2022-12-08,law,decreto-2022-12-07-6147-alcance-3,ley-organica-municipal,2,main
+2022-12-08,law,decreto-2022-12-07-6147-alcance-4,ley-organica-municipal,2,main
+2022-12-08,law,decreto-2022-12-07-6147-alcance-5,ley-organica-municipal,2,main
+2022-12-10,law,decreto-2022-12-07-6147,ley-organica-para-el-congreso,3,main
+2023-01-01,law,decreto-2022-11-17-6140-extraordinaria,codigo-fiscal ley-de-coordinacion-hacendaria ley-general-de-hacienda,32,main
+2023-01-12,law,decreto-2023-01-11-6160,ley-de-las-personas-adolescentes-y-jovenes-en-el-estado-de-m,2,main
+2023-01-14,law,decreto-2023-01-11-6160,ley-organica-para-el-congreso,4,main
+2023-01-26,law,decreto-2023-01-25-6164,ley-organica-municipal,5,main
+2023-02-02,law,decreto-2023-02-01-6166,codigo-familiar ley-de-acceso-de-las-mujeres-a-una-vida-libre-de-violencia ley-de-la-defensoria-publica,7,main
+2023-02-02,law,decreto-2023-02-01-6166-segunda-seccion,codigo-penal ley-general-de-hacienda,8,main
+2023-02-02,law,decreto-2023-02-01-6166-segunda-seccion-2,codigo-penal,3,main
+2023-02-02,law,decreto-2023-02-01-6166-segunda-seccion-3,codigo-penal,5,main
+2023-02-04,law,decreto-2023-02-01-6166-segunda-seccion,ley-organica-para-el-congreso,12,main
+2023-02-09,law,decreto-2023-02-08-6168,ley-de-entrega-recepcion-de-la-administracion-publica ley-de-procedimiento-administrativo,5,main
+2023-02-14,start,ley-2023-02-13-6169-extraordinaria,ley-de-agricultura-familiar,20,main
+2023-02-16,law,decreto-2023-02-15-6170,codigo-familiar codigo-penal ley-de-acceso-de-las-mujeres-a-una-vida-libre-de-violencia ley-de-residuos-solidos-y-de-economia-circular-antes-ley-de ley-estatal-de-agua-potable-morelos ley-organica-municipal,32,main
+2023-02-16,law,decreto-2023-02-15-6170-2,codigo-familiar codigo-penal,11,main
+2023-02-16,law,fe-de-erratas-2023-02-15-6170,codigo-penal,2,main
+2023-03-25,law,decreto-2023-03-22-6178-segunda-seccion,ley-organica-para-el-congreso,2,main
+2023-03-29,law,fe-de-erratas-2023-03-29-6180,ley-de-agricultura-familiar,3,main
+2023-03-29,law,fe-de-erratas-2023-03-29-6180-2,ley-de-agricultura-familiar,4,main
+2023-03-30,law,decreto-2023-03-29-6180,ley-de-desarrollo-rural-sustentable,2,main
+2023-05-11,law,decreto-2023-05-10-6194,ley-de-salud,2,main
+2023-05-13,law,decreto-2023-05-10-6194,ley-de-salud-mental,4,main
+2023-06-01,start,ley-2023-05-31-6199,ley-de-fomento-apicola-y-proteccion-del-proceso-de-polinizac,73,main
+2023-06-01,law,decreto-2023-05-31-6199,codigo-civil,2,main
+2023-06-01,law,ley-2023-05-31-6199,ley-de-desarrollo-rural-sustentable,7,main
+2023-06-08,law,decreto-2023-06-07-6200,codigo-de-instituciones-y-procedimientos-electorales ley-de-desarrollo-proteccion-e-integracion-de-las-personas-a ley-organica-municipal,25,main
+2023-06-08,law,decreto-2023-06-07-6200-2,codigo-de-instituciones-y-procedimientos-electorales,25,main
+2023-06-15,law,decreto-2023-06-14-6202-segunda-seccion,ley-de-apoyo-alimentario-para-personas-con-discapacidad-perm ley-organica-municipal,10,main
+2023-06-22,start,ley-2023-06-21-6203,ley-de-espacios-cardioprotegidos,22,main
+2023-06-22,law,decreto-2023-06-21-6203,ley-de-salud,2,main
+2023-06-22,law,decreto-2023-06-21-6203-2,ley-de-salud,9,main
+2023-06-24,law,decreto-2023-06-21-6203,ley-organica-para-el-congreso,21,main
+2023-07-08,law,decreto-2023-07-05-6206,constitucion-politica,3,main
+2023-07-13,start,ley-2023-07-12-6208,ley-de-busqueda-de-personas,138,main
+2023-07-13,law,decreto-2023-07-12-6208,ley-de-deuda-publica ley-organica-del-poder-judicial-morelos,5,main
+2023-07-17,law,decreto-2023-07-14-6209-extraordinaria,ley-organica-del-poder-judicial-morelos,7,main
+2023-07-20,start,ley-2023-07-19-6211,ley-de-amnistia,14,main
+2023-07-20,start,ley-2023-07-19-6211,ley-para-la-conservacion-y-proteccion-del-arbolado-urbano,38,main
+2023-08-03,law,decreto-2023-08-02-6215,codigo-familiar codigo-penal ley-de-acceso-de-las-mujeres-a-una-vida-libre-de-violencia,13,main
+2023-09-15,law,decreto-2023-09-14-6228-extraordinaria,ley-de-desarrollo-rural-sustentable,3,main
+2023-09-28,law,decreto-2023-09-27-6235,ley-de-asistencia-social-y-corresponsabilidad-ciudadana ley-de-las-personas-adolescentes-y-jovenes-en-el-estado-de-m,20,main
+2023-10-19,law,decreto-2023-10-18-6244,ley-del-instituto-de-credito-para-los-trabajadores-al-servic,2,main
+2023-10-26,law,decreto-2023-10-25-6245,codigo-civil codigo-penal ley-de-entrega-recepcion-de-la-administracion-publica ley-del-servicio-civil,11,main
+2023-10-26,law,decreto-2023-10-25-6245-2,codigo-penal ley-del-servicio-civil,5,main
+2023-12-21,law,decreto-2023-12-20-6264,ley-de-cultura-civica ley-de-desarrollo-social ley-estatal-de-fauna ley-general-de-hacienda,165,main
+2023-12-21,law,decreto-2023-12-20-6264-alcance,ley-de-justicia-administrativa ley-organica-del-tribunal-de-justicia-administrativa,16,main
+2023-12-21,law,decreto-2023-12-20-6264-2,ley-estatal-de-fauna,4,main
+2023-12-23,law,decreto-2023-12-20-6264,ley-de-desarrollo-proteccion-e-integracion-de-las-personas-a,3,main
+2024-01-01,law,decreto-2023-06-21-6203-3,ley-de-salud,2,main
+2024-01-01,law,decreto-2023-09-21-6232-extraordinaria,constitucion-politica,2,main
+2024-01-01,law,decreto-2023-12-29-6267-extraordinaria,codigo-fiscal ley-general-de-hacienda,19,main
+2024-01-01,law,decreto-2023-07-05-6206,ley-de-salud,3,main
+2024-01-26,law,decreto-2024-01-25-6274-extraordinaria,ley-organica-de-la-fiscalia-general,11,main
+2024-02-15,start,ley-2024-02-14-6280-alcance,ley-de-cultura-y-derechos-culturales,73,main
+2024-02-15,law,decreto-2024-02-14-6280,ley-del-deporte-y-cultura-fisica,2,main
+2024-02-15,law,decreto-2024-02-14-6280-alcance,ley-estatal-de-fauna,23,main
+2024-02-22,law,decreto-2024-02-21-6282,ley-del-deporte-y-cultura-fisica,2,main
+2024-02-22,law,decreto-2024-02-21-6282-2,ley-del-deporte-y-cultura-fisica,2,main
+2024-02-29,law,decreto-2024-02-28-6285,codigo-familiar codigo-penal ley-de-acceso-de-las-mujeres-a-una-vida-libre-de-violencia ley-de-asistencia-social-y-corresponsabilidad-ciudadana ley-de-igualdad-de-derechos-y-oportunidades-entre-mujeres-y ley-de-responsabilidades-administrativas ley-del-equilibrio-ecologico-y-la-proteccion-al-ambiente ley-organica-municipal,58,main
+2024-02-29,law,decreto-2024-02-28-6285-2,codigo-familiar codigo-penal ley-organica-municipal,9,main
+2024-02-29,law,decreto-2024-02-28-6285-3,codigo-familiar,3,main
+2024-03-02,law,decreto-2024-02-28-6285-3,codigo-penal,14,main
+2024-03-02,law,decreto-2024-02-28-6285-4,codigo-penal,500,main
+2024-03-02,law,decreto-2024-02-28-6285-5,codigo-penal,502,main
+2024-03-02,law,decreto-2024-02-28-6285-6,codigo-penal,3,main
+2024-03-02,law,decreto-2024-02-28-6285-7,codigo-penal,2,main
+2024-03-07,law,decreto-2024-03-06-6288,ley-de-fomento-y-proteccion-pecuaria,2,main
+2024-05-02,law,decreto-2024-05-01-6305,ley-de-cultura-civica,4,main
+2024-05-16,law,decreto-2024-05-15-6309,ley-de-desarrollo-forestal-sustentable ley-de-educacion ley-de-victimas ley-del-deporte-y-cultura-fisica,40,main
+2024-05-16,law,decreto-2024-05-15-6309-2,ley-del-deporte-y-cultura-fisica,2,main
+2024-06-17,law,decreto-2024-06-14-6319-extraordinaria,ley-organica-del-tribunal-de-justicia-administrativa,16,main
+2024-07-17,law,decreto-2024-07-16-6331-extraordinaria,ley-de-educacion,5,main
+2024-07-25,law,decreto-2024-07-24-6334,ley-de-salud ley-de-salud-mental,5,main
+2024-08-01,start,ley-2024-07-31-6335-segunda-seccion,ley-de-proteccion-apoyo-y-promocion-de-la-lactancia-materna,29,main
+2024-08-01,law,decreto-2024-07-31-6335-alcance,ley-organica-municipal,14,main
+2024-08-01,law,decreto-2024-07-31-6335-segunda-seccion,ley-de-jovenes-emprendedores ley-de-obra-publica-y-servicios-relacionados-con-la-misma,11,main
+2024-08-03,law,decreto-2024-07-31-6335-segunda-seccion,ley-de-desarrollo-proteccion-e-integracion-de-las-personas-a ley-de-la-defensoria-publica ley-organica-del-poder-judicial-morelos,7,main
+2024-09-05,start,ley-2024-09-04-6343-tercera-seccion,ley-de-prestacion-de-servicios-de-atencion-cuidado-y-desarro,96,main
+2024-09-05,law,decreto-2024-09-04-6343,codigo-familiar codigo-penal ley-de-la-defensoria-publica ley-de-las-personas-adolescentes-y-jovenes-en-el-estado-de-m,13,main
+2024-09-05,law,decreto-2024-09-04-6343-segunda-seccion,codigo-de-instituciones-y-procedimientos-electorales ley-de-fiscalizacion-y-rendicion-de-cuentas ley-de-los-derechos-de-las-ninas-ninos-y-adolescentes ley-de-salud ley-de-transparencia-y-acceso-a-la-informacion-publica ley-de-victimas ley-del-notariado ley-organica-de-el-colegio-de-morelos ley-organica-del-poder-judicial-morelos,32,main
+2024-09-05,law,decreto-2024-09-04-6343-tercera-seccion,codigo-procesal-civil ley-de-educacion,5,main
+2024-09-05,law,decreto-2024-09-04-6343-2,codigo-penal,3,main
+2024-09-05,law,decreto-2024-09-04-6343-segunda-seccion,codigo-familiar,10,main
+2024-09-05,law,decreto-2024-09-04-6343-segunda-seccion-2,ley-de-los-derechos-de-las-ninas-ninos-y-adolescentes ley-de-salud,17,main
+2024-09-05,law,decreto-2024-09-04-6343-3,codigo-penal,2,main
+2024-09-05,law,decreto-2024-09-04-6343-segunda-seccion-2,codigo-familiar,2,main
+2024-09-05,law,decreto-2024-09-04-6343-segunda-seccion-3,ley-de-los-derechos-de-las-ninas-ninos-y-adolescentes ley-de-salud,10,main
+2024-09-05,law,decreto-2024-09-04-6343-segunda-seccion,codigo-penal,3,main
+2024-09-05,law,decreto-2024-09-04-6343-segunda-seccion-3,codigo-familiar,6,main
+2024-09-05,law,decreto-2024-09-04-6343-segunda-seccion-4,ley-de-los-derechos-de-las-ninas-ninos-y-adolescentes,2,main
+2024-09-05,law,decreto-2024-09-04-6343-segunda-seccion-2,codigo-penal,2,main
+2024-09-05,law,decreto-2024-09-04-6343-tercera-seccion,codigo-familiar ley-de-los-derechos-de-las-ninas-ninos-y-adolescentes,4,main
+2024-09-05,law,decreto-2024-09-04-6343-segunda-seccion-3,codigo-penal,3,main
+2024-09-05,law,decreto-2024-09-04-6343-tercera-seccion-2,codigo-familiar ley-de-los-derechos-de-las-ninas-ninos-y-adolescentes,7,main
+2024-09-05,law,decreto-2024-09-04-6343-segunda-seccion-4,codigo-penal,2,main
+2024-09-05,law,decreto-2024-09-04-6343-tercera-seccion-3,ley-de-los-derechos-de-las-ninas-ninos-y-adolescentes,2,main
+2024-09-05,law,decreto-2024-09-04-6343-segunda-seccion-5,codigo-penal,2,main
+2024-09-05,law,decreto-2024-09-04-6343-tercera-seccion-4,ley-de-los-derechos-de-las-ninas-ninos-y-adolescentes,7,main
+2024-09-19,law,decreto-2024-09-18-6345,codigo-penal ley-de-los-derechos-de-las-ninas-ninos-y-adolescentes,9,main
+2024-09-30,start,ley-2024-09-30-6349-extraordinaria,ley-organica-de-la-administracion-publica,109,main
+2024-09-30,law,decreto-2024-09-30-6349-extraordinaria,ley-de-igualdad-de-derechos-y-oportunidades-entre-mujeres-y ley-de-las-personas-adolescentes-y-jovenes-en-el-estado-de-m,39,main
+2024-10-01,start,ley-2024-07-31-6335-segunda-seccion,ley-de-planeacion,85,main
+2024-10-01,law,decreto-2024-09-30-6349-extraordinaria,ley-de-planeacion,52,main
+2024-10-17,law,decreto-2023-09-19-6230-extraordinaria,ley-organica-para-el-congreso,7,main
+2024-10-17,law,decreto-2023-09-27-6235,ley-organica-para-el-congreso,3,main
+2024-10-17,law,decreto-2024-02-14-6280,ley-organica-para-el-congreso,3,main
+2024-10-17,law,decreto-2024-07-24-6334,ley-organica-para-el-congreso,2,main
+2024-10-17,law,decreto-2024-09-04-6343,ley-organica-para-el-congreso,2,main
+2024-10-17,law,decreto-2024-09-04-6343-segunda-seccion,ley-organica-para-el-congreso,5,main
+2024-10-17,law,decreto-2024-09-04-6343-segunda-seccion-2,ley-organica-para-el-congreso,21,main
+2024-11-09,law,decreto-2024-11-06-6364,ley-organica-para-el-congreso,20,main
+2025-01-01,law,decreto-2024-09-04-6343,ley-de-acceso-de-las-mujeres-a-una-vida-libre-de-violencia ley-estatal-para-la-convivencia-y-seguridad-de-la-comunidad,30,main
+2025-01-01,law,decreto-2024-12-31-6382-extraordinaria,ley-de-coordinacion-hacendaria ley-del-servicio-civil ley-general-de-hacienda,49,main
+2025-01-01,law,decreto-2024-09-04-6343-segunda-seccion,ley-de-acceso-de-las-mujeres-a-una-vida-libre-de-violencia,2,main
+2025-01-01,law,decreto-2024-09-30-6349-extraordinaria,ley-de-acceso-de-las-mujeres-a-una-vida-libre-de-violencia,10,main
+2025-04-10,law,decreto-2025-04-09-6414,codigo-familiar ley-de-desarrollo-rural-sustentable ley-de-fomento-y-proteccion-pecuaria ley-de-los-derechos-de-las-ninas-ninos-y-adolescentes ley-organica-municipal,11,main
+2025-04-10,law,decreto-2025-04-09-6414-2,ley-de-los-derechos-de-las-ninas-ninos-y-adolescentes,4,main
+2025-04-10,law,decreto-2025-04-09-6414-3,ley-de-los-derechos-de-las-ninas-ninos-y-adolescentes,3,main
+2025-05-01,law,decreto-2025-04-30-6421,ley-de-los-derechos-de-las-ninas-ninos-y-adolescentes ley-de-residuos-solidos-y-de-economia-circular-antes-ley-de,12,main
+2025-05-22,law,decreto-2025-05-19-6426-extraordinaria,constitucion-politica,35,main
+2025-05-28,start,ley-2025-05-28-6431-segunda-seccion,ley-para-la-atencion-y-proteccion-de-las-personas-con-la-con,20,main
+2025-05-29,start,,ley-de-voluntad-anticipada-en-materia-de-salud-para-las-pers,35,main
+2025-05-29,law,decreto-2025-05-28-6431,ley-de-salud ley-del-servicio-civil,7,main
+2025-05-29,law,decreto-2025-05-28-6431-2,ley-de-salud,3,main
+2025-05-31,law,decreto-2025-05-28-6431-segunda-seccion,ley-de-los-derechos-de-las-ninas-ninos-y-adolescentes,5,main
+2025-06-26,law,decreto-2025-06-25-6441,codigo-penal ley-organica-del-instituto-de-desarrollo-y-fortalecimiento-m,4,main
+2025-06-26,law,decreto-2025-06-25-6441-segunda-seccion,ley-general-de-bienes,3,main
+2025-06-26,law,decreto-2025-06-25-6441-2,codigo-penal,3,main
+2025-06-26,law,decreto-2025-06-25-6441-3,codigo-penal,7,main
+2025-06-27,law,decreto-2025-05-28-6431-segunda-seccion,ley-de-salud-mental,3,main
+2025-07-03,law,decreto-2025-07-02-6443,codigo-penal ley-de-acceso-de-las-mujeres-a-una-vida-libre-de-violencia,5,main
+2025-07-03,law,decreto-2025-07-02-6443-2,codigo-penal,3,main
+2025-07-10,law,decreto-2025-07-09-6444,codigo-familiar codigo-penal ley-organica-municipal,6,main
+2025-07-10,law,decreto-2025-07-09-6444-2,codigo-familiar codigo-penal ley-organica-municipal,7,main
+2025-07-18,law,decreto-2025-07-17-6448,constitucion-politica codigo-de-instituciones-y-procedimientos-electorales,14,main
+2025-07-18,law,decreto-2025-07-17-6448-2,codigo-de-instituciones-y-procedimientos-electorales,15,main
+2025-08-04,law,decreto-2025-08-01-6453-extraordinaria,constitucion-politica,2,main
+2025-08-21,law,decreto-2025-08-20-6462-alcance,codigo-de-instituciones-y-procedimientos-electorales,2,main
+2025-09-11,law,decreto-2025-09-10-6467-segunda-seccion,codigo-penal,2,main
+2025-09-11,law,decreto-2025-09-10-6467-segunda-seccion-2,codigo-penal,2,main
+2025-09-11,law,decreto-2025-09-10-6467-segunda-seccion-3,codigo-penal,2,main
+2025-09-11,law,decreto-2025-09-10-6467-segunda-seccion-4,codigo-penal,2,main
+2025-09-11,law,decreto-2025-09-10-6467-segunda-seccion-5,codigo-penal,4,main
+2025-09-25,law,decreto-2025-09-24-6470,constitucion-politica ley-de-agricultura-familiar ley-de-amnistia ley-de-apoyo-alimentario-para-personas-con-discapacidad-perm ley-de-beneficios-estimulos-y-recompensas-a-las-personas-vet ley-de-fomento-a-las-actividades-de-las-organizaciones-de-la ley-de-fomento-de-la-cultura-del-cuidado-del-agua-en-el-esta ley-de-nomenclatura-de-los-bienes ley-de-predios-baldios ley-para-la-conservacion-y-proteccion-del-arbolado-urbano,123,main
+2025-09-27,law,decreto-2025-09-24-6470,ley-organica-para-el-congreso,7,main
+2025-10-01,law,decreto-2025-09-30-6473-extraordinaria,codigo-penal,3,main
+2025-10-02,law,decreto-2025-10-01-6474-alcance,ley-de-acceso-de-las-mujeres-a-una-vida-libre-de-violencia ley-de-asistencia-social-y-corresponsabilidad-ciudadana ley-de-espacios-cardioprotegidos ley-estatal-para-la-asuncion-del-gobierno-de-la-funcion-de-s ley-organica-del-instituto-de-desarrollo-y-fortalecimiento-m ley-para-la-administracion-de-bienes-asegurados-de-la-fiscal,112,main
+2025-10-03,law,decreto-2025-10-03-6475-extraordinaria,ley-organica-de-la-administracion-publica,29,main
+2025-10-04,start,ley-2025-10-03-6475-extraordinaria,ley-de-transformacion-digital,200,main
+2025-10-04,law,decreto-2025-10-01-6474-alcance,ley-organica-para-el-congreso,4,main
+2025-10-09,law,decreto-2025-10-08-6476,codigo-penal ley-de-proteccion-y-conservacion-del-maiz-criollo-en-su-esta,25,main
+2025-10-16,law,decreto-2025-10-15-6479,codigo-penal ley-de-acceso-de-las-mujeres-a-una-vida-libre-de-violencia ley-de-igualdad-de-derechos-y-oportunidades-entre-mujeres-y ley-de-los-derechos-de-las-ninas-ninos-y-adolescentes ley-de-transparencia-y-acceso-a-la-informacion-publica ley-del-servicio-civil,23,main
+2025-10-16,law,decreto-2025-10-15-6479-2,codigo-penal,2,main
+2025-10-16,law,decreto-2025-10-15-6479-3,codigo-penal,5,main
+2025-10-29,law,fe-de-erratas-2025-10-29-6484,ley-de-acceso-de-las-mujeres-a-una-vida-libre-de-violencia ley-de-igualdad-de-derechos-y-oportunidades-entre-mujeres-y ley-del-servicio-civil,6,main
+2025-10-30,law,decreto-2025-10-29-6484-alcance,codigo-penal ley-organica-municipal,9,main
+2025-11-01,law,decreto-2025-10-29-6484-alcance,ley-de-educacion,5,main
+2025-11-01,law,decreto-2025-10-29-6484-alcance-2,ley-de-educacion,5,main
+2025-11-01,law,decreto-2025-10-29-6484-alcance-3,ley-de-educacion,2,main
+2025-11-13,start,,ley-de-participacion-ciudadana,248,main
+2025-11-13,law,decreto-2025-11-12-6489,ley-organica-municipal,8,main
+2025-11-13,law,decreto-2025-11-12-6489-segunda-seccion,codigo-de-instituciones-y-procedimientos-electorales,2,main
+2025-11-13,law,decreto-2025-11-12-6489-2,ley-organica-municipal,2,main
+2025-11-15,law,decreto-2025-11-12-6489-segunda-seccion,ley-organica-para-el-congreso,3,main
+2025-11-26,start,ley-2025-11-25-6493-extraordinaria,ley-de-movilidad-transporte-y-seguridad-vial,218,main
+2025-11-26,start,ley-2025-11-25-6493-extraordinaria,ley-de-turismo,102,main
+2025-12-12,law,decreto-2025-12-11-6499-extraordinaria,ley-del-sistema-anticorrupcion,4,main
+2025-12-12,law,decreto-2025-12-11-6499-extraordinaria-2,ley-del-sistema-anticorrupcion,2,main
+2025-12-25,law,decreto-2025-12-24-6507,codigo-de-instituciones-y-procedimientos-electorales ley-de-desarrollo-rural-sustentable ley-de-proteccion-y-conservacion-del-maiz-criollo-en-su-esta ley-estatal-de-agua-potable-morelos,45,main
+2026-01-01,start,ley-2025-12-16-6502-extraordinaria-quinta-seccion,ley-de-ingresos-del-gobierno,9,main
+2026-01-01,start,ley-2025-12-31-6510-alcance,ley-del-sistema-de-seguridad-publica,246,main
+2026-01-01,law,decreto-2025-10-01-6474-alcance,codigo-familiar,4,main
+2026-01-01,law,decreto-2025-10-15-6479,ley-de-residuos-solidos-y-de-economia-circular-antes-ley-de,6,main
+2026-01-01,law,decreto-2025-12-22-6506-extraordinaria,codigo-fiscal ley-de-coordinacion-hacendaria ley-de-presupuesto-contabilidad-y-gasto-publico ley-del-servicio-civil ley-general-de-bienes ley-general-de-hacienda,81,main
+2026-01-01,law,decreto-2025-12-31-6510-alcance,ley-de-busqueda-de-personas,34,main
+2026-01-01,law,decreto-2025-10-15-6479,codigo-familiar,2,main
+2026-01-01,law,decreto-2025-10-15-6479-2,codigo-familiar,2,main
+2026-01-16,law,decreto-2026-01-15-6513-extraordinaria,constitucion-politica,10,main
+2026-01-22,law,decreto-2026-01-21-6515,ley-de-educacion ley-de-los-derechos-de-las-ninas-ninos-y-adolescentes,6,main
+2026-01-24,law,decreto-2026-01-23-6516-extraordinaria,ley-de-los-derechos-de-las-ninas-ninos-y-adolescentes,3,main
+2026-01-28,law,decreto-2026-01-27-6517-extraordinaria,ley-organica-de-la-administracion-publica,16,main
+2026-01-29,law,decreto-2026-01-28-6518-alcance,codigo-penal ley-organica-de-la-administracion-publica,6,main
+2026-01-30,law,decreto-2026-01-27-6517-extraordinaria,constitucion-politica,14,main
+2026-01-30,law,decreto-2026-01-27-6517-extraordinaria-2,constitucion-politica,2,main
+2026-02-06,law,decreto-2026-02-03-6520-extraordinaria,ley-de-victimas ley-general-de-hacienda ley-general-de-hacienda-municipal,10,main
+2026-02-06,law,fe-de-erratas-2026-02-06-6523-extraordinaria,ley-de-victimas ley-general-de-hacienda ley-general-de-hacienda-municipal,6,main
+2026-02-12,law,decreto-2026-02-11-6525,ley-de-los-derechos-de-las-ninas-ninos-y-adolescentes,2,main
+2026-02-19,law,decreto-2026-02-18-6527,ley-de-salud-mental ley-del-servicio-civil,5,main
+2026-02-19,law,decreto-2026-02-18-6527-tercera-seccion,codigo-penal ley-de-entrega-recepcion-de-la-administracion-publica ley-de-salud,13,main
+2026-02-19,law,decreto-2026-02-18-6527-tercera-seccion,ley-de-salud-mental,2,main
+2026-02-19,law,decreto-2026-02-18-6527-tercera-seccion-2,codigo-penal ley-de-entrega-recepcion-de-la-administracion-publica,15,main
+2026-03-03,law,decreto-2026-03-02-6533-extraordinaria,codigo-fiscal ley-de-coordinacion-hacendaria ley-de-presupuesto-contabilidad-y-gasto-publico ley-del-servicio-civil ley-general-de-bienes ley-general-de-hacienda,13,main
+2026-03-10,law,decreto-2026-03-09-6537-extraordinaria,ley-organica-municipal,2,main
+2026-03-10,law,decreto-2026-03-09-6537-extraordinaria-2,ley-organica-municipal,2,main
+2026-03-19,law,decreto-2026-03-18-6540,codigo-familiar codigo-penal,5,main
+2026-03-26,start,ley-2026-03-25-6544-alcance,ley-de-filmaciones,29,main
+2026-03-26,law,decreto-2026-03-25-6544-alcance,ley-organica-de-la-administracion-publica,2,main
+2026-04-24,law,decreto-2026-04-23-6553,ley-de-movilidad-transporte-y-seguridad-vial,2,main
+2026-04-30,law,decreto-2026-04-29-6554,codigo-familiar ley-de-desarrollo-proteccion-e-integracion-de-las-personas-a ley-de-los-derechos-de-las-ninas-ninos-y-adolescentes ley-de-ordenamiento-territorial-y-desarrollo-urbano-sustenta,13,main
+2026-04-30,law,decreto-2026-04-29-6554-2,codigo-familiar,2,main
+2026-05-07,law,decreto-2026-05-06-6556,codigo-familiar,2,main
+2026-05-14,law,decreto-2026-05-13-6558,codigo-civil codigo-familiar codigo-penal ley-de-acceso-de-las-mujeres-a-una-vida-libre-de-violencia ley-de-justicia-administrativa ley-de-los-derechos-de-las-ninas-ninos-y-adolescentes ley-de-ordenamiento-territorial-y-desarrollo-urbano-sustenta,15,main
+2026-05-21,law,decreto-2026-05-20-6560-alcance,ley-de-desarrollo-economico-sustentable,7,main
+2026-05-28,law,decreto-2026-05-27-6562,codigo-familiar codigo-penal ley-de-asistencia-social-y-corresponsabilidad-ciudadana ley-de-educacion ley-de-residuos-solidos-y-de-economia-circular-antes-ley-de ley-organica-municipal,15,main
+2026-05-28,law,decreto-2026-05-27-6562-2,ley-organica-municipal,3,main
+2026-05-28,law,decreto-2026-05-27-6562-alcance,codigo-penal,6,main
+2026-07-02,law,decreto-2026-07-01-6576,ley-de-educacion ley-de-salud ley-organica-municipal,9,main
+2026-07-04,law,decreto-2026-07-01-6576,ley-organica-para-el-congreso,4,main
+2026-07-23,law,decreto-2026-07-22-6582,codigo-familiar codigo-penal ley-de-los-derechos-de-las-ninas-ninos-y-adolescentes,6,main
+2026-09-03,law,decreto-2026-09-02-6598,codigo-penal ley-de-educacion ley-de-salud ley-organica-municipal,8,main
+2026-09-05,law,ley-2026-09-04-6599-extraordinaria,ley-de-filmaciones,1,main
+2026-09-12,law,nota-s-2026-09-09-6601-segunda-seccion,ley-de-filmaciones,1,main
+2026-09-17,law,decreto-2026-09-16-6603,codigo-penal ley-de-la-division-territorial ley-de-salud,12,main
+2026-09-24,law,decreto-2026-09-23-6606-alcance,codigo-penal,2,main
+2026-10-01,law,decreto-2026-09-30-660-sexta-seccion,ley-de-la-comision-de-derechos-humanos,2,main
+2026-10-02,law,decreto-2026-10-01-6610-sexta-seccion,ley-de-proteccion-apoyo-y-promocion-de-la-lactancia-materna,3,main
+2026-10-08,law,decreto-2026-10-07-6611,codigo-familiar codigo-penal ley-de-asistencia-social-y-corresponsabilidad-ciudadana ley-de-contratos-de-colaboracion-publico-privada ley-de-desarrollo-proteccion-e-integracion-de-las-personas-a ley-de-los-derechos-de-las-ninas-ninos-y-adolescentes,24,main
+2026-10-08,law,decreto-2026-10-07-6611-segunda-seccion,ley-de-la-comision-de-derechos-humanos ley-de-salud ley-de-salud-mental ley-del-equilibrio-ecologico-y-la-proteccion-al-ambiente,15,main
+2026-10-08,law,decreto-2026-10-07-6611-2,codigo-familiar codigo-penal ley-de-desarrollo-proteccion-e-integracion-de-las-personas-a ley-de-los-derechos-de-las-ninas-ninos-y-adolescentes,12,main
+2026-10-08,law,decreto-2026-10-07-6611-3,codigo-familiar codigo-penal ley-de-los-derechos-de-las-ninas-ninos-y-adolescentes,12,main
+2026-10-08,law,decreto-2026-10-07-6611-segunda-seccion,codigo-penal,2,main
+2026-10-08,law,decreto-2026-10-07-6611-segunda-seccion-2,codigo-penal,2,main
+2026-10-08,law,decreto-2026-10-07-6611-segunda-seccion-3,codigo-penal,2,main
+2026-10-08,law,decreto-2026-10-07-6611-segunda-seccion-4,codigo-penal,2,main
+2026-10-10,law,decreto-2026-10-07-6611,ley-organica-para-el-congreso,3,main
+2026-10-11,law,decreto-2026-10-08-6612,ley-organica-para-el-congreso,7,main
